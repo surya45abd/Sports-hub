@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "WTT Series",
+  "source": {
+    "url": "https://worldtabletennis.com/",
+    "label": "World Table Tennis Official"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "WTT Grand Smash & WTT Finals champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Wang Chuqin (China Smash / Singapore Smash) / Sun Yingsha (China Smash)",
+      "runnerUp": "Ma Long / Wang Manyu",
+      "score": "4-3 / 4-2",
+      "margin": "Beijing, Singapore; highest tier on professional table tennis tour"
+    },
+    {
+      "year": 2023,
+      "winner": "Fan Zhendong (Singapore Smash) / Sun Yingsha (Singapore Smash)",
+      "runnerUp": "Ma Long / Qian Tianyi",
+      "score": "4-1 / 4-1",
+      "margin": "Singapore; Sun Yingsha completed triple crown (Singles, Doubles, Mixed)"
+    },
+    {
+      "year": 2022,
+      "winner": "Fan Zhendong (Singapore Smash) / Chen Meng (Singapore Smash)",
+      "runnerUp": "Ma Long / Wang Manyu",
+      "score": "4-3 / 4-3",
+      "margin": "Inaugural WTT Grand Smash"
+    }
+  ]
+}

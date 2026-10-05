@@ -1,0 +1,264 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Badminton",
+    "tournament":  "Thomas Cup",
+    "source":  {
+                   "url":  "https://bwfthomasubercups.bwfbadminton.com/",
+                   "label":  "Official BWF Thomas \u0026 Uber Cup page"
+               },
+    "verificationStatus":  "verified",
+    "historyNote":  "Complete list of all 34 completed editions from 1949 through 2026. Scores are the final tie score.",
+    "verificationSources":  [
+                                {
+                                    "url":  "https://en.wikipedia.org/wiki/Thomas_Cup",
+                                    "label":  "Complete edition-by-edition champions, finalists, and scores"
+                                },
+                                {
+                                    "url":  "https://www.badmintonindia.org/application/public/docs/tuc/Results_Thomas_Cup_History.pdf",
+                                    "label":  "Badminton Association of India Thomas Cup results archive"
+                                }
+                            ],
+    "records":  [
+                    {
+                        "year":  1949,
+                        "winner":  "Malaya",
+                        "runnerUp":  "Denmark",
+                        "score":  "8-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1952,
+                        "winner":  "Malaya",
+                        "runnerUp":  "United States",
+                        "score":  "7-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1955,
+                        "winner":  "Malaya",
+                        "runnerUp":  "Denmark",
+                        "score":  "8-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1958,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Malaya",
+                        "score":  "6-3",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1961,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Thailand",
+                        "score":  "6-3",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1964,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Denmark",
+                        "score":  "5-4",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1967,
+                        "winner":  "Malaysia",
+                        "runnerUp":  "Indonesia",
+                        "score":  "6-3",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1970,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Malaysia",
+                        "score":  "7-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1973,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Denmark",
+                        "score":  "8-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1976,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Malaysia",
+                        "score":  "9-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1979,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Denmark",
+                        "score":  "9-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1982,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "5-4",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1984,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "China",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1986,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1988,
+                        "winner":  "China",
+                        "runnerUp":  "Malaysia",
+                        "score":  "4-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1990,
+                        "winner":  "China",
+                        "runnerUp":  "Malaysia",
+                        "score":  "4-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1992,
+                        "winner":  "Malaysia",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1994,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Malaysia",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1996,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Denmark",
+                        "score":  "5-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1998,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Malaysia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2000,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "China",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2002,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "Malaysia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2004,
+                        "winner":  "China",
+                        "runnerUp":  "Denmark",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2006,
+                        "winner":  "China",
+                        "runnerUp":  "Denmark",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2008,
+                        "winner":  "China",
+                        "runnerUp":  "South Korea",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2010,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2012,
+                        "winner":  "China",
+                        "runnerUp":  "South Korea",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2014,
+                        "winner":  "Japan",
+                        "runnerUp":  "Malaysia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2016,
+                        "winner":  "Denmark",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2018,
+                        "winner":  "China",
+                        "runnerUp":  "Japan",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2020,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "China",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2022,
+                        "winner":  "India",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2024,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2026,
+                        "winner":  "China",
+                        "runnerUp":  "France",
+                        "score":  "3-1",
+                        "margin":  ""
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ]
+}

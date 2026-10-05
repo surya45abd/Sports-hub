@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "Ultimate Kho Kho League",
+  "source": {
+    "url": "https://ultimatekhokho.com/",
+    "label": "Ultimate Kho Kho Official League Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Ultimate Kho Kho (UKK) championship finals archive (Season 1 - 2022 and Season 2 - 2024).",
+  "records": [
+    {
+      "year": "2023-24 (Season 2)",
+      "winner": "Gujarat Giants",
+      "runnerUp": "Chennai Quick Guns",
+      "score": "31-26",
+      "margin": "Jawaharlal Nehru Indoor Stadium (Cuttack); captain Pratik Waikar and Suyash Gargate led Gujarat Giants to maiden UKK title"
+    },
+    {
+      "year": "2022 (Season 1)",
+      "winner": "Odisha Juggernauts",
+      "runnerUp": "Telugu Yoddhas",
+      "score": "46-45",
+      "margin": "Shree Shiv Chhatrapati Sports Complex (Pune); Suraj Lande executed breathtaking last-second sky dive to clinch championship by 1 point"
+    }
+  ]
+}

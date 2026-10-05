@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "World Aquatics Open Water Championships",
+  "source": {
+    "url": "https://www.worldaquatics.com/",
+    "label": "World Aquatics Open Water"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Championship 10 km Open Water Marathon Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Kristóf Rasovszky (HUN, 1:48:21) / Sharon van Rouwendaal (NED, 1:57:26)",
+      "runnerUp": "Marc-Antoine Olivier (FRA) / María de Valdés (ESP)",
+      "score": "1:48:21 / 1:57:26",
+      "margin": "Doha, Qatar; Olympic qualifying world championship"
+    },
+    {
+      "year": 2023,
+      "winner": "Florian Wellbrock (GER, 1:50:40) / Leonie Beck (GER, 2:02:34)",
+      "runnerUp": "Kristóf Rasovszky (HUN) / Chelsea Gubecka (AUS)",
+      "score": "1:50:40 / 2:02:34",
+      "margin": "Fukuoka, Japan; German double gold sweep"
+    },
+    {
+      "year": 2022,
+      "winner": "Gregorio Paltrinieri (ITA, 1:50:56) / Sharon van Rouwendaal (NED, 2:02:29)",
+      "runnerUp": "Domenico Acerenza (ITA) / Leonie Beck (GER)",
+      "score": "1:50:56 / 2:02:29",
+      "margin": "Lake Lupa (Budapest)"
+    }
+  ]
+}

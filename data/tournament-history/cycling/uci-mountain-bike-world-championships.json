@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "UCI Mountain Bike World Championships",
+  "source": {
+    "url": "https://www.uci.org/",
+    "label": "UCI Mountain Bike"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Cross-Country Olympic (XCO) and Downhill (DHI) Elite World Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Alan Hatherly (RSA, XCO) / Puck Pieterse (NED, XCO) / Loris Vergier (FRA, DHI)",
+      "runnerUp": "Victor Koretzky (FRA) / Anne Terpstra (NED)",
+      "score": "World Rainbow Jersey",
+      "margin": "Pal Arinsal, Andorra; Hatherly first African male XCO world champion"
+    },
+    {
+      "year": 2023,
+      "winner": "Tom Pidcock (GBR, XCO) / Pauline Ferrand-Prévot (FRA, XCO) / Charlie Hatton (GBR, DHI)",
+      "runnerUp": "Sam Gaze (NZL) / Loana Lecomte (FRA)",
+      "score": "World Rainbow Jersey",
+      "margin": "Glentress Forest, Glasgow"
+    },
+    {
+      "year": 2022,
+      "winner": "Nino Schurter (SUI, XCO) / Pauline Ferrand-Prévot (FRA, XCO) / Loïc Bruni (FRA, DHI)",
+      "runnerUp": "David Valero (ESP) / Jolanda Neff (SUI)",
+      "score": "World Rainbow Jersey",
+      "margin": "Les Gets, France; Schurter captured record 10th elite world title"
+    }
+  ]
+}

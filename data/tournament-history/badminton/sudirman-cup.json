@@ -1,0 +1,159 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Badminton",
+    "tournament":  "Sudirman Cup",
+    "source":  {
+                   "url":  "https://bwfsudirmancup.bwfbadminton.com/",
+                   "label":  "Official Sudirman Cup page"
+               },
+    "verificationStatus":  "verified",
+    "historyNote":  "Complete list of all 19 completed editions from 1989 through 2025. Scores are the final tie score.",
+    "verificationSources":  [
+                                {
+                                    "url":  "https://en.wikipedia.org/wiki/Sudirman_Cup",
+                                    "label":  "Complete edition-by-edition champions, finalists, and scores"
+                                },
+                                {
+                                    "url":  "https://bwfsudirmancup.bwfbadminton.com/news-single/2021/10/04/china-ace-final-test",
+                                    "label":  "Official BWF report: 2021 final"
+                                }
+                            ],
+    "records":  [
+                    {
+                        "year":  1989,
+                        "winner":  "Indonesia",
+                        "runnerUp":  "South Korea",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1991,
+                        "winner":  "South Korea",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1993,
+                        "winner":  "South Korea",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1995,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1997,
+                        "winner":  "China",
+                        "runnerUp":  "South Korea",
+                        "score":  "5-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1999,
+                        "winner":  "China",
+                        "runnerUp":  "Denmark",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2001,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2003,
+                        "winner":  "South Korea",
+                        "runnerUp":  "China",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2005,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2007,
+                        "winner":  "China",
+                        "runnerUp":  "Indonesia",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2009,
+                        "winner":  "China",
+                        "runnerUp":  "South Korea",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2011,
+                        "winner":  "China",
+                        "runnerUp":  "Denmark",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2013,
+                        "winner":  "China",
+                        "runnerUp":  "South Korea",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2015,
+                        "winner":  "China",
+                        "runnerUp":  "Japan",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2017,
+                        "winner":  "South Korea",
+                        "runnerUp":  "China",
+                        "score":  "3-2",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2019,
+                        "winner":  "China",
+                        "runnerUp":  "Japan",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2021,
+                        "winner":  "China",
+                        "runnerUp":  "Japan",
+                        "score":  "3-1",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2023,
+                        "winner":  "China",
+                        "runnerUp":  "South Korea",
+                        "score":  "3-0",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "China",
+                        "runnerUp":  "South Korea",
+                        "score":  "3-1",
+                        "margin":  ""
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ]
+}

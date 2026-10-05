@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "Billie Jean King Cup",
+  "source": {
+    "url": "https://www.billiejeankingcup.com/en/full-list-of-billie-jean-king-cup-champions",
+    "label": "Official Billie Jean King Cup champions archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete champions and runners-up list from the official archive, 1963–2026. The 2020 and 2021 seasons were combined into the 2020/21 edition.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Women's national teams",
+      "archiveUrl": "https://www.billiejeankingcup.com/en/full-list-of-billie-jean-king-cup-champions",
+      "archiveLabel": "Official BJK Cup champions archive",
+      "sourceUrl": "https://www.billiejeankingcup.com/en/news/czechia-v-ukraine-how-the-tie-was-won",
+      "sourceLabel": "2026 final report",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Czechia",
+          "runnerUp": "Ukraine",
+          "score": "2-0 tie",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Italy",
+          "runnerUp": "United States",
+          "score": "2-0 tie",
+          "margin": ""
+        },
+        {
+          "year": 2024,
+          "winner": "Italy",
+          "runnerUp": "Slovakia",
+          "score": "2-0 tie",
+          "margin": ""
+        },
+        {
+          "year": 2023,
+          "winner": "Canada",
+          "runnerUp": "Italy",
+          "score": "2-0 tie",
+          "margin": ""
+        },
+        {
+          "year": 2022,
+          "winner": "Switzerland",
+          "runnerUp": "Australia",
+          "score": "2-0 tie",
+          "margin": ""
+        },
+        {
+          "year": "2020/21",
+          "winner": "Russian Tennis Federation",
+          "runnerUp": "Switzerland",
+          "score": "2-0 tie",
+          "margin": ""
+        },
+        {
+          "year": 2019,
+          "winner": "France",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2018,
+          "winner": "Czech Republic",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2017,
+          "winner": "United States",
+          "runnerUp": "Belarus",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2016,
+          "winner": "Czech Republic",
+          "runnerUp": "France",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2015,
+          "winner": "Czech Republic",
+          "runnerUp": "Russia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2014,
+          "winner": "Czech Republic",
+          "runnerUp": "Germany",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2013,
+          "winner": "Italy",
+          "runnerUp": "Russia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2012,
+          "winner": "Czech Republic",
+          "runnerUp": "Serbia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2011,
+          "winner": "Czech Republic",
+          "runnerUp": "Russia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2010,
+          "winner": "Italy",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2009,
+          "winner": "Italy",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2008,
+          "winner": "Russia",
+          "runnerUp": "Spain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2007,
+          "winner": "Russia",
+          "runnerUp": "Italy",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2006,
+          "winner": "Italy",
+          "runnerUp": "Belgium",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2005,
+          "winner": "Russia",
+          "runnerUp": "France",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2004,
+          "winner": "Russia",
+          "runnerUp": "France",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2003,
+          "winner": "France",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2002,
+          "winner": "Slovakia",
+          "runnerUp": "Spain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2001,
+          "winner": "Belgium",
+          "runnerUp": "Russia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 2000,
+          "winner": "United States",
+          "runnerUp": "Spain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1999,
+          "winner": "United States",
+          "runnerUp": "Russia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1998,
+          "winner": "Spain",
+          "runnerUp": "Switzerland",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1997,
+          "winner": "France",
+          "runnerUp": "Netherlands",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1996,
+          "winner": "United States",
+          "runnerUp": "Spain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1995,
+          "winner": "Spain",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1994,
+          "winner": "Spain",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1993,
+          "winner": "Spain",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Germany",
+          "runnerUp": "Spain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1991,
+          "winner": "Spain",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1990,
+          "winner": "United States",
+          "runnerUp": "Soviet Union",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1989,
+          "winner": "United States",
+          "runnerUp": "Spain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1988,
+          "winner": "Czechoslovakia",
+          "runnerUp": "Soviet Union",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1987,
+          "winner": "West Germany",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1986,
+          "winner": "United States",
+          "runnerUp": "Czechoslovakia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1985,
+          "winner": "Czechoslovakia",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1984,
+          "winner": "Czechoslovakia",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1983,
+          "winner": "Czechoslovakia",
+          "runnerUp": "West Germany",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1982,
+          "winner": "United States",
+          "runnerUp": "West Germany",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1981,
+          "winner": "United States",
+          "runnerUp": "Great Britain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1980,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1979,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1978,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1977,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1976,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1975,
+          "winner": "Czechoslovakia",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1974,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1973,
+          "winner": "Australia",
+          "runnerUp": "South Africa",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1972,
+          "winner": "South Africa",
+          "runnerUp": "Great Britain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1971,
+          "winner": "Australia",
+          "runnerUp": "Great Britain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1970,
+          "winner": "Australia",
+          "runnerUp": "West Germany",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1969,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1968,
+          "winner": "Australia",
+          "runnerUp": "Netherlands",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1967,
+          "winner": "United States",
+          "runnerUp": "Great Britain",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1966,
+          "winner": "United States",
+          "runnerUp": "West Germany",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1965,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1964,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "",
+          "margin": ""
+        },
+        {
+          "year": 1963,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "",
+          "margin": ""
+        }
+      ]
+    }
+  ]
+}

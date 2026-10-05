@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "Olympic Tennis",
+  "source": {
+    "url": "https://olympics.com/en/sports/tennis",
+    "label": "International Olympic Committee (IOC) Official Tennis Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Olympic tennis singles finals archive (1988–2024) for both Men's and Women's competitions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://olympics.com/en/sports/tennis",
+      "sourceUrl": "https://www.itftennis.com/en/tournaments/olympic-tennis-event/",
+      "sourceLabel": "ITF Olympic Tennis Archive",
+      "archiveLabel": "Full Olympic Men's Tennis Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Novak Djokovic (SRB)",
+          "runnerUp": "Carlos Alcaraz (ESP)",
+          "score": "7-6(3), 7-6(2)",
+          "margin": "Roland Garros (Paris); Djokovic completed the Career Golden Slam at age 37"
+        },
+        {
+          "year": 2020,
+          "winner": "Alexander Zverev (GER)",
+          "runnerUp": "Karen Khachanov (ROC)",
+          "score": "6-3, 6-1",
+          "margin": "Ariake Tennis Park (Tokyo); Zverev's maiden Olympic gold medal"
+        },
+        {
+          "year": 2016,
+          "winner": "Andy Murray (GBR)",
+          "runnerUp": "Juan Martín del Potro (ARG)",
+          "score": "7-5, 4-6, 6-2, 7-5",
+          "margin": "Olympic Tennis Centre (Rio); first tennis player to defend Olympic singles gold"
+        },
+        {
+          "year": 2012,
+          "winner": "Andy Murray (GBR)",
+          "runnerUp": "Roger Federer (SUI)",
+          "score": "6-2, 6-1, 6-4",
+          "margin": "All England Club (London); Murray won gold on Centre Court in straight sets"
+        },
+        {
+          "year": 2008,
+          "winner": "Rafael Nadal (ESP)",
+          "runnerUp": "Fernando González (CHI)",
+          "score": "6-3, 7-6(2), 6-3",
+          "margin": "Olympic Green Tennis Center (Beijing); clinched World No. 1 ranking"
+        },
+        {
+          "year": 2004,
+          "winner": "Nicolás Massú (CHI)",
+          "runnerUp": "Mardy Fish (USA)",
+          "score": "6-3, 3-6, 2-6, 6-3, 6-4",
+          "margin": "Athens; Massú won both singles and doubles gold for Chile"
+        },
+        {
+          "year": 2000,
+          "winner": "Yevgeny Kafelnikov (RUS)",
+          "runnerUp": "Tommy Haas (GER)",
+          "score": "7-6(4), 3-6, 6-2, 4-6, 6-3",
+          "margin": "Sydney Olympic Park; epic 5-set final"
+        },
+        {
+          "year": 1996,
+          "winner": "Andre Agassi (USA)",
+          "runnerUp": "Sergi Bruguera (ESP)",
+          "score": "6-2, 6-3, 6-1",
+          "margin": "Stone Mountain (Atlanta); Agassi added Olympic gold to his major titles"
+        },
+        {
+          "year": 1992,
+          "winner": "Marc Rosset (SUI)",
+          "runnerUp": "Jordi Arrese (ESP)",
+          "score": "7-6(2), 6-4, 3-6, 4-6, 8-6",
+          "margin": "Vall d'Hebron (Barcelona); 5h 03m clay-court marathon"
+        },
+        {
+          "year": 1988,
+          "winner": "Miloslav Mečíř (TCH)",
+          "runnerUp": "Tim Mayotte (USA)",
+          "score": "3-6, 6-2, 6-4, 6-2",
+          "margin": "Seoul; first modern Olympic tennis champion after 64-year hiatus"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://olympics.com/en/sports/tennis",
+      "sourceUrl": "https://www.itftennis.com/en/tournaments/olympic-tennis-event/",
+      "sourceLabel": "ITF Olympic Tennis Archive",
+      "archiveLabel": "Full Olympic Women's Tennis Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Zheng Qinwen (CHN)",
+          "runnerUp": "Donna Vekić (CRO)",
+          "score": "6-2, 6-3",
+          "margin": "Roland Garros (Paris); first Asian player to win Olympic singles tennis gold"
+        },
+        {
+          "year": 2020,
+          "winner": "Belinda Bencic (SUI)",
+          "runnerUp": "Markéta Vondroušová (CZE)",
+          "score": "7-5, 2-6, 6-3",
+          "margin": "Ariake Tennis Park (Tokyo); Switzerland's first women's singles gold"
+        },
+        {
+          "year": 2016,
+          "winner": "Monica Puig (PUR)",
+          "runnerUp": "Angelique Kerber (GER)",
+          "score": "6-4, 4-6, 6-1",
+          "margin": "Rio de Janeiro; Puerto Rico's first-ever Olympic gold medalist in any sport"
+        },
+        {
+          "year": 2012,
+          "winner": "Serena Williams (USA)",
+          "runnerUp": "Maria Sharapova (RUS)",
+          "score": "6-0, 6-1",
+          "margin": "All England Club (London); conceded only 1 game to complete Career Golden Slam"
+        },
+        {
+          "year": 2008,
+          "winner": "Elena Dementieva (RUS)",
+          "runnerUp": "Dinara Safina (RUS)",
+          "score": "3-6, 7-5, 6-3",
+          "margin": "Beijing; all-Russian podium sweep (Vera Zvonareva took bronze)"
+        },
+        {
+          "year": 2004,
+          "winner": "Justine Henin (BEL)",
+          "runnerUp": "Amélie Mauresmo (FRA)",
+          "score": "6-3, 6-3",
+          "margin": "Athens; returned from illness to win Belgium's sole gold medal of the Games"
+        },
+        {
+          "year": 2000,
+          "winner": "Venus Williams (USA)",
+          "runnerUp": "Elena Dementieva (RUS)",
+          "score": "6-2, 6-4",
+          "margin": "Sydney; Venus won both singles and doubles gold (with Serena)"
+        },
+        {
+          "year": 1996,
+          "winner": "Lindsay Davenport (USA)",
+          "runnerUp": "Arantxa Sánchez Vicario (ESP)",
+          "score": "7-6(8), 6-2",
+          "margin": "Atlanta; maiden major international singles triumph"
+        },
+        {
+          "year": 1992,
+          "winner": "Jennifer Capriati (USA)",
+          "runnerUp": "Steffi Graf (GER)",
+          "score": "3-6, 6-3, 6-4",
+          "margin": "Barcelona; 16-year-old Capriati upset the defending champion Graf"
+        },
+        {
+          "year": 1988,
+          "winner": "Steffi Graf (FRG)",
+          "runnerUp": "Gabriela Sabatini (ARG)",
+          "score": "6-3, 6-3",
+          "margin": "Seoul; completed the only Calendar-Year Golden Slam in tennis history"
+        }
+      ]
+    }
+  ]
+}

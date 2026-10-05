@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "NCAA Women's Field Hockey",
+  "source": {
+    "url": "https://www.ncaa.com/history/fieldhockey/d1",
+    "label": "NCAA Women's Field Hockey"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "NCAA Women's Division I Championship history.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "North Carolina Tar Heels",
+      "runnerUp": "Northwestern",
+      "score": "2-1",
+      "margin": "11th national championship for UNC"
+    },
+    {
+      "year": 2023,
+      "winner": "North Carolina Tar Heels",
+      "runnerUp": "Northwestern",
+      "score": "1-1 (3-2 SO)",
+      "margin": "10th national title"
+    },
+    {
+      "year": 2022,
+      "winner": "North Carolina Tar Heels",
+      "runnerUp": "Northwestern",
+      "score": "2-1",
+      "margin": "Undefeated national championship"
+    },
+    {
+      "year": 2021,
+      "winner": "Northwestern Wildcats",
+      "runnerUp": "Liberty",
+      "score": "2-0",
+      "margin": "Wildcats maiden crown"
+    }
+  ]
+}

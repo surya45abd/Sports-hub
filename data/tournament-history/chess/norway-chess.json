@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "Norway Chess",
+  "source": {
+    "url": "https://norwaychess.no/en/history/",
+    "label": "Official Norway Chess History & Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Norway Chess tournament archive (2013–2024) in Stavanger.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Hikaru Nakamura",
+      "score": "17½ pts",
+      "margin": "Stavanger; 6th Norway Chess crown after defeating Caruana and Nakamura"
+    },
+    {
+      "year": 2023,
+      "winner": "Hikaru Nakamura",
+      "runnerUp": "Fabiano Caruana",
+      "score": "16½ pts",
+      "margin": "Stavanger; defeated Caruana in final round to leapfrog into first"
+    },
+    {
+      "year": 2022,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Shakhriyar Mamedyarov",
+      "score": "16½ pts",
+      "margin": "4th consecutive Norway Chess title"
+    },
+    {
+      "year": 2021,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Alireza Firouzja",
+      "score": "19½ pts",
+      "margin": "Rallied after slow start to overtake 18-year-old Firouzja"
+    },
+    {
+      "year": 2020,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Alireza Firouzja",
+      "score": "19½ pts",
+      "margin": "First major over-the-board tournament held during COVID pandemic"
+    },
+    {
+      "year": 2019,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Levon Aronian, Yu Yangyi",
+      "score": "13½ pts",
+      "margin": "First year of Armageddon tiebreak for drawn classical games"
+    },
+    {
+      "year": 2018,
+      "winner": "Fabiano Caruana",
+      "runnerUp": "Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand",
+      "score": "5 / 8",
+      "margin": "Preceded Caruana's 2018 World Championship match against Carlsen"
+    },
+    {
+      "year": 2017,
+      "winner": "Levon Aronian",
+      "runnerUp": "Hikaru Nakamura, Vladimir Kramnik",
+      "score": "6 / 9",
+      "margin": "Defeated Carlsen and Kramnik en route to title"
+    },
+    {
+      "year": 2016,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Levon Aronian",
+      "score": "6 / 9",
+      "margin": "Carlsen's maiden Norway Chess title in his home country"
+    },
+    {
+      "year": 2015,
+      "winner": "Veselin Topalov",
+      "runnerUp": "Viswanathan Anand",
+      "score": "6½ / 9",
+      "margin": "Undefeated champion with +4 score"
+    },
+    {
+      "year": 2014,
+      "winner": "Sergey Karjakin",
+      "runnerUp": "Magnus Carlsen",
+      "score": "6 / 9",
+      "margin": "Back-to-back Norway Chess champion"
+    },
+    {
+      "year": 2013,
+      "winner": "Sergey Karjakin",
+      "runnerUp": "Magnus Carlsen, Hikaru Nakamura",
+      "score": "6 / 9",
+      "margin": "Inaugural edition in Stavanger"
+    }
+  ],
+  "sections": []
+}

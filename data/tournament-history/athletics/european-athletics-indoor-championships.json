@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Athletics",
+  "tournament": "European Athletics Indoor Championships",
+  "source": {
+    "url": "https://european-athletics.com/",
+    "label": "European Athletics"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "European Indoor Championship gold medalists.",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "Samuele Ceccarelli (ITA, 60m: 6.48 s) / Karsten Warholm (NOR, 400m: 45.35 s)",
+      "runnerUp": "Marcell Jacobs (ITA) / Julien Watrin (BEL)",
+      "score": "6.48 s / 45.35 s",
+      "margin": "Istanbul, Turkey; Femke Bol won 400m (49.85 s)"
+    },
+    {
+      "year": 2021,
+      "winner": "Marcell Jacobs (ITA, 60m: 6.47 s) / Armand Duplantis (SWE, PV: 6.05 m)",
+      "runnerUp": "Kevin Kranz (GER) / Valentin Lavillenie (FRA)",
+      "score": "6.47 s / 6.05 m",
+      "margin": "Toruń, Poland"
+    }
+  ]
+}

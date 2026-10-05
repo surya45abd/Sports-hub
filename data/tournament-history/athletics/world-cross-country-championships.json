@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Athletics",
+  "tournament": "World Cross Country Championships",
+  "source": {
+    "url": "https://worldathletics.org/",
+    "label": "World Athletics Cross Country"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Cross Country Senior champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Jacob Kiplimo (UGA) / Beatrice Chebet (KEN)",
+      "runnerUp": "Berihu Aregawi (ETH) / Lilian Rengeruk (KEN)",
+      "score": "28:09 (10 km) / 31:05",
+      "margin": "Belgrade, Serbia; Kiplimo & Chebet retained individual world crowns"
+    },
+    {
+      "year": 2023,
+      "winner": "Jacob Kiplimo (UGA) / Beatrice Chebet (KEN)",
+      "runnerUp": "Berihu Aregawi (ETH) / Tsigie Gebreselama (ETH)",
+      "score": "29:17 / 33:48",
+      "margin": "Bathurst, Australia"
+    },
+    {
+      "year": 2019,
+      "winner": "Joshua Cheptegei (UGA) / Hellen Obiri (KEN)",
+      "runnerUp": "Jacob Kiplimo (UGA) / Dera Dida (ETH)",
+      "score": "31:40 / 36:14",
+      "margin": "Aarhus, Denmark"
+    }
+  ]
+}

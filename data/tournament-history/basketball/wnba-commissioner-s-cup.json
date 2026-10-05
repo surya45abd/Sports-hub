@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sport": "Basketball",
+  "tournament": "WNBA Commissioner's Cup",
+  "source": {
+    "url": "https://www.wnba.com/webview/news/commissioners-cup-history-2026",
+    "label": "Official WNBA Commissioner's Cup history"
+  },
+  "verificationSources": [
+    "https://www.wnba.com/news/category/2026-commissioners-cup"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete annual championship-game history since the inaugural 2021 Commissioner's Cup. The WNBA's official history article lists 2021–2025; its 2026 archive confirms the sixth champion and final score.",
+  "records": [
+    { "year": 2026, "winner": "New York Liberty", "runnerUp": "Las Vegas Aces", "score": "93-85", "margin": "" },
+    { "year": 2025, "winner": "Indiana Fever", "runnerUp": "Minnesota Lynx", "score": "74-59", "margin": "" },
+    { "year": 2024, "winner": "Minnesota Lynx", "runnerUp": "New York Liberty", "score": "94-89", "margin": "" },
+    { "year": 2023, "winner": "New York Liberty", "runnerUp": "Las Vegas Aces", "score": "82-63", "margin": "" },
+    { "year": 2022, "winner": "Las Vegas Aces", "runnerUp": "Chicago Sky", "score": "93-83", "margin": "" },
+    { "year": 2021, "winner": "Seattle Storm", "runnerUp": "Connecticut Sun", "score": "79-57", "margin": "" }
+  ],
+  "candidateRecords": []
+}

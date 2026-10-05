@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "Senior National Kho Kho Championship",
+  "source": {
+    "url": "https://khokhofederation.in/news-details?id=1933",
+    "label": "KKFI Senior Nationals Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Championship records across Men's (Eklavya Award) and Women's (Rani Laxmi Bai Award) categories.",
+  "sections": [
+    {
+      "title": "Men's Senior Nationals",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Maharashtra",
+          "runnerUp": "Indian Railways",
+          "score": "32-24",
+          "margin": "56th edition (Bareilly); Ramji Kashyap best attacker"
+        },
+        {
+          "year": 2023,
+          "winner": "Maharashtra",
+          "runnerUp": "Kolhapur",
+          "score": "28-20",
+          "margin": "55th edition (Bhiwandi); Suyash Gargate led Maharashtra"
+        },
+        {
+          "year": 2022,
+          "winner": "Indian Railways",
+          "runnerUp": "Maharashtra",
+          "score": "30-26",
+          "margin": "54th edition (Jabalpur); Railways snapped Maharashtra streak"
+        },
+        {
+          "year": 2021,
+          "winner": "Maharashtra",
+          "runnerUp": "Indian Railways",
+          "score": "25-22",
+          "margin": "53rd edition (Puri, Odisha)"
+        },
+        {
+          "year": 2020,
+          "winner": "Maharashtra",
+          "runnerUp": "Karnataka",
+          "score": "24-18",
+          "margin": "52nd edition (Chhattisgarh)"
+        }
+      ]
+    },
+    {
+      "title": "Women's Senior Nationals",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Maharashtra",
+          "runnerUp": "Airports Authority of India (AAI)",
+          "score": "18-16",
+          "margin": "56th edition; Priyanka Bhopi named best player"
+        },
+        {
+          "year": 2023,
+          "winner": "Maharashtra",
+          "runnerUp": "AAI",
+          "score": "20-14",
+          "margin": "55th edition; Sarika Kale led championship side"
+        },
+        {
+          "year": 2022,
+          "winner": "AAI",
+          "runnerUp": "Maharashtra",
+          "score": "22-18",
+          "margin": "54th edition (Jabalpur)"
+        },
+        {
+          "year": 2021,
+          "winner": "Maharashtra",
+          "runnerUp": "Delhi",
+          "score": "16-12",
+          "margin": "53rd edition (Puri)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sport": "Wrestling",
+  "tournament": "NCAA Wrestling Championships",
+  "source": {
+    "url": "https://www.ncaa.com/history/wrestling/d1",
+    "label": "NCAA Wrestling History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "NCAA Division I National Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Penn State Nittany Lions",
+      "runnerUp": "Cornell",
+      "score": "172.5 - 72.5 pts",
+      "margin": "Kansas City; Cael Sanderson coached PSU to record 100-point win margin; Starocci & Brooks won 4th titles"
+    },
+    {
+      "year": 2023,
+      "winner": "Penn State Nittany Lions",
+      "runnerUp": "Iowa Hawkeyes",
+      "score": "137.5 - 82.5 pts",
+      "margin": "Tulsa, OK; Penn State's 10th national team title under Sanderson"
+    },
+    {
+      "year": 2022,
+      "winner": "Penn State Nittany Lions",
+      "runnerUp": "Michigan Wolverines",
+      "score": "131.5 - 95.0 pts",
+      "margin": "Detroit, MI; 5 individual national champions"
+    },
+    {
+      "year": 2021,
+      "winner": "Iowa Hawkeyes",
+      "runnerUp": "Penn State",
+      "score": "129.0 - 113.5 pts",
+      "margin": "St. Louis, MO; Spencer Lee 3x national champion"
+    }
+  ]
+}

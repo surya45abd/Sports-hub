@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "sport": "Cricket",
+  "tournament": "ICC Champions Trophy",
+  "source": {
+    "url": "https://www.icc-cricket.com/news/icc-champions-trophy-history",
+    "label": "Official ICC Champions Trophy history"
+  },
+  "verificationSources": [
+    "https://www.icc-cricket.com/news/electric-pakistan-marches-to-maiden-title",
+    "https://www.icc-cricket.com/media-releases/rohit-leads-india-to-icc-men-s-champions-trophy-glory"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete archive of all nine editions, 1998–2025. The 2002 final was abandoned on both scheduled days, so India and Sri Lanka are recorded as joint winners with no runner-up.",
+  "records": [
+    { "year": 1998, "winner": "South Africa", "runnerUp": "West Indies", "score": "", "margin": "4 wickets" },
+    { "year": 2000, "winner": "New Zealand", "runnerUp": "India", "score": "", "margin": "4 wickets" },
+    { "year": 2002, "winner": "India & Sri Lanka", "runnerUp": "No runner-up", "score": "Final abandoned on both scheduled days", "margin": "Joint winners" },
+    { "year": 2004, "winner": "West Indies", "runnerUp": "England", "score": "", "margin": "2 wickets" },
+    { "year": 2006, "winner": "Australia", "runnerUp": "West Indies", "score": "", "margin": "8 wickets (D/L method)" },
+    { "year": 2009, "winner": "Australia", "runnerUp": "New Zealand", "score": "", "margin": "6 wickets" },
+    { "year": 2013, "winner": "India", "runnerUp": "England", "score": "129/7 / 124/8", "margin": "5 runs" },
+    { "year": 2017, "winner": "Pakistan", "runnerUp": "India", "score": "338/4 / 158 all out", "margin": "180 runs" },
+    { "year": 2025, "winner": "India", "runnerUp": "New Zealand", "score": "254/6 / 251/7", "margin": "4 wickets" }
+  ],
+  "candidateRecords": []
+}

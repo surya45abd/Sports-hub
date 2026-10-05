@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "Asian Games Table Tennis",
+  "source": {
+    "url": "https://www.hangzhou2022.cn/",
+    "label": "Olympic Council of Asia Official Table Tennis Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Asian Games Table Tennis verified champions archive across Men's Singles and Women's Singles (1998–2023).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Singles",
+      "archiveUrl": "https://olympics.com/en/news/asian-games-table-tennis-winners-list",
+      "sourceUrl": "https://www.ocagames.com/",
+      "sourceLabel": "OCA Table Tennis Results",
+      "archiveLabel": "Asian Games Men's Table Tennis Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Wang Chuqin (CHN)",
+          "runnerUp": "Fan Zhendong (CHN)",
+          "score": "4-3 (10-12, 12-10, 13-11, 7-11, 11-4, 7-11, 11-8)",
+          "margin": "Gongshu Canal Sports Park Gymnasium (Hangzhou); Wang Chuqin completed 4 gold medals at a single Asian Games"
+        },
+        {
+          "year": 2018,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Lin Gaoyuan (CHN)",
+          "score": "4-2 (11-8, 11-5, 15-17, 4-11, 11-8, 11-6)",
+          "margin": "Jakarta International Expo (Jakarta); Fan won his first Asian Games singles gold"
+        },
+        {
+          "year": 2014,
+          "winner": "Xu Xin (CHN)",
+          "runnerUp": "Fan Zhendong (CHN)",
+          "score": "4-2 (11-6, 5-11, 13-11, 11-7, 10-12, 11-8)",
+          "margin": "Suwon Gymnasium (Incheon); penholder Xu Xin defeated 17-year-old prodigy Fan"
+        },
+        {
+          "year": 2010,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Wang Hao (CHN)",
+          "score": "4-1 (9-11, 11-8, 11-7, 11-3, 11-4)",
+          "margin": "Guangzhou Gymnasium; 22-year-old Ma Long won maiden Asian Games singles crown"
+        },
+        {
+          "year": 2006,
+          "winner": "Wang Hao (CHN)",
+          "runnerUp": "Ma Lin (CHN)",
+          "score": "4-1 (11-9, 11-8, 11-8, 11-13, 11-9)",
+          "margin": "Al-Arabi Indoor Hall (Doha); Wang Hao reversed penholder final"
+        },
+        {
+          "year": 2002,
+          "winner": "Wang Hao (CHN)",
+          "runnerUp": "Ryu Seung-min (KOR)",
+          "score": "4-0 (11-5, 11-6, 11-9, 11-9)",
+          "margin": "Dongseo University (Busan); Wang Hao swept future Olympic champion Ryu"
+        },
+        {
+          "year": 1998,
+          "winner": "Kim Taek-soo (KOR)",
+          "runnerUp": "Liu Guoliang (CHN)",
+          "score": "3-2 (22-24, 21-17, 15-21, 21-14, 21-17)",
+          "margin": "Thammasat University (Bangkok); legendary Korean penholder defeated reigning world champion Liu"
+        }
+      ]
+    },
+    {
+      "title": "Women's Singles",
+      "archiveUrl": "https://olympics.com/en/news/asian-games-table-tennis-winners-list",
+      "sourceUrl": "https://www.ocagames.com/",
+      "sourceLabel": "OCA Table Tennis Results",
+      "archiveLabel": "Asian Games Women's Table Tennis Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Sun Yingsha (CHN)",
+          "runnerUp": "Hina Hayata (JPN)",
+          "score": "4-1 (11-5, 11-9, 10-12, 11-8, 11-7)",
+          "margin": "Hangzhou; World No. 1 Sun defeated Japanese ace Hayata to claim Asian Games singles gold"
+        },
+        {
+          "year": 2018,
+          "winner": "Wang Manyu (CHN)",
+          "runnerUp": "Chen Meng (CHN)",
+          "score": "4-3 (11-7, 5-11, 14-16, 7-11, 11-6, 11-8, 11-8)",
+          "margin": "Jakarta; Wang rallied from 1-3 games down to win 7-game classic"
+        },
+        {
+          "year": 2014,
+          "winner": "Liu Shiwen (CHN)",
+          "runnerUp": "Zhu Yuling (CHN)",
+          "score": "4-0 (11-6, 11-4, 13-11, 11-7)",
+          "margin": "Incheon; Liu Shiwen won Asian Games singles title without dropping a game in final"
+        },
+        {
+          "year": 2010,
+          "winner": "Li Xiaoxia (CHN)",
+          "runnerUp": "Guo Yue (CHN)",
+          "score": "4-3 (5-11, 4-11, 11-13, 11-8, 11-6, 12-10, 11-4)",
+          "margin": "Guangzhou; miraculous comeback from 0-3 games down by future Olympic champion Li"
+        },
+        {
+          "year": 2006,
+          "winner": "Guo Yue (CHN)",
+          "runnerUp": "Tie Yana (HKG)",
+          "score": "4-3 (11-3, 10-12, 11-4, 11-13, 11-9, 8-11, 11-2)",
+          "margin": "Doha; 18-year-old Guo Yue won in 7 games"
+        },
+        {
+          "year": 2002,
+          "winner": "Zhang Yining (CHN)",
+          "runnerUp": "Wang Nan (CHN)",
+          "score": "4-3 (11-9, 11-7, 7-11, 9-11, 8-11, 11-8, 14-12)",
+          "margin": "Busan; Zhang defeated legendary Wang Nan in 14-12 final game decider"
+        },
+        {
+          "year": 1998,
+          "winner": "Wang Nan (CHN)",
+          "runnerUp": "Li Ju (CHN)",
+          "score": "3-1 (21-14, 21-17, 19-21, 21-11)",
+          "margin": "Bangkok; Wang Nan claimed gold in all-Chinese final"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "World Aquatics Swimming World Cup",
+  "source": {
+    "url": "https://www.worldaquatics.com/",
+    "label": "World Aquatics World Cup"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Aquatics Swimming World Cup overall series champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Léon Marchand (FRA) / Regan Smith (USA)",
+      "runnerUp": "Noè Ponti (SUI) / Kate Douglass (USA)",
+      "score": "Triple Crown Series Champions",
+      "margin": "Shanghai, Incheon, Singapore; Marchand & Smith dominated short-course legs"
+    },
+    {
+      "year": 2023,
+      "winner": "Qin Haiyang (CHN) / Kaylee McKeown (AUS)",
+      "runnerUp": "Thomas Ceccon (ITA) / Siobhán Haughey (HKG)",
+      "score": "Triple Crown Series Champions",
+      "margin": "Berlin, Athens, Budapest; McKeown broke all three backstroke WRs"
+    },
+    {
+      "year": 2022,
+      "winner": "Dylan Carter (TTO) / Beata Nelson (USA)",
+      "runnerUp": "Nic Fink (USA) / Beryl Gastaldello (FRA)",
+      "score": "Series Champions",
+      "margin": "Berlin, Toronto, Indianapolis"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "sport": "Volleyball",
+  "tournament": "FIVB Club World Championships",
+  "source": {
+    "url": "https://en.volleyballworld.com/volleyball/competitions/club-world-championships/",
+    "label": "Official club world championship site"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "Every completed men's and women's edition through 2025 is listed. The two event histories are combined by calendar year; years without an edition for one gender are marked accordingly.",
+  "verificationSources": [
+    {
+      "url": "https://en.volleyballworld.com/news/previous-winners-club-world-championship-men-2025",
+      "label": "Men's historical winners through 2024"
+    },
+    {
+      "url": "https://en.volleyballworld.com/news/previous-winners-club-world-championship-women-2025",
+      "label": "Women's historical winners through 2024"
+    },
+    {
+      "url": "https://www.cev.eu/articles/features/2025-a-landmark-year-for-european-volleyball/",
+      "label": "2025 men's and women's champions and finalists"
+    }
+  ],
+  "records": [
+    {
+      "year": 1989,
+      "winner": "Men: Maxicono Parma; Women: Not held",
+      "runnerUp": "Men: CSKA Moscow; Women: Not held",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Men: Mediolanum Milan; Women: Not held",
+      "runnerUp": "Men: Banespa São Paulo; Women: Not held",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Men: Il Messaggero Ravenna; Women: Sadia Esporte Club São Paulo",
+      "runnerUp": "Men: EC Banespa São Paulo; Women: Colgate São Caetano",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Men: Misura Mediolanum Milan; Women: Il Messaggero Ravenna",
+      "runnerUp": "Men: Sisley Treviso; Women: Acqua di Fiori Minas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Men: Not held; Women: Leite Moça São Paulo",
+      "runnerUp": "Men: Not held; Women: Parmalat Matera",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Men: Trentino BetClic Trento; Women: Not held",
+      "runnerUp": "Men: PGE Skra Bełchatów; Women: Not held",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Men: Trentino BetClic Trento; Women: Fenerbahçe Istanbul",
+      "runnerUp": "Men: PGE Skra Bełchatów; Women: Sollys Osasco",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Men: Trentino Diatec Trento; Women: Rabita Baku",
+      "runnerUp": "Men: KS Jastrzębski Węgiel; Women: VakıfBank Telekom Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Men: Trentino Diatec Trento; Women: Sollys Nestlé",
+      "runnerUp": "Men: Sada Cruzeiro; Women: Rabita Baku",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Men: Sada Cruzeiro; Women: VakıfBank Istanbul",
+      "runnerUp": "Men: Lokomotiv Novosibirsk; Women: Unilever Vôlei",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Men: Belogorie Belgorod; Women: Dinamo Kazan",
+      "runnerUp": "Men: Al-Rayyan; Women: Molico/Osasco",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Men: Sada Cruzeiro; Women: Eczacıbaşı VitrA Istanbul",
+      "runnerUp": "Men: Zenit Kazan; Women: Dinamo Krasnodar",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Men: Sada Cruzeiro; Women: Eczacıbaşı VitrA Istanbul",
+      "runnerUp": "Men: Zenit Kazan; Women: Pomi Casalmaggiore",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Men: Zenit Kazan; Women: VakıfBank Istanbul",
+      "runnerUp": "Men: Cucine Lube Civitanova; Women: Rexona-Sesc",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Men: Trentino Volley Trento; Women: VakıfBank Istanbul",
+      "runnerUp": "Men: Cucine Lube Civitanova; Women: Minas Tênis Clube",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Men: Cucine Lube Civitanova; Women: Imoco Volley Conegliano",
+      "runnerUp": "Men: Sada Cruzeiro; Women: Eczacıbaşı VitrA Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Men: Sada Cruzeiro; Women: VakıfBank Istanbul",
+      "runnerUp": "Men: Cucine Lube Civitanova; Women: Prosecco Doc Imoco Volley",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Men: Sir Safety Susa Perugia; Women: Prosecco Doc Imoco Conegliano",
+      "runnerUp": "Men: Trentino Itas; Women: VakıfBank Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Men: Sir Sicoma Perugia; Women: Eczacıbaşı Dynavit Istanbul",
+      "runnerUp": "Men: Itambé Minas; Women: VakıfBank Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Men: Sada Cruzeiro; Women: Prosecco Doc Imoco Conegliano",
+      "runnerUp": "Men: Itas Trentino; Women: Tianjin Bohai Bank",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Men: Sir Sicoma Monini Perugia; Women: Savino Del Bene Scandicci",
+      "runnerUp": "Men: Osaka Bluteon; Women: Prosecco Doc Imoco Conegliano",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": []
+}

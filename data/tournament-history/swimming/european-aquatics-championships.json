@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "European Aquatics Championships",
+  "source": {
+    "url": "https://europeanaquatics.org/competitions/european-aquatics-championships/",
+    "label": "European Aquatics Official Championships Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern European Aquatics Championships archive across Men's 100m Freestyle, Women's 100m Freestyle, and overall Medal Table leaders (2014–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's 100m Freestyle",
+      "archiveUrl": "https://europeanaquatics.org/",
+      "sourceUrl": "https://europeanaquatics.org/",
+      "sourceLabel": "European Championships Men's 100m Free Results",
+      "archiveLabel": "Men's 100m Free European Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "David Popovici (ROU)",
+          "runnerUp": "Nándor Németh (HUN)",
+          "score": "46.88 s",
+          "margin": "Sports Centre Milan Gale Muškatirović (Belgrade); Popovici recorded third-fastest time in history"
+        },
+        {
+          "year": 2022,
+          "winner": "David Popovici (ROU)",
+          "runnerUp": "Kristóf Milák (HUN)",
+          "score": "46.86 s (WORLD RECORD)",
+          "margin": "Stadio del Nuoto (Rome); 17-year-old Popovici broke César Cielo's 13-year-old World Record (46.91s)"
+        },
+        {
+          "year": 2021,
+          "winner": "Kliment Kolesnikov (RUS)",
+          "runnerUp": "Alessandro Miressi (ITA)",
+          "score": "47.37 s",
+          "margin": "Duna Aréna (Budapest); Championship Record 47.37s"
+        },
+        {
+          "year": 2018,
+          "winner": "Alessandro Miressi (ITA)",
+          "runnerUp": "Duncan Scott (GBR)",
+          "score": "48.01 s",
+          "margin": "Tollcross International Swimming Centre (Glasgow); Italian surged to gold"
+        },
+        {
+          "year": 2016,
+          "winner": "Luca Dotto (ITA)",
+          "runnerUp": "Sebastiaan Verschuren (NED)",
+          "score": "48.25 s",
+          "margin": "London Aquatics Centre; Dotto claimed European crown"
+        },
+        {
+          "year": 2014,
+          "winner": "Florent Manaudou (FRA)",
+          "runnerUp": "Fabien Gilot (FRA)",
+          "score": "47.98 s",
+          "margin": "Velodrom (Berlin); French 1-2 finish with Olympic 50m champion Manaudou winning 100m"
+        }
+      ]
+    },
+    {
+      "title": "Women's 100m Freestyle",
+      "archiveUrl": "https://europeanaquatics.org/",
+      "sourceUrl": "https://europeanaquatics.org/",
+      "sourceLabel": "European Championships Women's 100m Free Results",
+      "archiveLabel": "Women's 100m Free European Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Barbora Seemanová (CZE)",
+          "runnerUp": "Barbora Janíčková (CZE)",
+          "score": "53.50 s",
+          "margin": "Belgrade; Czech 1-2 finish led by 200m European champion Seemanová"
+        },
+        {
+          "year": 2022,
+          "winner": "Marrit Steenbergen (NED)",
+          "runnerUp": "Charlotte Bonnet (FRA)",
+          "score": "53.24 s",
+          "margin": "Rome; Steenbergen won 7 medals at championships including individual 100m/200m free golds"
+        },
+        {
+          "year": 2021,
+          "winner": "Femke Heemskerk (NED)",
+          "runnerUp": "Marie Wattel (FRA)",
+          "score": "53.05 s",
+          "margin": "Budapest; veteran Dutch star won first individual long-course European gold"
+        },
+        {
+          "year": 2018,
+          "winner": "Sarah Sjöström (SWE)",
+          "runnerUp": "Femke Heemskerk (NED)",
+          "score": "52.93 s",
+          "margin": "Glasgow; World Record holder Sjöström won 4 individual golds in Glasgow"
+        },
+        {
+          "year": 2016,
+          "winner": "Sarah Sjöström (SWE)",
+          "runnerUp": "Ranomi Kromowidjojo (NED)",
+          "score": "52.82 s",
+          "margin": "London Aquatics Centre; Championship Record 52.82s"
+        },
+        {
+          "year": 2014,
+          "winner": "Sarah Sjöström (SWE)",
+          "runnerUp": "Femke Heemskerk (NED)",
+          "score": "52.67 s",
+          "margin": "Berlin; Sjöström set Championship Record"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kabaddi",
+  "tournament": "Yuva Kabaddi Series",
+  "source": {
+    "url": "https://yuvakabaddi.com/",
+    "label": "Yuva Kabaddi Series Official"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Youth professional tournament champions and grand finals.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Murthal Magnets",
+      "runnerUp": "Aravalli Arrows",
+      "score": "41-38",
+      "margin": "Monsoon Edition (Panchkula); Sanskar Mishra MVP"
+    },
+    {
+      "year": 2023,
+      "winner": "Palani Tuskers",
+      "runnerUp": "Hampi Heroes",
+      "score": "37-33",
+      "margin": "Winter Edition (Pondicherry)"
+    },
+    {
+      "year": 2023,
+      "winner": "Aravalli Arrows",
+      "runnerUp": "Kaziranga Rhinos",
+      "score": "35-31",
+      "margin": "Summer Edition (Mysuru)"
+    },
+    {
+      "year": 2022,
+      "winner": "Murthal Magnets",
+      "runnerUp": "Periyar Panthers",
+      "score": "45-36",
+      "margin": "Inaugural Edition (Jaipur)"
+    }
+  ]
+}

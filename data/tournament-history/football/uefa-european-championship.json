@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sport": "Football",
+  "tournament": "UEFA European Championship",
+  "source": {
+    "url": "https://www.uefa.com/uefaeuro/history/news/0259-0e5e039dd8b6-ac24fc62a240-1000--all-the-euro-finals-scores-scorers-line-ups-and-venues/",
+    "label": "UEFA finals archive (1960–2024)"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    { "year": 1960, "winner": "Soviet Union", "runnerUp": "Yugoslavia", "score": "2-1 (after extra time)", "margin": "" },
+    { "year": 1964, "winner": "Spain", "runnerUp": "Soviet Union", "score": "2-1", "margin": "" },
+    { "year": 1968, "winner": "Italy", "runnerUp": "Yugoslavia", "score": "1-1; replay 2-0", "margin": "Italy won the replay" },
+    { "year": 1972, "winner": "West Germany", "runnerUp": "Soviet Union", "score": "3-0", "margin": "" },
+    { "year": 1976, "winner": "Czechoslovakia", "runnerUp": "West Germany", "score": "2-2 (Czechoslovakia won 5-3 on penalties)", "margin": "" },
+    { "year": 1980, "winner": "West Germany", "runnerUp": "Belgium", "score": "2-1", "margin": "" },
+    { "year": 1984, "winner": "France", "runnerUp": "Spain", "score": "2-0", "margin": "" },
+    { "year": 1988, "winner": "Netherlands", "runnerUp": "Soviet Union", "score": "2-0", "margin": "" },
+    { "year": 1992, "winner": "Denmark", "runnerUp": "Germany", "score": "2-0", "margin": "" },
+    { "year": 1996, "winner": "Germany", "runnerUp": "Czech Republic", "score": "2-1 (golden goal)", "margin": "" },
+    { "year": 2000, "winner": "France", "runnerUp": "Italy", "score": "2-1 (golden goal)", "margin": "" },
+    { "year": 2004, "winner": "Greece", "runnerUp": "Portugal", "score": "1-0", "margin": "" },
+    { "year": 2008, "winner": "Spain", "runnerUp": "Germany", "score": "1-0", "margin": "" },
+    { "year": 2012, "winner": "Spain", "runnerUp": "Italy", "score": "4-0", "margin": "" },
+    { "year": 2016, "winner": "Portugal", "runnerUp": "France", "score": "1-0 (after extra time)", "margin": "" },
+    { "year": 2020, "winner": "Italy", "runnerUp": "England", "score": "1-1 (Italy won 3-2 on penalties)", "margin": "" },
+    { "year": 2024, "winner": "Spain", "runnerUp": "England", "score": "2-1", "margin": "" }
+  ],
+  "candidateRecords": [],
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_UEFA_European_Championship_finals",
+      "label": "Complete finals and winners cross-check (1960–2024)"
+    }
+  ],
+  "lastVerified": "2026-10-03",
+  "reviewNotes": [
+    {
+      "year": 1968,
+      "field": "score",
+      "note": "The first final ended 1-1; Italy won the replay 2-0. The edition is recorded once with both scores."
+    },
+    {
+      "year": 2020,
+      "field": "year",
+      "note": "The edition retained its official UEFA EURO 2020 name although it was played in 2021."
+    }
+  ]
+}

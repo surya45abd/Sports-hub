@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "sport": "Formula 1",
+  "tournament": "Formula 3",
+  "source": {
+    "url": "https://www.fiaformula3.com/",
+    "label": "FIA Formula 3 Championship Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern FIA Formula 3 Championship seasons archive (2019–2024), tracking drivers' champions, runners-up, points, and winning teams.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Leonardo Fornaroli (Trident)",
+      "runnerUp": "Gabriele Minì (Prema Racing)",
+      "score": "153 pts - 150 pts",
+      "margin": "+3 pts; thrilling final corner overtake at Monza on Christian Mansell secured title without winning a single feature race"
+    },
+    {
+      "year": 2023,
+      "winner": "Gabriel Bortoleto (Trident)",
+      "runnerUp": "Zak O'Sullivan (Prema Racing)",
+      "score": "164 pts - 119 pts",
+      "margin": "+45 pts; secured championship on Friday during Monza qualifying session; 2 wins, 6 podiums"
+    },
+    {
+      "year": 2022,
+      "winner": "Victor Martins (ART Grand Prix)",
+      "runnerUp": "Zane Maloney (Trident)",
+      "score": "139 pts - 134 pts",
+      "margin": "+5 pts; survived a 5-second penalty in a red-flagged Monza finale to clinch title"
+    },
+    {
+      "year": 2021,
+      "winner": "Dennis Hauger (Prema Racing)",
+      "runnerUp": "Jack Doohan (Trident)",
+      "score": "205 pts - 179 pts",
+      "margin": "+26 pts; Red Bull junior dominated season with 4 wins and 9 podium finishes"
+    },
+    {
+      "year": 2020,
+      "winner": "Oscar Piastri (Prema Racing)",
+      "runnerUp": "Théo Pourchaire (ART Grand Prix)",
+      "score": "164 pts - 161 pts",
+      "margin": "+3 pts; held off Pourchaire and teammate Logan Sargeant in a tense final round at Mugello"
+    },
+    {
+      "year": 2019,
+      "winner": "Robert Shwartzman (Prema Racing)",
+      "runnerUp": "Marcus Armstrong (Prema Racing)",
+      "score": "212 pts - 158 pts",
+      "margin": "+54 pts; crowned inaugural FIA F3 champion on home soil at Sochi Autodrom"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "ITTF Men's and Women's World Cup",
+  "source": {
+    "url": "https://www.ittf.com/",
+    "label": "ITTF World Cup"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "ITTF Single World Cup Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Ma Long (Men) / Sun Yingsha (Women)",
+      "runnerUp": "Lin Gaoyuan / Wang Manyu",
+      "score": "4-3 (9-11, 9-11, 5-11, 11-8, 11-6, 11-4, 11-8) / 4-3",
+      "margin": "Galaxy Arena (Macao); Ma Long staged legendary 0-3 comeback to win 3rd World Cup"
+    },
+    {
+      "year": 2020,
+      "winner": "Fan Zhendong (Men) / Chen Meng (Women)",
+      "runnerUp": "Ma Long / Sun Yingsha",
+      "score": "4-3 / 4-1",
+      "margin": "Weihai, China; Fan's 3rd consecutive World Cup"
+    },
+    {
+      "year": 2019,
+      "winner": "Fan Zhendong (Men) / Liu Shiwen (Women)",
+      "runnerUp": "Tomokazu Harimoto / Zhu Yuling",
+      "score": "4-2 / 4-2",
+      "margin": "Chengdu; Liu Shiwen won record 5th Women's World Cup"
+    }
+  ]
+}

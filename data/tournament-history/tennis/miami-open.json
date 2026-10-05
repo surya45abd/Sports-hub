@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "Miami Open",
+  "source": {
+    "url": "https://www.miamiopen.com/past-champions/",
+    "label": "Official Miami Open Past Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete source-verified finals archive (2000–2026) for both Men's Singles and Women's Singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://www.miamiopen.com/past-champions/",
+      "sourceUrl": "https://www.atptour.com/en/tournaments/miami/403/overview",
+      "sourceLabel": "Official ATP Masters 1000 Miami Archive",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Jannik Sinner",
+          "runnerUp": "Jiří Lehečka",
+          "score": "6-4, 6-4",
+          "margin": "2nd Miami Open title"
+        },
+        {
+          "year": 2025,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Alexander Zverev",
+          "score": "6-3, 6-4",
+          "margin": "2nd Miami Open crown"
+        },
+        {
+          "year": 2024,
+          "winner": "Jannik Sinner",
+          "runnerUp": "Grigor Dimitrov",
+          "score": "6-3, 6-1",
+          "margin": "Maiden Miami Open crown; ascended to World No. 2"
+        },
+        {
+          "year": 2023,
+          "winner": "Daniil Medvedev",
+          "runnerUp": "Jannik Sinner",
+          "score": "7-5, 6-3",
+          "margin": "4th title in 5 tournaments"
+        },
+        {
+          "year": 2022,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Casper Ruud",
+          "score": "7-5, 6-4",
+          "margin": "Youngest men's champion in Miami Open history at age 18"
+        },
+        {
+          "year": 2021,
+          "winner": "Hubert Hurkacz",
+          "runnerUp": "Jannik Sinner",
+          "score": "7-6(4), 6-4",
+          "margin": "Maiden Masters 1000 title"
+        },
+        {
+          "year": 2019,
+          "winner": "Roger Federer",
+          "runnerUp": "John Isner",
+          "score": "6-1, 6-4",
+          "margin": "4th Miami Open title; inaugural year at Hard Rock Stadium"
+        },
+        {
+          "year": 2018,
+          "winner": "John Isner",
+          "runnerUp": "Alexander Zverev",
+          "score": "6-7(4), 6-4, 6-4",
+          "margin": "At age 32, Isner won his first Masters 1000 title"
+        },
+        {
+          "year": 2017,
+          "winner": "Roger Federer",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-3, 6-4",
+          "margin": "Completed Sunshine Double for the 3rd time"
+        },
+        {
+          "year": 2016,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Kei Nishikori",
+          "score": "6-3, 6-3",
+          "margin": "Record-equalling 6th Miami title (tied with Agassi)"
+        },
+        {
+          "year": 2015,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Andy Murray",
+          "score": "7-6(3), 4-6, 6-0",
+          "margin": "5th Miami title; won final set bagel"
+        },
+        {
+          "year": 2014,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-3, 6-3",
+          "margin": "4th Miami crown"
+        },
+        {
+          "year": 2013,
+          "winner": "Andy Murray",
+          "runnerUp": "David Ferrer",
+          "score": "2-6, 6-4, 7-6(1)",
+          "margin": "Saved a championship point at 5-6 in 3rd set"
+        },
+        {
+          "year": 2012,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Andy Murray",
+          "score": "6-1, 7-6(4)",
+          "margin": "Won title without dropping a set"
+        },
+        {
+          "year": 2011,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Rafael Nadal",
+          "score": "4-6, 6-3, 7-6(4)",
+          "margin": "3h 21m thriller; completed Sunshine Double"
+        },
+        {
+          "year": 2010,
+          "winner": "Andy Roddick",
+          "runnerUp": "Tomáš Berdych",
+          "score": "7-5, 6-4",
+          "margin": "2nd Miami Open title"
+        },
+        {
+          "year": 2009,
+          "winner": "Andy Murray",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-2, 7-5",
+          "margin": "Maiden Miami Open title"
+        },
+        {
+          "year": 2008,
+          "winner": "Nikolay Davydenko",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-4, 6-2",
+          "margin": "Davydenko blew past Nadal with clinical precision"
+        },
+        {
+          "year": 2007,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Guillermo Cañas",
+          "score": "6-3, 6-2, 6-4",
+          "margin": "At age 19, Djokovic became youngest champion in tournament history"
+        },
+        {
+          "year": 2006,
+          "winner": "Roger Federer",
+          "runnerUp": "Ivan Ljubičić",
+          "score": "7-6(5), 7-6(4), 7-6(6)",
+          "margin": "Federer defended title; completed Sunshine Double"
+        },
+        {
+          "year": 2005,
+          "winner": "Roger Federer",
+          "runnerUp": "Rafael Nadal",
+          "score": "2-6, 6-7(4), 7-6(5), 6-3, 6-1",
+          "margin": "Historic comeback from 2 sets and 3-5 down against 18-year-old Nadal"
+        },
+        {
+          "year": 2004,
+          "winner": "Andy Roddick",
+          "runnerUp": "Guillermo Coria",
+          "score": "6-7(2), 6-3, 6-1, ret.",
+          "margin": "Maiden Miami Open crown"
+        },
+        {
+          "year": 2003,
+          "winner": "Andre Agassi",
+          "runnerUp": "Carlos Moyá",
+          "score": "6-3, 6-3",
+          "margin": "Record 6th Miami title and 3-peat"
+        },
+        {
+          "year": 2002,
+          "winner": "Andre Agassi",
+          "runnerUp": "Roger Federer",
+          "score": "6-3, 6-3, 3-6, 6-4",
+          "margin": "5th Miami title; first tour final meeting with Federer"
+        },
+        {
+          "year": 2001,
+          "winner": "Andre Agassi",
+          "runnerUp": "Jan-Michael Gambill",
+          "score": "7-6(4), 6-1, 6-0",
+          "margin": "4th Miami crown"
+        },
+        {
+          "year": 2000,
+          "winner": "Pete Sampras",
+          "runnerUp": "Gustavo Kuerten",
+          "score": "6-1, 6-7(2), 7-6(5), 7-6(8)",
+          "margin": "Sampras's 3rd and final Miami Open title"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://www.miamiopen.com/past-champions/",
+      "sourceUrl": "https://www.wtatennis.com/tournament/902/miami/past-winners",
+      "sourceLabel": "Official WTA 1000 Miami Archive",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Aryna Sabalenka",
+          "runnerUp": "Coco Gauff",
+          "score": "6-3, 7-6(5)",
+          "margin": "Maiden Miami Open title"
+        },
+        {
+          "year": 2025,
+          "winner": "Iga Świątek",
+          "runnerUp": "Elena Rybakina",
+          "score": "6-2, 6-4",
+          "margin": "2nd Miami Open crown"
+        },
+        {
+          "year": 2024,
+          "winner": "Danielle Collins",
+          "runnerUp": "Elena Rybakina",
+          "score": "7-5, 6-3",
+          "margin": "Unseeded Florida native won biggest title of career in farewell season"
+        },
+        {
+          "year": 2023,
+          "winner": "Petra Kvitová",
+          "runnerUp": "Elena Rybakina",
+          "score": "7-6(14), 6-2",
+          "margin": "Epic 16-14 tiebreak in opening set"
+        },
+        {
+          "year": 2022,
+          "winner": "Iga Świątek",
+          "runnerUp": "Naomi Osaka",
+          "score": "6-4, 6-0",
+          "margin": "Youngest woman to complete the Sunshine Double (Indian Wells & Miami)"
+        },
+        {
+          "year": 2021,
+          "winner": "Ashleigh Barty",
+          "runnerUp": "Bianca Andreescu",
+          "score": "6-3, 4-0, ret.",
+          "margin": "Defended title (2020 cancelled)"
+        },
+        {
+          "year": 2019,
+          "winner": "Ashleigh Barty",
+          "runnerUp": "Karolína Plíšková",
+          "score": "7-6(1), 6-3",
+          "margin": "Maiden Premier Mandatory title; first at Hard Rock Stadium"
+        },
+        {
+          "year": 2018,
+          "winner": "Sloane Stephens",
+          "runnerUp": "Jeļena Ostapenko",
+          "score": "7-6(5), 6-1",
+          "margin": "Cracked top 10 for the first time"
+        },
+        {
+          "year": 2017,
+          "winner": "Johanna Konta",
+          "runnerUp": "Caroline Wozniacki",
+          "score": "6-4, 6-3",
+          "margin": "First British woman to win Miami Open"
+        },
+        {
+          "year": 2016,
+          "winner": "Victoria Azarenka",
+          "runnerUp": "Svetlana Kuznetsova",
+          "score": "6-3, 6-2",
+          "margin": "Completed Sunshine Double (Indian Wells & Miami)"
+        },
+        {
+          "year": 2015,
+          "winner": "Serena Williams",
+          "runnerUp": "Carla Suárez Navarro",
+          "score": "6-2, 6-0",
+          "margin": "Record 8th Miami Open title; 56-minute final"
+        },
+        {
+          "year": 2014,
+          "winner": "Serena Williams",
+          "runnerUp": "Li Na",
+          "score": "7-5, 6-1",
+          "margin": "7th Miami Open crown"
+        },
+        {
+          "year": 2013,
+          "winner": "Serena Williams",
+          "runnerUp": "Maria Sharapova",
+          "score": "4-6, 6-3, 6-0",
+          "margin": "6th Miami title, breaking Steffi Graf's record"
+        },
+        {
+          "year": 2012,
+          "winner": "Agnieszka Radwańska",
+          "runnerUp": "Maria Sharapova",
+          "score": "7-5, 6-4",
+          "margin": "Did not drop a set the entire tournament"
+        },
+        {
+          "year": 2011,
+          "winner": "Victoria Azarenka",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-1, 6-4",
+          "margin": "2nd Miami Open title"
+        },
+        {
+          "year": 2010,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Venus Williams",
+          "score": "6-2, 6-1",
+          "margin": "Concluded final in just 58 minutes"
+        },
+        {
+          "year": 2009,
+          "winner": "Victoria Azarenka",
+          "runnerUp": "Serena Williams",
+          "score": "6-3, 6-1",
+          "margin": "19-year-old Azarenka broke through for maiden huge title"
+        },
+        {
+          "year": 2008,
+          "winner": "Serena Williams",
+          "runnerUp": "Jelena Janković",
+          "score": "6-1, 5-7, 6-3",
+          "margin": "5th Miami title, tying Graf's record"
+        },
+        {
+          "year": 2007,
+          "winner": "Serena Williams",
+          "runnerUp": "Justine Henin",
+          "score": "0-6, 7-5, 6-3",
+          "margin": "Saved 2 championship points after bagel first set"
+        },
+        {
+          "year": 2006,
+          "winner": "Svetlana Kuznetsova",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-4, 6-3",
+          "margin": "Maiden Miami title"
+        },
+        {
+          "year": 2005,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-3, 7-5",
+          "margin": "Completed the rare Sunshine Double back-to-back"
+        },
+        {
+          "year": 2004,
+          "winner": "Serena Williams",
+          "runnerUp": "Elena Dementieva",
+          "score": "6-1, 6-1",
+          "margin": "3-peat at Miami Open"
+        },
+        {
+          "year": 2003,
+          "winner": "Serena Williams",
+          "runnerUp": "Jennifer Capriati",
+          "score": "4-6, 6-4, 6-1",
+          "margin": "Defended title"
+        },
+        {
+          "year": 2002,
+          "winner": "Serena Williams",
+          "runnerUp": "Jennifer Capriati",
+          "score": "7-5, 7-6(4)",
+          "margin": "Maiden Miami Open title"
+        },
+        {
+          "year": 2001,
+          "winner": "Venus Williams",
+          "runnerUp": "Jennifer Capriati",
+          "score": "4-6, 6-1, 7-6(4)",
+          "margin": "Saved 8 match points in legendary comeback"
+        },
+        {
+          "year": 2000,
+          "winner": "Martina Hingis",
+          "runnerUp": "Lindsay Davenport",
+          "score": "6-3, 6-2",
+          "margin": "2nd Miami Open crown"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "sport": "Basketball",
+  "tournament": "FIBA Basketball World Cup",
+  "source": {
+    "url": "https://www.fiba.basketball/en/history/201-fiba-basketball-world-cup",
+    "label": "Official FIBA World Cup editions and medalists"
+  },
+  "verificationSources": [
+    "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027/all-time-medalists"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete men's FIBA World Cup edition list from 1950 through 2023. No tournament was held in 1958, 1962, 1971, or 1975; the event later moved to a four-year cycle. Country names are expanded from FIBA's official medalist table abbreviations.",
+  "records": [
+    { "year": 2023, "winner": "Germany", "runnerUp": "Serbia", "score": "83-77", "margin": "" },
+    { "year": 2019, "winner": "Spain", "runnerUp": "Argentina", "score": "95-75", "margin": "" },
+    { "year": 2014, "winner": "United States", "runnerUp": "Serbia", "score": "129-92", "margin": "" },
+    { "year": 2010, "winner": "United States", "runnerUp": "Turkey", "score": "81-64", "margin": "" },
+    { "year": 2006, "winner": "Spain", "runnerUp": "Greece", "score": "70-47", "margin": "" },
+    { "year": 2002, "winner": "Yugoslavia", "runnerUp": "Argentina", "score": "84-77 (after overtime)", "margin": "" },
+    { "year": 1998, "winner": "Yugoslavia", "runnerUp": "Russia", "score": "64-62", "margin": "" },
+    { "year": 1994, "winner": "United States", "runnerUp": "Russia", "score": "137-91", "margin": "" },
+    { "year": 1990, "winner": "Yugoslavia", "runnerUp": "Soviet Union", "score": "92-75", "margin": "" },
+    { "year": 1986, "winner": "United States", "runnerUp": "Soviet Union", "score": "87-85", "margin": "" },
+    { "year": 1982, "winner": "Soviet Union", "runnerUp": "United States", "score": "95-94", "margin": "" },
+    { "year": 1978, "winner": "Yugoslavia", "runnerUp": "Soviet Union", "score": "82-81", "margin": "" },
+    { "year": 1974, "winner": "Soviet Union", "runnerUp": "Yugoslavia", "score": "82-81", "margin": "" },
+    { "year": 1970, "winner": "Yugoslavia", "runnerUp": "Brazil", "score": "Final-round standings", "margin": "" },
+    { "year": 1967, "winner": "Soviet Union", "runnerUp": "Yugoslavia", "score": "Final-round standings", "margin": "" },
+    { "year": 1963, "winner": "Brazil", "runnerUp": "Yugoslavia", "score": "Final-round standings", "margin": "" },
+    { "year": 1959, "winner": "Brazil", "runnerUp": "United States", "score": "Final-round standings", "margin": "" },
+    { "year": 1954, "winner": "United States", "runnerUp": "Brazil", "score": "Final-round standings", "margin": "" },
+    { "year": 1950, "winner": "Argentina", "runnerUp": "United States", "score": "64-50", "margin": "" }
+  ],
+  "candidateRecords": []
+}

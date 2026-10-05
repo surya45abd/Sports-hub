@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "FIH Indoor Hockey World Cup",
+  "source": {
+    "url": "https://www.fih.hockey/events/indoor-world-cup",
+    "label": "FIH Indoor World Cup"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "All Men's and Women's FIH Indoor Hockey World Cup champions.",
+  "sections": [
+    {
+      "title": "Men's Indoor World Cup",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Austria",
+          "runnerUp": "Netherlands",
+          "score": "4-4 (3-2 shoot-out)",
+          "margin": "Pretoria, South Africa; Michael Körper scored crucial shootout"
+        },
+        {
+          "year": 2018,
+          "winner": "Austria",
+          "runnerUp": "Germany",
+          "score": "3-3 (3-2 shoot-out)",
+          "margin": "Berlin, Germany; Austria's maiden indoor world title"
+        },
+        {
+          "year": 2015,
+          "winner": "Netherlands",
+          "runnerUp": "Austria",
+          "score": "3-2",
+          "margin": "Leipzig, Germany"
+        },
+        {
+          "year": 2011,
+          "winner": "Germany",
+          "runnerUp": "Poland",
+          "score": "3-2",
+          "margin": "Poznań, Poland"
+        },
+        {
+          "year": 2007,
+          "winner": "Germany",
+          "runnerUp": "Poland",
+          "score": "4-1",
+          "margin": "Vienna, Austria"
+        },
+        {
+          "year": 2003,
+          "winner": "Germany",
+          "runnerUp": "Poland",
+          "score": "7-1",
+          "margin": "Inaugural Indoor World Cup (Leipzig)"
+        }
+      ]
+    },
+    {
+      "title": "Women's Indoor World Cup",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Netherlands",
+          "runnerUp": "Austria",
+          "score": "7-0",
+          "margin": "Pretoria, South Africa; Dutch women swept tournament"
+        },
+        {
+          "year": 2018,
+          "winner": "Germany",
+          "runnerUp": "Netherlands",
+          "score": "2-1",
+          "margin": "Berlin, Germany"
+        },
+        {
+          "year": 2015,
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "1-1 (1-0 shoot-out)",
+          "margin": "Leipzig, Germany"
+        },
+        {
+          "year": 2011,
+          "winner": "Germany",
+          "runnerUp": "Netherlands",
+          "score": "4-2",
+          "margin": "Poznań, Poland"
+        },
+        {
+          "year": 2007,
+          "winner": "Netherlands",
+          "runnerUp": "Spain",
+          "score": "4-2",
+          "margin": "Vienna, Austria"
+        },
+        {
+          "year": 2003,
+          "winner": "Germany",
+          "runnerUp": "Netherlands",
+          "score": "5-2",
+          "margin": "Leipzig, Germany"
+        }
+      ]
+    }
+  ]
+}

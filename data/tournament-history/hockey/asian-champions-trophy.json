@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "Asian Champions Trophy",
+  "source": {
+    "url": "https://asiahockey.org/events/hero-asian-champions-trophy/",
+    "label": "Asian Hockey Federation (AHF) Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Asian Champions Trophy archive across Men's (2011–2024) and Women's (2010–2024) tournaments.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Asian Champions Trophy",
+      "archiveUrl": "https://asiahockey.org/",
+      "sourceUrl": "https://asiahockey.org/",
+      "sourceLabel": "AHF Men's Champions Trophy Archive",
+      "archiveLabel": "Men's Champions Trophy Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "India",
+          "runnerUp": "China",
+          "score": "1-0",
+          "margin": "Moqi Hockey Training Base, Hulunbuir (China); Jugraj Singh 51st-minute field goal; India won record 5th title"
+        },
+        {
+          "year": 2023,
+          "winner": "India",
+          "runnerUp": "Malaysia",
+          "score": "4-3",
+          "margin": "Mayor Radhakrishnan Stadium (Chennai); India fought back from 1-3 down at half-time; Akashdeep Singh scored 56th-minute winner"
+        },
+        {
+          "year": 2021,
+          "winner": "South Korea",
+          "runnerUp": "Japan",
+          "score": "3-3 (4-2 shoot-out)",
+          "margin": "Moulana Bhasani National Hockey Stadium (Dhaka); Jang Jong-hyun scored hat-trick including 60th-minute equalizer"
+        },
+        {
+          "year": 2018,
+          "winner": "India & Pakistan (Joint Champions)",
+          "runnerUp": "Declared joint winners",
+          "score": "Abandoned (Rain)",
+          "margin": "Sultan Qaboos Sports Complex (Muscat, Oman); torrential thunderstorms forced cancellation of final"
+        },
+        {
+          "year": 2016,
+          "winner": "India",
+          "runnerUp": "Pakistan",
+          "score": "3-2",
+          "margin": "Wisma Belia Hockey Stadium (Kuantan, Malaysia); Nikkin Thimmaiah scored 51st-minute winner in high-voltage final"
+        },
+        {
+          "year": 2013,
+          "winner": "Pakistan",
+          "runnerUp": "Japan",
+          "score": "3-1",
+          "margin": "Kakamigahara (Japan); Pakistan defended their title with Muhammad Rizwan Sr. starring"
+        },
+        {
+          "year": 2012,
+          "winner": "Pakistan",
+          "runnerUp": "India",
+          "score": "5-4",
+          "margin": "Al-Rayyan Hockey Stadium (Doha, Qatar); 9-goal thriller won by Pakistan"
+        },
+        {
+          "year": 2011,
+          "winner": "India",
+          "runnerUp": "Pakistan",
+          "score": "0-0 (4-2 shoot-out)",
+          "margin": "Ordos Hockey Stadium (Ordos, China); PR Sreejesh produced heroics in shoot-out to win inaugural tournament"
+        }
+      ]
+    },
+    {
+      "title": "Women's Asian Champions Trophy",
+      "archiveUrl": "https://asiahockey.org/",
+      "sourceUrl": "https://asiahockey.org/",
+      "sourceLabel": "AHF Women's Champions Trophy Archive",
+      "archiveLabel": "Women's Champions Trophy Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "India",
+          "runnerUp": "China",
+          "score": "1-0",
+          "margin": "Rajgir Sports Complex (Bihar, India); Deepika Sehrawat scored 31st-minute reverse hit; India defended home title"
+        },
+        {
+          "year": 2023,
+          "winner": "India",
+          "runnerUp": "Japan",
+          "score": "4-0",
+          "margin": "Marang Gomke Jaipal Singh Astroturf Hockey Stadium (Ranchi); Sangeeta, Neha, Lalremsiami and Vandana scored"
+        },
+        {
+          "year": 2021,
+          "winner": "Japan",
+          "runnerUp": "South Korea",
+          "score": "2-1",
+          "margin": "Donghae City Sunrise Stadium (South Korea); Japan won second title in 3-goal clash"
+        },
+        {
+          "year": 2018,
+          "winner": "South Korea",
+          "runnerUp": "India",
+          "score": "1-0",
+          "margin": "Donghae City; Lee Young-sil scored decisive goal"
+        },
+        {
+          "year": 2016,
+          "winner": "India",
+          "runnerUp": "China",
+          "score": "2-1",
+          "margin": "Sengkang Hockey Stadium (Singapore); Deepika Thakur scored dramatic winner with 20 seconds remaining"
+        },
+        {
+          "year": 2013,
+          "winner": "Japan",
+          "runnerUp": "India",
+          "score": "1-0",
+          "margin": "Kakamigahara (Japan); host nation edged India by one goal"
+        },
+        {
+          "year": 2011,
+          "winner": "South Korea",
+          "runnerUp": "China",
+          "score": "5-3",
+          "margin": "Ordos Hockey Stadium (China); South Korea won high-scoring encounter"
+        },
+        {
+          "year": 2010,
+          "winner": "South Korea",
+          "runnerUp": "Japan",
+          "score": "2-1",
+          "margin": "Busan (South Korea); inaugural women's Asian Champions Trophy"
+        }
+      ]
+    }
+  ]
+}

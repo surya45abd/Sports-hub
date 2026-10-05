@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "Paris-Roubaix",
+  "source": {
+    "url": "https://www.paris-roubaix.fr/en/history",
+    "label": "A.S.O. Official Paris-Roubaix Hell of the North History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Paris-Roubaix Monument archive (2000–2024) into the Roubaix Velodrome.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Mathieu van der Poel (NED)",
+      "runnerUp": "Jasper Philipsen (BEL)",
+      "score": "5h 25' 58\"",
+      "margin": "+3' 00\"; record fastest edition in history (47.8 km/h); 60km solo attack in rainbow jersey"
+    },
+    {
+      "year": 2023,
+      "winner": "Mathieu van der Poel (NED)",
+      "runnerUp": "Jasper Philipsen (BEL)",
+      "score": "5h 28' 41\"",
+      "margin": "+46\"; Alpecin-Deceuninck 1-2 after Wout van Aert punctured on Carrefour de l'Arbre"
+    },
+    {
+      "year": 2022,
+      "winner": "Dylan van Baarle (NED)",
+      "runnerUp": "Wout van Aert (BEL)",
+      "score": "5h 37' 00\"",
+      "margin": "+1' 47\"; 19km solo ride into Roubaix Velodrome for Ineos Grenadiers"
+    },
+    {
+      "year": 2021,
+      "winner": "Sonny Colbrelli (ITA)",
+      "runnerUp": "Florian Vermeersch (BEL)",
+      "score": "6h 01' 57\"",
+      "margin": "Velodrome sprint; mud-drenched October epic; first Italian winner since Andrea Tafi 1999"
+    },
+    {
+      "year": 2019,
+      "winner": "Philippe Gilbert (BEL)",
+      "runnerUp": "Nils Politt (GER)",
+      "score": "5h 58' 02\"",
+      "margin": "Velodrome sprint; 4th distinct Monument title in Gilbert's legendary career"
+    },
+    {
+      "year": 2018,
+      "winner": "Peter Sagan (SVK)",
+      "runnerUp": "Silvan Dillier (SUI)",
+      "score": "5h 54' 06\"",
+      "margin": "Velodrome sprint; 54km attack from distance in world champion rainbow jersey"
+    },
+    {
+      "year": 2017,
+      "winner": "Greg Van Avermaet (BEL)",
+      "runnerUp": "Zdeněk Štybar (CZE)",
+      "score": "5h 41' 07\"",
+      "margin": "Velodrome sprint; Olympic champion claimed maiden Monument victory"
+    },
+    {
+      "year": 2016,
+      "winner": "Mathew Hayman (AUS)",
+      "runnerUp": "Tom Boonen (BEL)",
+      "score": "5h 51' 53\"",
+      "margin": "Velodrome sprint; 37-year-old broke arm 6 weeks earlier, denied Boonen record 5th title"
+    },
+    {
+      "year": 2015,
+      "winner": "John Degenkolb (GER)",
+      "runnerUp": "Zdeněk Štybar (CZE)",
+      "score": "5h 49' 18\"",
+      "margin": "Velodrome sprint; completed Milan-San Remo and Paris-Roubaix double in same year"
+    },
+    {
+      "year": 2014,
+      "winner": "Niki Terpstra (NED)",
+      "runnerUp": "John Degenkolb (GER)",
+      "score": "6h 09' 01\"",
+      "margin": "+20\"; tactical attack out of elite group at 6km to go"
+    },
+    {
+      "year": 2013,
+      "winner": "Fabian Cancellara (SUI)",
+      "runnerUp": "Sep Vanmarcke (BEL)",
+      "score": "5h 46' 13\"",
+      "margin": "Velodrome sprint; 3rd cobblestone trophy; Flanders-Roubaix double"
+    },
+    {
+      "year": 2012,
+      "winner": "Tom Boonen (BEL)",
+      "runnerUp": "Sébastien Turgot (FRA)",
+      "score": "5h 55' 22\"",
+      "margin": "+1' 39\"; record-equalling 4th Paris-Roubaix title; iconic 53km solo breakaway"
+    },
+    {
+      "year": 2011,
+      "winner": "Johan Vansummeren (BEL)",
+      "runnerUp": "Fabian Cancellara (SUI)",
+      "score": "6h 07' 28\"",
+      "margin": "+19\"; 15km solo breakaway; proposed to girlfriend in the infield after winning"
+    },
+    {
+      "year": 2010,
+      "winner": "Fabian Cancellara (SUI)",
+      "runnerUp": "Thor Hushovd (NOR)",
+      "score": "6h 35' 10\"",
+      "margin": "+2' 00\"; devastating attack on Mons-en-Pévèle cobblestones; Flanders-Roubaix double"
+    },
+    {
+      "year": 2009,
+      "winner": "Tom Boonen (BEL)",
+      "runnerUp": "Filippo Pozzato (ITA)",
+      "score": "6h 15' 53\"",
+      "margin": "+47\"; 3rd Paris-Roubaix crown after rivals crashed on Carrefour de l'Arbre"
+    },
+    {
+      "year": 2008,
+      "winner": "Tom Boonen (BEL)",
+      "runnerUp": "Fabian Cancellara (SUI)",
+      "score": "5h 58' 42\"",
+      "margin": "Velodrome sprint from 3-man elite group"
+    },
+    {
+      "year": 2007,
+      "winner": "Stuart O'Grady (AUS)",
+      "runnerUp": "Juan Antonio Flecha (ESP)",
+      "score": "6h 09' 07\"",
+      "margin": "+52\"; first Australian and non-European winner in modern history"
+    },
+    {
+      "year": 2006,
+      "winner": "Fabian Cancellara (SUI)",
+      "runnerUp": "Tom Boonen (BEL)",
+      "score": "6h 07' 54\"",
+      "margin": "+1' 49\"; maiden Monument title after late solo escape"
+    },
+    {
+      "year": 2005,
+      "winner": "Tom Boonen (BEL)",
+      "runnerUp": "George Hincapie (USA)",
+      "score": "6h 27' 31\"",
+      "margin": "Velodrome sprint; Flanders-Roubaix double at age 24"
+    },
+    {
+      "year": 2004,
+      "winner": "Magnus Bäckstedt (SWE)",
+      "runnerUp": "Tristan Hoffman (NED)",
+      "score": "6h 40' 26\"",
+      "margin": "Velodrome sprint from 4-man group"
+    },
+    {
+      "year": 2003,
+      "winner": "Peter Van Petegem (BEL)",
+      "runnerUp": "Dario Pieri (ITA)",
+      "score": "6h 11' 35\"",
+      "margin": "Velodrome sprint; Tour of Flanders and Paris-Roubaix double"
+    },
+    {
+      "year": 2002,
+      "winner": "Johan Museeuw (BEL)",
+      "runnerUp": "Steffen Wesemann (GER)",
+      "score": "6h 39' 08\"",
+      "margin": "+3' 04\"; 'The Lion of Flanders' claimed 3rd Roubaix cobble with 40km solo attack in deep mud"
+    },
+    {
+      "year": 2001,
+      "winner": "Servais Knaven (NED)",
+      "runnerUp": "Johan Museeuw (BEL)",
+      "score": "6h 45' 00\"",
+      "margin": "+34\"; Domo-Farm Frites podium sweep"
+    },
+    {
+      "year": 2000,
+      "winner": "Johan Museeuw (BEL)",
+      "runnerUp": "Glenn Magnusson (SWE)",
+      "score": "6h 47' 00\"",
+      "margin": "Velodrome sprint; overcame career-threatening knee infection from 1998 crash"
+    }
+  ],
+  "sections": []
+}

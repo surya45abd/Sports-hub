@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "European Boxing Championships",
+  "source": {
+    "url": "https://eubcboxing.org/",
+    "label": "EUBC European Boxing Championships Official Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "European Boxing Championships champions across premier weight classes.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Championship Finals",
+      "archiveUrl": "https://eubcboxing.org/",
+      "sourceUrl": "https://eubcboxing.org/",
+      "sourceLabel": "EUBC Official Championships",
+      "archiveLabel": "Full European Boxing Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Ayoub Ghadfa (ESP - Super Heavyweight)",
+          "runnerUp": "Dusan Veletic (SRB)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Belgrade, Serbia; Ghadfa won European crown en route to Olympic silver in Paris"
+        },
+        {
+          "year": 2024,
+          "winner": "Rami Mofid Kiwan (BUL - Middleweight 75 kg)",
+          "runnerUp": "Dzhambulat Bizhamov (RUS)",
+          "score": "3-2 (Split decision)",
+          "margin": "Belgrade, Serbia; tightly contested final"
+        },
+        {
+          "year": 2022,
+          "winner": "Nelvie Tiafack (GER - Super Heavyweight)",
+          "runnerUp": "Ayoub Ghadfa (ESP)",
+          "score": "KO Round 2",
+          "margin": "Yerevan, Armenia; German heavyweight powerhouse won gold in sensational knockout"
+        },
+        {
+          "year": 2022,
+          "winner": "Gabriel Escobar (ESP - Bantamweight 54 kg)",
+          "runnerUp": "Billal Bennama (FRA)",
+          "score": "4-1 (Split decision)",
+          "margin": "Yerevan, Armenia; exciting all-Western European final"
+        },
+        {
+          "year": 2017,
+          "winner": "Victor Vykhryst (UKR - Super Heavyweight)",
+          "runnerUp": "Frazer Clarke (GBR)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Kharkiv, Ukraine; home gold medal celebration"
+        },
+        {
+          "year": 2015,
+          "winner": "Filip Hrgović (CRO - Super Heavyweight)",
+          "runnerUp": "Florian Schulz (GER)",
+          "score": "3-0 (Unanimous decision)",
+          "margin": "Samokov, Bulgaria; future world title challenger Hrgović crowned champion of Europe"
+        }
+      ]
+    }
+  ]
+}

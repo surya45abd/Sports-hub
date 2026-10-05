@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 2,
+  "sport": "Baseball",
+  "tournament": "Little League World Series",
+  "source": {
+    "url": "https://www.littleleague.org/world-series/history/past-champions/",
+    "label": "Little League Baseball Official World Series History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Little League Baseball World Series World Championship games archive (2000–2024) in South Williamsport, PA.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Lake Mary Little League (Lake Mary, Florida)",
+      "runnerUp": "Kuei-Shan Little League (Taoyuan, Chinese Taipei)",
+      "score": "2-1 (8 inn.)",
+      "margin": "Howard J. Lamade Stadium; Florida won first ever LLWS title on extra-inning walk-off bunt on throwing error"
+    },
+    {
+      "year": 2023,
+      "winner": "El Segundo Little League (El Segundo, California)",
+      "runnerUp": "Pabao Little League (Willemstad, Curaçao)",
+      "score": "6-5",
+      "margin": "Lamade Stadium; Louis Lappe hit dramatic walk-off solo home run in bottom of 6th inning"
+    },
+    {
+      "year": 2022,
+      "winner": "Honolulu Little League (Honolulu, Hawaii)",
+      "runnerUp": "Pabao Little League (Willemstad, Curaçao)",
+      "score": "13-3 (4 inn. mercy rule)",
+      "margin": "Lamade Stadium; undefeated Hawaii team outscored opponents 60-5 across entire tournament"
+    },
+    {
+      "year": 2021,
+      "winner": "Taylor North Little League (Taylor, Michigan)",
+      "runnerUp": "Hamilton West Side Little League (Hamilton, Ohio)",
+      "score": "5-2",
+      "margin": "Lamade Stadium; all-American tournament due to travel restrictions; Michigan's first title since 1959"
+    },
+    {
+      "year": 2019,
+      "winner": "Eastbank Little League (River Ridge, Louisiana)",
+      "runnerUp": "Pabao Little League (Willemstad, Curaçao)",
+      "score": "8-0",
+      "margin": "Lamade Stadium; Louisiana became first team in modern format to win title after losing opening game (6 straight elimination wins)"
+    },
+    {
+      "year": 2018,
+      "winner": "Honolulu Little League (Honolulu, Hawaii)",
+      "runnerUp": "South Seoul Little League (Seoul, South Korea)",
+      "score": "3-0",
+      "margin": "Lamade Stadium; Mana Lau Kong hit lead-off home run; Ka'olu Holt pitched complete game shutout"
+    },
+    {
+      "year": 2017,
+      "winner": "Tokyo Kitasuna Little League (Tokyo, Japan)",
+      "runnerUp": "Lufkin Little League (Lufkin, Texas)",
+      "score": "12-2 (5 inn.)",
+      "margin": "Lamade Stadium; Keitaro Miyahara went 3-for-3 with two home runs"
+    },
+    {
+      "year": 2016,
+      "winner": "Maine-Endwell Little League (Endwell, New York)",
+      "runnerUp": "East Seoul Little League (Seoul, South Korea)",
+      "score": "2-1",
+      "margin": "Lamade Stadium; Ryan Harlost struck out eight in complete game; first New York champion since 1964"
+    },
+    {
+      "year": 2015,
+      "winner": "Tokyo Kitasuna Little League (Tokyo, Japan)",
+      "runnerUp": "Red Land Little League (Lewisberry, Pennsylvania)",
+      "score": "18-11",
+      "margin": "Lamade Stadium; wild high-scoring final before 42,218 fans; Yugo Aoki hit two home runs"
+    },
+    {
+      "year": 2014,
+      "winner": "Seoul Little League (Seoul, South Korea)",
+      "runnerUp": "Jackie Robinson West LL (Chicago, Illinois)",
+      "score": "8-4",
+      "margin": "Lamade Stadium; South Korea claimed 3rd LLWS title (first since 1985)"
+    },
+    {
+      "year": 2013,
+      "winner": "Musashi Fuchu Little League (Tokyo, Japan)",
+      "runnerUp": "Eastlake Little League (Chula Vista, California)",
+      "score": "6-4",
+      "margin": "Lamade Stadium; Shunpei Takagi crushed two home runs"
+    },
+    {
+      "year": 2012,
+      "winner": "Tokyo Kitasuna Little League (Tokyo, Japan)",
+      "runnerUp": "Goodlettsville Little League (Goodlettsville, Tennessee)",
+      "score": "10-2",
+      "margin": "Lamade Stadium; Kotaro Kiyomiya struck out eight and went 3-for-3"
+    },
+    {
+      "year": 2011,
+      "winner": "Ocean View Little League (Huntington Beach, California)",
+      "runnerUp": "Hamamatsu Minami Little League (Hamamatsu, Japan)",
+      "score": "2-1",
+      "margin": "Lamade Stadium; Nick Pratto hit walk-off RBI single with two outs in bottom 6th"
+    },
+    {
+      "year": 2010,
+      "winner": "Edogawa Minami Little League (Tokyo, Japan)",
+      "runnerUp": "Waipio Little League (Waipahu, Hawaii)",
+      "score": "4-1",
+      "margin": "Lamade Stadium; pitcher Ryoya Sato allowed just one hit"
+    },
+    {
+      "year": 2009,
+      "winner": "Park View Little League (Chula Vista, California)",
+      "runnerUp": "Taoyuan Little League (Taoyuan, Chinese Taipei)",
+      "score": "6-3",
+      "margin": "Lamade Stadium; 'Blue Bombers' hit 19 home runs in Williamsport"
+    },
+    {
+      "year": 2008,
+      "winner": "Waipio Little League (Waipahu, Hawaii)",
+      "runnerUp": "Matamoros Little League (Matamoros, Mexico)",
+      "score": "12-3",
+      "margin": "Lamade Stadium; Tanner Tokunaga hit two home runs"
+    },
+    {
+      "year": 2007,
+      "winner": "Warner Robins American LL (Warner Robins, Georgia)",
+      "runnerUp": "Tokyo Kitasuna Little League (Tokyo, Japan)",
+      "score": "3-2 (8 inn.)",
+      "margin": "Lamade Stadium; Dalton Carriker hit walk-off solo home run in 8th inning"
+    },
+    {
+      "year": 2006,
+      "winner": "Northern Little League (Columbus, Georgia)",
+      "runnerUp": "Kawaguchi Little League (Kawaguchi, Japan)",
+      "score": "2-1",
+      "margin": "Lamade Stadium; Matthew Hollis and Kyle Carter combined on mound"
+    },
+    {
+      "year": 2005,
+      "winner": "West Oahu Little League (Ewa Beach, Hawaii)",
+      "runnerUp": "Pabao Little League (Willemstad, Curaçao)",
+      "score": "7-6 (7 inn.)",
+      "margin": "Lamade Stadium; Michael Memea hit walk-off home run in extra innings"
+    },
+    {
+      "year": 2004,
+      "winner": "Pabao Little League (Willemstad, Curaçao)",
+      "runnerUp": "Conejo Valley Little League (Thousand Oaks, California)",
+      "score": "5-2",
+      "margin": "Lamade Stadium; Jurickson Profar led Curaçao to maiden Caribbean championship"
+    },
+    {
+      "year": 2003,
+      "winner": "Musashi Fuchu Little League (Tokyo, Japan)",
+      "runnerUp": "East Boynton Beach Little League (Boynton Beach, Florida)",
+      "score": "10-1",
+      "margin": "Lamade Stadium; Japan dominated title game"
+    },
+    {
+      "year": 2002,
+      "winner": "Valley Sports American LL (Louisville, Kentucky)",
+      "runnerUp": "Sendai Higashi Little League (Sendai, Japan)",
+      "score": "1-0",
+      "margin": "Lamade Stadium; Aaron Alvey pitched no-hitter through 5 innings"
+    },
+    {
+      "year": 2001,
+      "winner": "Tokyo Kitasuna Little League (Tokyo, Japan)",
+      "runnerUp": "Apopka Little League (Apopka, Florida)",
+      "score": "2-1",
+      "margin": "Lamade Stadium; Nobuhisa Baba hit game-winning home run"
+    },
+    {
+      "year": 2000,
+      "winner": "Sierra Maestra Little League (Maracaibo, Venezuela)",
+      "runnerUp": "Bellaire Little League (Bellaire, Texas)",
+      "score": "3-2",
+      "margin": "Lamade Stadium; Venezuela second LLWS title"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "La Vuelta",
+  "source": {
+    "url": "https://www.lavuelta.es/en/history",
+    "label": "Unipublic Official La Vuelta a España History & Roll of Honour"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Vuelta a España general classification archive (2005–2024) with winning times and margins.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Primož Roglič (SLO)",
+      "runnerUp": "Ben O'Connor (AUS)",
+      "score": "81h 49' 18\"",
+      "margin": "+2' 36\"; record-equalling 4th Vuelta title (tied with Roberto Heras)"
+    },
+    {
+      "year": 2023,
+      "winner": "Sepp Kuss (USA)",
+      "runnerUp": "Jonas Vingegaard (DEN)",
+      "score": "76h 48' 21\"",
+      "margin": "+17\"; first American Grand Tour winner in 10 years; historic Jumbo-Visma 1-2-3 podium sweep (Kuss, Vingegaard, Roglič)"
+    },
+    {
+      "year": 2022,
+      "winner": "Remco Evenepoel (BEL)",
+      "runnerUp": "Enric Mas (ESP)",
+      "score": "80h 26' 59\"",
+      "margin": "+2' 02\"; first Belgian Grand Tour champion in 44 years (since Johan De Muynck 1978)"
+    },
+    {
+      "year": 2021,
+      "winner": "Primož Roglič (SLO)",
+      "runnerUp": "Enric Mas (ESP)",
+      "score": "83h 55' 29\"",
+      "margin": "+4' 42\"; 3-peat at La Vuelta; dominant final Santiago de Compostela time trial"
+    },
+    {
+      "year": 2020,
+      "winner": "Primož Roglič (SLO)",
+      "runnerUp": "Richard Carapaz (ECU)",
+      "score": "72h 45' 12\"",
+      "margin": "+24\"; defended red jersey on Alto de la Covatilla in 18-stage pandemic edition"
+    },
+    {
+      "year": 2019,
+      "winner": "Primož Roglič (SLO)",
+      "runnerUp": "Alejandro Valverde (ESP)",
+      "score": "83h 07' 31\"",
+      "margin": "+2' 16\"; maiden Grand Tour triumph for the former ski jumper"
+    },
+    {
+      "year": 2018,
+      "winner": "Simon Yates (GBR)",
+      "runnerUp": "Enric Mas (ESP)",
+      "score": "82h 05' 58\"",
+      "margin": "+1' 46\"; maiden Grand Tour victory; completed unprecedented British sweep of all 3 Grand Tours in 2018"
+    },
+    {
+      "year": 2017,
+      "winner": "Chris Froome (GBR)",
+      "runnerUp": "Vincenzo Nibali (ITA)",
+      "score": "82h 30' 02\"",
+      "margin": "+2' 15\"; first rider in modern era to win Tour de France and Vuelta a España back-to-back in same summer"
+    },
+    {
+      "year": 2016,
+      "winner": "Nairo Quintana (COL)",
+      "runnerUp": "Chris Froome (GBR)",
+      "score": "83h 31' 28\"",
+      "margin": "+1' 23\"; famous Stage 15 ambush with Alberto Contador to Formigal"
+    },
+    {
+      "year": 2015,
+      "winner": "Fabio Aru (ITA)",
+      "runnerUp": "Joaquim Rodríguez (ESP)",
+      "score": "85h 36' 18\"",
+      "margin": "+57\"; Astana tactical blitz on penultimate Puerto de Navacerrada to unseat Tom Dumoulin"
+    },
+    {
+      "year": 2014,
+      "winner": "Alberto Contador (ESP)",
+      "runnerUp": "Chris Froome (GBR)",
+      "score": "81h 25' 05\"",
+      "margin": "+1' 10\"; 3rd Vuelta crown; won summits of La Farrapona and Puerto de Ancares"
+    },
+    {
+      "year": 2013,
+      "winner": "Chris Horner (USA)",
+      "runnerUp": "Vincenzo Nibali (ITA)",
+      "score": "84h 36' 04\"",
+      "margin": "+37\"; oldest Grand Tour winner in cycling history at age 41; held off Nibali on Angliru"
+    },
+    {
+      "year": 2012,
+      "winner": "Alberto Contador (ESP)",
+      "runnerUp": "Alejandro Valverde (ESP)",
+      "score": "84h 59' 49\"",
+      "margin": "+1' 16\"; legendary long-range surprise attack on Stage 17 to Fuente Dé"
+    },
+    {
+      "year": 2011,
+      "winner": "Chris Froome (GBR)",
+      "runnerUp": "Bradley Wiggins (GBR)",
+      "score": "84h 59' 44\"",
+      "margin": "+13\"; awarded title retrospectively after Juan José Cobo's disqualification; breakout performance"
+    },
+    {
+      "year": 2010,
+      "winner": "Vincenzo Nibali (ITA)",
+      "runnerUp": "Peter Velits (SVK)",
+      "score": "87h 18' 33\"",
+      "margin": "+41\"; 'The Shark of Messina' captured maiden Grand Tour title"
+    },
+    {
+      "year": 2009,
+      "winner": "Alejandro Valverde (ESP)",
+      "runnerUp": "Samuel Sánchez (ESP)",
+      "score": "87h 22' 37\"",
+      "margin": "+55\"; 'El Bala' captured his elusive sole Grand Tour title"
+    },
+    {
+      "year": 2008,
+      "winner": "Alberto Contador (ESP)",
+      "runnerUp": "Levi Leipheimer (USA)",
+      "score": "80h 40' 08\"",
+      "margin": "+46\"; completed career Grand Tour Triple Crown in just 14 months"
+    },
+    {
+      "year": 2007,
+      "winner": "Denis Menchov (RUS)",
+      "runnerUp": "Carlos Sastre (ESP)",
+      "score": "80h 59' 07\"",
+      "margin": "+3' 11\"; dominated time trials and high mountains for Rabobank"
+    },
+    {
+      "year": 2006,
+      "winner": "Alexander Vinokourov (KAZ)",
+      "runnerUp": "Alejandro Valverde (ESP)",
+      "score": "81h 23' 07\"",
+      "margin": "+1' 12\"; attacking masterclass alongside teammate Andrey Kashechkin"
+    },
+    {
+      "year": 2005,
+      "winner": "Roberto Heras (ESP)",
+      "runnerUp": "Denis Menchov (RUS)",
+      "score": "82h 22' 55\"",
+      "margin": "+4' 36\"; reinstated 4th Vuelta title by Spanish Supreme Court"
+    }
+  ],
+  "sections": []
+}

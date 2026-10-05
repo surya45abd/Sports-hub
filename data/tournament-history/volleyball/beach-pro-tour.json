@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "sport": "Volleyball",
+  "tournament": "Beach Pro Tour",
+  "source": {
+    "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-pro-tour/",
+    "label": "Volleyball World Beach Pro Tour Official Finals Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Volleyball World Beach Pro Tour Finals archive across Men's and Women's competitions (2022–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Finals",
+      "archiveUrl": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-pro-tour/the-finals/",
+      "sourceUrl": "https://en.volleyballworld.com/",
+      "sourceLabel": "Volleyball World Men's Beach Pro Tour Finals",
+      "archiveLabel": "Men's Beach Pro Tour Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Anders Mol / Christian Sørum (NOR)",
+          "runnerUp": "David Åhman / Jonatan Hellvig (SWE)",
+          "score": "2-0 (21-18, 21-17)",
+          "margin": "Doha (Qatar); Olympic champions Mol & Sørum avenged previous year's final defeat to regain Beach Pro Tour title"
+        },
+        {
+          "year": 2023,
+          "winner": "David Åhman / Jonatan Hellvig (SWE)",
+          "runnerUp": "Anders Mol / Christian Sørum (NOR)",
+          "score": "2-0 (21-16, 21-17)",
+          "margin": "Aspire Zone, Doha; Swedish 'jump-set' pioneers claimed first Beach Pro Tour Finals championship"
+        },
+        {
+          "year": 2022,
+          "winner": "Anders Mol / Christian Sørum (NOR)",
+          "runnerUp": "Michał Bryl / Bartosz Łosiak (POL)",
+          "score": "2-0 (21-18, 21-18)",
+          "margin": "Doha (held January 2023); inaugural Beach Pro Tour Finals men's champions"
+        }
+      ]
+    },
+    {
+      "title": "Women's Finals",
+      "archiveUrl": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-pro-tour/the-finals/",
+      "sourceUrl": "https://en.volleyballworld.com/",
+      "sourceLabel": "Volleyball World Women's Beach Pro Tour Finals",
+      "archiveLabel": "Women's Beach Pro Tour Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Kelly Cheng / Sara Hughes (USA)",
+          "runnerUp": "Tanja Hüberli / Nina Brunner (SUI)",
+          "score": "2-0 (21-17, 21-16)",
+          "margin": "Doha; American world champions Cheng & Hughes captured maiden Beach Pro Tour Finals title"
+        },
+        {
+          "year": 2023,
+          "winner": "Kristen Nuss / Taryn Kloth (USA)",
+          "runnerUp": "Svenja Müller / Cinja Tillmann (GER)",
+          "score": "2-0 (21-17, 21-14)",
+          "margin": "Doha; 'TKN' duo from Louisiana capped sensational season with Finals gold"
+        },
+        {
+          "year": 2022,
+          "winner": "Sara Hughes / Kelly Cheng (USA)",
+          "runnerUp": "Eduarda Santos Lisboa (Duda) / Ana Patrícia Ramos (BRA)",
+          "score": "2-0 (21-18, 21-16)",
+          "margin": "Doha (January 2023); Cheng & Hughes defeated world No. 1 Brazilians to claim inaugural Finals"
+        }
+      ]
+    }
+  ]
+}

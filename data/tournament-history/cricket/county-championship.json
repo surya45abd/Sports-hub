@@ -1,0 +1,909 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Cricket",
+    "tournament":  "County Championship",
+    "source":  {
+                   "url":  "https://www.ecb.co.uk/county-championship",
+                   "label":  "Official ECB County Championship history"
+               },
+    "verificationStatus":  "verified",
+    "records":  [
+                    {
+                        "year":  1890,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1891,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1892,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Nottinghamshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1893,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1894,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1895,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1896,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1897,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1898,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1899,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1900,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1901,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1902,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Sussex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1903,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Sussex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1904,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1905,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1906,
+                        "winner":  "Kent",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1907,
+                        "winner":  "Nottinghamshire",
+                        "runnerUp":  "Worcestershire, Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1908,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1909,
+                        "winner":  "Kent",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1910,
+                        "winner":  "Kent",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1911,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1912,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Northamptonshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1913,
+                        "winner":  "Kent",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1914,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1919,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1920,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1921,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1922,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Nottinghamshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1923,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Nottinghamshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1924,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1925,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1926,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1927,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Nottinghamshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1928,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1929,
+                        "winner":  "Nottinghamshire",
+                        "runnerUp":  "Lancashire, Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1930,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Gloucestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1931,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Gloucestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1932,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Sussex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1933,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Sussex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1934,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Sussex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1935,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Derbyshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1936,
+                        "winner":  "Derbyshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1937,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1938,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1939,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1946,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1947,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Gloucestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1948,
+                        "winner":  "Glamorgan",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1949,
+                        "winner":  "Middlesex, Yorkshire",
+                        "runnerUp":  "Joint winners",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1950,
+                        "winner":  "Lancashire, Surrey",
+                        "runnerUp":  "Joint winners",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1951,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1952,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1953,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Sussex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1954,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1955,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1956,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1957,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Northamptonshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1958,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Hampshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1959,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Gloucestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1960,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1961,
+                        "winner":  "Hampshire",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1962,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Worcestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1963,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Glamorgan",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1964,
+                        "winner":  "Worcestershire",
+                        "runnerUp":  "Warwickshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1965,
+                        "winner":  "Worcestershire",
+                        "runnerUp":  "Northamptonshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1966,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Worcestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1967,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1968,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1969,
+                        "winner":  "Glamorgan",
+                        "runnerUp":  "Gloucestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1970,
+                        "winner":  "Kent",
+                        "runnerUp":  "Glamorgan",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1971,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Warwickshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1972,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1973,
+                        "winner":  "Hampshire",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1974,
+                        "winner":  "Worcestershire",
+                        "runnerUp":  "Hampshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1975,
+                        "winner":  "Leicestershire",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1976,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Northamptonshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1977,
+                        "winner":  "Kent, Middlesex",
+                        "runnerUp":  "Joint winners",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1978,
+                        "winner":  "Kent",
+                        "runnerUp":  "Essex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1979,
+                        "winner":  "Essex",
+                        "runnerUp":  "Worcestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1980,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1981,
+                        "winner":  "Nottinghamshire",
+                        "runnerUp":  "Sussex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1982,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Leicestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1983,
+                        "winner":  "Essex",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1984,
+                        "winner":  "Essex",
+                        "runnerUp":  "Nottinghamshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1985,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Hampshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1986,
+                        "winner":  "Essex",
+                        "runnerUp":  "Gloucestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1987,
+                        "winner":  "Nottinghamshire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1988,
+                        "winner":  "Worcestershire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1989,
+                        "winner":  "Worcestershire",
+                        "runnerUp":  "Essex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1990,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Essex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1991,
+                        "winner":  "Essex",
+                        "runnerUp":  "Warwickshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1992,
+                        "winner":  "Essex",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1993,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Worcestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1994,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Leicestershire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1995,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1996,
+                        "winner":  "Leicestershire",
+                        "runnerUp":  "Derbyshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1997,
+                        "winner":  "Glamorgan",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1998,
+                        "winner":  "Leicestershire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  1999,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2000,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2001,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Somerset",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2002,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Warwickshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2003,
+                        "winner":  "Sussex",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2004,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Kent",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2005,
+                        "winner":  "Nottinghamshire",
+                        "runnerUp":  "Hampshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2006,
+                        "winner":  "Sussex",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2007,
+                        "winner":  "Sussex",
+                        "runnerUp":  "Durham",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2008,
+                        "winner":  "Durham",
+                        "runnerUp":  "Nottinghamshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2009,
+                        "winner":  "Durham",
+                        "runnerUp":  "Nottinghamshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2010,
+                        "winner":  "Nottinghamshire",
+                        "runnerUp":  "Somerset",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2011,
+                        "winner":  "Lancashire",
+                        "runnerUp":  "Warwickshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2012,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Somerset",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2013,
+                        "winner":  "Durham",
+                        "runnerUp":  "Yorkshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2014,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Warwickshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2015,
+                        "winner":  "Yorkshire",
+                        "runnerUp":  "Middlesex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2016,
+                        "winner":  "Middlesex",
+                        "runnerUp":  "Somerset",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2017,
+                        "winner":  "Essex",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2018,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Somerset",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2019,
+                        "winner":  "Essex",
+                        "runnerUp":  "Somerset",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2020,
+                        "winner":  "No competition",
+                        "runnerUp":  "",
+                        "score":  "Cancelled during the COVID-19 pandemic",
+                        "margin":  "No champion awarded"
+                    },
+                    {
+                        "year":  2021,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2022,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Lancashire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2023,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Essex",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2024,
+                        "winner":  "Surrey",
+                        "runnerUp":  "Hampshire",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "Nottinghamshire",
+                        "runnerUp":  "Surrey",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2026,
+                        "winner":  "Warwickshire",
+                        "runnerUp":  "Somerset",
+                        "score":  "No final (league standings)",
+                        "margin":  ""
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ],
+    "verificationSources":  [
+                                "https://acscricket.com/?page_id=2261",
+                                "https://en.wikipedia.org/wiki/List_of_official_County_Championship_winners"
+                            ],
+    "reviewNotes":  "Full annual history, 1890–2026. The 2020 County Championship was cancelled and no title was awarded; that year is shown explicitly. The runner-up is the second-place county in the league standings, not the opponent in a final. Shared titles remain recorded as listed."
+}

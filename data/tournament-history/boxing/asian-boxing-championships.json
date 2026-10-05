@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "Asian Boxing Championships",
+  "source": {
+    "url": "https://www.iba.sport/",
+    "label": "ASBC Asian Boxing Championships Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Asian Boxing Championships medal leaders and premier heavyweight / welterweight finals (2015–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's & Women's Championship Finals",
+      "archiveUrl": "https://www.iba.sport/",
+      "sourceUrl": "https://www.iba.sport/",
+      "sourceLabel": "ASBC Asian Championships Archive",
+      "archiveLabel": "Full Asian Championships Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Uzbekistan (Medal Table: 10 Golds)",
+          "runnerUp": "Kazakhstan (6 Golds)",
+          "score": "10 Gold Medals",
+          "margin": "Chiang Mai, Thailand; Uzbekistan continued continental dominance across men's and women's divisions"
+        },
+        {
+          "year": 2022,
+          "winner": "Bakhodir Jalolov (UZB - Super Heavyweight)",
+          "runnerUp": "Kamshybek Kunkabayev (KAZ)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Amman, Jordan; Jalolov dominated final against long-time Kazakh rival"
+        },
+        {
+          "year": 2022,
+          "winner": "Shiva Thapa (IND - Light Welterweight 63.5 kg)",
+          "runnerUp": "Ruslan Abdullaev (UZB)",
+          "score": "Silver Medal (RSC-I)",
+          "margin": "Amman, Jordan; Thapa achieved historic record 6th consecutive Asian Championship medal"
+        },
+        {
+          "year": 2021,
+          "winner": "Nodirjon Mirzakhmedov (UZB - Flyweight 49 kg)",
+          "runnerUp": "Daniyal Sabit (KAZ)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Dubai, UAE; back-to-back Asian titles"
+        },
+        {
+          "year": 2021,
+          "winner": "Pooja Rani (IND - Middleweight 75 kg)",
+          "runnerUp": "Mavluda Movlonova (UZB)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Dubai, UAE; Pooja defended her 2019 continental title in dominant fashion"
+        },
+        {
+          "year": 2019,
+          "winner": "Amit Panghal (IND - Flyweight 52 kg)",
+          "runnerUp": "Kim In-kyu (KOR)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Bangkok, Thailand; Panghal backed up Asian Games gold with continental championship victory"
+        },
+        {
+          "year": 2017,
+          "winner": "Bakhodir Jalolov (UZB - Super Heavyweight)",
+          "runnerUp": "Kamshybek Kunkabayev (KAZ)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Tashkent, Uzbekistan; home triumph before 8,000 spectators"
+        }
+      ]
+    }
+  ]
+}

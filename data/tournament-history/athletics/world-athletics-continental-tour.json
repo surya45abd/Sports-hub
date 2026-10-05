@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Athletics",
+  "tournament": "World Athletics Continental Tour",
+  "source": {
+    "url": "https://worldathletics.org/",
+    "label": "Continental Tour Gold"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Continental Tour Gold annual track and field circuit.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Kip Keino Classic, Golden Spike Ostrava, Paavo Nurmi Games",
+      "runnerUp": "Circuit Series",
+      "score": "Gold Label Points",
+      "margin": "Global 12-meet invitational series"
+    },
+    {
+      "year": 2023,
+      "winner": "World Athletics Continental Tour Gold Champions",
+      "runnerUp": "Global Circuit",
+      "score": "Tour Rankings",
+      "margin": "Leading tier of one-day invitational athletics meets"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "sport": "Formula 1",
+  "tournament": "MotoGP World Championship",
+  "source": {
+    "url": "https://www.motogp.com/en/results-statistics",
+    "label": "FIM MotoGP Official Results & Champions Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern four-stroke MotoGP World Championship archive (2002–2024) with points, machinery and margins.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Jorge Martín (ESP)",
+      "runnerUp": "Francesco Bagnaia (ITA)",
+      "score": "508 pts (Pramac Ducati)",
+      "margin": "+10 pts; first satellite team rider to win the MotoGP World Championship in the four-stroke era"
+    },
+    {
+      "year": 2023,
+      "winner": "Francesco Bagnaia (ITA)",
+      "runnerUp": "Jorge Martín (ESP)",
+      "score": "467 pts (Ducati Lenovo)",
+      "margin": "+39 pts; defended championship at Valencia finale with 7 GP wins and 4 Sprint wins"
+    },
+    {
+      "year": 2022,
+      "winner": "Francesco Bagnaia (ITA)",
+      "runnerUp": "Fabio Quartararo (FRA)",
+      "score": "265 pts (Ducati Lenovo)",
+      "margin": "+17 pts; historic comeback from 91 points down; first Italian on Italian bike since Agostini 1972"
+    },
+    {
+      "year": 2021,
+      "winner": "Fabio Quartararo (FRA)",
+      "runnerUp": "Francesco Bagnaia (ITA)",
+      "score": "278 pts (Monster Energy Yamaha)",
+      "margin": "+26 pts; first French premier class World Champion in history"
+    },
+    {
+      "year": 2020,
+      "winner": "Joan Mir (ESP)",
+      "runnerUp": "Franco Morbidelli (ITA)",
+      "score": "171 pts (Team Suzuki Ecstar)",
+      "margin": "+13 pts; Suzuki's first premier class world title in 20 years in pandemic-shortened 14-race season"
+    },
+    {
+      "year": 2019,
+      "winner": "Marc Márquez (ESP)",
+      "runnerUp": "Andrea Dovizioso (ITA)",
+      "score": "420 pts (Repsol Honda)",
+      "margin": "+151 pts; record 420 points in single season; finished 1st or 2nd in 18 of 19 races; 6th MotoGP title"
+    },
+    {
+      "year": 2018,
+      "winner": "Marc Márquez (ESP)",
+      "runnerUp": "Andrea Dovizioso (ITA)",
+      "score": "321 pts (Repsol Honda)",
+      "margin": "+76 pts; 9 race victories; sealed title at Twin Ring Motegi"
+    },
+    {
+      "year": 2017,
+      "winner": "Marc Márquez (ESP)",
+      "runnerUp": "Andrea Dovizioso (ITA)",
+      "score": "298 pts (Repsol Honda)",
+      "margin": "+37 pts; iconic 'miracle save' on his knee and elbow at Turn 1 in Valencia finale"
+    },
+    {
+      "year": 2016,
+      "winner": "Marc Márquez (ESP)",
+      "runnerUp": "Valentino Rossi (ITA)",
+      "score": "298 pts (Repsol Honda)",
+      "margin": "+49 pts; 3rd premier class title; remarkable consistency after difficult pre-season"
+    },
+    {
+      "year": 2015,
+      "winner": "Jorge Lorenzo (ESP)",
+      "runnerUp": "Valentino Rossi (ITA)",
+      "score": "330 pts (Movistar Yamaha)",
+      "margin": "+5 pts; dramatic Valencia showdown following infamous Rossi-Márquez clash at Sepang"
+    },
+    {
+      "year": 2014,
+      "winner": "Marc Márquez (ESP)",
+      "runnerUp": "Valentino Rossi (ITA)",
+      "score": "362 pts (Repsol Honda)",
+      "margin": "+67 pts; won first 10 consecutive races of the season; record 13 wins in a single year"
+    },
+    {
+      "year": 2013,
+      "winner": "Marc Márquez (ESP)",
+      "runnerUp": "Jorge Lorenzo (ESP)",
+      "score": "334 pts (Repsol Honda)",
+      "margin": "+4 pts; youngest premier class world champion in history at age 20y 266d as a rookie"
+    },
+    {
+      "year": 2012,
+      "winner": "Jorge Lorenzo (ESP)",
+      "runnerUp": "Dani Pedrosa (ESP)",
+      "score": "350 pts (Yamaha Factory)",
+      "margin": "+18 pts; 2nd MotoGP World Championship with 6 wins and 10 second places"
+    },
+    {
+      "year": 2011,
+      "winner": "Casey Stoner (AUS)",
+      "runnerUp": "Jorge Lorenzo (ESP)",
+      "score": "350 pts (Repsol Honda)",
+      "margin": "+90 pts; dominant 10 wins in debut Honda season; clinched title at home in Phillip Island"
+    },
+    {
+      "year": 2010,
+      "winner": "Jorge Lorenzo (ESP)",
+      "runnerUp": "Dani Pedrosa (ESP)",
+      "score": "383 pts (Fiat Yamaha)",
+      "margin": "+138 pts; record 383 points (at the time); maiden premier class crown with 9 wins"
+    },
+    {
+      "year": 2009,
+      "winner": "Valentino Rossi (ITA)",
+      "runnerUp": "Jorge Lorenzo (ESP)",
+      "score": "306 pts (Fiat Yamaha)",
+      "margin": "+45 pts; 9th Grand Prix world championship and 7th premier class title; iconic Catalunya last-corner pass"
+    },
+    {
+      "year": 2008,
+      "winner": "Valentino Rossi (ITA)",
+      "runnerUp": "Casey Stoner (AUS)",
+      "score": "373 pts (Fiat Yamaha)",
+      "margin": "+93 pts; regained world crown with Bridgestone tyres; legendary Laguna Seca Corkscrew pass"
+    },
+    {
+      "year": 2007,
+      "winner": "Casey Stoner (AUS)",
+      "runnerUp": "Dani Pedrosa (ESP)",
+      "score": "367 pts (Ducati Marlboro)",
+      "margin": "+125 pts; 10 wins; Ducati's first-ever premier class rider and manufacturer world titles (800cc era)"
+    },
+    {
+      "year": 2006,
+      "winner": "Nicky Hayden (USA)",
+      "runnerUp": "Valentino Rossi (ITA)",
+      "score": "252 pts (Repsol Honda)",
+      "margin": "+5 pts; 'The Kentucky Kid' won fairy-tale title after Rossi crashed at Valencia finale"
+    },
+    {
+      "year": 2005,
+      "winner": "Valentino Rossi (ITA)",
+      "runnerUp": "Marco Melandri (ITA)",
+      "score": "367 pts (Gauloises Yamaha)",
+      "margin": "+147 pts; 11 wins in 17 races for Gauloises Yamaha"
+    },
+    {
+      "year": 2004,
+      "winner": "Valentino Rossi (ITA)",
+      "runnerUp": "Sete Gibernau (ESP)",
+      "score": "304 pts (Gauloises Yamaha)",
+      "margin": "+47 pts; sensational triumph after moving from dominant Honda to underdog Yamaha team"
+    },
+    {
+      "year": 2003,
+      "winner": "Valentino Rossi (ITA)",
+      "runnerUp": "Sete Gibernau (ESP)",
+      "score": "357 pts (Repsol Honda)",
+      "margin": "+80 pts; finished on podium in every single race of the season (9 wins, 5 seconds, 2 thirds)"
+    },
+    {
+      "year": 2002,
+      "winner": "Valentino Rossi (ITA)",
+      "runnerUp": "Max Biaggi (ITA)",
+      "score": "355 pts (Repsol Honda RC211V)",
+      "margin": "+140 pts; inaugural 990cc four-stroke MotoGP season; 11 race wins"
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "FIDE World Cup",
+  "source": {
+    "url": "https://worldcup2023.fide.com/",
+    "label": "Official FIDE World Cup History & Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern 128/206-player FIDE World Cup knockout finals archive (2005–2023).",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "Magnus Carlsen (NOR)",
+      "runnerUp": "Praggnanandhaa Rameshbabu (IND)",
+      "score": "2½ - 1½ (rapid tiebreak; 1 - 1 classical)",
+      "margin": "Baku, Azerbaijan; Carlsen's maiden World Cup crown; 18-year-old Praggnanandhaa stunned Caruana & Nakamura"
+    },
+    {
+      "year": 2021,
+      "winner": "Jan-Krzysztof Duda (POL)",
+      "runnerUp": "Sergey Karjakin (RUS)",
+      "score": "1½ - ½",
+      "margin": "Sochi, Russia; Duda defeated Carlsen in semi-final and Karjakin in final without losing a game"
+    },
+    {
+      "year": 2019,
+      "winner": "Teimour Radjabov (AZE)",
+      "runnerUp": "Ding Liren (CHN)",
+      "score": "4 - 2 (blitz tiebreak)",
+      "margin": "Khanty-Mansiysk, Russia; dramatic 10-game marathon final"
+    },
+    {
+      "year": 2017,
+      "winner": "Levon Aronian (ARM)",
+      "runnerUp": "Ding Liren (CHN)",
+      "score": "4 - 2 (rapid tiebreak)",
+      "margin": "Tbilisi, Georgia; 2nd World Cup title for Aronian"
+    },
+    {
+      "year": 2015,
+      "winner": "Sergey Karjakin (RUS)",
+      "runnerUp": "Peter Svidler (RUS)",
+      "score": "6 - 4 (blitz tiebreak)",
+      "margin": "Baku, Azerbaijan; Karjakin rallied from 0-2 down in classical games"
+    },
+    {
+      "year": 2013,
+      "winner": "Vladimir Kramnik (RUS)",
+      "runnerUp": "Dmitry Andreikin (RUS)",
+      "score": "2½ - 1½",
+      "margin": "Tromsø, Norway; Kramnik's sole FIDE World Cup triumph"
+    },
+    {
+      "year": 2011,
+      "winner": "Peter Svidler (RUS)",
+      "runnerUp": "Alexander Grischuk (RUS)",
+      "score": "2½ - 1½",
+      "margin": "Khanty-Mansiysk, Russia; all-Russian final"
+    },
+    {
+      "year": 2009,
+      "winner": "Boris Gelfand (ISR)",
+      "runnerUp": "Ruslan Ponomariov (UKR)",
+      "score": "7 - 5 (blitz tiebreak)",
+      "margin": "Khanty-Mansiysk; 14-game tiebreak thriller"
+    },
+    {
+      "year": 2007,
+      "winner": "Gata Kamsky (USA)",
+      "runnerUp": "Alexei Shirov (ESP)",
+      "score": "2½ - 1½",
+      "margin": "Khanty-Mansiysk; remarkable comeback for American veteran"
+    },
+    {
+      "year": 2005,
+      "winner": "Levon Aronian (ARM)",
+      "runnerUp": "Ruslan Ponomariov (UKR)",
+      "score": "2 - 0",
+      "margin": "Khanty-Mansiysk; 128-player knockout; Aronian's breakthrough major title"
+    }
+  ],
+  "sections": []
+}

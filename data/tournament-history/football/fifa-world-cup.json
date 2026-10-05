@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sport": "Football",
+  "tournament": "FIFA World Cup",
+  "source": {
+    "url": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/todas-las-finales-de-la-copa-mundial-de-la-fifa",
+    "label": "FIFA finals archive (1930–2026)"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    { "year": 1930, "winner": "Uruguay", "runnerUp": "Argentina", "score": "4-2", "margin": "" },
+    { "year": 1934, "winner": "Italy", "runnerUp": "Czechoslovakia", "score": "2-1 (after extra time)", "margin": "" },
+    { "year": 1938, "winner": "Italy", "runnerUp": "Hungary", "score": "4-2", "margin": "" },
+    { "year": 1950, "winner": "Uruguay", "runnerUp": "Brazil", "score": "2-1", "margin": "Final-round decider; no separate final" },
+    { "year": 1954, "winner": "West Germany", "runnerUp": "Hungary", "score": "3-2", "margin": "" },
+    { "year": 1958, "winner": "Brazil", "runnerUp": "Sweden", "score": "5-2", "margin": "" },
+    { "year": 1962, "winner": "Brazil", "runnerUp": "Czechoslovakia", "score": "3-1", "margin": "" },
+    { "year": 1966, "winner": "England", "runnerUp": "West Germany", "score": "4-2 (after extra time)", "margin": "" },
+    { "year": 1970, "winner": "Brazil", "runnerUp": "Italy", "score": "4-1", "margin": "" },
+    { "year": 1974, "winner": "West Germany", "runnerUp": "Netherlands", "score": "2-1", "margin": "" },
+    { "year": 1978, "winner": "Argentina", "runnerUp": "Netherlands", "score": "3-1 (after extra time)", "margin": "" },
+    { "year": 1982, "winner": "Italy", "runnerUp": "West Germany", "score": "3-1", "margin": "" },
+    { "year": 1986, "winner": "Argentina", "runnerUp": "West Germany", "score": "3-2", "margin": "" },
+    { "year": 1990, "winner": "West Germany", "runnerUp": "Argentina", "score": "1-0", "margin": "" },
+    { "year": 1994, "winner": "Brazil", "runnerUp": "Italy", "score": "0-0 (Brazil won 3-2 on penalties)", "margin": "" },
+    { "year": 1998, "winner": "France", "runnerUp": "Brazil", "score": "3-0", "margin": "" },
+    { "year": 2002, "winner": "Brazil", "runnerUp": "Germany", "score": "2-0", "margin": "" },
+    { "year": 2006, "winner": "Italy", "runnerUp": "France", "score": "1-1 (Italy won 5-3 on penalties)", "margin": "" },
+    { "year": 2010, "winner": "Spain", "runnerUp": "Netherlands", "score": "1-0 (after extra time)", "margin": "" },
+    { "year": 2014, "winner": "Germany", "runnerUp": "Argentina", "score": "1-0 (after extra time)", "margin": "" },
+    { "year": 2018, "winner": "France", "runnerUp": "Croatia", "score": "4-2", "margin": "" },
+    { "year": 2022, "winner": "Argentina", "runnerUp": "France", "score": "3-3 (Argentina won 4-2 on penalties)", "margin": "" },
+    { "year": 2026, "winner": "Spain", "runnerUp": "Argentina", "score": "1-0 (after extra time)", "margin": "" }
+  ],
+  "candidateRecords": [],
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals",
+      "label": "Complete final-by-final cross-check (1930–2026)"
+    },
+    {
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/spain-argentina-final-report-highlights",
+      "label": "FIFA 2026 final report"
+    }
+  ],
+  "lastVerified": "2026-10-03",
+  "reviewNotes": [
+    {
+      "year": 1950,
+      "field": "score",
+      "note": "The tournament used a final round-robin group; Uruguay–Brazil was the decisive match, not a formally designated final."
+    },
+    {
+      "year": 1994,
+      "field": "score",
+      "note": "The 0-0 score is after extra time; Brazil won the penalty shoot-out 3-2."
+    },
+    {
+      "year": 2006,
+      "field": "score",
+      "note": "The 1-1 score is after extra time; Italy won the penalty shoot-out 5-3."
+    },
+    {
+      "year": 2022,
+      "field": "score",
+      "note": "The 3-3 score is after extra time; Argentina won the penalty shoot-out 4-2."
+    }
+  ]
+}

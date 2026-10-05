@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "Presidents Cup",
+  "source": {
+    "url": "https://www.presidentscup.com/past-results",
+    "label": "PGA Tour Official Presidents Cup History Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Presidents Cup match archive (1994–2024) between Team USA and the International Team.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "18½ - 11½",
+      "margin": "Royal Montreal Golf Club, Canada; Jim Furyk (USA) vs Mike Weir (INT)"
+    },
+    {
+      "year": 2022,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "17½ - 12½",
+      "margin": "Quail Hollow Club, North Carolina; Davis Love III (USA) vs Trevor Immelman (INT)"
+    },
+    {
+      "year": 2019,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "16 - 14",
+      "margin": "Royal Melbourne, Australia; Tiger Woods played as playing captain and went 3-0"
+    },
+    {
+      "year": 2017,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "19 - 11",
+      "margin": "Liberty National, New Jersey; Steve Stricker (USA) vs Nick Price (INT)"
+    },
+    {
+      "year": 2015,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "15½ - 14½",
+      "margin": "Jack Nicklaus Golf Club Korea, Incheon; Bill Haas won deciding match on 18"
+    },
+    {
+      "year": 2013,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "18½ - 15½",
+      "margin": "Muirfield Village, Ohio; Fred Couples (USA) vs Nick Price (INT)"
+    },
+    {
+      "year": 2011,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "19 - 15",
+      "margin": "Royal Melbourne, Australia; Tiger Woods clinched winning point"
+    },
+    {
+      "year": 2009,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "19½ - 14½",
+      "margin": "Harding Park, San Francisco; Tiger Woods went 5-0-0"
+    },
+    {
+      "year": 2007,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "19½ - 14½",
+      "margin": "Royal Montreal, Canada; Woody Austin fell in lake on 14"
+    },
+    {
+      "year": 2005,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "18½ - 15½",
+      "margin": "Robert Trent Jones Golf Club, Virginia; Chris DiMarco made winning putt"
+    },
+    {
+      "year": 2003,
+      "winner": "Tied (Shared Trophy)",
+      "runnerUp": "United States & International Team",
+      "score": "17 - 17",
+      "margin": "Fancourt, South Africa; Tiger Woods and Ernie Els played 3 sudden-death playoff holes in pitch darkness before captains Nicklaus and Player agreed to share trophy"
+    },
+    {
+      "year": 2000,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "21½ - 10½",
+      "margin": "Robert Trent Jones Golf Club, Virginia; record 11-point victory margin"
+    },
+    {
+      "year": 1998,
+      "winner": "International Team",
+      "runnerUp": "United States",
+      "score": "20½ - 11½",
+      "margin": "Royal Melbourne, Australia; Peter Thomson's International team won first trophy"
+    },
+    {
+      "year": 1996,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "16½ - 15½",
+      "margin": "Robert Trent Jones Golf Club, Virginia; Fred Couples clinched winning point"
+    },
+    {
+      "year": 1994,
+      "winner": "United States",
+      "runnerUp": "International Team",
+      "score": "20 - 12",
+      "margin": "Robert Trent Jones Golf Club, Virginia; inaugural match captained by Hale Irwin"
+    }
+  ],
+  "sections": []
+}

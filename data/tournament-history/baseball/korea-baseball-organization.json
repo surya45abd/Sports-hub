@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "sport": "Baseball",
+  "tournament": "Korea Baseball Organization",
+  "source": {
+    "url": "https://www.koreabaseball.com/History/KoreanSeries/Winner.aspx",
+    "label": "KBO Official Korean Series History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Korean Series championship archive (2000–2024) across all KBO postseasons.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "KIA Tigers",
+      "runnerUp": "Samsung Lions",
+      "score": "4-1 series",
+      "margin": "Gwangju-Kia Champions Field; KIA claimed 12th Korean Series championship; Kim Sun-bin MVP"
+    },
+    {
+      "year": 2023,
+      "winner": "LG Twins",
+      "runnerUp": "KT Wiz",
+      "score": "4-1 series",
+      "margin": "Jamsil Baseball Stadium (Seoul); first championship in 29 years (since 1994); Oh Ji-hwan MVP"
+    },
+    {
+      "year": 2022,
+      "winner": "SSG Landers",
+      "runnerUp": "Kiwoom Heroes",
+      "score": "4-2 series",
+      "margin": "Incheon SSG Landers Field; historic wire-to-wire championship season; Kim Kang-min MVP"
+    },
+    {
+      "year": 2021,
+      "winner": "KT Wiz",
+      "runnerUp": "Doosan Bears",
+      "score": "4-0 series",
+      "margin": "Gocheok Sky Dome (Seoul); KT Wiz won maiden franchise title with four-game sweep; Park Kyung-soo MVP"
+    },
+    {
+      "year": 2020,
+      "winner": "NC Dinos",
+      "runnerUp": "Doosan Bears",
+      "score": "4-2 series",
+      "margin": "Gocheok Sky Dome; NC Dinos hoisted replica 'Conqueror's Sword' for first title; Yang Eui-ji MVP"
+    },
+    {
+      "year": 2019,
+      "winner": "Doosan Bears",
+      "runnerUp": "Kiwoom Heroes",
+      "score": "4-0 series",
+      "margin": "Gocheok Sky Dome; Doosan completed sweep in 10th inning of Game 4; Oh Jae-il MVP"
+    },
+    {
+      "year": 2018,
+      "winner": "SK Wyverns",
+      "runnerUp": "Doosan Bears",
+      "score": "4-2 series",
+      "margin": "Jamsil Stadium; Han Dong-min 13th-inning solo home run broke tie in Game 6; Han MVP"
+    },
+    {
+      "year": 2017,
+      "winner": "KIA Tigers",
+      "runnerUp": "Doosan Bears",
+      "score": "4-1 series",
+      "margin": "Jamsil Stadium; ace Yang Hyeon-jong complete game shutout in Game 2 and save in Game 5; Yang MVP"
+    },
+    {
+      "year": 2016,
+      "winner": "Doosan Bears",
+      "runnerUp": "NC Dinos",
+      "score": "4-0 series",
+      "margin": "Masan Stadium; Doosan 'Fantastic Four' starting rotation conceded just 5 earned runs; Yang Eui-ji MVP"
+    },
+    {
+      "year": 2015,
+      "winner": "Doosan Bears",
+      "runnerUp": "Samsung Lions",
+      "score": "4-1 series",
+      "margin": "Jamsil Stadium; Doosan upset Samsung's quest for 5th straight crown; Jung Soo-bin MVP"
+    },
+    {
+      "year": 2014,
+      "winner": "Samsung Lions",
+      "runnerUp": "Nexen Heroes",
+      "score": "4-2 series",
+      "margin": "Jamsil Stadium; Samsung won 4th consecutive Korean Series championship; Yamaico Navarro MVP"
+    },
+    {
+      "year": 2013,
+      "winner": "Samsung Lions",
+      "runnerUp": "Doosan Bears",
+      "score": "4-3 series",
+      "margin": "Daegu Stadium; Samsung became first team to overcome 3-1 deficit to win in 7; Park Han-yi MVP"
+    },
+    {
+      "year": 2012,
+      "winner": "Samsung Lions",
+      "runnerUp": "SK Wyverns",
+      "score": "4-2 series",
+      "margin": "Jamsil Stadium; Samsung clinched repeat title; slugger Lee Seung-yuop named series MVP"
+    },
+    {
+      "year": 2011,
+      "winner": "Samsung Lions",
+      "runnerUp": "SK Wyverns",
+      "score": "4-1 series",
+      "margin": "Jamsil Stadium; manager Ryu Joong-il won championship in rookie managerial season; Oh Seung-hwan MVP"
+    },
+    {
+      "year": 2010,
+      "winner": "SK Wyverns",
+      "runnerUp": "Samsung Lions",
+      "score": "4-0 series",
+      "margin": "Daegu Stadium; Kim Sung-keun led SK to 3rd title in four seasons with sweep; Park Jung-kwon MVP"
+    },
+    {
+      "year": 2009,
+      "winner": "KIA Tigers",
+      "runnerUp": "SK Wyverns",
+      "score": "4-3 series",
+      "margin": "Jamsil Stadium; Na Ji-wan hit iconic walk-off solo home run in bottom of 9th of Game 7; Na MVP"
+    },
+    {
+      "year": 2008,
+      "winner": "SK Wyverns",
+      "runnerUp": "Doosan Bears",
+      "score": "4-1 series",
+      "margin": "Jamsil Stadium; SK defended championship behind bullpen depth; Choi Jeong MVP"
+    },
+    {
+      "year": 2007,
+      "winner": "SK Wyverns",
+      "runnerUp": "Doosan Bears",
+      "score": "4-2 series",
+      "margin": "Jamsil Stadium; SK lost first two games then won four straight for first franchise title; Kim Kwang-hyun standout"
+    },
+    {
+      "year": 2006,
+      "winner": "Samsung Lions",
+      "runnerUp": "Hanwha Eagles",
+      "score": "4-1-1 series",
+      "margin": "Jamsil Stadium; Sun Dong-yol managed Lions to back-to-back titles; Park Jin-man MVP"
+    },
+    {
+      "year": 2005,
+      "winner": "Samsung Lions",
+      "runnerUp": "Doosan Bears",
+      "score": "4-0 series",
+      "margin": "Jamsil Stadium; Samsung swept Bears behind dominant pitching; Oh Seung-hwan MVP"
+    },
+    {
+      "year": 2004,
+      "winner": "Hyundai Unicorns",
+      "runnerUp": "Samsung Lions",
+      "score": "4-2-3 series",
+      "margin": "Jamsil Stadium; epic 9-game series in torrential rain featuring 3 ties; Cho Yong-jun MVP"
+    },
+    {
+      "year": 2003,
+      "winner": "Hyundai Unicorns",
+      "runnerUp": "SK Wyverns",
+      "score": "4-3 series",
+      "margin": "Suwon Stadium; Hyundai won 3rd franchise title; Chung Min-tae won 3 games as starting pitcher; Chung MVP"
+    },
+    {
+      "year": 2002,
+      "winner": "Samsung Lions",
+      "runnerUp": "LG Twins",
+      "score": "4-2 series",
+      "margin": "Daegu Stadium; dramatic back-to-back home runs by Lee Seung-yuop and Ma Hae-yeong in bottom 9th Game 6; Ma MVP"
+    },
+    {
+      "year": 2001,
+      "winner": "Doosan Bears",
+      "runnerUp": "Samsung Lions",
+      "score": "4-2 series",
+      "margin": "Jamsil Stadium; Doosan became first team from 3rd seed in modern era to win title; Tyrone Woods hit 4 HRs; Woods MVP"
+    },
+    {
+      "year": 2000,
+      "winner": "Hyundai Unicorns",
+      "runnerUp": "Doosan Bears",
+      "score": "4-3 series",
+      "margin": "Jamsil Stadium; dominant 91-win Hyundai team held off Bears in 7 games; Tom Quinlan MVP"
+    }
+  ]
+}

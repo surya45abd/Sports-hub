@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "THE PLAYERS Championship",
+  "source": {
+    "url": "https://www.theplayers.com/past-winners",
+    "label": "Official THE PLAYERS Championship Past Winners & Records"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern PLAYERS Championship archive (1990–2025) at TPC Sawgrass Stadium Course.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Collin Morikawa",
+      "score": "273 (-15)",
+      "margin": "1 stroke (TPC Sawgrass); 2nd PLAYERS Championship title"
+    },
+    {
+      "year": 2024,
+      "winner": "Scottie Scheffler",
+      "runnerUp": "Brian Harman, Xander Schauffele, Wyndham Clark",
+      "score": "268 (-20)",
+      "margin": "1 stroke; first player in 50-year history to defend PLAYERS title"
+    },
+    {
+      "year": 2023,
+      "winner": "Scottie Scheffler",
+      "runnerUp": "Tyrrell Hatton",
+      "score": "271 (-17)",
+      "margin": "5 strokes; 5 consecutive birdies on Sunday"
+    },
+    {
+      "year": 2022,
+      "winner": "Cameron Smith",
+      "runnerUp": "Anirban Lahiri",
+      "score": "275 (-13)",
+      "margin": "1 stroke; 10 single-putt greens on Monday finish"
+    },
+    {
+      "year": 2021,
+      "winner": "Justin Thomas",
+      "runnerUp": "Lee Westwood",
+      "score": "274 (-14)",
+      "margin": "1 stroke; weekend 64-68"
+    },
+    {
+      "year": 2019,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Jim Furyk",
+      "score": "272 (-16)",
+      "margin": "1 stroke; first European PLAYERS champion since Stenson"
+    },
+    {
+      "year": 2018,
+      "winner": "Webb Simpson",
+      "runnerUp": "Xander Schauffele, Charl Schwartzel, Jimmy Walker",
+      "score": "270 (-18)",
+      "margin": "4 strokes; matched course record 63 in round 2"
+    },
+    {
+      "year": 2017,
+      "winner": "Si Woo Kim",
+      "runnerUp": "Louis Oosthuizen, Ian Poulter",
+      "score": "278 (-10)",
+      "margin": "3 strokes; youngest champion in tournament history at age 21"
+    },
+    {
+      "year": 2016,
+      "winner": "Jason Day",
+      "runnerUp": "Kevin Chappell",
+      "score": "273 (-15)",
+      "margin": "4 strokes; wire-to-wire victory as World No. 1"
+    },
+    {
+      "year": 2015,
+      "winner": "Rickie Fowler",
+      "runnerUp": "Sergio García, Kevin Kisner",
+      "score": "276 (-12)",
+      "margin": "Played last 6 holes in 6-under to force playoff, then birdied 17 three times in one day"
+    },
+    {
+      "year": 2014,
+      "winner": "Martin Kaymer",
+      "runnerUp": "Jim Furyk",
+      "score": "275 (-13)",
+      "margin": "1 stroke; 28-foot par putt on 17 in near-darkness"
+    },
+    {
+      "year": 2013,
+      "winner": "Tiger Woods",
+      "runnerUp": "David Lingmerth, Jeff Maggert, Kevin Streelman",
+      "score": "275 (-13)",
+      "margin": "2 strokes; 2nd PLAYERS title in 78th PGA Tour victory"
+    },
+    {
+      "year": 2012,
+      "winner": "Matt Kuchar",
+      "runnerUp": "Rickie Fowler, Martin Laird, Zach Johnson, Ben Curtis",
+      "score": "275 (-13)",
+      "margin": "2 strokes"
+    },
+    {
+      "year": 2011,
+      "winner": "K.J. Choi",
+      "runnerUp": "David Toms",
+      "score": "276 (-12)",
+      "margin": "Par on 1st playoff hole at Island Green 17th"
+    },
+    {
+      "year": 2010,
+      "winner": "Tim Clark",
+      "runnerUp": "Robert Allenby",
+      "score": "272 (-16)",
+      "margin": "1 stroke; final-round 67 for maiden PGA Tour win"
+    },
+    {
+      "year": 2009,
+      "winner": "Henrik Stenson",
+      "runnerUp": "Ian Poulter",
+      "score": "276 (-12)",
+      "margin": "4 strokes; bogey-free 66 on Sunday"
+    },
+    {
+      "year": 2008,
+      "winner": "Sergio García",
+      "runnerUp": "Paul Goydos",
+      "score": "283 (-5)",
+      "margin": "Par on 1st playoff hole at 17th"
+    },
+    {
+      "year": 2007,
+      "winner": "Phil Mickelson",
+      "runnerUp": "Sergio García",
+      "score": "277 (-11)",
+      "margin": "2 strokes; maiden PLAYERS title"
+    },
+    {
+      "year": 2006,
+      "winner": "Stephen Ames",
+      "runnerUp": "Retief Goosen",
+      "score": "274 (-14)",
+      "margin": "6-stroke blowout victory in windy conditions"
+    },
+    {
+      "year": 2005,
+      "winner": "Fred Funk",
+      "runnerUp": "Luke Donald, Tom Lehman, Scott Verplank",
+      "score": "279 (-9)",
+      "margin": "1 stroke; oldest champion at age 48"
+    },
+    {
+      "year": 2004,
+      "winner": "Adam Scott",
+      "runnerUp": "Pádraig Harrington",
+      "score": "276 (-12)",
+      "margin": "1 stroke; 10-foot bogey putt on 18 to clinch title at age 23"
+    },
+    {
+      "year": 2003,
+      "winner": "Davis Love III",
+      "runnerUp": "Jay Haas, Pádraig Harrington",
+      "score": "271 (-17)",
+      "margin": "6 strokes; final-round 64 in cold and wind"
+    },
+    {
+      "year": 2002,
+      "winner": "Craig Perks",
+      "runnerUp": "Stephen Ames",
+      "score": "280 (-8)",
+      "margin": "2 strokes; chipped in on 16 and eagle on 18 with only 1 putt in final 3 holes"
+    },
+    {
+      "year": 2001,
+      "winner": "Tiger Woods",
+      "runnerUp": "Vijay Singh",
+      "score": "274 (-14)",
+      "margin": "1 stroke; famous 'better than most' 60-foot triple-break birdie putt on 17"
+    },
+    {
+      "year": 2000,
+      "winner": "Hal Sutton",
+      "runnerUp": "Tiger Woods",
+      "score": "278 (-10)",
+      "margin": "1 stroke; 'Be the right club today' approach to 18"
+    },
+    {
+      "year": 1999,
+      "winner": "David Duval",
+      "runnerUp": "Scott Gump",
+      "score": "285 (-3)",
+      "margin": "2 strokes; ascended to World No. 1"
+    },
+    {
+      "year": 1998,
+      "winner": "Justin Leonard",
+      "runnerUp": "Glen Day, Tom Lehman",
+      "score": "278 (-10)",
+      "margin": "2 strokes; rallied from 5 strokes back"
+    },
+    {
+      "year": 1997,
+      "winner": "Steve Elkington",
+      "runnerUp": "Scott Hoch",
+      "score": "272 (-16)",
+      "margin": "7 strokes; 2nd PLAYERS title"
+    },
+    {
+      "year": 1996,
+      "winner": "Fred Couples",
+      "runnerUp": "Colin Montgomerie, Tommy Tolles",
+      "score": "270 (-18)",
+      "margin": "4 strokes; 2nd PLAYERS title"
+    },
+    {
+      "year": 1995,
+      "winner": "Lee Janzen",
+      "runnerUp": "Bernhard Langer",
+      "score": "283 (-5)",
+      "margin": "1 stroke"
+    },
+    {
+      "year": 1994,
+      "winner": "Greg Norman",
+      "runnerUp": "Fuzzy Zoeller",
+      "score": "264 (-24)",
+      "margin": "Record 24-under 264 (63-67-67-67); lowest 72-hole score in tournament history"
+    },
+    {
+      "year": 1993,
+      "winner": "Nick Price",
+      "runnerUp": "Bernhard Langer",
+      "score": "270 (-18)",
+      "margin": "5 strokes"
+    },
+    {
+      "year": 1992,
+      "winner": "Davis Love III",
+      "runnerUp": "Ian Baker-Finch, Phil Blackmar, Nick Faldo, Tom Kite",
+      "score": "273 (-15)",
+      "margin": "4 strokes"
+    },
+    {
+      "year": 1991,
+      "winner": "Steve Elkington",
+      "runnerUp": "Paul Azinger",
+      "score": "276 (-12)",
+      "margin": "1 stroke; maiden PLAYERS title"
+    },
+    {
+      "year": 1990,
+      "winner": "Jodie Mudd",
+      "runnerUp": "Mark Calcavecchia",
+      "score": "278 (-10)",
+      "margin": "1 stroke"
+    }
+  ],
+  "sections": []
+}

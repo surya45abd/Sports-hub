@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "National Games Kho Kho",
+  "source": {
+    "url": "https://olympic.ind.in/",
+    "label": "Indian Olympic Association"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "National Games Gold Medal matches in Kho Kho.",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "Maharashtra (Men) / Maharashtra (Women)",
+      "runnerUp": "Railways (Men) / AAI (Women)",
+      "score": "28-24",
+      "margin": "37th National Games (Goa)"
+    },
+    {
+      "year": 2022,
+      "winner": "Maharashtra (Men) / Maharashtra (Women)",
+      "runnerUp": "Kerala (Men) / Odisha (Women)",
+      "score": "30-26",
+      "margin": "36th National Games (Gujarat)"
+    },
+    {
+      "year": 2015,
+      "winner": "Maharashtra (Men) / Maharashtra (Women)",
+      "runnerUp": "Kerala (Men) / Kerala (Women)",
+      "score": "26-20",
+      "margin": "35th National Games (Kerala)"
+    }
+  ]
+}

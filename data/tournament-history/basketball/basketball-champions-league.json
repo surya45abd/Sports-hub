@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "sport": "Basketball",
+  "tournament": "Basketball Champions League",
+  "source": {
+    "url": "https://www.championsleague.basketball/en/history",
+    "label": "FIBA Basketball Champions League Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Basketball Champions League (BCL) Final Four archive (2017–2024), tracking champions, runners-up, scores, venues, and Final Four MVPs.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Unicaja Málaga (ESP)",
+      "runnerUp": "Lenovo Tenerife (ESP)",
+      "score": "80-75",
+      "margin": "Belgrade Arena (Belgrade, Serbia); Kendrick Perry named Final Four MVP with 17 points"
+    },
+    {
+      "year": 2023,
+      "winner": "Telekom Baskets Bonn (GER)",
+      "runnerUp": "Hapoel Jerusalem (ISR)",
+      "score": "77-70",
+      "margin": "Palacio de Deportes José María Martín Carpena (Málaga); TJ Shorts scored 29 points for Final Four MVP"
+    },
+    {
+      "year": 2022,
+      "winner": "Lenovo Tenerife (ESP)",
+      "runnerUp": "BAXI Manresa (ESP)",
+      "score": "98-87",
+      "margin": "Bilbao Arena (Bilbao, Spain); Marcelinho Huertas recorded 13 points and 14 assists for Final Four MVP; second title for Tenerife"
+    },
+    {
+      "year": 2021,
+      "winner": "Hereda San Pablo Burgos (ESP)",
+      "runnerUp": "Pınar Karşıyaka (TUR)",
+      "score": "64-59",
+      "margin": "Trade Union Sport Palace (Nizhny Novgorod, Russia); Vítor Benite named Final Four MVP; Burgos defended title"
+    },
+    {
+      "year": 2020,
+      "winner": "Hereda San Pablo Burgos (ESP)",
+      "runnerUp": "AEK Athens (GRE)",
+      "score": "85-74",
+      "margin": "O.A.C.A. Olympic Indoor Hall (Athens); Thaddus McFadden scored 18 points for Final Four MVP; first title for Burgos"
+    },
+    {
+      "year": 2019,
+      "winner": "Segafredo Virtus Bologna (ITA)",
+      "runnerUp": "Iberostar Tenerife (ESP)",
+      "score": "73-61",
+      "margin": "Sportpaleis (Antwerp, Belgium); Kevin Punter scored 26 points for Final Four MVP"
+    },
+    {
+      "year": 2018,
+      "winner": "AEK Athens (GRE)",
+      "runnerUp": "Monaco (FRA)",
+      "score": "100-94",
+      "margin": "O.A.C.A. Olympic Indoor Hall (Athens); Mike Green named Final Four MVP before 18,000 roaring home fans"
+    },
+    {
+      "year": 2017,
+      "winner": "Iberostar Tenerife (ESP)",
+      "runnerUp": "Banvit (TUR)",
+      "score": "63-59",
+      "margin": "Pabellón Insular Santiago Martín (San Cristóbal de La Laguna); Marius Grigonis named Final Four MVP in inaugural BCL season"
+    }
+  ]
+}

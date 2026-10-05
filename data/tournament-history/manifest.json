@@ -1,0 +1,978 @@
+{
+  "schemaVersion": 1,
+  "recordSchema": [
+    "year",
+    "winner",
+    "runnerUp",
+    "score",
+    "margin"
+  ],
+  "tournamentCount": 193,
+  "tournaments": [
+    {
+      "sport": "Cricket",
+      "tournament": "Indian Premier League",
+      "file": "cricket/indian-premier-league.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "ICC Men's T20 World Cup",
+      "file": "cricket/icc-men-s-t20-world-cup.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "The Ashes",
+      "file": "cricket/the-ashes.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "ICC Cricket World Cup",
+      "file": "cricket/icc-cricket-world-cup.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "Big Bash League",
+      "file": "cricket/big-bash-league.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "ICC Champions Trophy",
+      "file": "cricket/icc-champions-trophy.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "Women's Premier League",
+      "file": "cricket/women-s-premier-league.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "Asia Cup",
+      "file": "cricket/asia-cup.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "County Championship",
+      "file": "cricket/county-championship.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "Pakistan Super League",
+      "file": "cricket/pakistan-super-league.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "Caribbean Premier League",
+      "file": "cricket/caribbean-premier-league.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "The Hundred",
+      "file": "cricket/the-hundred.json"
+    },
+    {
+      "sport": "Cricket",
+      "tournament": "Women's Cricket World Cup",
+      "file": "cricket/women-s-cricket-world-cup.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "FIFA World Cup",
+      "file": "football/fifa-world-cup.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "UEFA Champions League",
+      "file": "football/uefa-champions-league.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "Premier League",
+      "file": "football/premier-league.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "UEFA European Championship",
+      "file": "football/uefa-european-championship.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "La Liga",
+      "file": "football/la-liga.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "Copa America",
+      "file": "football/copa-america.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "UEFA Europa League",
+      "file": "football/uefa-europa-league.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "UEFA Conference League",
+      "file": "football/uefa-conference-league.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "Copa Libertadores",
+      "file": "football/copa-libertadores.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "FA Cup",
+      "file": "football/fa-cup.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "Bundesliga",
+      "file": "football/bundesliga.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "Serie A",
+      "file": "football/serie-a.json"
+    },
+    {
+      "sport": "Football",
+      "tournament": "FIFA Women's World Cup",
+      "file": "football/fifa-women-s-world-cup.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "NBA",
+      "file": "basketball/nba.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "WNBA",
+      "file": "basketball/wnba.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "FIBA Basketball World Cup",
+      "file": "basketball/fiba-basketball-world-cup.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "EuroLeague",
+      "file": "basketball/euroleague.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "NCAA March Madness",
+      "file": "basketball/ncaa-march-madness.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "Basketball Champions League",
+      "file": "basketball/basketball-champions-league.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "FIBA EuroBasket",
+      "file": "basketball/fiba-eurobasket.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "WNBA Commissioner's Cup",
+      "file": "basketball/wnba-commissioner-s-cup.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "Olympic Basketball",
+      "file": "basketball/olympic-basketball.json"
+    },
+    {
+      "sport": "Basketball",
+      "tournament": "EuroCup",
+      "file": "basketball/eurocup.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "Australian Open",
+      "file": "tennis/australian-open.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "Roland-Garros",
+      "file": "tennis/roland-garros.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "Wimbledon",
+      "file": "tennis/wimbledon.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "US Open",
+      "file": "tennis/us-open.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "ATP Finals",
+      "file": "tennis/atp-finals.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "Davis Cup",
+      "file": "tennis/davis-cup.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "BNP Paribas Open",
+      "file": "tennis/bnp-paribas-open.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "Miami Open",
+      "file": "tennis/miami-open.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "Billie Jean King Cup",
+      "file": "tennis/billie-jean-king-cup.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "WTA Finals",
+      "file": "tennis/wta-finals.json"
+    },
+    {
+      "sport": "Tennis",
+      "tournament": "Olympic Tennis",
+      "file": "tennis/olympic-tennis.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "BWF World Championships",
+      "file": "badminton/bwf-world-championships.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "Thomas Cup",
+      "file": "badminton/thomas-cup.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "Uber Cup",
+      "file": "badminton/uber-cup.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "BWF World Tour Finals",
+      "file": "badminton/bwf-world-tour-finals.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "All England Open",
+      "file": "badminton/all-england-open.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "Sudirman Cup",
+      "file": "badminton/sudirman-cup.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "Badminton Asia Championships",
+      "file": "badminton/badminton-asia-championships.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "Indonesia Open",
+      "file": "badminton/indonesia-open.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "Olympic Badminton",
+      "file": "badminton/olympic-badminton.json"
+    },
+    {
+      "sport": "Badminton",
+      "tournament": "Asian Games Badminton",
+      "file": "badminton/asian-games-badminton.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "FIH Hockey World Cup",
+      "file": "hockey/fih-hockey-world-cup.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "FIH Pro League",
+      "file": "hockey/fih-pro-league.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "FIH Indoor Hockey World Cup",
+      "file": "hockey/fih-indoor-hockey-world-cup.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "FIH Junior World Cup",
+      "file": "hockey/fih-junior-world-cup.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "FIH Nations Cup",
+      "file": "hockey/fih-nations-cup.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "FIH Hockey5s World Cup",
+      "file": "hockey/fih-hockey5s-world-cup.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "Olympic Hockey",
+      "file": "hockey/olympic-hockey.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "NCAA Field Hockey",
+      "file": "hockey/ncaa-field-hockey.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "Olympic Field Hockey",
+      "file": "hockey/olympic-field-hockey.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "EuroHockey Championships",
+      "file": "hockey/eurohockey-championships.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "Asian Champions Trophy",
+      "file": "hockey/asian-champions-trophy.json"
+    },
+    {
+      "sport": "Hockey",
+      "tournament": "NCAA Women's Field Hockey",
+      "file": "hockey/ncaa-women-s-field-hockey.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "Rugby World Cup",
+      "file": "rugby/rugby-world-cup.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "Six Nations",
+      "file": "rugby/six-nations.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "The Rugby Championship",
+      "file": "rugby/the-rugby-championship.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "Investec Champions Cup",
+      "file": "rugby/investec-champions-cup.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "Gallagher Premiership",
+      "file": "rugby/gallagher-premiership.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "United Rugby Championship",
+      "file": "rugby/united-rugby-championship.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "Women's Rugby World Cup",
+      "file": "rugby/women-s-rugby-world-cup.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "World Rugby Sevens Series",
+      "file": "rugby/world-rugby-sevens-series.json"
+    },
+    {
+      "sport": "Rugby",
+      "tournament": "Rugby Europe Championship",
+      "file": "rugby/rugby-europe-championship.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "Volleyball Nations League",
+      "file": "volleyball/volleyball-nations-league.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "World Championships",
+      "file": "volleyball/world-championships.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "Beach Pro Tour",
+      "file": "volleyball/beach-pro-tour.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "Olympic Volleyball",
+      "file": "volleyball/olympic-volleyball.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "CEV Champions League",
+      "file": "volleyball/cev-champions-league.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "FIVB Club World Championships",
+      "file": "volleyball/fivb-club-world-championships.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "European Volleyball Championship",
+      "file": "volleyball/european-volleyball-championship.json"
+    },
+    {
+      "sport": "Volleyball",
+      "tournament": "FIVB Beach Volleyball World Championships",
+      "file": "volleyball/fivb-beach-volleyball-world-championships.json"
+    },
+    {
+      "sport": "Formula 1",
+      "tournament": "Formula 1 World Championship",
+      "file": "formula-1/formula-1-world-championship.json"
+    },
+    {
+      "sport": "Formula 1",
+      "tournament": "Formula 2",
+      "file": "formula-1/formula-2.json"
+    },
+    {
+      "sport": "Formula 1",
+      "tournament": "Formula 3",
+      "file": "formula-1/formula-3.json"
+    },
+    {
+      "sport": "Formula 1",
+      "tournament": "F1 Academy",
+      "file": "formula-1/f1-academy.json"
+    },
+    {
+      "sport": "Formula 1",
+      "tournament": "MotoGP World Championship",
+      "file": "formula-1/motogp-world-championship.json"
+    },
+    {
+      "sport": "Formula 1",
+      "tournament": "Formula E World Championship",
+      "file": "formula-1/formula-e-world-championship.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "World Athletics Championships",
+      "file": "athletics/world-athletics-championships.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "Diamond League",
+      "file": "athletics/diamond-league.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "World Indoor Championships",
+      "file": "athletics/world-indoor-championships.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "World Cross Country Championships",
+      "file": "athletics/world-cross-country-championships.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "World Athletics Relays",
+      "file": "athletics/world-athletics-relays.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "European Athletics Championships",
+      "file": "athletics/european-athletics-championships.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "World Athletics Indoor Tour",
+      "file": "athletics/world-athletics-indoor-tour.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "World Athletics Continental Tour",
+      "file": "athletics/world-athletics-continental-tour.json"
+    },
+    {
+      "sport": "Athletics",
+      "tournament": "European Athletics Indoor Championships",
+      "file": "athletics/european-athletics-indoor-championships.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "MLB World Series",
+      "file": "baseball/mlb-world-series.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "World Baseball Classic",
+      "file": "baseball/world-baseball-classic.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "Little League World Series",
+      "file": "baseball/little-league-world-series.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "NCAA Men's College World Series",
+      "file": "baseball/ncaa-men-s-college-world-series.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "NCAA Men's Division II World Series",
+      "file": "baseball/ncaa-men-s-division-ii-world-series.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "NCAA Men's Division III World Series",
+      "file": "baseball/ncaa-men-s-division-iii-world-series.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "MLB All-Star Game",
+      "file": "baseball/mlb-all-star-game.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "Nippon Professional Baseball",
+      "file": "baseball/nippon-professional-baseball.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "Korea Baseball Organization",
+      "file": "baseball/korea-baseball-organization.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "WBSC Premier12",
+      "file": "baseball/wbsc-premier12.json"
+    },
+    {
+      "sport": "Baseball",
+      "tournament": "Caribbean Series",
+      "file": "baseball/caribbean-series.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "The Masters",
+      "file": "golf/the-masters.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "PGA Championship",
+      "file": "golf/pga-championship.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "U.S. Open",
+      "file": "golf/u-s-open.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "The Open",
+      "file": "golf/the-open.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "Ryder Cup",
+      "file": "golf/ryder-cup.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "Presidents Cup",
+      "file": "golf/presidents-cup.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "THE PLAYERS Championship",
+      "file": "golf/the-players-championship.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "Solheim Cup",
+      "file": "golf/solheim-cup.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "LPGA Championship",
+      "file": "golf/lpga-championship.json"
+    },
+    {
+      "sport": "Golf",
+      "tournament": "FedExCup Playoffs",
+      "file": "golf/fedexcup-playoffs.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "World Boxing Championships",
+      "file": "boxing/world-boxing-championships.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "Olympic Boxing",
+      "file": "boxing/olympic-boxing.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "WBC Championship Fights",
+      "file": "boxing/wbc-championship-fights.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "World Boxing Cup",
+      "file": "boxing/world-boxing-cup.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "Golden Gloves",
+      "file": "boxing/golden-gloves.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "Asian Boxing Championships",
+      "file": "boxing/asian-boxing-championships.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "European Boxing Championships",
+      "file": "boxing/european-boxing-championships.json"
+    },
+    {
+      "sport": "Boxing",
+      "tournament": "Olympic Boxing Qualifiers",
+      "file": "boxing/olympic-boxing-qualifiers.json"
+    },
+    {
+      "sport": "Wrestling",
+      "tournament": "Senior World Championships",
+      "file": "wrestling/senior-world-championships.json"
+    },
+    {
+      "sport": "Wrestling",
+      "tournament": "U23 World Championships",
+      "file": "wrestling/u23-world-championships.json"
+    },
+    {
+      "sport": "Wrestling",
+      "tournament": "U20 World Championships",
+      "file": "wrestling/u20-world-championships.json"
+    },
+    {
+      "sport": "Wrestling",
+      "tournament": "Asian Championships",
+      "file": "wrestling/asian-championships.json"
+    },
+    {
+      "sport": "Wrestling",
+      "tournament": "European Championships",
+      "file": "wrestling/european-championships.json"
+    },
+    {
+      "sport": "Wrestling",
+      "tournament": "Olympic Wrestling",
+      "file": "wrestling/olympic-wrestling.json"
+    },
+    {
+      "sport": "Wrestling",
+      "tournament": "NCAA Wrestling Championships",
+      "file": "wrestling/ncaa-wrestling-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "World Aquatics Championships",
+      "file": "swimming/world-aquatics-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "World Aquatics Swimming World Cup",
+      "file": "swimming/world-aquatics-swimming-world-cup.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "Olympic Swimming",
+      "file": "swimming/olympic-swimming.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "NCAA Swimming Championships",
+      "file": "swimming/ncaa-swimming-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "World Aquatics Open Water Championships",
+      "file": "swimming/world-aquatics-open-water-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "World Aquatics Junior Championships",
+      "file": "swimming/world-aquatics-junior-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "European Aquatics Championships",
+      "file": "swimming/european-aquatics-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "Pan Pacific Swimming Championships",
+      "file": "swimming/pan-pacific-swimming-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "Asian Swimming Championships",
+      "file": "swimming/asian-swimming-championships.json"
+    },
+    {
+      "sport": "Swimming",
+      "tournament": "NCAA Women's Swimming Championships",
+      "file": "swimming/ncaa-women-s-swimming-championships.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "Tour de France",
+      "file": "cycling/tour-de-france.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "Giro d'Italia",
+      "file": "cycling/giro-d-italia.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "La Vuelta",
+      "file": "cycling/la-vuelta.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "UCI Road World Championships",
+      "file": "cycling/uci-road-world-championships.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "Paris-Roubaix",
+      "file": "cycling/paris-roubaix.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "UCI Track Cycling World Championships",
+      "file": "cycling/uci-track-cycling-world-championships.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "UCI Mountain Bike World Championships",
+      "file": "cycling/uci-mountain-bike-world-championships.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "UCI BMX Racing World Championships",
+      "file": "cycling/uci-bmx-racing-world-championships.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "Milan-San Remo",
+      "file": "cycling/milan-san-remo.json"
+    },
+    {
+      "sport": "Cycling",
+      "tournament": "Liège-Bastogne-Liège",
+      "file": "cycling/liege-bastogne-liege.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "World Table Tennis Championships",
+      "file": "table-tennis/world-table-tennis-championships.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "WTT Series",
+      "file": "table-tennis/wtt-series.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "ITTF World Cup",
+      "file": "table-tennis/ittf-world-cup.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "Olympic Table Tennis",
+      "file": "table-tennis/olympic-table-tennis.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "Asian Table Tennis Championships",
+      "file": "table-tennis/asian-table-tennis-championships.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "WTT Champions",
+      "file": "table-tennis/wtt-champions.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "ITTF Men's and Women's World Cup",
+      "file": "table-tennis/ittf-men-s-and-women-s-world-cup.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "European Table Tennis Championships",
+      "file": "table-tennis/european-table-tennis-championships.json"
+    },
+    {
+      "sport": "Table Tennis",
+      "tournament": "Asian Games Table Tennis",
+      "file": "table-tennis/asian-games-table-tennis.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Ultimate Kho Kho League",
+      "file": "kho-kho/ultimate-kho-kho-league.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Kho Kho World Cup 2025",
+      "file": "kho-kho/kho-kho-world-cup-2025.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Senior National Kho Kho Championship",
+      "file": "kho-kho/senior-national-kho-kho-championship.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Junior National Kho Kho Championship",
+      "file": "kho-kho/junior-national-kho-kho-championship.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Asian Kho Kho Championship",
+      "file": "kho-kho/asian-kho-kho-championship.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Sub-Junior National Kho Kho Championship",
+      "file": "kho-kho/sub-junior-national-kho-kho-championship.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Khelo India Youth Games Kho Kho",
+      "file": "kho-kho/khelo-india-youth-games-kho-kho.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Ultimate Kho Kho Season 2",
+      "file": "kho-kho/ultimate-kho-kho-season-2.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "National Games Kho Kho",
+      "file": "kho-kho/national-games-kho-kho.json"
+    },
+    {
+      "sport": "Kho-kho",
+      "tournament": "Kho Kho Asian Championship",
+      "file": "kho-kho/kho-kho-asian-championship.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "Pro Kabaddi League",
+      "file": "kabaddi/pro-kabaddi-league.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "Kabaddi World Cup",
+      "file": "kabaddi/kabaddi-world-cup.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "Asian Kabaddi Championship",
+      "file": "kabaddi/asian-kabaddi-championship.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "National Kabaddi Championship",
+      "file": "kabaddi/national-kabaddi-championship.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "Asian Games Kabaddi",
+      "file": "kabaddi/asian-games-kabaddi.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "Yuva Kabaddi Series",
+      "file": "kabaddi/yuva-kabaddi-series.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "Women's Kabaddi World Cup",
+      "file": "kabaddi/women-s-kabaddi-world-cup.json"
+    },
+    {
+      "sport": "Kabaddi",
+      "tournament": "Junior National Kabaddi Championship",
+      "file": "kabaddi/junior-national-kabaddi-championship.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "World Chess Championship",
+      "file": "chess/world-chess-championship.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "FIDE Candidates Tournament",
+      "file": "chess/fide-candidates-tournament.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "Chess Olympiad",
+      "file": "chess/chess-olympiad.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "FIDE World Cup",
+      "file": "chess/fide-world-cup.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "Tata Steel Chess Tournament",
+      "file": "chess/tata-steel-chess-tournament.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "Norway Chess",
+      "file": "chess/norway-chess.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "FIDE Grand Swiss",
+      "file": "chess/fide-grand-swiss.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "Sinquefield Cup",
+      "file": "chess/sinquefield-cup.json"
+    },
+    {
+      "sport": "Chess",
+      "tournament": "World Rapid and Blitz Championships",
+      "file": "chess/world-rapid-and-blitz-championships.json"
+    }
+  ]
+}

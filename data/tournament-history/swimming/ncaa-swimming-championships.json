@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "NCAA Swimming Championships",
+  "source": {
+    "url": "https://www.ncaa.com/championships/swimming-men/d1",
+    "label": "NCAA Men's Swimming"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "NCAA Division I Men's Swimming & Diving Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Arizona State Sun Devils",
+      "runnerUp": "California Golden Bears",
+      "score": "523.5 - 444.5 pts",
+      "margin": "Indianapolis; Bob Bowman & Léon Marchand led ASU to inaugural national team title"
+    },
+    {
+      "year": 2023,
+      "winner": "California Golden Bears",
+      "runnerUp": "Arizona State",
+      "score": "482.0 - 430.0 pts",
+      "margin": "Minneapolis; Dave Durden led Cal to repeat title"
+    },
+    {
+      "year": 2022,
+      "winner": "California Golden Bears",
+      "runnerUp": "Texas Longhorns",
+      "score": "487.5 - 436.5 pts",
+      "margin": "Atlanta, GA"
+    },
+    {
+      "year": 2021,
+      "winner": "Texas Longhorns",
+      "runnerUp": "California",
+      "score": "595.0 - 568.0 pts",
+      "margin": "Greensboro, NC; Eddie Reese won 15th NCAA title"
+    }
+  ]
+}

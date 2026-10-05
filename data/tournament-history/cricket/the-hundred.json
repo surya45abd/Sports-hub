@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cricket",
+  "tournament": "The Hundred",
+  "source": {
+    "url": "https://www.thehundred.com/info/past-winners",
+    "label": "Official The Hundred Finals Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Full tournament history from inception in 2021 to 2026, presented with separate Men's and Women's competitions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Competition",
+      "archiveUrl": "https://www.thehundred.com/info/past-winners",
+      "archiveLabel": "Men's competition archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Manchester Super Giants",
+          "runnerUp": "Trent Rockets",
+          "score": "168/5 (95 balls) / 165/7 (100 balls)",
+          "margin": "5 wickets"
+        },
+        {
+          "year": 2025,
+          "winner": "Oval Invincibles",
+          "runnerUp": "Northern Superchargers",
+          "score": "155/6 (100 balls) / 129/9 (100 balls)",
+          "margin": "26 runs"
+        },
+        {
+          "year": 2024,
+          "winner": "Oval Invincibles",
+          "runnerUp": "Southern Brave",
+          "score": "147/9 (100 balls) / 130/8 (100 balls)",
+          "margin": "17 runs"
+        },
+        {
+          "year": 2023,
+          "winner": "Oval Invincibles",
+          "runnerUp": "Manchester Originals",
+          "score": "161/5 (100 balls) / 147/6 (100 balls)",
+          "margin": "14 runs"
+        },
+        {
+          "year": 2022,
+          "winner": "Trent Rockets",
+          "runnerUp": "Manchester Originals",
+          "score": "121/8 (98 balls) / 120/9 (100 balls)",
+          "margin": "2 wickets"
+        },
+        {
+          "year": 2021,
+          "winner": "Southern Brave",
+          "runnerUp": "Birmingham Phoenix",
+          "score": "168/5 (100 balls) / 136/5 (100 balls)",
+          "margin": "32 runs"
+        }
+      ]
+    },
+    {
+      "title": "Women's Competition",
+      "archiveUrl": "https://www.thehundred.com/info/past-winners",
+      "archiveLabel": "Women's competition archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Trent Rockets",
+          "runnerUp": "Sunrisers Leeds",
+          "score": "142/2 (88 balls) / 140/6 (100 balls)",
+          "margin": "8 wickets"
+        },
+        {
+          "year": 2025,
+          "winner": "Northern Superchargers",
+          "runnerUp": "Southern Brave",
+          "score": "135/3 (92 balls) / 132/7 (100 balls)",
+          "margin": "7 wickets"
+        },
+        {
+          "year": 2024,
+          "winner": "London Spirit",
+          "runnerUp": "Welsh Fire",
+          "score": "118/6 (98 balls) / 115/8 (100 balls)",
+          "margin": "4 wickets"
+        },
+        {
+          "year": 2023,
+          "winner": "Southern Brave",
+          "runnerUp": "Northern Superchargers",
+          "score": "139/6 (100 balls) / 105 (94 balls)",
+          "margin": "34 runs"
+        },
+        {
+          "year": 2022,
+          "winner": "Oval Invincibles",
+          "runnerUp": "Southern Brave",
+          "score": "105/5 (94 balls) / 101/7 (100 balls)",
+          "margin": "5 wickets"
+        },
+        {
+          "year": 2021,
+          "winner": "Oval Invincibles",
+          "runnerUp": "Southern Brave",
+          "score": "121/6 (98 balls) / 73 (85 balls)",
+          "margin": "48 runs"
+        }
+      ]
+    }
+  ]
+}

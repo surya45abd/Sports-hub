@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "WBC Championship Fights",
+  "source": {
+    "url": "https://wbcboxing.com/",
+    "label": "World Boxing Council Official Champions & Bouts Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Comprehensive chronicle of WBC World Championship bouts and legendary undisputed title fights (1971–2026).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Heavyweight Championship Fights",
+      "archiveUrl": "https://wbcboxing.com/",
+      "sourceUrl": "https://wbcboxing.com/",
+      "sourceLabel": "Official WBC Heavyweight Archive",
+      "archiveLabel": "Full WBC Heavyweight Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Oleksandr Usyk (UKR)",
+          "runnerUp": "Tyson Fury (GBR)",
+          "score": "Split Decision (115-112, 113-114, 114-113)",
+          "margin": "Kingdom Arena (Riyadh); Usyk scored dramatic 9th-round knockdown to become first undisputed four-belt heavyweight champion in history"
+        },
+        {
+          "year": 2022,
+          "winner": "Tyson Fury (GBR)",
+          "runnerUp": "Dillian Whyte (GBR)",
+          "score": "TKO Round 6 (2:59)",
+          "margin": "Wembley Stadium (London); 94,000 spectators; devastating right uppercut retained WBC and lineal crowns"
+        },
+        {
+          "year": 2021,
+          "winner": "Tyson Fury (GBR)",
+          "runnerUp": "Deontay Wilder (USA)",
+          "score": "KO Round 11 (1:10)",
+          "margin": "T-Mobile Arena (Las Vegas); Ring Magazine Fight of the Year; both fighters scored multiple knockdowns in iconic heavyweight war"
+        },
+        {
+          "year": 2020,
+          "winner": "Tyson Fury (GBR)",
+          "runnerUp": "Deontay Wilder (USA)",
+          "score": "TKO Round 7 (1:39)",
+          "margin": "MGM Grand (Las Vegas); Fury dropped Wilder in rounds 3 and 5 before corner threw in the towel"
+        },
+        {
+          "year": 2018,
+          "winner": "Deontay Wilder (USA) / Tyson Fury (GBR) [Draw]",
+          "runnerUp": "Split Draw (115-111, 112-114, 113-113)",
+          "score": "Split Draw after 12 rounds",
+          "margin": "Staples Center (Los Angeles); Wilder retained WBC belt; Fury survived dramatic 12th-round knockdown"
+        },
+        {
+          "year": 2015,
+          "winner": "Deontay Wilder (USA)",
+          "runnerUp": "Bermane Stiverne (CAN)",
+          "score": "Unanimous Decision (120-107, 119-108, 118-109)",
+          "margin": "MGM Grand (Las Vegas); Wilder captured WBC heavyweight championship, first American heavyweight titlist since 2007"
+        },
+        {
+          "year": 2012,
+          "winner": "Vitali Klitschko (UKR)",
+          "runnerUp": "Dereck Chisora (GBR)",
+          "score": "Unanimous Decision (118-110, 118-110, 119-111)",
+          "margin": "Olympiahalle (Munich); Klitschko defended WBC crown despite suffering torn left shoulder ligament in round 3"
+        },
+        {
+          "year": 2004,
+          "winner": "Vitali Klitschko (UKR)",
+          "runnerUp": "Corrie Sanders (RSA)",
+          "score": "TKO Round 8 (2:46)",
+          "margin": "Staples Center (Los Angeles); Klitschko captured vacant WBC heavyweight belt"
+        },
+        {
+          "year": 2002,
+          "winner": "Lennox Lewis (GBR)",
+          "runnerUp": "Mike Tyson (USA)",
+          "score": "KO Round 8 (2:25)",
+          "margin": "Pyramid Arena (Memphis); Lewis retained undisputed heavyweight championship in richest bout in boxing history at the time"
+        },
+        {
+          "year": 1997,
+          "winner": "Evander Holyfield (USA)",
+          "runnerUp": "Mike Tyson (USA)",
+          "score": "Disqualification Round 3",
+          "margin": "MGM Grand (Las Vegas); infamous 'Bite Fight' resulted in Tyson's immediate disqualification"
+        },
+        {
+          "year": 1996,
+          "winner": "Evander Holyfield (USA)",
+          "runnerUp": "Mike Tyson (USA)",
+          "score": "TKO Round 11 (0:37)",
+          "margin": "MGM Grand (Las Vegas); Holyfield pulled off colossal 25-to-1 upset to reclaim heavyweight crown"
+        },
+        {
+          "year": 1974,
+          "winner": "Muhammad Ali (USA)",
+          "runnerUp": "George Foreman (USA)",
+          "score": "KO Round 8 (2:58)",
+          "margin": "Stade du 20 Mai (Kinshasa, Zaire); 'The Rumble in the Jungle'; Ali deployed historic 'rope-a-dope' to regain world heavyweight crown"
+        },
+        {
+          "year": 1971,
+          "winner": "Joe Frazier (USA)",
+          "runnerUp": "Muhammad Ali (USA)",
+          "score": "Unanimous Decision (9-6, 11-4, 8-6)",
+          "margin": "Madison Square Garden (New York); 'The Fight of the Century'; Frazier floored Ali with a thunderous 15th-round left hook"
+        }
+      ]
+    },
+    {
+      "title": "Pound-for-Pound & Multi-Division Mega Fights",
+      "archiveUrl": "https://wbcboxing.com/",
+      "sourceUrl": "https://wbcboxing.com/",
+      "sourceLabel": "Official WBC Multi-Division Archive",
+      "archiveLabel": "Full WBC Super Fights Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Canelo Álvarez (MEX)",
+          "runnerUp": "Jaime Munguía (MEX)",
+          "score": "Unanimous Decision (117-110, 116-111, 115-112)",
+          "margin": "T-Mobile Arena (Las Vegas); Canelo scored 4th-round knockdown to defend undisputed super middleweight championship"
+        },
+        {
+          "year": 2023,
+          "winner": "Terence Crawford (USA)",
+          "runnerUp": "Errol Spence Jr. (USA)",
+          "score": "TKO Round 9 (2:32)",
+          "margin": "T-Mobile Arena (Las Vegas); Crawford became first male fighter in four-belt era to achieve undisputed status in two weight classes"
+        },
+        {
+          "year": 2022,
+          "winner": "Canelo Álvarez (MEX)",
+          "runnerUp": "Gennady Golovkin (KAZ)",
+          "score": "Unanimous Decision (116-112, 115-113, 115-113)",
+          "margin": "T-Mobile Arena (Las Vegas); settled acclaimed trilogy in defense of undisputed super middleweight belts"
+        },
+        {
+          "year": 2017,
+          "winner": "Canelo Álvarez (MEX) / Gennady Golovkin (KAZ) [Draw]",
+          "runnerUp": "Split Draw (118-110, 114-114, 113-115)",
+          "score": "Split Draw after 12 rounds",
+          "margin": "T-Mobile Arena (Las Vegas); gripping middleweight championship battle ended in contentious split draw"
+        },
+        {
+          "year": 2015,
+          "winner": "Floyd Mayweather Jr. (USA)",
+          "runnerUp": "Manny Pacquiao (PHI)",
+          "score": "Unanimous Decision (118-110, 116-112, 116-112)",
+          "margin": "MGM Grand (Las Vegas); 'The Fight of the Century'; Mayweather unified WBC, WBO and WBA welterweight titles generating record $600M gross"
+        },
+        {
+          "year": 2013,
+          "winner": "Floyd Mayweather Jr. (USA)",
+          "runnerUp": "Canelo Álvarez (MEX)",
+          "score": "Majority Decision (117-111, 116-112, 114-114)",
+          "margin": "MGM Grand (Las Vegas); Mayweather delivered masterclass performance to capture WBC super welterweight belt"
+        },
+        {
+          "year": 2007,
+          "winner": "Floyd Mayweather Jr. (USA)",
+          "runnerUp": "Oscar De La Hoya (USA)",
+          "score": "Split Decision (116-112, 115-113, 113-115)",
+          "margin": "MGM Grand (Las Vegas); shattered all-time PPV records with 2.48 million buys as Mayweather captured WBC title"
+        },
+        {
+          "year": 1987,
+          "winner": "Sugar Ray Leonard (USA)",
+          "runnerUp": "Marvelous Marvin Hagler (USA)",
+          "score": "Split Decision (118-110, 115-113, 113-115)",
+          "margin": "Caesars Palace (Las Vegas); 'The Super Fight'; Leonard ended Hagler's 7-year middleweight reign in legendary tactical duel"
+        }
+      ]
+    }
+  ]
+}

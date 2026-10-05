@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "sport": "Badminton",
+  "tournament": "Asian Games Badminton",
+  "source": {
+    "url": "https://www.hangzhou2022.cn/information/",
+    "label": "Olympic Council of Asia Official Asian Games Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Asian Games Badminton verified champions archive across Men's Singles, Women's Singles, and Team Events (1998–2023).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Singles",
+      "archiveUrl": "https://olympics.com/en/news/asian-games-badminton-history-medals-winners",
+      "sourceUrl": "https://www.ocagames.com/",
+      "sourceLabel": "OCA Asian Games Men's Singles Archive",
+      "archiveLabel": "Asian Games Men's Singles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Li Shifeng (CHN)",
+          "runnerUp": "Shi Yuqi (CHN)",
+          "score": "23-21, 21-13",
+          "margin": "Binjiang Gymnasium (Hangzhou); all-Chinese final won by All England champion Li"
+        },
+        {
+          "year": 2018,
+          "winner": "Jonatan Christie (INA)",
+          "runnerUp": "Chou Tien-chen (TPE)",
+          "score": "21-18, 20-22, 21-15",
+          "margin": "Istora Gelora Bung Karno (Jakarta); 'Jojo' celebrated gold by taking off shirt in euphoric home arena"
+        },
+        {
+          "year": 2014,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Chen Long (CHN)",
+          "score": "12-21, 21-16, 21-16",
+          "margin": "Gyeyang Gymnasium (Incheon); Lin Dan defended Asian Games crown in 82-minute epic over Chen Long"
+        },
+        {
+          "year": 2010,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "21-13, 15-21, 21-10",
+          "margin": "Tianhe Gymnasium (Guangzhou); 'Super Dan' completed Career Super Grand Slam before home fans"
+        },
+        {
+          "year": 2006,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Lin Dan (CHN)",
+          "score": "21-15, 22-20",
+          "margin": "Aspire Dome (Doha); Olympic champion Taufik defended Asian Games gold over world No. 1 Lin Dan"
+        },
+        {
+          "year": 2002,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Lee Hyun-il (KOR)",
+          "score": "15-7, 15-9",
+          "margin": "Gangseo Gymnasium (Busan); Taufik dominated Korean home favourite to claim gold"
+        },
+        {
+          "year": 1998,
+          "winner": "Dong Jiong (CHN)",
+          "runnerUp": "Hendrawan (INA)",
+          "score": "17-14, 10-15, 15-8",
+          "margin": "Thammasat University (Bangkok); Dong won 3-game battle over future world champion Hendrawan"
+        }
+      ]
+    },
+    {
+      "title": "Women's Singles",
+      "archiveUrl": "https://olympics.com/en/news/asian-games-badminton-history-medals-winners",
+      "sourceUrl": "https://www.ocagames.com/",
+      "sourceLabel": "OCA Asian Games Women's Singles Archive",
+      "archiveLabel": "Asian Games Women's Singles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "An Se-young (KOR)",
+          "runnerUp": "Chen Yufei (CHN)",
+          "score": "21-18, 17-21, 21-8",
+          "margin": "Hangzhou; An overcame knee injury in decider to claim gold and complete double (singles + team)"
+        },
+        {
+          "year": 2018,
+          "winner": "Tai Tzu-ying (TPE)",
+          "runnerUp": "P. V. Sindhu (IND)",
+          "score": "21-13, 21-16",
+          "margin": "Jakarta; Tai won Chinese Taipei's first ever badminton Asian Games gold; Sindhu took silver"
+        },
+        {
+          "year": 2014,
+          "winner": "Wang Yihan (CHN)",
+          "runnerUp": "Li Xuerui (CHN)",
+          "score": "11-21, 21-17, 21-7",
+          "margin": "Incheon; Wang came from behind to defeat reigning Olympic champion Li Xuerui"
+        },
+        {
+          "year": 2010,
+          "winner": "Wang Shixian (CHN)",
+          "runnerUp": "Wang Xin (CHN)",
+          "score": "21-15, 21-14",
+          "margin": "Guangzhou; 20-year-old Wang Shixian won on home soil in straight games"
+        },
+        {
+          "year": 2006,
+          "winner": "Wang Chen (HKG)",
+          "runnerUp": "Yip Pui Yin (HKG)",
+          "score": "21-14, 22-20",
+          "margin": "Doha; historic all-Hong Kong women's singles final"
+        },
+        {
+          "year": 2002,
+          "winner": "Zhou Mi (CHN)",
+          "runnerUp": "Gong Ruina (CHN)",
+          "score": "11-1, 11-1",
+          "margin": "Busan; dominant straight-sets final for Zhou"
+        },
+        {
+          "year": 1998,
+          "winner": "Kanako Yonekura (JPN)",
+          "runnerUp": "Gong Zhichao (CHN)",
+          "score": "1-11, 11-5, 11-6",
+          "margin": "Bangkok; Yonekura rallied from losing first set 1-11 to stun Olympic champion Gong"
+        }
+      ]
+    }
+  ]
+}

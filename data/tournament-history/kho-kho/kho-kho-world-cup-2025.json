@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "Kho Kho World Cup 2025",
+  "source": {
+    "url": "https://khokhofederation.in/",
+    "label": "Kho Kho Federation of India"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Inaugural Kho Kho World Cup (Jan 2025, New Delhi) and international test series records.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "India (Men & Women)",
+      "runnerUp": "Nepal / England",
+      "score": "Inaugural Championship",
+      "margin": "Indira Gandhi Indoor Arena (New Delhi); 24 nations competed"
+    },
+    {
+      "year": 2024,
+      "winner": "India (Men's Test Series)",
+      "runnerUp": "England",
+      "score": "3-0 series sweep",
+      "margin": "London International Series; Pratik Waikar captained Indian squad"
+    },
+    {
+      "year": 2023,
+      "winner": "India (International Challenge)",
+      "runnerUp": "Nepal",
+      "score": "42-20",
+      "margin": "Kathmandu; Sachin Bhargo scored 14 attack points"
+    }
+  ]
+}

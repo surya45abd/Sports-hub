@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "sport": "Rugby",
+  "tournament": "Women's Rugby World Cup",
+  "source": {
+    "url": "https://www.rugbyworldcup.com/2025/en/past-tournaments",
+    "label": "Official Rugby World Cup history"
+  },
+  "verificationSources": [
+    "https://www.world.rugby/news/34764/womens-rugby-world-cup-a-potted-history?lang=en",
+    "https://en.wikipedia.org/wiki/List_of_Women%27s_Rugby_World_Cup_finals"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete history of all ten editions, 1991–2025. The 1991 and 1994 winners were retroactively recognized by World Rugby. The event officially called Rugby World Cup 2021 was postponed and played in 2022.",
+  "records": [
+    { "year": 2025, "winner": "England", "runnerUp": "Canada", "score": "33-13", "margin": "" },
+    { "year": 2021, "winner": "New Zealand", "runnerUp": "England", "score": "34-31", "margin": "Played in 2022" },
+    { "year": 2017, "winner": "New Zealand", "runnerUp": "England", "score": "41-32", "margin": "" },
+    { "year": 2014, "winner": "England", "runnerUp": "Canada", "score": "21-9", "margin": "" },
+    { "year": 2010, "winner": "New Zealand", "runnerUp": "England", "score": "13-10", "margin": "" },
+    { "year": 2006, "winner": "New Zealand", "runnerUp": "England", "score": "25-17", "margin": "" },
+    { "year": 2002, "winner": "New Zealand", "runnerUp": "England", "score": "19-9", "margin": "" },
+    { "year": 1998, "winner": "New Zealand", "runnerUp": "United States", "score": "44-12", "margin": "" },
+    { "year": 1994, "winner": "England", "runnerUp": "United States", "score": "38-23", "margin": "" },
+    { "year": 1991, "winner": "United States", "runnerUp": "England", "score": "19-6", "margin": "" }
+  ],
+  "candidateRecords": []
+}

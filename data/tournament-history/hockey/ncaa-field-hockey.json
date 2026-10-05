@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "NCAA Field Hockey",
+  "source": {
+    "url": "https://www.ncaa.com/history/fieldhockey/d1",
+    "label": "NCAA Division I Field Hockey"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "NCAA Division I National Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "North Carolina Tar Heels",
+      "runnerUp": "Northwestern",
+      "score": "2-1",
+      "margin": "Ann Arbor; 24-year-old coach Erin Matson won back-to-back titles"
+    },
+    {
+      "year": 2023,
+      "winner": "North Carolina Tar Heels",
+      "runnerUp": "Northwestern",
+      "score": "1-1 (3-2 shoot-out)",
+      "margin": "Chapel Hill; historic first-year coach championship for Matson"
+    },
+    {
+      "year": 2022,
+      "winner": "North Carolina Tar Heels",
+      "runnerUp": "Northwestern",
+      "score": "2-1",
+      "margin": "Storrs, CT; Tar Heels finished undefeated 21-0"
+    },
+    {
+      "year": 2021,
+      "winner": "Northwestern Wildcats",
+      "runnerUp": "Liberty",
+      "score": "2-0",
+      "margin": "Ann Arbor, MI; Northwestern's maiden national title"
+    },
+    {
+      "year": 2020,
+      "winner": "North Carolina Tar Heels",
+      "runnerUp": "Michigan",
+      "score": "4-3 (OT)",
+      "margin": "Spring 2021 Covid championship"
+    }
+  ]
+}

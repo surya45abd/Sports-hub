@@ -1,0 +1,176 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Cricket",
+    "tournament":  "Indian Premier League",
+    "source":  {
+                   "url":  "https://en.wikipedia.org/wiki/List_of_Indian_Premier_League_seasons_and_results",
+                   "label":  "Historical results archive"
+               },
+    "verificationStatus":  "verified",
+    "records":  [
+                    {
+                        "year":  2008,
+                        "winner":  "Rajasthan Royals",
+                        "runnerUp":  "Chennai Super Kings",
+                        "score":  "164/7 (20 overs) / 163/5 (20 overs)",
+                        "margin":  "3 wickets"
+                    },
+                    {
+                        "year":  2009,
+                        "winner":  "Deccan Chargers",
+                        "runnerUp":  "Royal Challengers Bangalore",
+                        "score":  "143/6 (20 overs) / 137/9 (20 overs)",
+                        "margin":  "6 runs"
+                    },
+                    {
+                        "year":  2010,
+                        "winner":  "Chennai Super Kings",
+                        "runnerUp":  "Mumbai Indians",
+                        "score":  "168/5 (20 overs) / 146/9 (20 overs)",
+                        "margin":  "22 runs"
+                    },
+                    {
+                        "year":  2011,
+                        "winner":  "Chennai Super Kings",
+                        "runnerUp":  "Royal Challengers Bangalore",
+                        "score":  "205/5 (20 overs) / 147/8 (20 overs)",
+                        "margin":  "58 runs"
+                    },
+                    {
+                        "year":  2012,
+                        "winner":  "Kolkata Knight Riders",
+                        "runnerUp":  "Chennai Super Kings",
+                        "score":  "192/5 (19.4 overs) / 190/3 (20 overs)",
+                        "margin":  "5 wickets"
+                    },
+                    {
+                        "year":  2013,
+                        "winner":  "Mumbai Indians",
+                        "runnerUp":  "Chennai Super Kings",
+                        "score":  "148/9 (20 overs) / 125/9 (20 overs)",
+                        "margin":  "23 runs"
+                    },
+                    {
+                        "year":  2014,
+                        "winner":  "Kolkata Knight Riders",
+                        "runnerUp":  "Kings XI Punjab",
+                        "score":  "200/7 (19.3 overs) / 199/4 (20 overs)",
+                        "margin":  "3 wickets"
+                    },
+                    {
+                        "year":  2015,
+                        "winner":  "Mumbai Indians",
+                        "runnerUp":  "Chennai Super Kings",
+                        "score":  "202/5 (20 overs) / 161/8 (20 overs)",
+                        "margin":  "41 runs"
+                    },
+                    {
+                        "year":  2016,
+                        "winner":  "Sunrisers Hyderabad",
+                        "runnerUp":  "Royal Challengers Bangalore",
+                        "score":  "208/7 (20 overs) / 200/7 (20 overs)",
+                        "margin":  "8 runs"
+                    },
+                    {
+                        "year":  2017,
+                        "winner":  "Mumbai Indians",
+                        "runnerUp":  "Rising Pune Supergiant",
+                        "score":  "129/8 (20 overs) / 128/6 (20 overs)",
+                        "margin":  "1 run"
+                    },
+                    {
+                        "year":  2018,
+                        "winner":  "Chennai Super Kings",
+                        "runnerUp":  "Sunrisers Hyderabad",
+                        "score":  "181/2 (18.3 overs) / 178/6 (20.0 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2019,
+                        "winner":  "Mumbai Indians",
+                        "runnerUp":  "Chennai Super Kings",
+                        "score":  "149/8 (20 overs) / 148/7 (20 overs)",
+                        "margin":  "1 run"
+                    },
+                    {
+                        "year":  2020,
+                        "winner":  "Mumbai Indians",
+                        "runnerUp":  "Delhi Capitals",
+                        "score":  "157/5 (18.4 overs) / 156/7 (20 overs)",
+                        "margin":  "5 wickets"
+                    },
+                    {
+                        "year":  2021,
+                        "winner":  "Chennai Super Kings",
+                        "runnerUp":  "Kolkata Knight Riders",
+                        "score":  "192/3 (20 overs) / 165/9 (20 overs)",
+                        "margin":  "27 runs"
+                    },
+                    {
+                        "year":  2022,
+                        "winner":  "Gujarat Titans",
+                        "runnerUp":  "Rajasthan Royals",
+                        "score":  "133/3 (18.1 overs) / 130/9 (20 overs)",
+                        "margin":  "7 wickets"
+                    },
+                    {
+                        "year":  2023,
+                        "winner":  "Chennai Super Kings",
+                        "runnerUp":  "Gujarat Titans",
+                        "score":  "171/5 (15 overs) / 214/4 (20 overs)",
+                        "margin":  "5 wickets (DLS)"
+                    },
+                    {
+                        "year":  2024,
+                        "winner":  "Kolkata Knight Riders",
+                        "runnerUp":  "Sunrisers Hyderabad",
+                        "score":  "114/2 (10.3 overs) / 113 (18.3 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "Royal Challengers Bengaluru",
+                        "runnerUp":  "Punjab Kings",
+                        "score":  "190/9 (20 overs) / 184/7 (20 overs)",
+                        "margin":  "6 runs"
+                    },
+                    {
+                        "year":  2026,
+                        "winner":  "Royal Challengers Bengaluru",
+                        "runnerUp":  "Gujarat Titans",
+                        "score":  "161/5 (18 overs) / 155/8 (20 overs)",
+                        "margin":  "5 wickets"
+                    }
+                ],
+    "verificationSources":  [
+                                {
+                                    "url":  "https://www.iplt20.com/news/article/tata-ipl-2026-final-rcb-v-gt-match-report",
+                                    "label":  "Official IPL 2026 final report"
+                                },
+                                {
+                                    "url":  "https://www.ipl.com/matches/indian-premier-league-129908/royal-challengers-bengaluru-vs-gujarat-titans-96877/scorecard",
+                                    "label":  "IPL 2026 final scorecard"
+                                },
+                                {
+                                    "url":  "https://www.cricbuzz.com/live-cricket-scorecard/155409/rcb-vs-gt-final-ipl-2026",
+                                    "label":  "Independent 2026 final scorecard"
+                                },
+                                {
+                                    "url":  "https://www.mykhel.com/cricket/ipl-winners-list-2008-2025-full-list-of-champions-and-runners-up-418683.html",
+                                    "label":  "Winners and runners-up cross-check (2008–2025)"
+                                }
+                            ],
+    "lastVerified":  "2026-10-03",
+    "reviewNotes":  [
+                        {
+                            "year":  2014,
+                            "field":  "runnerUp",
+                            "note":  "Used Kings XI Punjab, the franchise name at the time; some archives use the later name Punjab Kings."
+                        },
+                        {
+                            "year":  2026,
+                            "field":  "score",
+                            "note":  "Corrected the candidate 154/8 to 155/8 after checking the IPL and Cricbuzz final scorecards."
+                        }
+                    ]
+}

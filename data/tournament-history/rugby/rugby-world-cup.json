@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "sport": "Rugby",
+  "tournament": "Rugby World Cup",
+  "source": {
+    "url": "https://www.rugbyworldcup.com/en/news/617532/tournament-history",
+    "label": "World Rugby tournament history (1987–2019)"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    { "year": 1987, "winner": "New Zealand", "runnerUp": "France", "score": "29-9", "margin": "" },
+    { "year": 1991, "winner": "Australia", "runnerUp": "England", "score": "12-6", "margin": "" },
+    { "year": 1995, "winner": "South Africa", "runnerUp": "New Zealand", "score": "15-12 (after extra time)", "margin": "" },
+    { "year": 1999, "winner": "Australia", "runnerUp": "France", "score": "35-12", "margin": "" },
+    { "year": 2003, "winner": "England", "runnerUp": "Australia", "score": "20-17 (after extra time)", "margin": "" },
+    { "year": 2007, "winner": "South Africa", "runnerUp": "England", "score": "15-6", "margin": "" },
+    { "year": 2011, "winner": "New Zealand", "runnerUp": "France", "score": "8-7", "margin": "" },
+    { "year": 2015, "winner": "New Zealand", "runnerUp": "Australia", "score": "34-17", "margin": "" },
+    { "year": 2019, "winner": "South Africa", "runnerUp": "England", "score": "32-12", "margin": "" },
+    { "year": 2023, "winner": "South Africa", "runnerUp": "New Zealand", "score": "12-11", "margin": "" }
+  ],
+  "candidateRecords": [],
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_Rugby_World_Cup_finals",
+      "label": "Final-by-final results cross-check (1987–2023)"
+    },
+    {
+      "url": "https://www.rugbyworldcup.com/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup",
+      "label": "Official 2023 final report"
+    }
+  ],
+  "lastVerified": "2026-10-03",
+  "reviewNotes": []
+}

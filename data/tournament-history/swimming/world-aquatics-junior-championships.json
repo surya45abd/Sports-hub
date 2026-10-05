@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "World Aquatics Junior Championships",
+  "source": {
+    "url": "https://www.worldaquatics.com/",
+    "label": "World Aquatics Junior Swimming"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Junior Swimming Champions.",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "United States (33 Medals) / Australia (24 Medals)",
+      "runnerUp": "Canada / Italy",
+      "score": "Medal Table Leaders",
+      "margin": "Netanya, Israel; Leah Hayes and Kuzey Tunçelli breakout stars"
+    },
+    {
+      "year": 2022,
+      "winner": "Japan (19 Medals) / Hungary (14 Medals)",
+      "runnerUp": "Romania (David Popovici)",
+      "score": "Medal Table Leaders",
+      "margin": "Lima, Peru; David Popovici set world junior records"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "sport": "Rugby",
+  "tournament": "Six Nations",
+  "source": {
+    "url": "https://www.sixnationsrugby.com/en/m6n/history/past-winners",
+    "label": "Official Guinness Six Nations Past Winners & Champions Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Six Nations championship archive (2000–2025) including Grand Slams and Triple Crowns.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "France",
+      "runnerUp": "Ireland",
+      "score": "4 wins / 1 loss",
+      "margin": "Clinched title on points difference (+64)"
+    },
+    {
+      "year": 2024,
+      "winner": "Ireland",
+      "runnerUp": "France",
+      "score": "4 wins / 1 loss",
+      "margin": "Back-to-back Six Nations titles; clinched in Dublin against Scotland"
+    },
+    {
+      "year": 2023,
+      "winner": "Ireland",
+      "runnerUp": "France",
+      "score": "Grand Slam (5-0)",
+      "margin": "Completed Grand Slam with 29-16 victory over England at Aviva Stadium on St. Patrick's weekend"
+    },
+    {
+      "year": 2022,
+      "winner": "France",
+      "runnerUp": "Ireland",
+      "score": "Grand Slam (5-0)",
+      "margin": "First Grand Slam in 12 years; sealed with 25-13 victory over England at Stade de France"
+    },
+    {
+      "year": 2021,
+      "winner": "Wales",
+      "runnerUp": "France",
+      "score": "4 wins / 1 loss",
+      "margin": "Triple Crown winners; missed Grand Slam on final play in Paris"
+    },
+    {
+      "year": 2020,
+      "winner": "England",
+      "runnerUp": "France",
+      "score": "4 wins / 1 loss",
+      "margin": "Won on points difference (+44 to +21); tournament delayed to October due to pandemic"
+    },
+    {
+      "year": 2019,
+      "winner": "Wales",
+      "runnerUp": "England",
+      "score": "Grand Slam (5-0)",
+      "margin": "Warren Gatland's 3rd Grand Slam; defeated Ireland 25-7 in Cardiff"
+    },
+    {
+      "year": 2018,
+      "winner": "Ireland",
+      "runnerUp": "Wales",
+      "score": "Grand Slam (5-0)",
+      "margin": "Sealed Grand Slam at Twickenham on St Patrick's Day (24-15)"
+    },
+    {
+      "year": 2017,
+      "winner": "England",
+      "runnerUp": "Ireland",
+      "score": "4 wins / 1 loss",
+      "margin": "Defended title; 18-match tier-one winning streak ended in Dublin"
+    },
+    {
+      "year": 2016,
+      "winner": "England",
+      "runnerUp": "Wales",
+      "score": "Grand Slam (5-0)",
+      "margin": "Eddie Jones's first campaign; first English Grand Slam since 2003"
+    },
+    {
+      "year": 2015,
+      "winner": "Ireland",
+      "runnerUp": "England",
+      "score": "4 wins / 1 loss",
+      "margin": "Super Saturday: Ireland won title by 6 points on points difference (+63 to +57)"
+    },
+    {
+      "year": 2014,
+      "winner": "Ireland",
+      "runnerUp": "England",
+      "score": "4 wins / 1 loss",
+      "margin": "Brian O'Driscoll's farewell international; won in Paris 22-20"
+    },
+    {
+      "year": 2013,
+      "winner": "Wales",
+      "runnerUp": "England",
+      "score": "4 wins / 1 loss",
+      "margin": "Wales hammered England 30-3 in Cardiff on final day to snatch title on points diff"
+    },
+    {
+      "year": 2012,
+      "winner": "Wales",
+      "runnerUp": "England",
+      "score": "Grand Slam (5-0)",
+      "margin": "Sam Warburton lifted trophy; completed Grand Slam with 16-9 win over France"
+    },
+    {
+      "year": 2011,
+      "winner": "England",
+      "runnerUp": "France",
+      "score": "4 wins / 1 loss",
+      "margin": "Martin Johnson's England won title; denied Grand Slam by Ireland in Dublin"
+    },
+    {
+      "year": 2010,
+      "winner": "France",
+      "runnerUp": "Ireland",
+      "score": "Grand Slam (5-0)",
+      "margin": "Morgan Parra and Thierry Dusautoir led Les Bleus to clean sweep"
+    },
+    {
+      "year": 2009,
+      "winner": "Ireland",
+      "runnerUp": "England",
+      "score": "Grand Slam (5-0)",
+      "margin": "Ireland's first Grand Slam in 61 years; Ronan O'Gara's 78th-minute drop goal in Cardiff"
+    },
+    {
+      "year": 2008,
+      "winner": "Wales",
+      "runnerUp": "England",
+      "score": "Grand Slam (5-0)",
+      "margin": "Warren Gatland's first season; conceded only 2 tries all tournament"
+    },
+    {
+      "year": 2007,
+      "winner": "France",
+      "runnerUp": "Ireland",
+      "score": "4 wins / 1 loss",
+      "margin": "Elvis Vermeulen's stoppage-time try in Rome gave France title on points difference (+69 to +65)"
+    },
+    {
+      "year": 2006,
+      "winner": "France",
+      "runnerUp": "Ireland",
+      "score": "4 wins / 1 loss",
+      "margin": "Won on points difference; Ireland won Triple Crown"
+    },
+    {
+      "year": 2005,
+      "winner": "Wales",
+      "runnerUp": "France",
+      "score": "Grand Slam (5-0)",
+      "margin": "First Welsh Grand Slam in 27 years; Gavin Henson's 48m kick vs England"
+    },
+    {
+      "year": 2004,
+      "winner": "France",
+      "runnerUp": "England",
+      "score": "Grand Slam (5-0)",
+      "margin": "Dimitri Yachvili and Imanol Harinordoquy led dominant championship"
+    },
+    {
+      "year": 2003,
+      "winner": "England",
+      "runnerUp": "Ireland",
+      "score": "Grand Slam (5-0)",
+      "margin": "Clive Woodward's side blew away Ireland 42-6 in Dublin en route to World Cup glory"
+    },
+    {
+      "year": 2002,
+      "winner": "France",
+      "runnerUp": "England",
+      "score": "Grand Slam (5-0)",
+      "margin": "Bernard Laporte's first Grand Slam as head coach"
+    },
+    {
+      "year": 2001,
+      "winner": "England",
+      "runnerUp": "Ireland",
+      "score": "4 wins / 1 loss",
+      "margin": "Postponed matches played in autumn due to foot-and-mouth disease"
+    },
+    {
+      "year": 2000,
+      "winner": "England",
+      "runnerUp": "France",
+      "score": "4 wins / 1 loss",
+      "margin": "Inaugural Six Nations tournament following the admission of Italy"
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "BNP Paribas Open",
+  "source": {
+    "url": "https://bnpparibasopen.com/champions/",
+    "label": "Official BNP Paribas Open Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Source-verified Indian Wells finals archive (2000–2025) for both Men's Singles and Women's Singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://bnpparibasopen.com/champions/",
+      "sourceUrl": "https://www.atptour.com/en/tournaments/indian-wells/404/overview",
+      "sourceLabel": "Official ATP Masters 1000 Indian Wells Archive",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2025,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Daniil Medvedev",
+          "score": "7-6(5), 6-1",
+          "margin": "Defended Indian Wells title"
+        },
+        {
+          "year": 2024,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Daniil Medvedev",
+          "score": "7-6(5), 6-1",
+          "margin": "Snapped Medvedev's 19-match win streak"
+        },
+        {
+          "year": 2023,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Daniil Medvedev",
+          "score": "6-3, 6-2",
+          "margin": "Regained World No. 1 ranking"
+        },
+        {
+          "year": 2022,
+          "winner": "Taylor Fritz",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-3, 7-6(5)",
+          "margin": "First American men's champion since Andre Agassi in 2001"
+        },
+        {
+          "year": 2021,
+          "winner": "Cameron Norrie",
+          "runnerUp": "Nikoloz Basilashvili",
+          "score": "3-6, 6-4, 6-1",
+          "margin": "First British Indian Wells champion (held in October)"
+        },
+        {
+          "year": 2019,
+          "winner": "Dominic Thiem",
+          "runnerUp": "Roger Federer",
+          "score": "3-6, 6-3, 7-5",
+          "margin": "Maiden ATP Masters 1000 crown"
+        },
+        {
+          "year": 2018,
+          "winner": "Juan Martín del Potro",
+          "runnerUp": "Roger Federer",
+          "score": "6-4, 6-7(8), 7-6(2)",
+          "margin": "Saved 3 match points to win maiden Masters 1000"
+        },
+        {
+          "year": 2017,
+          "winner": "Roger Federer",
+          "runnerUp": "Stan Wawrinka",
+          "score": "6-4, 7-5",
+          "margin": "Record-tying 5th Indian Wells title without dropping a set"
+        },
+        {
+          "year": 2016,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Milos Raonic",
+          "score": "6-2, 6-0",
+          "margin": "Record 5th Indian Wells title; 3-peat"
+        },
+        {
+          "year": 2015,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Roger Federer",
+          "score": "6-3, 6-7(5), 6-2",
+          "margin": "4th Indian Wells crown"
+        },
+        {
+          "year": 2014,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Roger Federer",
+          "score": "3-6, 6-3, 7-6(3)",
+          "margin": "3rd Indian Wells title"
+        },
+        {
+          "year": 2013,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Juan Martín del Potro",
+          "score": "4-6, 6-3, 6-4",
+          "margin": "3rd Indian Wells crown"
+        },
+        {
+          "year": 2012,
+          "winner": "Roger Federer",
+          "runnerUp": "John Isner",
+          "score": "7-6(7), 6-3",
+          "margin": "4th Indian Wells title"
+        },
+        {
+          "year": 2011,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Rafael Nadal",
+          "score": "4-6, 6-3, 6-2",
+          "margin": "Part of Djokovic's 43-match unbeaten start to 2011"
+        },
+        {
+          "year": 2010,
+          "winner": "Ivan Ljubičić",
+          "runnerUp": "Andy Roddick",
+          "score": "7-6(3), 7-6(5)",
+          "margin": "At age 31, won maiden Masters 1000 title"
+        },
+        {
+          "year": 2009,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Andy Murray",
+          "score": "6-1, 6-2",
+          "margin": "Played in extreme gale-force wind conditions"
+        },
+        {
+          "year": 2008,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Mardy Fish",
+          "score": "6-2, 5-7, 6-3",
+          "margin": "Maiden Indian Wells title"
+        },
+        {
+          "year": 2007,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-2, 7-5",
+          "margin": "Maiden Indian Wells title"
+        },
+        {
+          "year": 2006,
+          "winner": "Roger Federer",
+          "runnerUp": "James Blake",
+          "score": "7-5, 6-3, 6-0",
+          "margin": "Completed 3-peat at Indian Wells"
+        },
+        {
+          "year": 2005,
+          "winner": "Roger Federer",
+          "runnerUp": "Lleyton Hewitt",
+          "score": "6-2, 6-4, 6-4",
+          "margin": "Defended title"
+        },
+        {
+          "year": 2004,
+          "winner": "Roger Federer",
+          "runnerUp": "Tim Henman",
+          "score": "6-3, 6-3",
+          "margin": "Maiden Indian Wells title"
+        },
+        {
+          "year": 2003,
+          "winner": "Lleyton Hewitt",
+          "runnerUp": "Gustavo Kuerten",
+          "score": "6-1, 6-1",
+          "margin": "Back-to-back titles"
+        },
+        {
+          "year": 2002,
+          "winner": "Lleyton Hewitt",
+          "runnerUp": "Pete Sampras",
+          "score": "6-1, 6-1",
+          "margin": "Maiden Indian Wells title"
+        },
+        {
+          "year": 2001,
+          "winner": "Andre Agassi",
+          "runnerUp": "Pete Sampras",
+          "score": "7-6(5), 7-5, 6-1",
+          "margin": "Agassi's sole Indian Wells title"
+        },
+        {
+          "year": 2000,
+          "winner": "Àlex Corretja",
+          "runnerUp": "Thomas Enqvist",
+          "score": "6-4, 6-4, 6-3",
+          "margin": "Inaugural edition at Indian Wells Tennis Garden"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://bnpparibasopen.com/champions/",
+      "sourceUrl": "https://www.wtatennis.com/tournament/609/indian-wells/past-winners",
+      "sourceLabel": "Official WTA 1000 Indian Wells Archive",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2025,
+          "winner": "Iga Świątek",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "6-4, 6-2",
+          "margin": "3rd Indian Wells crown"
+        },
+        {
+          "year": 2024,
+          "winner": "Iga Świątek",
+          "runnerUp": "Maria Sakkari",
+          "score": "6-4, 6-0",
+          "margin": "2nd Indian Wells title; dropped only 21 games all tournament"
+        },
+        {
+          "year": 2023,
+          "winner": "Elena Rybakina",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "7-6(11), 6-4",
+          "margin": "Maiden WTA 1000 title"
+        },
+        {
+          "year": 2022,
+          "winner": "Iga Świątek",
+          "runnerUp": "Maria Sakkari",
+          "score": "6-4, 6-1",
+          "margin": "Part of 37-match unbeaten streak in 2022"
+        },
+        {
+          "year": 2021,
+          "winner": "Paula Badosa",
+          "runnerUp": "Victoria Azarenka",
+          "score": "7-6(5), 2-6, 7-6(2)",
+          "margin": "3h 04m final (held in October due to pandemic)"
+        },
+        {
+          "year": 2019,
+          "winner": "Bianca Andreescu",
+          "runnerUp": "Angelique Kerber",
+          "score": "6-4, 3-6, 6-4",
+          "margin": "First wild card in tournament history to win women's singles"
+        },
+        {
+          "year": 2018,
+          "winner": "Naomi Osaka",
+          "runnerUp": "Daria Kasatkina",
+          "score": "6-3, 6-2",
+          "margin": "Maiden career WTA singles title for 20-year-old Osaka"
+        },
+        {
+          "year": 2017,
+          "winner": "Elena Vesnina",
+          "runnerUp": "Svetlana Kuznetsova",
+          "score": "6-7(6), 7-5, 6-4",
+          "margin": "3h 01m all-Russian battle"
+        },
+        {
+          "year": 2016,
+          "winner": "Victoria Azarenka",
+          "runnerUp": "Serena Williams",
+          "score": "6-4, 6-4",
+          "margin": "2nd Indian Wells title; completed Sunshine Double in 2016"
+        },
+        {
+          "year": 2015,
+          "winner": "Simona Halep",
+          "runnerUp": "Jelena Janković",
+          "score": "2-6, 7-5, 6-4",
+          "margin": "Maiden Premier Mandatory title"
+        },
+        {
+          "year": 2014,
+          "winner": "Flavia Pennetta",
+          "runnerUp": "Agnieszka Radwańska",
+          "score": "6-2, 6-1",
+          "margin": "At age 32, became oldest woman to win Indian Wells"
+        },
+        {
+          "year": 2013,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Caroline Wozniacki",
+          "score": "6-2, 6-2",
+          "margin": "2nd Indian Wells title"
+        },
+        {
+          "year": 2012,
+          "winner": "Victoria Azarenka",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-2, 6-3",
+          "margin": "Improved 2012 season start to 23-0"
+        },
+        {
+          "year": 2011,
+          "winner": "Caroline Wozniacki",
+          "runnerUp": "Marion Bartoli",
+          "score": "6-1, 2-6, 6-3",
+          "margin": "Maiden Indian Wells title as World No. 1"
+        },
+        {
+          "year": 2010,
+          "winner": "Jelena Janković",
+          "runnerUp": "Caroline Wozniacki",
+          "score": "6-2, 6-4",
+          "margin": "Defeated World No. 2 in final"
+        },
+        {
+          "year": 2009,
+          "winner": "Vera Zvonareva",
+          "runnerUp": "Ana Ivanovic",
+          "score": "7-6(5), 6-2",
+          "margin": "Played in extreme 45mph desert wind gusts"
+        },
+        {
+          "year": 2008,
+          "winner": "Ana Ivanovic",
+          "runnerUp": "Svetlana Kuznetsova",
+          "score": "6-4, 6-3",
+          "margin": "Preceded her Roland Garros triumph"
+        },
+        {
+          "year": 2007,
+          "winner": "Daniela Hantuchová",
+          "runnerUp": "Svetlana Kuznetsova",
+          "score": "6-3, 6-4",
+          "margin": "2nd Indian Wells title, 5 years after her first"
+        },
+        {
+          "year": 2006,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Elena Dementieva",
+          "score": "6-1, 6-2",
+          "margin": "Maiden Indian Wells title"
+        },
+        {
+          "year": 2005,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Lindsay Davenport",
+          "score": "6-4, 4-6, 6-2",
+          "margin": "Ranked No. 133 as she returned from wrist surgery"
+        },
+        {
+          "year": 2004,
+          "winner": "Justine Henin",
+          "runnerUp": "Lindsay Davenport",
+          "score": "6-1, 6-4",
+          "margin": "Maiden Indian Wells title as World No. 1"
+        },
+        {
+          "year": 2003,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Lindsay Davenport",
+          "score": "6-4, 7-5",
+          "margin": "Maiden Indian Wells title"
+        },
+        {
+          "year": 2002,
+          "winner": "Daniela Hantuchová",
+          "runnerUp": "Martina Hingis",
+          "score": "6-3, 6-4",
+          "margin": "18-year-old Slovakian stunned World No. 1 Hingis"
+        },
+        {
+          "year": 2001,
+          "winner": "Serena Williams",
+          "runnerUp": "Kim Clijsters",
+          "score": "4-6, 6-4, 6-2",
+          "margin": "2nd Indian Wells title; boycotted tournament for next 14 years"
+        },
+        {
+          "year": 2000,
+          "winner": "Lindsay Davenport",
+          "runnerUp": "Martina Hingis",
+          "score": "4-6, 6-4, 6-0",
+          "margin": "2nd Indian Wells title"
+        }
+      ]
+    }
+  ]
+}

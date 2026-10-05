@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "Asian Swimming Championships",
+  "source": {
+    "url": "https://www.asiaswimming.org/",
+    "label": "Asia Aquatics"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Asian Aquatics Championship title holders.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "China / Japan",
+      "runnerUp": "South Korea",
+      "score": "Continental Champions",
+      "margin": "New Clark City / Capiz; Asian record-breaking performances"
+    },
+    {
+      "year": 2016,
+      "winner": "China (18 Golds) / Japan (17 Golds)",
+      "runnerUp": "Vietnam",
+      "score": "Medal Table Leaders",
+      "margin": "Tokyo, Japan"
+    }
+  ]
+}

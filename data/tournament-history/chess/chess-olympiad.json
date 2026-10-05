@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "Chess Olympiad",
+  "source": {
+    "url": "https://www.fide.com/",
+    "label": "Official FIDE Chess Olympiad Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Chess Olympiad archives covering both the Open Section and Women's Section.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Open Section",
+      "archiveUrl": "https://www.fide.com/",
+      "archiveLabel": "Open Section Olympiad archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "India",
+          "runnerUp": "United States",
+          "score": "21 match points (21/22)",
+          "margin": "Dominant gold in Budapest led by Gukesh, Erigaisi, Praggnanandhaa"
+        },
+        {
+          "year": 2022,
+          "winner": "Uzbekistan",
+          "runnerUp": "Armenia",
+          "score": "19 match points",
+          "margin": "Youngest team gold in Chennai led by Nodirbek Abdusattorov"
+        },
+        {
+          "year": 2018,
+          "winner": "China",
+          "runnerUp": "United States",
+          "score": "18 match points (tiebreak)",
+          "margin": "Ding Liren led China to gold in Batumi"
+        },
+        {
+          "year": 2016,
+          "winner": "United States",
+          "runnerUp": "Ukraine",
+          "score": "20 match points",
+          "margin": "First US gold since 1976 led by Caruana, So, Nakamura in Baku"
+        },
+        {
+          "year": 2014,
+          "winner": "China",
+          "runnerUp": "Hungary",
+          "score": "19 match points",
+          "margin": "China's first-ever open Olympiad gold in Tromsø"
+        },
+        {
+          "year": 2012,
+          "winner": "Armenia",
+          "runnerUp": "Russia",
+          "score": "19 match points (tiebreak)",
+          "margin": "Levon Aronian led Armenia to 3rd gold in Istanbul"
+        },
+        {
+          "year": 2010,
+          "winner": "Ukraine",
+          "runnerUp": "Russia",
+          "score": "19 match points",
+          "margin": "Ivanchuk and Ponomariov led Ukraine in Khanty-Mansiysk"
+        },
+        {
+          "year": 2008,
+          "winner": "Armenia",
+          "runnerUp": "Israel",
+          "score": "19 match points",
+          "margin": "Dresden Olympiad champions"
+        },
+        {
+          "year": 2006,
+          "winner": "Armenia",
+          "runnerUp": "China",
+          "score": "36 game points",
+          "margin": "First Olympiad gold in Turin"
+        },
+        {
+          "year": 2004,
+          "winner": "Ukraine",
+          "runnerUp": "Russia",
+          "score": "39.5 game points",
+          "margin": "Calvià Olympiad champions"
+        },
+        {
+          "year": 2002,
+          "winner": "Russia",
+          "runnerUp": "Hungary",
+          "score": "38.5 game points",
+          "margin": "Karpov and Grischuk led Russia in Bled"
+        }
+      ]
+    },
+    {
+      "title": "Women's Section",
+      "archiveUrl": "https://www.fide.com/",
+      "archiveLabel": "Women's Section Olympiad archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "India",
+          "runnerUp": "Kazakhstan",
+          "score": "19 match points",
+          "margin": "Historic double-gold for India led by Harika, Vaishali, Divya Deshmukh, Vantika"
+        },
+        {
+          "year": 2022,
+          "winner": "Ukraine",
+          "runnerUp": "Georgia",
+          "score": "18 match points (tiebreak)",
+          "margin": "Muzychuk sisters led Ukraine to emotional gold in Chennai"
+        },
+        {
+          "year": 2018,
+          "winner": "China",
+          "runnerUp": "Ukraine",
+          "score": "18 match points (tiebreak)",
+          "margin": "Ju Wenjun led China to back-to-back gold in Batumi"
+        },
+        {
+          "year": 2016,
+          "winner": "China",
+          "runnerUp": "Poland",
+          "score": "20 match points",
+          "margin": "Hou Yifan and Ju Wenjun led China in Baku"
+        },
+        {
+          "year": 2014,
+          "winner": "Russia",
+          "runnerUp": "China",
+          "score": "20 match points",
+          "margin": "Kosteniuk and Gunina led Russia in Tromsø"
+        },
+        {
+          "year": 2012,
+          "winner": "Russia",
+          "runnerUp": "China",
+          "score": "19 match points",
+          "margin": "Defended gold in Istanbul"
+        },
+        {
+          "year": 2010,
+          "winner": "Russia",
+          "runnerUp": "China",
+          "score": "22 match points (perfect 11/11)",
+          "margin": "Dominant sweep on home turf in Khanty-Mansiysk"
+        },
+        {
+          "year": 2008,
+          "winner": "Georgia",
+          "runnerUp": "Ukraine",
+          "score": "18 match points (tiebreak)",
+          "margin": "Chiburdanidze led Georgia in Dresden"
+        }
+      ]
+    }
+  ]
+}

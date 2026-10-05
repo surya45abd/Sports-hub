@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "sport": "Volleyball",
+  "tournament": "European Volleyball Championship",
+  "source": {
+    "url": "https://eurovolley.cev.eu/",
+    "label": "Official CEV EuroVolley site"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "All completed men's and women's senior European Championship editions from 1948 through 2026 are included. Men's and women's results are combined by event year; years without an event for one division are labelled Not held.",
+  "verificationSources": [
+    {
+      "url": "https://www.federvolley.it/campionati-europei",
+      "label": "Men's all-time gold and silver medalists, 1948-2026"
+    },
+    {
+      "url": "https://eurovolley.cev.eu/media/ohqj55bw/evw-brochure-290819_mobile.pdf",
+      "label": "Official women's EuroVolley archive, 1949-2019"
+    },
+    {
+      "url": "https://www.cev.eu/articles/volleyball/poland-are-back-to-back-european-champions-and-qualify-for-la28/",
+      "label": "Official 2026 men's final"
+    },
+    {
+      "url": "https://en.volleyballworld.com/news/turkiye-triumph-in-europe-qualify-for-la-2028",
+      "label": "2026 women's final"
+    },
+    {
+      "url": "https://eurovolley.cev.eu/en/articles/2021-women/italy-triumph-as-the-new-european-champions/",
+      "label": "Official 2021 women's final"
+    },
+    {
+      "url": "https://eurovolley.cev.eu/en/articles/2023-women/magnificent-tuerkiye-seal-maiden-european-trophy-with-dramatic-comeback/",
+      "label": "Official 2023 women's final"
+    }
+  ],
+  "records": [
+    {
+      "year": 1948,
+      "winner": "Men: Czechoslovakia; Women: Not held",
+      "runnerUp": "Men: France; Women: Not held",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1949,
+      "winner": "Men: Not held; Women: Soviet Union",
+      "runnerUp": "Men: Not held; Women: Czechoslovakia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1950,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Czechoslovakia; Women: Poland",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1951,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Bulgaria; Women: Poland",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1955,
+      "winner": "Men: Czechoslovakia; Women: Czechoslovakia",
+      "runnerUp": "Men: Romania; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1958,
+      "winner": "Men: Czechoslovakia; Women: Soviet Union",
+      "runnerUp": "Men: Romania; Women: Czechoslovakia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1963,
+      "winner": "Men: Romania; Women: Soviet Union",
+      "runnerUp": "Men: Hungary; Women: Poland",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Czechoslovakia; Women: Poland",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Czechoslovakia; Women: Czechoslovakia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Poland; Women: Hungary",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Poland; Women: East Germany",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Poland; Women: East Germany",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Men: Soviet Union; Women: Bulgaria",
+      "runnerUp": "Men: Poland; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Men: Soviet Union; Women: East Germany",
+      "runnerUp": "Men: Poland; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Czechoslovakia; Women: East Germany",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Men: Soviet Union; Women: East Germany",
+      "runnerUp": "Men: France; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Men: Italy; Women: Soviet Union",
+      "runnerUp": "Men: Sweden; Women: East Germany",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Italy; Women: Netherlands",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Men: Italy; Women: Russia",
+      "runnerUp": "Men: Netherlands; Women: Czechoslovakia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Men: Italy; Women: Netherlands",
+      "runnerUp": "Men: Netherlands; Women: Croatia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Men: Netherlands; Women: Russia",
+      "runnerUp": "Men: Yugoslavia; Women: Croatia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Men: Italy; Women: Russia",
+      "runnerUp": "Men: Russia; Women: Croatia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Men: Yugoslavia; Women: Russia",
+      "runnerUp": "Men: Italy; Women: Italy",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Men: Italy; Women: Poland",
+      "runnerUp": "Men: France; Women: Turkey",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Men: Italy; Women: Poland",
+      "runnerUp": "Men: Russia; Women: Italy",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Men: Spain; Women: Italy",
+      "runnerUp": "Men: Russia; Women: Serbia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Men: Poland; Women: Italy",
+      "runnerUp": "Men: France; Women: Netherlands",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Men: Serbia; Women: Serbia",
+      "runnerUp": "Men: Italy; Women: Germany",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Men: Russia; Women: Russia",
+      "runnerUp": "Men: Italy; Women: Germany",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Men: France; Women: Russia",
+      "runnerUp": "Men: Slovenia; Women: Netherlands",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Men: Russia; Women: Serbia",
+      "runnerUp": "Men: Germany; Women: Netherlands",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Men: Serbia; Women: Serbia",
+      "runnerUp": "Men: Slovenia; Women: Turkey",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Men: Italy; Women: Italy",
+      "runnerUp": "Men: Slovenia; Women: Serbia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Men: Poland; Women: Turkey",
+      "runnerUp": "Men: Italy; Women: Serbia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "Men: Poland; Women: Turkey",
+      "runnerUp": "Men: France; Women: Italy",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": []
+}

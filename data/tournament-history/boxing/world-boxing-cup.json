@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "World Boxing Cup",
+  "source": {
+    "url": "https://worldboxing.org/",
+    "label": "World Boxing Official Competition Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Boxing Cup championship stages and finals across elite men's and women's Olympic weight classes.",
+  "records": [],
+  "sections": [
+    {
+      "title": "World Boxing Cup Finals & Stage Champions",
+      "archiveUrl": "https://worldboxing.org/",
+      "sourceUrl": "https://worldboxing.org/",
+      "sourceLabel": "World Boxing Cup Results",
+      "archiveLabel": "World Boxing Cup Archive",
+      "records": [
+        {
+          "year": 2025,
+          "winner": "India (Medal Table: 9 Gold Medals)",
+          "runnerUp": "Poland / International Teams",
+          "score": "9 Golds, 4 Silvers",
+          "margin": "Greater Noida World Boxing Cup Finals; home nation topped medal table in dominant showing across weight categories"
+        },
+        {
+          "year": 2024,
+          "winner": "Delicious Orie (GBR - Super Heavyweight)",
+          "runnerUp": "Danis Latypov (BRN)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "World Boxing Cup Sheffield; European champion Orie claimed super heavyweight gold at English Institute of Sport"
+        },
+        {
+          "year": 2024,
+          "winner": "Cindy Ngamba (Refugee Team - Middleweight)",
+          "runnerUp": "Chantelle Reid (GBR)",
+          "score": "3-2 (Split decision)",
+          "margin": "World Boxing Cup Sheffield; historic gold medal triumph before capturing Olympic bronze in Paris"
+        },
+        {
+          "year": 2024,
+          "winner": "Amit Panghal (IND - Flyweight 51 kg)",
+          "runnerUp": "Dustin Curtiss (USA)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "World Boxing Cup Colorado Springs; former world silver medalist won gold with flawless counter-punching"
+        },
+        {
+          "year": 2024,
+          "winner": "Reece Lynch (GBR - Light Welterweight 63.5 kg)",
+          "runnerUp": "Richard Kovacs (HUN)",
+          "score": "4-1 (Split decision)",
+          "margin": "World Boxing Cup Sheffield; World medalist Lynch claimed tournament gold"
+        },
+        {
+          "year": 2024,
+          "winner": "Sachin Siwach (IND - Featherweight 57 kg)",
+          "runnerUp": "Asror Vohidov (TJK)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "World Boxing Cup Finals; Siwach delivered textbook distance striking to secure gold"
+        }
+      ]
+    }
+  ]
+}

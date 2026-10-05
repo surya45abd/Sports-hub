@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "FIH Nations Cup",
+  "source": {
+    "url": "https://www.fih.hockey/events/nations-cup",
+    "label": "FIH Nations Cup"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "FIH Nations Cup champions qualifying for FIH Pro League.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "New Zealand",
+      "runnerUp": "France",
+      "score": "1-1 (4-3 shoot-out)",
+      "margin": "Gniezno, Poland; Black Sticks earned Pro League promotion"
+    },
+    {
+      "year": 2022,
+      "winner": "South Africa",
+      "runnerUp": "Ireland",
+      "score": "4-3",
+      "margin": "Potchefstroom, South Africa"
+    }
+  ]
+}

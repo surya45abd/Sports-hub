@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "Kho Kho Asian Championship",
+  "source": {
+    "url": "https://khokhofederation.in/",
+    "label": "Asian Kho Kho Federation"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Asian Championship continental records.",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "India",
+      "runnerUp": "Nepal",
+      "score": "40-10",
+      "margin": "Tamulpur, Assam (Sweep in both sections)"
+    },
+    {
+      "year": 2016,
+      "winner": "India",
+      "runnerUp": "Bangladesh",
+      "score": "36-12",
+      "margin": "Indore (India retained title)"
+    }
+  ]
+}

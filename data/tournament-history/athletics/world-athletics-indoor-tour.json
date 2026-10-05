@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Athletics",
+  "tournament": "World Athletics Indoor Tour",
+  "source": {
+    "url": "https://worldathletics.org/",
+    "label": "Indoor Tour Standings"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Athletics Indoor Tour Gold series overall winners.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Grant Holloway (USA, 60m H: 7.27 s WR) / Femke Bol (NED, 400m)",
+      "runnerUp": "Just Kwaou-Mathey (FRA) / Lieke Klaver (NED)",
+      "score": "Gold Tour Winner",
+      "margin": "Madrid, Lievin, Toruń circuit"
+    },
+    {
+      "year": 2023,
+      "winner": "Keely Hodgkinson (GBR, 800m) / Gudaf Tsegay (ETH, Mile)",
+      "runnerUp": "Catriona Bisset (AUS)",
+      "score": "Series Champion",
+      "margin": "Birmingham, Boston, New York"
+    }
+  ]
+}

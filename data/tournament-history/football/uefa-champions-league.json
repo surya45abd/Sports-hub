@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "sport": "Football",
+  "tournament": "UEFA Champions League",
+  "source": {
+    "url": "https://www.uefa.com/uefachampionsleague/history/",
+    "label": "Official UEFA Champions League Finals Archive"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 2026,
+      "winner": "Real Madrid",
+      "runnerUp": "Arsenal",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Real Madrid",
+      "runnerUp": "Paris Saint-Germain",
+      "score": "2-0",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Real Madrid",
+      "runnerUp": "Borussia Dortmund",
+      "score": "2-0",
+      "margin": "Dani Carvajal and Vinícius Jr. scored; 15th European title"
+    },
+    {
+      "year": 2023,
+      "winner": "Manchester City",
+      "runnerUp": "Inter Milan",
+      "score": "1-0",
+      "margin": "Rodri 68th minute goal completed historic Treble"
+    },
+    {
+      "year": 2022,
+      "winner": "Real Madrid",
+      "runnerUp": "Liverpool",
+      "score": "1-0",
+      "margin": "Vinícius Jr. 59th minute goal; Courtois 9 saves"
+    },
+    {
+      "year": 2021,
+      "winner": "Chelsea",
+      "runnerUp": "Manchester City",
+      "score": "1-0",
+      "margin": "Kai Havertz 42nd minute goal"
+    },
+    {
+      "year": 2020,
+      "winner": "Bayern Munich",
+      "runnerUp": "Paris Saint-Germain",
+      "score": "1-0",
+      "margin": "Kingsley Coman header in Lisbon"
+    },
+    {
+      "year": 2019,
+      "winner": "Liverpool",
+      "runnerUp": "Tottenham Hotspur",
+      "score": "2-0",
+      "margin": "Salah pen 2', Origi 87' in Madrid"
+    },
+    {
+      "year": 2018,
+      "winner": "Real Madrid",
+      "runnerUp": "Liverpool",
+      "score": "3-1",
+      "margin": "Bale bicycle-kick wonder goal in Kyiv; 3-peat"
+    },
+    {
+      "year": 2017,
+      "winner": "Real Madrid",
+      "runnerUp": "Juventus",
+      "score": "4-1",
+      "margin": "Ronaldo double in Cardiff; first team to defend title in UCL era"
+    },
+    {
+      "year": 2016,
+      "winner": "Real Madrid",
+      "runnerUp": "Atlético Madrid",
+      "score": "1-1 (5-3 pens)",
+      "margin": "Ronaldo scored decisive spot-kick in Milan"
+    },
+    {
+      "year": 2015,
+      "winner": "Barcelona",
+      "runnerUp": "Juventus",
+      "score": "3-1",
+      "margin": "Rakitić, Suárez, Neymar goals in Berlin completed Treble"
+    },
+    {
+      "year": 2014,
+      "winner": "Real Madrid",
+      "runnerUp": "Atlético Madrid",
+      "score": "4-1 (a.e.t.)",
+      "margin": "Ramos 92:48 equaliser led to 'La Décima' in Lisbon"
+    },
+    {
+      "year": 2013,
+      "winner": "Bayern Munich",
+      "runnerUp": "Borussia Dortmund",
+      "score": "2-1",
+      "margin": "Robben 89th minute winner at Wembley"
+    },
+    {
+      "year": 2012,
+      "winner": "Chelsea",
+      "runnerUp": "Bayern Munich",
+      "score": "1-1 (4-3 pens)",
+      "margin": "Drogba 88' equaliser & winning spot-kick in Munich"
+    },
+    {
+      "year": 2011,
+      "winner": "Barcelona",
+      "runnerUp": "Manchester United",
+      "score": "3-1",
+      "margin": "Pedro, Messi, Villa masterclass at Wembley"
+    },
+    {
+      "year": 2010,
+      "winner": "Inter Milan",
+      "runnerUp": "Bayern Munich",
+      "score": "2-0",
+      "margin": "Milito double sealed Mourinho's historic Treble in Madrid"
+    },
+    {
+      "year": 2009,
+      "winner": "Barcelona",
+      "runnerUp": "Manchester United",
+      "score": "2-0",
+      "margin": "Eto'o and Messi header in Rome completed Treble"
+    },
+    {
+      "year": 2008,
+      "winner": "Manchester United",
+      "runnerUp": "Chelsea",
+      "score": "1-1 (6-5 pens)",
+      "margin": "Van der Sar saved Anelka pen in Moscow rain"
+    },
+    {
+      "year": 2007,
+      "winner": "AC Milan",
+      "runnerUp": "Liverpool",
+      "score": "2-1",
+      "margin": "Inzaghi double in Athens avenged 2005"
+    },
+    {
+      "year": 2006,
+      "winner": "Barcelona",
+      "runnerUp": "Arsenal",
+      "score": "2-1",
+      "margin": "Eto'o and Belletti late goals in Paris"
+    },
+    {
+      "year": 2005,
+      "winner": "Liverpool",
+      "runnerUp": "AC Milan",
+      "score": "3-3 (3-2 pens)",
+      "margin": "'Miracle of Istanbul': overcame 0-3 halftime deficit"
+    },
+    {
+      "year": 2004,
+      "winner": "Porto",
+      "runnerUp": "Monaco",
+      "score": "3-0",
+      "margin": "José Mourinho's triumph in Gelsenkirchen"
+    },
+    {
+      "year": 2003,
+      "winner": "AC Milan",
+      "runnerUp": "Juventus",
+      "score": "0-0 (3-2 pens)",
+      "margin": "Shevchenko converted winning penalty at Old Trafford"
+    },
+    {
+      "year": 2002,
+      "winner": "Real Madrid",
+      "runnerUp": "Bayer Leverkusen",
+      "score": "2-1",
+      "margin": "Zidane iconic left-foot volley in Glasgow"
+    },
+    {
+      "year": 2001,
+      "winner": "Bayern Munich",
+      "runnerUp": "Valencia",
+      "score": "1-1 (5-4 pens)",
+      "margin": "Kahn saved Pellegrino pen in Milan"
+    },
+    {
+      "year": 2000,
+      "winner": "Real Madrid",
+      "runnerUp": "Valencia",
+      "score": "3-0",
+      "margin": "Morientes, McManaman, Raúl scored in Paris"
+    },
+    {
+      "year": 1999,
+      "winner": "Manchester United",
+      "runnerUp": "Bayern Munich",
+      "score": "2-1",
+      "margin": "Sheringham (90+1') and Solskjær (90+3') completed Treble"
+    },
+    {
+      "year": 1998,
+      "winner": "Real Madrid",
+      "runnerUp": "Juventus",
+      "score": "1-0",
+      "margin": "Mijatović 66' goal ended 32-year drought"
+    },
+    {
+      "year": 1997,
+      "winner": "Borussia Dortmund",
+      "runnerUp": "Juventus",
+      "score": "3-1",
+      "margin": "Riedle double and Ricken chip in Munich"
+    },
+    {
+      "year": 1996,
+      "winner": "Juventus",
+      "runnerUp": "Ajax",
+      "score": "1-1 (4-2 pens)",
+      "margin": "Jugović scored winning spot-kick in Rome"
+    },
+    {
+      "year": 1995,
+      "winner": "Ajax",
+      "runnerUp": "AC Milan",
+      "score": "1-0",
+      "margin": "18-year-old Kluivert 85th minute winner in Vienna"
+    },
+    {
+      "year": 1994,
+      "winner": "AC Milan",
+      "runnerUp": "Barcelona",
+      "score": "4-0",
+      "margin": "Fabio Capello's Milan dismantled Cruyff's 'Dream Team' in Athens"
+    },
+    {
+      "year": 1993,
+      "winner": "Marseille",
+      "runnerUp": "AC Milan",
+      "score": "1-0",
+      "margin": "Boli header in Munich; first UEFA Champions League final"
+    },
+    {
+      "year": 1992,
+      "winner": "Barcelona",
+      "runnerUp": "Sampdoria",
+      "score": "1-0 (a.e.t.)",
+      "margin": "Koeman 112th-minute free kick at Wembley"
+    },
+    {
+      "year": 1991,
+      "winner": "Red Star Belgrade",
+      "runnerUp": "Marseille",
+      "score": "0-0 (5-3 pens)",
+      "margin": "Bari shootout victory"
+    },
+    {
+      "year": 1990,
+      "winner": "AC Milan",
+      "runnerUp": "Benfica",
+      "score": "1-0",
+      "margin": "Rijkaard goal in Vienna; defended European Cup"
+    },
+    {
+      "year": 1989,
+      "winner": "AC Milan",
+      "runnerUp": "Steaua București",
+      "score": "4-0",
+      "margin": "Gullit double and Van Basten double in Barcelona"
+    }
+  ],
+  "candidateRecords": []
+}

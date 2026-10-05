@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "FIDE Grand Swiss",
+  "source": {
+    "url": "https://www.fide.com/",
+    "label": "FIDE Official Grand Swiss Archives"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete FIDE Grand Swiss archive across Open and Women's tournaments (2019–2023), tracking winners, runners-up, scores, and Candidates qualifiers.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Open tournament",
+      "archiveUrl": "https://grandswiss.fide.com/",
+      "sourceUrl": "https://www.fide.com/",
+      "sourceLabel": "FIDE Grand Swiss Open Archive",
+      "archiveLabel": "FIDE Grand Swiss Open",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Vidit Gujrathi (IND)",
+          "runnerUp": "Hikaru Nakamura (USA)",
+          "score": "8.5 / 11 (+6)",
+          "margin": "Villa Marina, Douglas (Isle of Man); Vidit and Nakamura qualified for 2024 Candidates Tournament"
+        },
+        {
+          "year": 2021,
+          "winner": "Alireza Firouzja (FRA)",
+          "runnerUp": "Fabiano Caruana (USA)",
+          "score": "8.0 / 11 (+5)",
+          "margin": "Hanza Hotel, Riga (Latvia); 18-year-old Firouzja qualified for 2022 Candidates and surpassed 2800 FIDE rating"
+        },
+        {
+          "year": 2019,
+          "winner": "Wang Hao (CHN)",
+          "runnerUp": "Fabiano Caruana (USA)",
+          "score": "8.0 / 11 (+5)",
+          "margin": "COMIS Hotel, Santon (Isle of Man); Wang Hao qualified directly for 2020 Candidates Tournament"
+        }
+      ]
+    },
+    {
+      "title": "Women's tournament",
+      "archiveUrl": "https://grandswiss.fide.com/",
+      "sourceUrl": "https://www.fide.com/",
+      "sourceLabel": "FIDE Women's Grand Swiss Archive",
+      "archiveLabel": "FIDE Women's Grand Swiss",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Rameshbabu Vaishali (IND)",
+          "runnerUp": "Anna Muzychuk (UKR)",
+          "score": "8.5 / 11 (+6)",
+          "margin": "Isle of Man; Vaishali earned her final Grandmaster norm and qualified for 2024 Women's Candidates"
+        },
+        {
+          "year": 2021,
+          "winner": "Lei Tingjie (CHN)",
+          "runnerUp": "Elisabeth Pähtz (GER)",
+          "score": "9.0 / 11 (+7)",
+          "margin": "Riga; Lei remained undefeated to secure a spot in the 2022-23 Women's Candidates Tournament"
+        }
+      ]
+    }
+  ]
+}

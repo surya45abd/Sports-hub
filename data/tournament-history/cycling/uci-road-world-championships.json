@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "UCI Road World Championships",
+  "source": {
+    "url": "https://www.uci.org/competition-hub/uci-road-world-championships/",
+    "label": "Union Cycliste Internationale (UCI) Official Road Championships Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern UCI Road World Championships archive (2011–2024) for both Men's Elite and Women's Elite Road Races.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Elite Road Race",
+      "archiveUrl": "https://www.uci.org/competition-hub/uci-road-world-championships/",
+      "sourceUrl": "https://www.uci.org/",
+      "sourceLabel": "UCI Men's Road Archive",
+      "archiveLabel": "Full Men's Road Race Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Tadej Pogačar (SLO)",
+          "runnerUp": "Ben O'Connor (AUS)",
+          "score": "6h 27' 30\"",
+          "margin": "Zurich; audacious 100km long-range attack (51km solo) to complete Triple Crown (Giro, Tour, World Road Race)"
+        },
+        {
+          "year": 2023,
+          "winner": "Mathieu van der Poel (NED)",
+          "runnerUp": "Wout van Aert (BEL)",
+          "score": "6h 07' 27\"",
+          "margin": "Glasgow; attacked 22km out; slid on wet tarmac, broke shoe, still won by 1' 37\""
+        },
+        {
+          "year": 2022,
+          "winner": "Remco Evenepoel (BEL)",
+          "runnerUp": "Christophe Laporte (FRA)",
+          "score": "6h 16' 08\"",
+          "margin": "Wollongong, Australia; 25km solo attack to win by 2' 21\"; Vuelta-Worlds double"
+        },
+        {
+          "year": 2021,
+          "winner": "Julian Alaphilippe (FRA)",
+          "runnerUp": "Dylan van Baarle (NED)",
+          "score": "5h 56' 34\"",
+          "margin": "Leuven, Belgium; back-to-back rainbow jerseys after repeated explosive attacks on Wijnpers"
+        },
+        {
+          "year": 2020,
+          "winner": "Julian Alaphilippe (FRA)",
+          "runnerUp": "Wout van Aert (BEL)",
+          "score": "6h 38' 34\"",
+          "margin": "Imola, Italy; attacked on final climb of Cima Gallisterna"
+        },
+        {
+          "year": 2019,
+          "winner": "Mads Pedersen (DEN)",
+          "runnerUp": "Matteo Trentin (ITA)",
+          "score": "6h 27' 28\"",
+          "margin": "Harrogate, Yorkshire; 23-year-old outsider outsprinted Trentin in torrential rain"
+        },
+        {
+          "year": 2018,
+          "winner": "Alejandro Valverde (ESP)",
+          "runnerUp": "Romain Bardet (FRA)",
+          "score": "6h 46' 41\"",
+          "margin": "Innsbruck, Austria; at age 38, won first rainbow jersey on brutal 28% Höttinger Höll climb"
+        },
+        {
+          "year": 2017,
+          "winner": "Peter Sagan (SVK)",
+          "runnerUp": "Alexander Kristoff (NOR)",
+          "score": "6h 28' 11\"",
+          "margin": "Bergen, Norway; historic 3-peat (first male cyclist to win 3 consecutive road world titles)"
+        },
+        {
+          "year": 2016,
+          "winner": "Peter Sagan (SVK)",
+          "runnerUp": "Mark Cavendish (GBR)",
+          "score": "5h 40' 43\"",
+          "margin": "Doha, Qatar; crosswinds split peloton; sprinted to 2nd title"
+        },
+        {
+          "year": 2015,
+          "winner": "Peter Sagan (SVK)",
+          "runnerUp": "Michael Matthews (AUS)",
+          "score": "6h 14' 37\"",
+          "margin": "Richmond, Virginia; explosive attack on 23rd Street cobbles with 2.8km remaining"
+        },
+        {
+          "year": 2014,
+          "winner": "Michał Kwiatkowski (POL)",
+          "runnerUp": "Simon Gerrans (AUS)",
+          "score": "6h 29' 07\"",
+          "margin": "Ponferrada, Spain; daring descent attack with 7km to go; first Polish world champion"
+        },
+        {
+          "year": 2013,
+          "winner": "Rui Costa (POR)",
+          "runnerUp": "Joaquim Rodríguez (ESP)",
+          "score": "7h 25' 44\"",
+          "margin": "Florence, Italy; caught Rodríguez in final kilometre in torrential rain"
+        },
+        {
+          "year": 2012,
+          "winner": "Philippe Gilbert (BEL)",
+          "runnerUp": "Edvald Boasson Hagen (NOR)",
+          "score": "6h 10' 41\"",
+          "margin": "Valkenburg, Netherlands; devastating attack up the Cauberg"
+        },
+        {
+          "year": 2011,
+          "winner": "Mark Cavendish (GBR)",
+          "runnerUp": "Matthew Goss (AUS)",
+          "score": "5h 40' 27\"",
+          "margin": "Copenhagen, Denmark; British team led out sprint masterclass"
+        }
+      ]
+    },
+    {
+      "title": "Women's Elite Road Race",
+      "archiveUrl": "https://www.uci.org/competition-hub/uci-road-world-championships/",
+      "sourceUrl": "https://www.uci.org/",
+      "sourceLabel": "UCI Women's Road Archive",
+      "archiveLabel": "Full Women's Road Race Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Lotte Kopecky (BEL)",
+          "runnerUp": "Chloé Dygert (USA)",
+          "score": "4h 05' 26\"",
+          "margin": "Zurich; defended rainbow jersey in reduced 6-rider sprint in driving rain"
+        },
+        {
+          "year": 2023,
+          "winner": "Lotte Kopecky (BEL)",
+          "runnerUp": "Demi Vollering (NED)",
+          "score": "4h 02' 12\"",
+          "margin": "Glasgow; attacked on Montrose Street steep climb for maiden world road title"
+        },
+        {
+          "year": 2022,
+          "winner": "Annemiek van Vleuten (NED)",
+          "runnerUp": "Lotte Kopecky (BEL)",
+          "score": "4h 24' 25\"",
+          "margin": "Wollongong; rode with fractured elbow, launched surprise sprint from back of pack with 600m to go"
+        },
+        {
+          "year": 2021,
+          "winner": "Elisa Balsamo (ITA)",
+          "runnerUp": "Marianne Vos (NED)",
+          "score": "3h 52' 27\"",
+          "margin": "Leuven; Italian leadout edged Vos on the line"
+        },
+        {
+          "year": 2020,
+          "winner": "Anna van der Breggen (NED)",
+          "runnerUp": "Annemiek van Vleuten (NED)",
+          "score": "4h 09' 57\"",
+          "margin": "Imola; completed historic Time Trial and Road Race double in same championships"
+        },
+        {
+          "year": 2019,
+          "winner": "Annemiek van Vleuten (NED)",
+          "runnerUp": "Anna van der Breggen (NED)",
+          "score": "4h 06' 05\"",
+          "margin": "Harrogate; historic 105km solo breakaway across Yorkshire dales"
+        },
+        {
+          "year": 2018,
+          "winner": "Anna van der Breggen (NED)",
+          "runnerUp": "Amanda Spratt (AUS)",
+          "score": "4h 11' 04\"",
+          "margin": "Innsbruck; 40km solo attack on brutal Austrian climbs"
+        },
+        {
+          "year": 2017,
+          "winner": "Chantal Blaak (NED)",
+          "runnerUp": "Katrin Garfoot (AUS)",
+          "score": "4h 06' 30\"",
+          "margin": "Bergen, Norway; overcame crash to attack solo with 8km remaining"
+        },
+        {
+          "year": 2016,
+          "winner": "Amalie Dideriksen (DEN)",
+          "runnerUp": "Kirsten Wild (NED)",
+          "score": "3h 10' 27\"",
+          "margin": "Doha, Qatar; 20-year-old sprinted to surprise victory"
+        },
+        {
+          "year": 2015,
+          "winner": "Lizzie Deignan (GBR)",
+          "runnerUp": "Anna van der Breggen (NED)",
+          "score": "3h 14' 52\"",
+          "margin": "Richmond, Virginia; outsprinted 9-rider group on Libby Hill"
+        },
+        {
+          "year": 2014,
+          "winner": "Pauline Ferrand-Prévot (FRA)",
+          "runnerUp": "Lisa Brennauer (GER)",
+          "score": "3h 40' 06\"",
+          "margin": "Ponferrada; held World titles in Road, Cyclo-cross, and Cross-country MTB simultaneously"
+        },
+        {
+          "year": 2013,
+          "winner": "Marianne Vos (NED)",
+          "runnerUp": "Emma Johansson (SWE)",
+          "score": "3h 44' 00\"",
+          "margin": "Florence; attacked on Via Salviati to defend rainbow jersey"
+        },
+        {
+          "year": 2012,
+          "winner": "Marianne Vos (NED)",
+          "runnerUp": "Rachel Neylan (AUS)",
+          "score": "3h 14' 29\"",
+          "margin": "Valkenburg; Olympic and World champion in same summer"
+        }
+      ]
+    }
+  ]
+}

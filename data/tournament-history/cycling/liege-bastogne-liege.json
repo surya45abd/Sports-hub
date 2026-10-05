@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "Liège-Bastogne-Liège",
+  "source": {
+    "url": "https://www.liege-bastogne-liege.be/en/history",
+    "label": "A.S.O. Official Liège-Bastogne-Liège La Doyenne History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Liège-Bastogne-Liège 'La Doyenne' archive for Men's elite (2000–2024) and Liège-Bastogne-Liège Femmes (2017–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's elite race",
+      "archiveUrl": "https://www.liege-bastogne-liege.be/en/history",
+      "sourceUrl": "https://www.liege-bastogne-liege.be/en/",
+      "sourceLabel": "Liège-Bastogne-Liège Men's Results",
+      "archiveLabel": "Liège-Bastogne-Liège Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Tadej Pogačar (SLO)",
+          "runnerUp": "Romain Bardet (FRA)",
+          "score": "6h 13' 48\"",
+          "margin": "+1' 39\"; devastating 34.8km solo attack on the Côte de La Redoute; second Liège title"
+        },
+        {
+          "year": 2023,
+          "winner": "Remco Evenepoel (BEL)",
+          "runnerUp": "Tom Pidcock (GBR)",
+          "score": "6h 15' 49\"",
+          "margin": "+1' 06\"; back-to-back victories in rainbow jersey with 30km solo raid from La Redoute"
+        },
+        {
+          "year": 2022,
+          "winner": "Remco Evenepoel (BEL)",
+          "runnerUp": "Quinten Hermans (BEL)",
+          "score": "6h 12' 38\"",
+          "margin": "+48\"; 29km solo attack on La Redoute; maiden Monument victory at age 22"
+        },
+        {
+          "year": 2021,
+          "winner": "Tadej Pogačar (SLO)",
+          "runnerUp": "Julian Alaphilippe (FRA)",
+          "score": "6h 39' 26\"",
+          "margin": "Five-man sprint on Quai des Ardennes; maiden Monument crown for Tour champion"
+        },
+        {
+          "year": 2020,
+          "winner": "Primož Roglič (SLO)",
+          "runnerUp": "Marc Hirschi (SUI)",
+          "score": "6h 32' 02\"",
+          "margin": "October autumn sprint; Roglič threw his bike on line as Alaphilippe celebrated early (and was relegated)"
+        },
+        {
+          "year": 2019,
+          "winner": "Jakob Fuglsang (DEN)",
+          "runnerUp": "Davide Formolo (ITA)",
+          "score": "6h 37' 47\"",
+          "margin": "+27\"; solo attack on Côte de la Roche-aux-Faucons through freezing rain; survived scare on final descent"
+        },
+        {
+          "year": 2018,
+          "winner": "Bob Jungels (LUX)",
+          "runnerUp": "Michael Woods (CAN)",
+          "score": "6h 24' 44\"",
+          "margin": "+37\"; 20km solo attack over Roche-aux-Faucons; first Luxembourg winner since Andy Schleck 2009"
+        },
+        {
+          "year": 2017,
+          "winner": "Alejandro Valverde (ESP)",
+          "runnerUp": "Dan Martin (IRL)",
+          "score": "6h 24' 27\"",
+          "margin": "Ans uphill sprint; Valverde dedicated record-tying 4th Liège victory to Michele Scarponi"
+        },
+        {
+          "year": 2016,
+          "winner": "Wout Poels (NED)",
+          "runnerUp": "Michael Albasini (SUI)",
+          "score": "6h 24' 29\"",
+          "margin": "Four-man sprint in freezing snow flurries; first Dutch victory since Adrie van der Poel in 1988"
+        },
+        {
+          "year": 2015,
+          "winner": "Alejandro Valverde (ESP)",
+          "runnerUp": "Julian Alaphilippe (FRA)",
+          "score": "6h 14' 20\"",
+          "margin": "Uphill sprint in Ans; Valverde's 3rd Liège victory ahead of young Alaphilippe"
+        },
+        {
+          "year": 2014,
+          "winner": "Simon Gerrans (AUS)",
+          "runnerUp": "Alejandro Valverde (ESP)",
+          "score": "6h 37' 43\"",
+          "margin": "First Australian winner after Dan Martin crashed on final bend in Ans"
+        },
+        {
+          "year": 2013,
+          "winner": "Dan Martin (IRL)",
+          "runnerUp": "Joaquim Rodríguez (ESP)",
+          "score": "6h 38' 07\"",
+          "margin": "+03\"; Irish climber caught Rodríguez inside 500m and pulled away on Ans hill"
+        },
+        {
+          "year": 2012,
+          "winner": "Maxim Iglinsky (KAZ)",
+          "runnerUp": "Vincenzo Nibali (ITA)",
+          "score": "6h 43' 52\"",
+          "margin": "+21\"; caught solo breakaway leader Nibali with 1km remaining"
+        },
+        {
+          "year": 2011,
+          "winner": "Philippe Gilbert (BEL)",
+          "runnerUp": "Fränk Schleck (LUX)",
+          "score": "6h 13' 18\"",
+          "margin": "Three-man sprint against Schleck brothers (Fränk & Andy); completed historic Ardennes Week treble"
+        },
+        {
+          "year": 2010,
+          "winner": "Alexandre Vinokourov (KAZ)",
+          "runnerUp": "Alexandr Kolobnev (RUS)",
+          "score": "6h 37' 48\"",
+          "margin": "+06\"; two-man break attack inside final kilometer"
+        },
+        {
+          "year": 2009,
+          "winner": "Andy Schleck (LUX)",
+          "runnerUp": "Joaquim Rodríguez (ESP)",
+          "score": "6h 34' 32\"",
+          "margin": "+1' 17\"; 20km solo attack on Roche-aux-Faucons"
+        },
+        {
+          "year": 2008,
+          "winner": "Alejandro Valverde (ESP)",
+          "runnerUp": "Davide Rebellin (ITA)",
+          "score": "6h 44' 04\"",
+          "margin": "Three-man sprint in Ans; Valverde's second Liège crown"
+        },
+        {
+          "year": 2007,
+          "winner": "Danilo Di Luca (ITA)",
+          "runnerUp": "Alejandro Valverde (ESP)",
+          "score": "6h 37' 24\"",
+          "margin": "+03\"; Di Luca attacked on final ascent to Ans"
+        },
+        {
+          "year": 2006,
+          "winner": "Alejandro Valverde (ESP)",
+          "runnerUp": "Paolo Bettini (ITA)",
+          "score": "6h 21' 32\"",
+          "margin": "Sprint of elite group; first Spanish victory in Liège history"
+        },
+        {
+          "year": 2005,
+          "winner": "Alexandre Vinokourov (KAZ)",
+          "runnerUp": "Jens Voigt (GER)",
+          "score": "6h 29' 09\"",
+          "margin": "Two-man sprint over 50km breakaway companion Jens Voigt"
+        },
+        {
+          "year": 2004,
+          "winner": "Davide Rebellin (ITA)",
+          "runnerUp": "Michael Boogerd (NED)",
+          "score": "6h 20' 09\"",
+          "margin": "Sprint of three; completed clean sweep of Amstel, Flèche Wallonne, and Liège"
+        },
+        {
+          "year": 2003,
+          "winner": "Tyler Hamilton (USA)",
+          "runnerUp": "Iban Mayo (ESP)",
+          "score": "6h 28' 49\"",
+          "margin": "+12\"; solo attack on Côte de Saint-Nicolas with fractured collarbone"
+        },
+        {
+          "year": 2002,
+          "winner": "Paolo Bettini (ITA)",
+          "runnerUp": "Stefano Garzelli (ITA)",
+          "score": "6h 39' 44\"",
+          "margin": "Two-up sprint between Mapei teammates"
+        },
+        {
+          "year": 2001,
+          "winner": "Oscar Camenzind (SUI)",
+          "runnerUp": "Davide Rebellin (ITA)",
+          "score": "6h 45' 06\"",
+          "margin": "Sprint of small group in Ans"
+        },
+        {
+          "year": 2000,
+          "winner": "Paolo Bettini (ITA)",
+          "runnerUp": "David Etxebarria (ESP)",
+          "score": "6h 28' 32\"",
+          "margin": "Maiden Monument triumph for 'Il Grillo' Bettini"
+        }
+      ]
+    },
+    {
+      "title": "Liège-Bastogne-Liège Femmes",
+      "archiveUrl": "https://www.liege-bastogne-liege-femmes.be/en/history",
+      "sourceUrl": "https://www.liege-bastogne-liege-femmes.be/en/",
+      "sourceLabel": "Liège-Bastogne-Liège Femmes Results",
+      "archiveLabel": "Liège Femmes Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Grace Brown (AUS)",
+          "runnerUp": "Elisa Longo Borghini (ITA)",
+          "score": "4h 29' 00\"",
+          "margin": "Six-rider sprint on Quai des Ardennes; first Australian female Monument winner"
+        },
+        {
+          "year": 2023,
+          "winner": "Demi Vollering (NED)",
+          "runnerUp": "Elisa Longo Borghini (ITA)",
+          "score": "3h 50' 47\"",
+          "margin": "Vollering won uphill sprint to complete historic Ardennes triple (Amstel, Flèche, Liège)"
+        },
+        {
+          "year": 2022,
+          "winner": "Annemiek van Vleuten (NED)",
+          "runnerUp": "Grace Brown (AUS)",
+          "score": "3h 52' 32\"",
+          "margin": "+43\"; solo attack on Roche-aux-Faucons with 14km to go"
+        },
+        {
+          "year": 2021,
+          "winner": "Demi Vollering (NED)",
+          "runnerUp": "Annemiek van Vleuten (NED)",
+          "score": "3h 54' 31\"",
+          "margin": "Five-rider sprint lead out by SD Worx teammate Anna van der Breggen"
+        },
+        {
+          "year": 2020,
+          "winner": "Lizzie Deignan (GBR)",
+          "runnerUp": "Grace Brown (AUS)",
+          "score": "3h 29' 48\"",
+          "margin": "+09\"; 30km solo breakaway over La Redoute holding off Brown"
+        },
+        {
+          "year": 2019,
+          "winner": "Annemiek van Vleuten (NED)",
+          "runnerUp": "Floortje Mackaij (NED)",
+          "score": "3h 42' 10\"",
+          "margin": "+1' 39\"; 32km solo attack in torrential Ardennes rain"
+        },
+        {
+          "year": 2018,
+          "winner": "Anna van der Breggen (NED)",
+          "runnerUp": "Amanda Spratt (AUS)",
+          "score": "3h 34' 23\"",
+          "margin": "+06\"; Van der Breggen defended title with late solo move"
+        },
+        {
+          "year": 2017,
+          "winner": "Anna van der Breggen (NED)",
+          "runnerUp": "Lizzie Deignan (GBR)",
+          "score": "3h 42' 17\"",
+          "margin": "+17\"; inaugural Liège-Bastogne-Liège Femmes; completed Ardennes triple"
+        }
+      ]
+    }
+  ]
+}

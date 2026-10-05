@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "sport": "Basketball",
+  "tournament": "FIBA EuroBasket",
+  "source": {
+    "url": "https://www.fiba.basketball/eurobasket/history",
+    "label": "FIBA Official EuroBasket Champions & History Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern FIBA EuroBasket championship finals archive (1995–2022).",
+  "records": [
+    {
+      "year": 2022,
+      "winner": "Spain",
+      "runnerUp": "France",
+      "score": "88 - 76",
+      "margin": "Mercedes-Benz Arena, Berlin; Willy Hernangómez Tournament MVP; Juancho Hernangómez sank 7 three-pointers in final"
+    },
+    {
+      "year": 2017,
+      "winner": "Slovenia",
+      "runnerUp": "Serbia",
+      "score": "93 - 85",
+      "margin": "Sinan Erdem Dome, Istanbul; Goran Dragić scored 35 points (MVP); 18-year-old Luka Dončić won historic gold"
+    },
+    {
+      "year": 2015,
+      "winner": "Spain",
+      "runnerUp": "Lithuania",
+      "score": "80 - 63",
+      "margin": "Stade Pierre-Mauroy, Lille; Pau Gasol Tournament MVP after 40-point semi-final against France in front of 27,000 fans"
+    },
+    {
+      "year": 2013,
+      "winner": "France",
+      "runnerUp": "Lithuania",
+      "score": "80 - 66",
+      "margin": "Arena Stožice, Ljubljana; Tony Parker Tournament MVP (guided France to maiden EuroBasket title)"
+    },
+    {
+      "year": 2011,
+      "winner": "Spain",
+      "runnerUp": "France",
+      "score": "98 - 85",
+      "margin": "Žalgiris Arena, Kaunas; Juan Carlos Navarro Tournament MVP (27 pts in final); back-to-back European crowns"
+    },
+    {
+      "year": 2009,
+      "winner": "Spain",
+      "runnerUp": "Serbia",
+      "score": "85 - 63",
+      "margin": "Spodek, Katowice; Pau Gasol Tournament MVP (first EuroBasket gold in Spanish basketball history)"
+    },
+    {
+      "year": 2007,
+      "winner": "Russia",
+      "runnerUp": "Spain",
+      "score": "60 - 59",
+      "margin": "Palacio de Deportes, Madrid; J.R. Holden stole ball and sank game-winner with 2.1s left to stun hosts Spain"
+    },
+    {
+      "year": 2005,
+      "winner": "Greece",
+      "runnerUp": "Germany",
+      "score": "78 - 62",
+      "margin": "Belgrade Arena; Theodoros Papaloukas (22 pts); Dirk Nowitzki named Tournament MVP"
+    },
+    {
+      "year": 2003,
+      "winner": "Lithuania",
+      "runnerUp": "Spain",
+      "score": "93 - 84",
+      "margin": "Globe Arena, Stockholm; Šarūnas Jasikevičius Tournament MVP; Lithuania went undefeated 6-0"
+    },
+    {
+      "year": 2001,
+      "winner": "FR Yugoslavia",
+      "runnerUp": "Turkey",
+      "score": "78 - 69",
+      "margin": "Abdi İpekçi Arena, Istanbul; Peja Stojaković Tournament MVP; Svetislav Pešić coach"
+    },
+    {
+      "year": 1999,
+      "winner": "Italy",
+      "runnerUp": "Spain",
+      "score": "64 - 56",
+      "margin": "Palais Omnisports de Paris-Bercy; Gregor Fučka Tournament MVP; Carlton Myers led Azzurri to 2nd European gold"
+    },
+    {
+      "year": 1997,
+      "winner": "FR Yugoslavia",
+      "runnerUp": "Italy",
+      "score": "61 - 49",
+      "margin": "Palau Sant Jordi, Barcelona; Sasha Djordjević Tournament MVP; defended European title"
+    },
+    {
+      "year": 1995,
+      "winner": "FR Yugoslavia",
+      "runnerUp": "Lithuania",
+      "score": "96 - 90",
+      "margin": "O.A.C.A., Athens; Sasha Djordjević erupted for 41 points (9/12 threes); Arvydas Sabonis scored 20 pts"
+    }
+  ],
+  "sections": []
+}

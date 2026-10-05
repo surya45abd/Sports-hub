@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "Giro d'Italia",
+  "source": {
+    "url": "https://www.giroditalia.it/en/hall-of-fame/",
+    "label": "RCS Sport Official Giro d'Italia Hall of Fame"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Giro d'Italia general classification archive (2000–2025) with winning times and margins.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Primož Roglič (SLO)",
+      "runnerUp": "Juan Ayuso (ESP)",
+      "score": "83h 12' 40\"",
+      "margin": "+1' 14\"; 2nd Giro d'Italia crown"
+    },
+    {
+      "year": 2024,
+      "winner": "Tadej Pogačar (SLO)",
+      "runnerUp": "Daniel Martínez (COL)",
+      "score": "79h 14' 03\"",
+      "margin": "+9' 56\"; won 6 stages including double climb of Monte Grappa; largest winning margin in 59 years"
+    },
+    {
+      "year": 2023,
+      "winner": "Primož Roglič (SLO)",
+      "runnerUp": "Geraint Thomas (GBR)",
+      "score": "85h 29' 02\"",
+      "margin": "+14\"; historic penultimate-day mountain time trial turnaround on Monte Lussari despite dropped chain"
+    },
+    {
+      "year": 2022,
+      "winner": "Jai Hindley (AUS)",
+      "runnerUp": "Richard Carapaz (ECU)",
+      "score": "86h 31' 14\"",
+      "margin": "+1' 18\"; decisive attack on Passo Fedaia (Marmolada); first Australian Giro champion"
+    },
+    {
+      "year": 2021,
+      "winner": "Egan Bernal (COL)",
+      "runnerUp": "Damiano Caruso (ITA)",
+      "score": "86h 17' 28\"",
+      "margin": "+1' 29\"; dominant mountain display on gravel summit of Campo Felice and Passo Giau"
+    },
+    {
+      "year": 2020,
+      "winner": "Tao Geoghegan Hart (GBR)",
+      "runnerUp": "Jai Hindley (AUS)",
+      "score": "85h 40' 21\"",
+      "margin": "+39\"; entered final 15.7km Milan time trial tied on exact same second; 2nd British Giro winner"
+    },
+    {
+      "year": 2019,
+      "winner": "Richard Carapaz (ECU)",
+      "runnerUp": "Vincenzo Nibali (ITA)",
+      "score": "90h 01' 47\"",
+      "margin": "+1' 05\"; first Ecuadorian Grand Tour champion; attacked on Colle San Carlo"
+    },
+    {
+      "year": 2018,
+      "winner": "Chris Froome (GBR)",
+      "runnerUp": "Tom Dumoulin (NED)",
+      "score": "89h 02' 39\"",
+      "margin": "+46\"; legendary 80km solo breakaway on Colle delle Finestre gravel climb to take Maglia Rosa"
+    },
+    {
+      "year": 2017,
+      "winner": "Tom Dumoulin (NED)",
+      "runnerUp": "Nairo Quintana (COL)",
+      "score": "90h 34' 54\"",
+      "margin": "+31\"; 100th edition; first Dutch Giro champion, overhauled Quintana on final Milan time trial"
+    },
+    {
+      "year": 2016,
+      "winner": "Vincenzo Nibali (ITA)",
+      "runnerUp": "Esteban Chaves (COL)",
+      "score": "86h 32' 49\"",
+      "margin": "+52\"; rallied from 4' 43\" behind Steven Kruijswijk with ferocious attacks on Colle dell'Agnello & Risoul"
+    },
+    {
+      "year": 2015,
+      "winner": "Alberto Contador (ESP)",
+      "runnerUp": "Fabio Aru (ITA)",
+      "score": "88h 22' 25\"",
+      "margin": "+1' 53\"; 2nd official Giro title despite dislocated shoulder on Stage 6"
+    },
+    {
+      "year": 2014,
+      "winner": "Nairo Quintana (COL)",
+      "runnerUp": "Rigoberto Urán (COL)",
+      "score": "88h 14' 32\"",
+      "margin": "+2' 58\"; maiden Grand Tour title; attacked on snowy descent of Passo dello Stelvio"
+    },
+    {
+      "year": 2013,
+      "winner": "Vincenzo Nibali (ITA)",
+      "runnerUp": "Rigoberto Urán (COL)",
+      "score": "84h 53' 28\"",
+      "margin": "+4' 43\"; solo victory in blizzard conditions atop Tre Cime di Lavaredo"
+    },
+    {
+      "year": 2012,
+      "winner": "Ryder Hesjedal (CAN)",
+      "runnerUp": "Joaquim Rodríguez (ESP)",
+      "score": "91h 39' 02\"",
+      "margin": "+16\"; first Canadian Grand Tour champion; erased 31-second deficit on final Milan time trial"
+    },
+    {
+      "year": 2011,
+      "winner": "Michele Scarponi (ITA)",
+      "runnerUp": "Vincenzo Nibali (ITA)",
+      "score": "84h 11' 24\"",
+      "margin": "+46\"; awarded title following Alberto Contador's retrospective disqualification"
+    },
+    {
+      "year": 2010,
+      "winner": "Ivan Basso (ITA)",
+      "runnerUp": "David Arroyo (ESP)",
+      "score": "87h 44' 01\"",
+      "margin": "+1' 51\"; 2nd Giro crown; crushed Mortirolo climb alongside Vincenzo Nibali"
+    },
+    {
+      "year": 2009,
+      "winner": "Denis Menchov (RUS)",
+      "runnerUp": "Danilo Di Luca (ITA)",
+      "score": "86h 03' 11\"",
+      "margin": "+41\"; centenary Giro; survived heart-stopping slide on wet Rome cobblestones on final time trial"
+    },
+    {
+      "year": 2008,
+      "winner": "Alberto Contador (ESP)",
+      "runnerUp": "Riccardo Riccò (ITA)",
+      "score": "89h 56' 49\"",
+      "margin": "+1' 57\"; called in from beach vacation one week before start; maiden Giro triumph"
+    },
+    {
+      "year": 2007,
+      "winner": "Danilo Di Luca (ITA)",
+      "runnerUp": "Andy Schleck (LUX)",
+      "score": "92h 59' 46\"",
+      "margin": "+1' 55\"; won stages to Montevergine di Mercogliano and Sanctuary of Nostra Signora della Guardia"
+    },
+    {
+      "year": 2006,
+      "winner": "Ivan Basso (ITA)",
+      "runnerUp": "José Enrique Gutiérrez (ESP)",
+      "score": "91h 33' 36\"",
+      "margin": "+9' 18\"; dominant 3 stage victories for Team CSC"
+    },
+    {
+      "year": 2005,
+      "winner": "Paolo Savoldelli (ITA)",
+      "runnerUp": "Gilberto Simoni (ITA)",
+      "score": "91h 25' 51\"",
+      "margin": "+28\"; 'Il Falco' protected lead with hair-raising descent of Colle delle Finestre"
+    },
+    {
+      "year": 2004,
+      "winner": "Damiano Cunego (ITA)",
+      "runnerUp": "Serhiy Honchar (UKR)",
+      "score": "88h 40' 43\"",
+      "margin": "+2' 02\"; 22-year-old 'Little Prince' won 4 stages to upstage team captain Gilberto Simoni"
+    },
+    {
+      "year": 2003,
+      "winner": "Gilberto Simoni (ITA)",
+      "runnerUp": "Stefano Garzelli (ITA)",
+      "score": "89h 32' 09\"",
+      "margin": "+7' 06\"; dominated Monte Zoncolan's Giro debut"
+    },
+    {
+      "year": 2002,
+      "winner": "Paolo Savoldelli (ITA)",
+      "runnerUp": "Tyler Hamilton (USA)",
+      "score": "89h 22' 42\"",
+      "margin": "+1' 41\"; won after Cadel Evans and Hamilton faltered in Dolomites"
+    },
+    {
+      "year": 2001,
+      "winner": "Gilberto Simoni (ITA)",
+      "runnerUp": "Abraham Olano (ESP)",
+      "score": "89h 02' 58\"",
+      "margin": "+7' 31\"; maiden Grand Tour crown"
+    },
+    {
+      "year": 2000,
+      "winner": "Stefano Garzelli (ITA)",
+      "runnerUp": "Francesco Casagrande (ITA)",
+      "score": "98h 30' 14\"",
+      "margin": "+1' 27\"; overhauled Casagrande in penultimate mountain time trial to Sestriere"
+    }
+  ],
+  "sections": []
+}

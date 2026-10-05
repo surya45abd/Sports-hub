@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "sport": "Rugby",
+  "tournament": "World Rugby Sevens Series",
+  "source": {
+    "url": "https://www.svns.com/en/history",
+    "label": "World Rugby SVNS Series Official Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern SVNS World Series archive for both Men's and Women's competitions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's SVNS Series",
+      "archiveUrl": "https://www.svns.com/en",
+      "sourceUrl": "https://www.world.rugby/sevens",
+      "sourceLabel": "World Rugby Men's Sevens Archive",
+      "archiveLabel": "Full Men's SVNS Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "France",
+          "runnerUp": "Argentina",
+          "score": "19 - 5",
+          "margin": "Madrid Grand Final; Antoine Dupont led France to inaugural SVNS Championship"
+        },
+        {
+          "year": 2023,
+          "winner": "New Zealand",
+          "runnerUp": "Argentina",
+          "score": "Series Champions (200 pts)",
+          "margin": "Record 14th World Series title for the All Blacks Sevens"
+        },
+        {
+          "year": 2022,
+          "winner": "Australia",
+          "runnerUp": "South Africa",
+          "score": "Series Champions (126 pts)",
+          "margin": "First-ever men's World Series title for Australia"
+        },
+        {
+          "year": 2020,
+          "winner": "New Zealand",
+          "runnerUp": "South Africa",
+          "score": "Series Champions (115 pts)",
+          "margin": "Awarded title after season truncated due to COVID pandemic"
+        },
+        {
+          "year": 2019,
+          "winner": "Fiji",
+          "runnerUp": "United States",
+          "score": "Series Champions (186 pts)",
+          "margin": "4th World Series title for Fiji Sevens"
+        },
+        {
+          "year": 2018,
+          "winner": "South Africa",
+          "runnerUp": "Fiji",
+          "score": "Series Champions (182 pts)",
+          "margin": "Blitzboks defended title on final weekend in Paris"
+        },
+        {
+          "year": 2017,
+          "winner": "South Africa",
+          "runnerUp": "England",
+          "score": "Series Champions (179 pts)",
+          "margin": "Won 5 of 10 tournament legs"
+        },
+        {
+          "year": 2016,
+          "winner": "Fiji",
+          "runnerUp": "South Africa",
+          "score": "Series Champions (181 pts)",
+          "margin": "Preceded historic gold medal at Rio 2016 Olympics"
+        }
+      ]
+    },
+    {
+      "title": "Women's SVNS Series",
+      "archiveUrl": "https://www.svns.com/en",
+      "sourceUrl": "https://www.world.rugby/sevens",
+      "sourceLabel": "World Rugby Women's Sevens Archive",
+      "archiveLabel": "Full Women's SVNS Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Australia",
+          "runnerUp": "France",
+          "score": "26 - 7",
+          "margin": "Madrid Grand Final; Maddison Levi starred with record try-scoring tournament"
+        },
+        {
+          "year": 2023,
+          "winner": "New Zealand (Black Ferns Sevens)",
+          "runnerUp": "Australia",
+          "score": "Series Champions (138 pts)",
+          "margin": "Won 6 consecutive tournament legs"
+        },
+        {
+          "year": 2022,
+          "winner": "Australia",
+          "runnerUp": "France",
+          "score": "Series Champions (80 pts)",
+          "margin": "3rd World Series title for Australian women"
+        },
+        {
+          "year": 2020,
+          "winner": "New Zealand (Black Ferns Sevens)",
+          "runnerUp": "Australia",
+          "score": "Series Champions (96 pts)",
+          "margin": "Won 4 of 5 completed tournament rounds"
+        },
+        {
+          "year": 2019,
+          "winner": "New Zealand (Black Ferns Sevens)",
+          "runnerUp": "United States",
+          "score": "Series Champions (110 pts)",
+          "margin": "5th World Series title"
+        },
+        {
+          "year": 2018,
+          "winner": "Australia",
+          "runnerUp": "New Zealand",
+          "score": "Series Champions (92 pts)",
+          "margin": "Charlotte Caslick and Ellia Green led dominant campaign"
+        }
+      ]
+    }
+  ]
+}

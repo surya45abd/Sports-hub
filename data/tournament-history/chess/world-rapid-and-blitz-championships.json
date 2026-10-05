@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "World Rapid and Blitz Championships",
+  "source": {
+    "url": "https://worldrapidandblitz2023.fide.com/",
+    "label": "Official FIDE World Rapid & Blitz Archives"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete World Rapid and World Blitz championship archives (2014–2023).",
+  "records": [],
+  "sections": [
+    {
+      "title": "World Rapid Championship",
+      "archiveUrl": "https://worldrapidandblitz2023.fide.com/",
+      "sourceUrl": "https://www.fide.com/",
+      "sourceLabel": "FIDE World Rapid Archive",
+      "archiveLabel": "Full World Rapid Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Vladimir Fedoseev (SLO)",
+          "score": "10 / 13",
+          "margin": "Samarkand, Uzbekistan; 5th World Rapid Championship crown"
+        },
+        {
+          "year": 2022,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Vincent Keymer (GER)",
+          "score": "10 / 13",
+          "margin": "Almaty, Kazakhstan; 4th World Rapid title"
+        },
+        {
+          "year": 2021,
+          "winner": "Nodirbek Abdusattorov (UZB)",
+          "runnerUp": "Ian Nepomniachtchi (CFR)",
+          "score": "9½ / 13 (blitz playoff)",
+          "margin": "Warsaw; at age 17, became youngest World Rapid Champion in history, defeating Carlsen"
+        },
+        {
+          "year": 2019,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Alireza Firouzja, Hikaru Nakamura",
+          "score": "11½ / 15",
+          "margin": "Moscow, Russia; completed Rapid and Blitz double"
+        },
+        {
+          "year": 2018,
+          "winner": "Daniil Dubov (RUS)",
+          "runnerUp": "Shakhriyar Mamedyarov, Hikaru Nakamura",
+          "score": "11 / 15",
+          "margin": "St. Petersburg; maiden World Rapid crown"
+        },
+        {
+          "year": 2017,
+          "winner": "Viswanathan Anand (IND)",
+          "runnerUp": "Vladimir Fedoseev, Ian Nepomniachtchi",
+          "score": "10½ / 15 (tiebreak)",
+          "margin": "Riyadh, Saudi Arabia; at age 48, Anand stunned the field with an unbeaten run"
+        },
+        {
+          "year": 2016,
+          "winner": "Vassily Ivanchuk (UKR)",
+          "runnerUp": "Alexander Grischuk, Magnus Carlsen",
+          "score": "11 / 15",
+          "margin": "Doha, Qatar; celebrated with checkers board on podium"
+        },
+        {
+          "year": 2015,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Ian Nepomniachtchi, Teimour Radjabov",
+          "score": "11½ / 15",
+          "margin": "Berlin, Germany; defended title"
+        },
+        {
+          "year": 2014,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Fabiano Caruana, Viswanathan Anand",
+          "score": "11 / 15",
+          "margin": "Dubai, UAE; held Classical, Rapid, and Blitz crowns simultaneously"
+        }
+      ]
+    },
+    {
+      "title": "World Blitz Championship",
+      "archiveUrl": "https://worldrapidandblitz2023.fide.com/",
+      "sourceUrl": "https://www.fide.com/",
+      "sourceLabel": "FIDE World Blitz Archive",
+      "archiveLabel": "Full World Blitz Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Daniil Dubov (FIDE)",
+          "score": "16 / 21",
+          "margin": "Samarkand; record 7th World Blitz Championship title"
+        },
+        {
+          "year": 2022,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Hikaru Nakamura (USA)",
+          "score": "16 / 21",
+          "margin": "Almaty, Kazakhstan; 6th World Blitz title"
+        },
+        {
+          "year": 2021,
+          "winner": "Maxime Vachier-Lagrave (FRA)",
+          "runnerUp": "Jan-Krzysztof Duda (POL)",
+          "score": "15 / 21 (blitz playoff)",
+          "margin": "Warsaw; won thrilling tiebreak 2-1"
+        },
+        {
+          "year": 2019,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Hikaru Nakamura (USA)",
+          "score": "16½ / 21 (tiebreak)",
+          "margin": "Moscow; defeated Nakamura in playoff 1½-½"
+        },
+        {
+          "year": 2018,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Jan-Krzysztof Duda (POL)",
+          "score": "17 / 21",
+          "margin": "St. Petersburg; undefeated throughout 21 rounds"
+        },
+        {
+          "year": 2017,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Sergey Karjakin (RUS)",
+          "score": "16 / 21",
+          "margin": "Riyadh, Saudi Arabia"
+        },
+        {
+          "year": 2016,
+          "winner": "Sergey Karjakin (RUS)",
+          "runnerUp": "Magnus Carlsen (NOR)",
+          "score": "16½ / 21",
+          "margin": "Doha, Qatar; won title on tiebreak (better opponent score)"
+        },
+        {
+          "year": 2015,
+          "winner": "Alexander Grischuk (RUS)",
+          "runnerUp": "Maxime Vachier-Lagrave (FRA)",
+          "score": "15½ / 21",
+          "margin": "Berlin; record 3rd World Blitz Championship title"
+        },
+        {
+          "year": 2014,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Ian Nepomniachtchi, Hikaru Nakamura",
+          "score": "17 / 21",
+          "margin": "Dubai, UAE; completed Triple Crown"
+        }
+      ]
+    }
+  ]
+}

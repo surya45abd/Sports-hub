@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sport": "Cricket",
+  "tournament": "ICC Cricket World Cup",
+  "source": {
+    "url": "https://www.icc-cricket.com/media-releases/icc-mens-cricket-world-cup-the-story-so-far",
+    "label": "Official ICC men's Cricket World Cup history"
+  },
+  "verificationSources": [
+    "https://images.icc-cricket.com/image/upload/prd/qfn6kyzv3pjksghxxvx4.pdf",
+    "https://www.icc-cricket.com/media-releases/icc-thanks-bcci-for-hosting-biggest-cricket-world-cup-ever"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete men's ODI Cricket World Cup final archive, 1975–2023. Winners and runners-up were checked across the ICC's tournament history and official event records. The 2019 final was tied; England won on boundary countback after a tied Super Over.",
+  "records": [
+    { "year": 1975, "winner": "West Indies", "runnerUp": "Australia", "score": "", "margin": "17 runs" },
+    { "year": 1979, "winner": "West Indies", "runnerUp": "England", "score": "", "margin": "92 runs" },
+    { "year": 1983, "winner": "India", "runnerUp": "West Indies", "score": "", "margin": "43 runs" },
+    { "year": 1987, "winner": "Australia", "runnerUp": "England", "score": "", "margin": "7 runs" },
+    { "year": 1992, "winner": "Pakistan", "runnerUp": "England", "score": "", "margin": "22 runs" },
+    { "year": 1996, "winner": "Sri Lanka", "runnerUp": "Australia", "score": "", "margin": "7 wickets" },
+    { "year": 1999, "winner": "Australia", "runnerUp": "Pakistan", "score": "", "margin": "8 wickets" },
+    { "year": 2003, "winner": "Australia", "runnerUp": "India", "score": "", "margin": "125 runs" },
+    { "year": 2007, "winner": "Australia", "runnerUp": "Sri Lanka", "score": "", "margin": "53 runs (D/L method)" },
+    { "year": 2011, "winner": "India", "runnerUp": "Sri Lanka", "score": "", "margin": "6 wickets" },
+    { "year": 2015, "winner": "Australia", "runnerUp": "New Zealand", "score": "", "margin": "7 wickets" },
+    { "year": 2019, "winner": "England", "runnerUp": "New Zealand", "score": "", "margin": "Tied; England won on boundary countback after a tied Super Over" },
+    { "year": 2023, "winner": "Australia", "runnerUp": "India", "score": "", "margin": "6 wickets" }
+  ],
+  "candidateRecords": []
+}

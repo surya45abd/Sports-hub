@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "ITTF World Cup",
+  "source": {
+    "url": "https://www.ittf.com/tournament/2841/ittf-mens-womens-world-cup-macao-2024/",
+    "label": "ITTF Official World Cup Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern ITTF World Cup singles archive (2000–2024) across Men's Singles and Women's Singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Singles World Cup",
+      "archiveUrl": "https://www.ittf.com/",
+      "sourceUrl": "https://www.ittf.com/",
+      "sourceLabel": "ITTF Men's World Cup Results",
+      "archiveLabel": "Men's World Cup Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Lin Gaoyuan (CHN)",
+          "score": "4-3 (9-11, 9-11, 5-11, 11-8, 11-6, 11-4, 11-8)",
+          "margin": "Galaxy Arena (Macau); Ma Long produced miracle comeback from 0-3 sets down to win 3rd World Cup crown"
+        },
+        {
+          "year": 2020,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Ma Long (CHN)",
+          "score": "4-3 (3-11, 11-8, 11-3, 11-6, 7-11, 7-11, 11-9)",
+          "margin": "Weihai (China); Fan clinched record-tying 3rd consecutive World Cup title in 7-game thriller"
+        },
+        {
+          "year": 2019,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Tomokazu Harimoto (JPN)",
+          "score": "4-2 (9-11, 11-4, 6-11, 11-8, 11-2, 11-7)",
+          "margin": "Chengdu; Fan retained men's World Cup crown"
+        },
+        {
+          "year": 2018,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Timo Boll (GER)",
+          "score": "4-1 (11-9, 11-5, 11-6, 9-11, 11-8)",
+          "margin": "Disney Events Arena (Paris); Fan won second World Cup title"
+        },
+        {
+          "year": 2017,
+          "winner": "Dimitrij Ovtcharov (GER)",
+          "runnerUp": "Timo Boll (GER)",
+          "score": "4-2 (10-12, 11-8, 11-7, 9-11, 11-7, 11-2)",
+          "margin": "Liège (Belgium); all-German final after Boll defeated Ma Long and Lin Gaoyuan"
+        },
+        {
+          "year": 2016,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Xu Xin (CHN)",
+          "score": "4-1 (11-5, 11-6, 11-8, 7-11, 12-10)",
+          "margin": "Saarbrücken (Germany); 19-year-old Fan won maiden World Cup"
+        },
+        {
+          "year": 2015,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Fan Zhendong (CHN)",
+          "score": "4-0 (11-7, 11-6, 11-8, 11-8)",
+          "margin": "Halmstad Arena (Sweden); Ma Long swept final in 4 straight sets"
+        },
+        {
+          "year": 2014,
+          "winner": "Zhang Jike (CHN)",
+          "runnerUp": "Ma Long (CHN)",
+          "score": "4-3 (8-11, 11-4, 13-11, 7-11, 2-11, 11-5, 12-10)",
+          "margin": "Düsseldorf (Germany); Zhang won deuce in 7th game and kicked advertising barriers in celebration"
+        },
+        {
+          "year": 2013,
+          "winner": "Xu Xin (CHN)",
+          "runnerUp": "Vladimir Samsonov (BLR)",
+          "score": "4-1 (11-6, 12-14, 11-8, 11-9, 11-7)",
+          "margin": "Verviers (Belgium); penholder Xu Xin won his first World Cup"
+        },
+        {
+          "year": 2012,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Timo Boll (GER)",
+          "score": "4-0 (11-4, 11-3, 11-8, 11-9)",
+          "margin": "Liverpool (England); Ma Long won first singles World Cup title"
+        },
+        {
+          "year": 2011,
+          "winner": "Zhang Jike (CHN)",
+          "runnerUp": "Wang Hao (CHN)",
+          "score": "4-2 (7-11, 7-11, 11-9, 11-4, 11-5, 11-3)",
+          "margin": "Paris (France); Zhang rallied from 0-2 down to take title"
+        },
+        {
+          "year": 2010,
+          "winner": "Wang Hao (CHN)",
+          "runnerUp": "Zhang Jike (CHN)",
+          "score": "4-1 (8-11, 11-8, 11-3, 11-9, 11-9)",
+          "margin": "Magdeburg (Germany); Wang Hao claimed 3rd World Cup crown"
+        }
+      ]
+    },
+    {
+      "title": "Women's Singles World Cup",
+      "archiveUrl": "https://www.ittf.com/",
+      "sourceUrl": "https://www.ittf.com/",
+      "sourceLabel": "ITTF Women's World Cup Results",
+      "archiveLabel": "Women's World Cup Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Sun Yingsha (CHN)",
+          "runnerUp": "Wang Manyu (CHN)",
+          "score": "4-3 (8-11, 5-11, 11-4, 5-11, 11-8, 11-5, 11-9)",
+          "margin": "Galaxy Arena (Macau); World No. 1 Sun rallied from 1-3 sets down to capture inaugural Macao World Cup"
+        },
+        {
+          "year": 2020,
+          "winner": "Chen Meng (CHN)",
+          "runnerUp": "Sun Yingsha (CHN)",
+          "score": "4-1 (11-13, 11-6, 11-9, 11-6, 11-8)",
+          "margin": "Weihai; Chen won first World Cup title before Olympic gold in Tokyo"
+        },
+        {
+          "year": 2019,
+          "winner": "Liu Shiwen (CHN)",
+          "runnerUp": "Zhu Yuling (CHN)",
+          "score": "4-2 (4-11, 11-8, 11-8, 11-6, 3-11, 11-9)",
+          "margin": "Chengdu; Liu made history with record 5th Women's World Cup title (2009, 2012, 2013, 2015, 2019)"
+        },
+        {
+          "year": 2018,
+          "winner": "Ding Ning (CHN)",
+          "runnerUp": "Zhu Yuling (CHN)",
+          "score": "4-0 (11-9, 11-8, 12-10, 11-8)",
+          "margin": "Chengdu; Grand Slam champion Ding Ning won 3rd World Cup"
+        },
+        {
+          "year": 2017,
+          "winner": "Zhu Yuling (CHN)",
+          "runnerUp": "Liu Shiwen (CHN)",
+          "score": "4-3 (11-13, 8-11, 11-7, 11-8, 10-12, 11-9, 12-10)",
+          "margin": "Markham (Canada); Zhu won in dramatic 7th-game deuce"
+        },
+        {
+          "year": 2016,
+          "winner": "Miu Hirano (JPN)",
+          "runnerUp": "Cheng I-ching (TPE)",
+          "score": "4-0 (11-9, 11-5, 11-4, 11-8)",
+          "margin": "Philadelphia (USA); 16-year-old Hirano became youngest ever champion and first non-Chinese winner in tournament history"
+        },
+        {
+          "year": 2015,
+          "winner": "Liu Shiwen (CHN)",
+          "runnerUp": "Ishikawa Kasumi (JPN)",
+          "score": "4-0 (14-12, 11-2, 11-9, 11-2)",
+          "margin": "Sendai (Japan); Liu claimed 4th World Cup title"
+        },
+        {
+          "year": 2014,
+          "winner": "Ding Ning (CHN)",
+          "runnerUp": "Li Xiaoxia (CHN)",
+          "score": "4-0 (11-7, 11-9, 13-11, 11-5)",
+          "margin": "Linz (Austria); Ding defeated reigning Olympic champion Li"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kabaddi",
+  "tournament": "Kabaddi World Cup",
+  "source": {
+    "url": "https://www.kabaddiikf.com/",
+    "label": "International Kabaddi Federation (IKF) Official World Cup Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete International Kabaddi Federation (IKF) Standard Style World Cup finals archive (2004–2016).",
+  "records": [
+    {
+      "year": 2016,
+      "winner": "India",
+      "runnerUp": "Iran",
+      "score": "38-29",
+      "margin": "The Arena by TransStadia (Ahmedabad); Ajay Thakur scored 12 raid points as India rallied from 13-18 half-time deficit before 10,000 roar fans; Anup Kumar captain"
+    },
+    {
+      "year": 2007,
+      "winner": "India",
+      "runnerUp": "Iran",
+      "score": "29-19",
+      "margin": "Balewadi Sports Complex (Panvel, Maharashtra); Dinesh Kumar and Rakesh Kumar powered India to title"
+    },
+    {
+      "year": 2004,
+      "winner": "India",
+      "runnerUp": "Iran",
+      "score": "55-27",
+      "margin": "Mumbai; inaugural Standard Style IKF World Cup; Sanjeev Kumar led India to dominant victory"
+    }
+  ]
+}

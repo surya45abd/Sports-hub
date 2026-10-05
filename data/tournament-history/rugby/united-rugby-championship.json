@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "sport": "Rugby",
+  "tournament": "United Rugby Championship",
+  "source": {
+    "url": "https://www.unitedrugby.com/about/history",
+    "label": "United Rugby Championship Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Celtic League / Pro12 / Pro14 / URC Grand Finals archive (2010–2024).",
+  "records": [
+    {
+      "year": "2023-24",
+      "winner": "Glasgow Warriors (SCO)",
+      "runnerUp": "Bulls (RSA)",
+      "score": "21-16",
+      "margin": "Loftus Versfeld (Pretoria); Glasgow stormed back from 13-0 deficit to claim title at altitude"
+    },
+    {
+      "year": "2022-23",
+      "winner": "Munster (IRE)",
+      "runnerUp": "Stormers (RSA)",
+      "score": "19-14",
+      "margin": "DHL Stadium (Cape Town); John Hodnett 74th-minute try ended 12-year trophy drought for Munster"
+    },
+    {
+      "year": "2021-22",
+      "winner": "Stormers (RSA)",
+      "runnerUp": "Bulls (RSA)",
+      "score": "18-13",
+      "margin": "DHL Stadium (Cape Town); inaugural all-South African URC Grand Final won by Stormers"
+    },
+    {
+      "year": "2020-21",
+      "winner": "Leinster (IRE)",
+      "runnerUp": "Munster (IRE)",
+      "score": "16-6",
+      "margin": "RDS Arena (Dublin); Jack Conan try sealed 4th consecutive Pro14 championship for Leinster"
+    },
+    {
+      "year": "2019-20",
+      "winner": "Leinster (IRE)",
+      "runnerUp": "Ulster (IRE)",
+      "score": "27-5",
+      "margin": "Aviva Stadium (Dublin); Leinster completed an undefeated Pro14 campaign"
+    },
+    {
+      "year": "2018-19",
+      "winner": "Leinster (IRE)",
+      "runnerUp": "Glasgow Warriors (SCO)",
+      "score": "18-15",
+      "margin": "Celtic Park (Glasgow); Leinster retained title before 47,128 fans"
+    },
+    {
+      "year": "2017-18",
+      "winner": "Leinster (IRE)",
+      "runnerUp": "Scarlets (WAL)",
+      "score": "40-32",
+      "margin": "Aviva Stadium (Dublin); Leinster completed European Champions Cup and Pro14 double"
+    },
+    {
+      "year": "2016-17",
+      "winner": "Scarlets (WAL)",
+      "runnerUp": "Munster (IRE)",
+      "score": "46-22",
+      "margin": "Aviva Stadium (Dublin); Scarlets ran in 6 tries in sensational attacking showcase"
+    },
+    {
+      "year": "2015-16",
+      "winner": "Connacht (IRE)",
+      "runnerUp": "Leinster (IRE)",
+      "score": "20-10",
+      "margin": "Murrayfield (Edinburgh); Pat Lam guided Connacht to legendary first major trophy in history"
+    },
+    {
+      "year": "2014-15",
+      "winner": "Glasgow Warriors (SCO)",
+      "runnerUp": "Munster (IRE)",
+      "score": "31-13",
+      "margin": "Kingspan Stadium (Belfast); Gregor Townsend led Glasgow to Scotland's first professional rugby title"
+    },
+    {
+      "year": "2013-14",
+      "winner": "Leinster (IRE)",
+      "runnerUp": "Glasgow Warriors (SCO)",
+      "score": "34-12",
+      "margin": "RDS Arena (Dublin); Brian O'Driscoll's victorious farewell match"
+    },
+    {
+      "year": "2012-13",
+      "winner": "Leinster (IRE)",
+      "runnerUp": "Ulster (IRE)",
+      "score": "24-18",
+      "margin": "RDS Arena (Dublin); Shane Jennings and Jamie Heaslip tries secured Pro12 title"
+    },
+    {
+      "year": "2011-12",
+      "winner": "Ospreys (WAL)",
+      "runnerUp": "Leinster (IRE)",
+      "score": "31-30",
+      "margin": "RDS Arena (Dublin); Shane Williams 78th-minute try and Dan Biggar touchline conversion"
+    },
+    {
+      "year": "2010-11",
+      "winner": "Munster (IRE)",
+      "runnerUp": "Leinster (IRE)",
+      "score": "19-9",
+      "margin": "Thomond Park (Limerick); Doug Howlett try sealed championship for Munster"
+    },
+    {
+      "year": "2009-10",
+      "winner": "Ospreys (WAL)",
+      "runnerUp": "Leinster (IRE)",
+      "score": "17-12",
+      "margin": "RDS Arena (Dublin); Tommy Bowe try helped Ospreys win inaugural Grand Final playoff"
+    }
+  ]
+}

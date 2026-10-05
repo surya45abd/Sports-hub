@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "Tata Steel Chess Tournament",
+  "source": {
+    "url": "https://tatasteelchess.com/history/past-tournaments/",
+    "label": "Official Tata Steel Chess Past Tournaments & Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Tata Steel / Corus Chess Masters archive (2000–2025) in Wijk aan Zee.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Praggnanandhaa Rameshbabu",
+      "runnerUp": "Gukesh Dommaraju",
+      "score": "8½ / 13 (blitz playoff)",
+      "margin": "Wijk aan Zee; all-Indian blitz playoff"
+    },
+    {
+      "year": 2024,
+      "winner": "Wei Yi",
+      "runnerUp": "Alireza Firouzja, Anish Giri, Gukesh D",
+      "score": "8½ / 13 (blitz playoff)",
+      "margin": "Wijk aan Zee; 4-player playoff tiebreak"
+    },
+    {
+      "year": 2023,
+      "winner": "Anish Giri",
+      "runnerUp": "Nodirbek Abdusattorov, Magnus Carlsen",
+      "score": "8½ / 13",
+      "margin": "Wijk aan Zee; Giri's maiden Masters title in his home event"
+    },
+    {
+      "year": 2022,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Shakhriyar Mamedyarov, Richard Rapport",
+      "score": "9½ / 13",
+      "margin": "Record 8th Wijk aan Zee Masters crown"
+    },
+    {
+      "year": 2021,
+      "winner": "Jorden van Foreest",
+      "runnerUp": "Anish Giri",
+      "score": "8½ / 13 (Armageddon)",
+      "margin": "First Dutch winner in 36 years; dramatic Armageddon finish"
+    },
+    {
+      "year": 2020,
+      "winner": "Fabiano Caruana",
+      "runnerUp": "Magnus Carlsen",
+      "score": "10 / 13",
+      "margin": "Dominant +7 score (2948 performance rating)"
+    },
+    {
+      "year": 2019,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Anish Giri",
+      "score": "9 / 13",
+      "margin": "7th Wijk aan Zee title"
+    },
+    {
+      "year": 2018,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Anish Giri",
+      "score": "9 / 13 (blitz playoff)",
+      "margin": "6th title; won tiebreak 1½-½"
+    },
+    {
+      "year": 2017,
+      "winner": "Wesley So",
+      "runnerUp": "Magnus Carlsen",
+      "score": "9 / 13",
+      "margin": "Maiden Tata Steel title; continued 56-game unbeaten streak"
+    },
+    {
+      "year": 2016,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Fabiano Caruana, Ding Liren",
+      "score": "9 / 13",
+      "margin": "5th title"
+    },
+    {
+      "year": 2015,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Maxime Vachier-Lagrave, Anish Giri, Wesley So, Ding Liren",
+      "score": "9 / 13",
+      "margin": "4th title"
+    },
+    {
+      "year": 2014,
+      "winner": "Levon Aronian",
+      "runnerUp": "Anish Giri, Sergey Karjakin",
+      "score": "8 / 11",
+      "margin": "4th Wijk aan Zee crown"
+    },
+    {
+      "year": 2013,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Levon Aronian",
+      "score": "10 / 13",
+      "margin": "Equalled Garry Kasparov's 1999 scoring record (+7)"
+    },
+    {
+      "year": 2012,
+      "winner": "Levon Aronian",
+      "runnerUp": "Magnus Carlsen, Teimour Radjabov, Fabiano Caruana",
+      "score": "9 / 13",
+      "margin": "3rd title"
+    },
+    {
+      "year": 2011,
+      "winner": "Hikaru Nakamura",
+      "runnerUp": "Viswanathan Anand",
+      "score": "9 / 13",
+      "margin": "First American winner since Walter Browne in 1974"
+    },
+    {
+      "year": 2010,
+      "winner": "Magnus Carlsen",
+      "runnerUp": "Vladimir Kramnik, Alexei Shirov",
+      "score": "8½ / 13",
+      "margin": "2nd title; became youngest World No. 1 in FIDE history"
+    },
+    {
+      "year": 2009,
+      "winner": "Sergey Karjakin",
+      "runnerUp": "Levon Aronian, Teimour Radjabov, Sergei Movsesian",
+      "score": "8 / 13",
+      "margin": "19-year-old won maiden Corus A title"
+    },
+    {
+      "year": 2008,
+      "winner": "Levon Aronian & Magnus Carlsen",
+      "runnerUp": "Viswanathan Anand, Teimour Radjabov",
+      "score": "8 / 13",
+      "margin": "Shared first place; 17-year-old Carlsen's breakthrough"
+    },
+    {
+      "year": 2007,
+      "winner": "Levon Aronian, Veselin Topalov, Teimour Radjabov",
+      "runnerUp": "Vladimir Kramnik, Viswanathan Anand",
+      "score": "8½ / 13",
+      "margin": "Three-way tie for title"
+    },
+    {
+      "year": 2006,
+      "winner": "Viswanathan Anand & Veselin Topalov",
+      "runnerUp": "Vassily Ivanchuk, Michael Adams",
+      "score": "8½ / 13",
+      "margin": "Record 5th Wijk aan Zee title for Anand"
+    },
+    {
+      "year": 2005,
+      "winner": "Péter Lékó",
+      "runnerUp": "Viswanathan Anand",
+      "score": "8½ / 13",
+      "margin": "Won without losing a game"
+    },
+    {
+      "year": 2004,
+      "winner": "Viswanathan Anand",
+      "runnerUp": "Péter Lékó, Michael Adams",
+      "score": "8½ / 13",
+      "margin": "4th title"
+    },
+    {
+      "year": 2003,
+      "winner": "Viswanathan Anand",
+      "runnerUp": "Judit Polgár",
+      "score": "8½ / 13",
+      "margin": "3rd title; Judit Polgár took 2nd place ahead of top male grandmasters"
+    },
+    {
+      "year": 2002,
+      "winner": "Evgeny Bareev",
+      "runnerUp": "Alexander Grischuk",
+      "score": "9 / 13",
+      "margin": "Won with impressive +5 score"
+    },
+    {
+      "year": 2001,
+      "winner": "Garry Kasparov",
+      "runnerUp": "Viswanathan Anand",
+      "score": "9 / 13",
+      "margin": "3rd consecutive Corus title"
+    },
+    {
+      "year": 2000,
+      "winner": "Garry Kasparov",
+      "runnerUp": "Vladimir Kramnik, Péter Lékó",
+      "score": "9½ / 13",
+      "margin": "Defended Corus crown"
+    }
+  ],
+  "sections": []
+}

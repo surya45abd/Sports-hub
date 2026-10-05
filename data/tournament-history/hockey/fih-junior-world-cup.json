@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "FIH Junior World Cup",
+  "source": {
+    "url": "https://www.fih.hockey/events/junior-world-cup",
+    "label": "FIH Junior World Cup"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "U21 Men's and Women's World Cup champions.",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "Germany",
+      "runnerUp": "France",
+      "score": "2-1",
+      "margin": "Kuala Lumpur, Malaysia; Germany won record 7th Junior World Cup"
+    },
+    {
+      "year": 2021,
+      "winner": "Argentina",
+      "runnerUp": "Germany",
+      "score": "4-2",
+      "margin": "Bhubaneswar, India; Lautaro Domene scored hat-trick in final"
+    },
+    {
+      "year": 2016,
+      "winner": "India",
+      "runnerUp": "Belgium",
+      "score": "2-1",
+      "margin": "Lucknow, India; Gurjant Singh and Simranjeet Singh scored in final"
+    },
+    {
+      "year": 2013,
+      "winner": "Germany",
+      "runnerUp": "France",
+      "score": "5-2",
+      "margin": "New Delhi, India"
+    },
+    {
+      "year": 2009,
+      "winner": "Germany",
+      "runnerUp": "Netherlands",
+      "score": "3-1",
+      "margin": "Johor Bahru & Singapore"
+    }
+  ]
+}

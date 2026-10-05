@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 2,
+  "sport": "Badminton",
+  "tournament": "All England Open",
+  "source": {
+    "url": "https://www.allenglandbadminton.com/history/",
+    "label": "Official YONEX All England Open Past Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern All England Open singles finals archive (2000–2024) for both Men's Singles and Women's Singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://www.allenglandbadminton.com/history/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "Official BWF Men's Singles Archive",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Jonatan Christie (INA)",
+          "runnerUp": "Anthony Sinisuka Ginting (INA)",
+          "score": "21-15, 21-14",
+          "margin": "First all-Indonesian All England men's final in 30 years (since 1994)"
+        },
+        {
+          "year": 2023,
+          "winner": "Li Shifeng (CHN)",
+          "runnerUp": "Shi Yuqi (CHN)",
+          "score": "26-24, 21-5",
+          "margin": "Maiden Super 1000 title in all-Chinese final"
+        },
+        {
+          "year": 2022,
+          "winner": "Viktor Axelsen (DEN)",
+          "runnerUp": "Lakshya Sen (IND)",
+          "score": "21-10, 21-15",
+          "margin": "2nd All England title without dropping a game"
+        },
+        {
+          "year": 2021,
+          "winner": "Lee Zii Jia (MAS)",
+          "runnerUp": "Viktor Axelsen (DEN)",
+          "score": "30-29, 20-22, 21-9",
+          "margin": "Sensational 30-29 opening game; Lee's maiden major triumph"
+        },
+        {
+          "year": 2020,
+          "winner": "Viktor Axelsen (DEN)",
+          "runnerUp": "Chou Tien-chen (TPE)",
+          "score": "21-13, 21-14",
+          "margin": "First Danish men's singles champion in 21 years (since Peter Gade 1999)"
+        },
+        {
+          "year": 2019,
+          "winner": "Kento Momota (JPN)",
+          "runnerUp": "Viktor Axelsen (DEN)",
+          "score": "21-11, 15-21, 21-15",
+          "margin": "First Japanese men's singles champion in 120-year tournament history"
+        },
+        {
+          "year": 2018,
+          "winner": "Shi Yuqi (CHN)",
+          "runnerUp": "Lin Dan (CHN)",
+          "score": "21-19, 16-21, 21-9",
+          "margin": "Dethroned 6-time champion Lin Dan"
+        },
+        {
+          "year": 2017,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Shi Yuqi (CHN)",
+          "score": "21-12, 21-10",
+          "margin": "4th All England Open crown for the Malaysian maestro"
+        },
+        {
+          "year": 2016,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Tian Houwei (CHN)",
+          "score": "21-9, 21-10",
+          "margin": "Record 6th All England Gentlemen's Singles title"
+        },
+        {
+          "year": 2015,
+          "winner": "Chen Long (CHN)",
+          "runnerUp": "Jan Ø. Jørgensen (DEN)",
+          "score": "15-21, 21-17, 21-15",
+          "margin": "2nd All England title for World No. 1 Chen Long"
+        },
+        {
+          "year": 2014,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Chen Long (CHN)",
+          "score": "21-13, 21-18",
+          "margin": "3rd All England crown"
+        },
+        {
+          "year": 2013,
+          "winner": "Chen Long (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "21-17, 21-18",
+          "margin": "Maiden All England Open championship"
+        },
+        {
+          "year": 2012,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "21-19, 6-2 ret.",
+          "margin": "Lee retired with shoulder injury in 2nd set"
+        },
+        {
+          "year": 2011,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Lin Dan (CHN)",
+          "score": "21-17, 21-17",
+          "margin": "Lee defended title in straight games over fierce rival"
+        },
+        {
+          "year": 2010,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Kenichi Tago (JPN)",
+          "score": "21-19, 21-19",
+          "margin": "Maiden All England crown for Lee Chong Wei"
+        },
+        {
+          "year": 2009,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "21-19, 21-12",
+          "margin": "4th All England title"
+        },
+        {
+          "year": 2008,
+          "winner": "Chen Jin (CHN)",
+          "runnerUp": "Lin Dan (CHN)",
+          "score": "22-20, 25-23",
+          "margin": "Upset defending champion in dramatic straight sets"
+        },
+        {
+          "year": 2007,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Chen Yu (CHN)",
+          "score": "21-13, 21-12",
+          "margin": "3rd title in 4 years"
+        },
+        {
+          "year": 2006,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Lee Hyun-il (KOR)",
+          "score": "15-7, 15-7",
+          "margin": "2nd All England crown"
+        },
+        {
+          "year": 2005,
+          "winner": "Chen Hong (CHN)",
+          "runnerUp": "Lin Dan (CHN)",
+          "score": "8-15, 15-5, 15-2",
+          "margin": "2nd All England title"
+        },
+        {
+          "year": 2004,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Peter Gade (DEN)",
+          "score": "9-15, 15-5, 15-8",
+          "margin": "Lin Dan's maiden All England title; 'Super Dan' nickname coined by Peter Gade"
+        },
+        {
+          "year": 2003,
+          "winner": "Muhammad Hafiz Hashim (MAS)",
+          "runnerUp": "Chen Hong (CHN)",
+          "score": "17-14, 15-10",
+          "margin": "Unseeded 20-year-old Malaysian stunned world"
+        },
+        {
+          "year": 2002,
+          "winner": "Chen Hong (CHN)",
+          "runnerUp": "Budi Santoso (INA)",
+          "score": "7-4, 7-5, 7-1",
+          "margin": "Played under 7-point experimental scoring system"
+        },
+        {
+          "year": 2001,
+          "winner": "Pullela Gopichand (IND)",
+          "runnerUp": "Peter Gade (DEN)",
+          "score": "15-12, 15-6",
+          "margin": "First Indian winner since Prakash Padukone in 1980; defeated World No. 1 Gade"
+        },
+        {
+          "year": 2000,
+          "winner": "Xia Xuanze (CHN)",
+          "runnerUp": "Taufik Hidayat (INA)",
+          "score": "15-6, 15-13",
+          "margin": "Defeated 18-year-old prodigy Taufik Hidayat"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://www.allenglandbadminton.com/history/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "Official BWF Women's Singles Archive",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Carolina Marín (ESP)",
+          "runnerUp": "Akane Yamaguchi (JPN)",
+          "score": "26-24, 11-1 ret.",
+          "margin": "Yamaguchi retired with hip injury; 2nd All England crown for Marín, 9 years after her first"
+        },
+        {
+          "year": 2023,
+          "winner": "An Se-young (KOR)",
+          "runnerUp": "Chen Yufei (CHN)",
+          "score": "21-17, 10-21, 21-19",
+          "margin": "First South Korean women's singles winner in 27 years (since Bang Soo-hyun 1996)"
+        },
+        {
+          "year": 2022,
+          "winner": "Akane Yamaguchi (JPN)",
+          "runnerUp": "An Se-young (KOR)",
+          "score": "21-15, 21-15",
+          "margin": "Maiden All England championship"
+        },
+        {
+          "year": 2021,
+          "winner": "Nozomi Okuhara (JPN)",
+          "runnerUp": "Pornpawee Chochuwong (THA)",
+          "score": "21-12, 21-16",
+          "margin": "2nd All England crown"
+        },
+        {
+          "year": 2020,
+          "winner": "Tai Tzu-ying (TPE)",
+          "runnerUp": "Chen Yufei (CHN)",
+          "score": "21-19, 21-15",
+          "margin": "3rd All England crown; regained World No. 1 ranking"
+        },
+        {
+          "year": 2019,
+          "winner": "Chen Yufei (CHN)",
+          "runnerUp": "Tai Tzu-ying (TPE)",
+          "score": "21-17, 21-17",
+          "margin": "Ended Tai Tzu-ying's 11-match head-to-head winning streak"
+        },
+        {
+          "year": 2018,
+          "winner": "Tai Tzu-ying (TPE)",
+          "runnerUp": "Akane Yamaguchi (JPN)",
+          "score": "22-20, 21-13",
+          "margin": "Defended title without dropping a single game"
+        },
+        {
+          "year": 2017,
+          "winner": "Tai Tzu-ying (TPE)",
+          "runnerUp": "Ratchanok Intanon (THA)",
+          "score": "21-16, 22-20",
+          "margin": "First Taiwanese player to win All England Open"
+        },
+        {
+          "year": 2016,
+          "winner": "Nozomi Okuhara (JPN)",
+          "runnerUp": "Wang Shixian (CHN)",
+          "score": "21-11, 16-21, 21-19",
+          "margin": "First Japanese women's champion in 39 years"
+        },
+        {
+          "year": 2015,
+          "winner": "Carolina Marín (ESP)",
+          "runnerUp": "Saina Nehwal (IND)",
+          "score": "16-21, 21-14, 21-7",
+          "margin": "First Spanish All England champion; rallied from set down"
+        },
+        {
+          "year": 2014,
+          "winner": "Wang Shixian (CHN)",
+          "runnerUp": "Li Xuerui (CHN)",
+          "score": "21-19, 21-18",
+          "margin": "2nd All England crown"
+        },
+        {
+          "year": 2013,
+          "winner": "Tine Baun (DEN)",
+          "runnerUp": "Ratchanok Intanon (THA)",
+          "score": "21-14, 16-21, 21-10",
+          "margin": "Fairy-tale final match of her career; 3rd All England title"
+        },
+        {
+          "year": 2012,
+          "winner": "Li Xuerui (CHN)",
+          "runnerUp": "Wang Yihan (CHN)",
+          "score": "21-13, 21-19",
+          "margin": "Preceded her Olympic gold medal at London 2012"
+        },
+        {
+          "year": 2011,
+          "winner": "Wang Shixian (CHN)",
+          "runnerUp": "Eriko Hirose (JPN)",
+          "score": "24-22, 21-18",
+          "margin": "Maiden All England championship"
+        },
+        {
+          "year": 2010,
+          "winner": "Tine Rasmussen (DEN)",
+          "runnerUp": "Wang Yihan (CHN)",
+          "score": "21-14, 18-21, 21-19",
+          "margin": "2nd All England title"
+        },
+        {
+          "year": 2009,
+          "winner": "Wang Yihan (CHN)",
+          "runnerUp": "Tine Rasmussen (DEN)",
+          "score": "21-19, 21-23, 21-11",
+          "margin": "21-year-old Chinese star claimed maiden title"
+        },
+        {
+          "year": 2008,
+          "winner": "Tine Rasmussen (DEN)",
+          "runnerUp": "Lu Lan (CHN)",
+          "score": "21-11, 18-21, 22-20",
+          "margin": "First Danish champion in 6 years"
+        },
+        {
+          "year": 2007,
+          "winner": "Xie Xingfang (CHN)",
+          "runnerUp": "Pi Hongyan (FRA)",
+          "score": "21-6, 21-13",
+          "margin": "Completed 3-peat at All England"
+        },
+        {
+          "year": 2006,
+          "winner": "Xie Xingfang (CHN)",
+          "runnerUp": "Zhang Ning (CHN)",
+          "score": "11-6, 11-9",
+          "margin": "Defended title"
+        },
+        {
+          "year": 2005,
+          "winner": "Xie Xingfang (CHN)",
+          "runnerUp": "Zhang Ning (CHN)",
+          "score": "11-3, 11-9",
+          "margin": "Maiden All England crown"
+        },
+        {
+          "year": 2004,
+          "winner": "Gong Ruina (CHN)",
+          "runnerUp": "Zhou Mi (CHN)",
+          "score": "11-7, 11-7",
+          "margin": "All-Chinese final"
+        },
+        {
+          "year": 2003,
+          "winner": "Zhou Mi (CHN)",
+          "runnerUp": "Xie Xingfang (CHN)",
+          "score": "11-6, 11-5",
+          "margin": "Maiden All England title"
+        },
+        {
+          "year": 2002,
+          "winner": "Camilla Martin (DEN)",
+          "runnerUp": "Gong Ruina (CHN)",
+          "score": "7-5, 8-6, 7-3",
+          "margin": "Martin's sole All England crown"
+        },
+        {
+          "year": 2001,
+          "winner": "Gong Zhichao (CHN)",
+          "runnerUp": "Zhou Mi (CHN)",
+          "score": "11-7, 11-3",
+          "margin": "Olympic champion completed double"
+        },
+        {
+          "year": 2000,
+          "winner": "Gong Zhichao (CHN)",
+          "runnerUp": "Dai Yun (CHN)",
+          "score": "11-5, 8-11, 11-5",
+          "margin": "Inaugural Birmingham National Indoor Arena title of modern era"
+        }
+      ]
+    }
+  ]
+}

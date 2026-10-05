@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "Olympic Boxing",
+  "source": {
+    "url": "https://olympics.com/en/sports/boxing/",
+    "label": "International Olympic Committee (IOC) Official Boxing Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Olympic Boxing verified champions archive across marquee divisions: Men's Super Heavyweight / Heavyweight, Women's Lightweight, and National Medal Table leaders (1960–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Heavyweight & Super Heavyweight",
+      "archiveUrl": "https://olympics.com/en/sports/boxing/",
+      "sourceUrl": "https://olympics.com/en/paris-2024/sports/boxing",
+      "sourceLabel": "IOC Olympic Boxing Official Results",
+      "archiveLabel": "Olympic Boxing Heavyweight Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Bakhodir Jalolov (UZB)",
+          "runnerUp": "Ayoub Ghadfa (ESP)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Roland Garros (Paris); Jalolov defended super heavyweight gold, becoming a two-time Olympic champion"
+        },
+        {
+          "year": 2020,
+          "winner": "Bakhodir Jalolov (UZB)",
+          "runnerUp": "Richard Torrez Jr. (USA)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Kokugikan Arena (Tokyo); dominant super heavyweight championship run"
+        },
+        {
+          "year": 2016,
+          "winner": "Tony Yoka (FRA)",
+          "runnerUp": "Joe Joyce (GBR)",
+          "score": "2-1 (Split decision)",
+          "margin": "Riocentro (Rio de Janeiro); Yoka secured France's first super heavyweight Olympic gold"
+        },
+        {
+          "year": 2012,
+          "winner": "Anthony Joshua (GBR)",
+          "runnerUp": "Roberto Cammarelle (ITA)",
+          "score": "+18-18 (Countback tiebreak)",
+          "margin": "ExCeL London; Joshua roared back from 3 points down to win super heavyweight gold on home soil"
+        },
+        {
+          "year": 2008,
+          "winner": "Roberto Cammarelle (ITA)",
+          "runnerUp": "Zhang Zhilei (CHN)",
+          "score": "RSC R4 (19-4)",
+          "margin": "Workers' Indoor Arena (Beijing); Italian police officer dominated final against future pro interim champion"
+        },
+        {
+          "year": 2004,
+          "winner": "Alexander Povetkin (RUS)",
+          "runnerUp": "Mohamed Aly (EGY)",
+          "score": "Walkover",
+          "margin": "Athens; Povetkin claimed gold after Aly withdrew due to broken hand"
+        },
+        {
+          "year": 2000,
+          "winner": "Audley Harrison (GBR)",
+          "runnerUp": "Mukhtarkhan Dildabekov (KAZ)",
+          "score": "30-16",
+          "margin": "Sydney Convention Centre; Harrison became first British super heavyweight champion"
+        },
+        {
+          "year": 1996,
+          "winner": "Wladimir Klitschko (UKR)",
+          "runnerUp": "Paea Wolfgramm (TGA)",
+          "score": "7-3",
+          "margin": "Alexander Memorial Coliseum (Atlanta); 20-year-old Klitschko captured super heavyweight gold"
+        },
+        {
+          "year": 1992,
+          "winner": "Roberto Balado (CUB)",
+          "runnerUp": "Richard Igbineghu (NGR)",
+          "score": "13-2",
+          "margin": "Pavelló Club Joventut Badalona (Barcelona); Balado also awarded Val Barker Trophy"
+        },
+        {
+          "year": 1988,
+          "winner": "Lennox Lewis (CAN)",
+          "runnerUp": "Riddick Bowe (USA)",
+          "score": "RSC R2",
+          "margin": "Jamsil Students' Gymnasium (Seoul); Lewis stopped Bowe in classic heavyweight final before pro hall-of-fame careers"
+        },
+        {
+          "year": 1984,
+          "winner": "Tyrell Biggs (USA)",
+          "runnerUp": "Francesco Damiani (ITA)",
+          "score": "4-1",
+          "margin": "Memorial Sports Arena (Los Angeles); Biggs won inaugural Olympic super heavyweight division"
+        },
+        {
+          "year": 1980,
+          "winner": "Teófilo Stevenson (CUB)",
+          "runnerUp": "Pyotr Zayev (URS)",
+          "score": "4-1",
+          "margin": "Olimpiysky Sports Complex (Moscow); Stevenson sealed 3rd consecutive Olympic gold medal"
+        },
+        {
+          "year": 1976,
+          "winner": "Teófilo Stevenson (CUB)",
+          "runnerUp": "Mircea Șimon (ROU)",
+          "score": "KO R3",
+          "margin": "Montreal Forum; Stevenson knocked out all four opponents on way to second gold"
+        },
+        {
+          "year": 1972,
+          "winner": "Teófilo Stevenson (CUB)",
+          "runnerUp": "Ion Alexe (ROU)",
+          "score": "Walkover",
+          "margin": "Boxhalle (Munich); Stevenson overwhelmed Duane Bobick in semis and won Val Barker Trophy"
+        },
+        {
+          "year": 1968,
+          "winner": "George Foreman (USA)",
+          "runnerUp": "Jonas Čepulis (URS)",
+          "score": "TKO R2",
+          "margin": "Arena México (Mexico City); 19-year-old Foreman won gold and circled ring waving American flag"
+        },
+        {
+          "year": 1964,
+          "winner": "Joe Frazier (USA)",
+          "runnerUp": "Hans Huber (GER)",
+          "score": "3-2",
+          "margin": "Korakuen Hall (Tokyo); Smokin' Joe fought through broken left thumb to win heavyweight gold"
+        },
+        {
+          "year": 1960,
+          "winner": "Cassius Clay / Muhammad Ali (USA)",
+          "runnerUp": "Zbigniew Pietrzykowski (POL)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Palazzetto dello Sport (Rome); 18-year-old future 'The Greatest' won light heavyweight gold"
+        }
+      ]
+    },
+    {
+      "title": "Women's Lightweight (60 kg)",
+      "archiveUrl": "https://olympics.com/en/sports/boxing/",
+      "sourceUrl": "https://olympics.com/en/paris-2024/sports/boxing",
+      "sourceLabel": "IOC Olympic Boxing Official Results",
+      "archiveLabel": "Olympic Boxing Women's Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Kellie Harrington (IRL)",
+          "runnerUp": "Yang Wenlu (CHN)",
+          "score": "4-1 (Split decision)",
+          "margin": "Roland Garros (Paris); Harrington successfully defended title, becoming back-to-back Olympic champion"
+        },
+        {
+          "year": 2020,
+          "winner": "Kellie Harrington (IRL)",
+          "runnerUp": "Beatriz Ferreira (BRA)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Kokugikan Arena (Tokyo); Harrington won Ireland's second women's boxing gold"
+        },
+        {
+          "year": 2016,
+          "winner": "Estelle Mossely (FRA)",
+          "runnerUp": "Yin Junhua (CHN)",
+          "score": "2-1 (Split decision)",
+          "margin": "Riocentro (Rio de Janeiro); Mossely captured Olympic gold on her 24th birthday"
+        },
+        {
+          "year": 2012,
+          "winner": "Katie Taylor (IRL)",
+          "runnerUp": "Sofya Ochigava (RUS)",
+          "score": "10-8",
+          "margin": "ExCeL London; historic inaugural women's Olympic boxing final won by Irish trailblazer"
+        }
+      ]
+    },
+    {
+      "title": "Medal table champions",
+      "archiveUrl": "https://olympics.com/en/sports/boxing/",
+      "sourceUrl": "https://olympics.com/en/paris-2024/sports/boxing",
+      "sourceLabel": "IOC Official Boxing Medal Tables",
+      "archiveLabel": "Olympic Boxing Medal Tables",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Uzbekistan",
+          "runnerUp": "China",
+          "score": "5 Gold, 0 Silver, 0 Bronze (5 total)",
+          "margin": "Paris; Uzbekistan won 5 of 7 men's boxing weight categories"
+        },
+        {
+          "year": 2020,
+          "winner": "Cuba",
+          "runnerUp": "Great Britain",
+          "score": "4 Gold, 0 Silver, 1 Bronze (5 total)",
+          "margin": "Tokyo; Cuba reaffirmed status as boxing powerhouse"
+        },
+        {
+          "year": 2016,
+          "winner": "Uzbekistan",
+          "runnerUp": "Cuba",
+          "score": "3 Gold, 2 Silver, 2 Bronze (7 total)",
+          "margin": "Rio; Uzbekistan topped boxing standings for the first time"
+        },
+        {
+          "year": 2012,
+          "winner": "Great Britain",
+          "runnerUp": "Ukraine",
+          "score": "3 Gold, 1 Silver, 1 Bronze (5 total)",
+          "margin": "London; host nation Great Britain topped table ahead of Usyk/Lomachenko Ukraine"
+        },
+        {
+          "year": 2008,
+          "winner": "China",
+          "runnerUp": "Russia",
+          "score": "2 Gold, 1 Silver, 1 Bronze (4 total)",
+          "margin": "Beijing; China won first ever Olympic boxing golds (Zou Shiming, Zhang Xiaoping)"
+        },
+        {
+          "year": 2004,
+          "winner": "Cuba",
+          "runnerUp": "Russia",
+          "score": "5 Gold, 2 Silver, 1 Bronze (8 total)",
+          "margin": "Athens; Cuba won 5 of 11 gold medals"
+        },
+        {
+          "year": 2000,
+          "winner": "Cuba",
+          "runnerUp": "Russia",
+          "score": "4 Gold, 0 Silver, 2 Bronze (6 total)",
+          "margin": "Sydney; Cuba led gold medal count"
+        },
+        {
+          "year": 1996,
+          "winner": "Cuba",
+          "runnerUp": "United States",
+          "score": "4 Gold, 3 Silver, 0 Bronze (7 total)",
+          "margin": "Atlanta; Cuba edged USA (1 gold) in boxing haul"
+        },
+        {
+          "year": 1992,
+          "winner": "Cuba",
+          "runnerUp": "Germany",
+          "score": "7 Gold, 2 Silver, 0 Bronze (9 total)",
+          "margin": "Barcelona; Cuba won an incredible 7 out of 12 gold medals"
+        }
+      ]
+    }
+  ]
+}

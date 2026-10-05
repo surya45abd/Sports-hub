@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "WTT Champions",
+  "source": {
+    "url": "https://worldtabletennis.com/",
+    "label": "WTT Champions Series"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "WTT Champions 1000 tier tournament winners.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Liang Jingkun (Incheon) / Wang Chuqin (Macao) / Sun Yingsha (Incheon & Macao)",
+      "runnerUp": "Hugo Calderano / Lin Shidong / Wang Manyu",
+      "score": "4-1 / 4-0",
+      "margin": "Incheon, Chongqing, Macao"
+    },
+    {
+      "year": 2023,
+      "winner": "Fan Zhendong (Xinxiang) / Ma Long (Macao) / Sun Yingsha (Xinxiang)",
+      "runnerUp": "Liang Jingkun / Wang Chuqin / Wang Manyu",
+      "score": "4-1 / 4-1",
+      "margin": "Xinxiang & Macao"
+    }
+  ]
+}

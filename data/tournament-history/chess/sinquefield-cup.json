@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "Sinquefield Cup",
+  "source": {
+    "url": "https://grandchesstour.org/",
+    "label": "Grand Chess Tour & Saint Louis Chess Club Official Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete historical archive of the Sinquefield Cup (2013–2024) at the Saint Louis Chess Club, tracking champions, runners-up, tournament scores, and playoff results.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Alireza Firouzja (FRA)",
+      "runnerUp": "Fabiano Caruana (USA)",
+      "score": "6.0 / 9 (+3)",
+      "margin": "Saint Louis Chess Club; Firouzja went undefeated to win the Sinquefield Cup and overall Grand Chess Tour title"
+    },
+    {
+      "year": 2023,
+      "winner": "Fabiano Caruana (USA)",
+      "runnerUp": "Leinier Domínguez (USA)",
+      "score": "5.5 / 8 (+3)",
+      "margin": "Saint Louis; Caruana swept the Saint Louis Rapid & Blitz and Sinquefield Cup back-to-back"
+    },
+    {
+      "year": 2022,
+      "winner": "Alireza Firouzja (FRA)",
+      "runnerUp": "Ian Nepomniachtchi (FIDE)",
+      "score": "5.0 / 8 (+2)",
+      "margin": "Defeated Nepomniachtchi 1.5–0.5 in rapid tiebreak playoff after tying in classical"
+    },
+    {
+      "year": 2021,
+      "winner": "Maxime Vachier-Lagrave (FRA)",
+      "runnerUp": "Fabiano Caruana / Wesley So / Leinier Domínguez",
+      "score": "6.0 / 9 (+3)",
+      "margin": "Clear first by half a point with victories over Caruana, Mamedyarov, and Swiercz"
+    },
+    {
+      "year": 2019,
+      "winner": "Ding Liren (CHN)",
+      "runnerUp": "Magnus Carlsen (NOR)",
+      "score": "6.5 / 11 (+2)",
+      "margin": "Defeated World Champion Magnus Carlsen 3–1 in playoff (2 rapid draws, 2 blitz wins)"
+    },
+    {
+      "year": 2018,
+      "winner": "Magnus Carlsen (NOR) / Fabiano Caruana (USA) / Levon Aronian (ARM)",
+      "runnerUp": "Shared title",
+      "score": "5.5 / 9 (+2)",
+      "margin": "Historic 3-way tie; title was shared by unanimous agreement among the three champions"
+    },
+    {
+      "year": 2017,
+      "winner": "Maxime Vachier-Lagrave (FRA)",
+      "runnerUp": "Magnus Carlsen (NOR) / Viswanathan Anand (IND)",
+      "score": "6.0 / 9 (+3)",
+      "margin": "MVL defeated Carlsen in round 4 and Nepomniachtchi in final round to take clear first"
+    },
+    {
+      "year": 2016,
+      "winner": "Wesley So (USA)",
+      "runnerUp": "Viswanathan Anand / Veselin Topalov / Levon Aronian",
+      "score": "5.5 / 9 (+2)",
+      "margin": "Wesley So scored 5.5/9 to claim his first super-tournament triumph in Saint Louis"
+    },
+    {
+      "year": 2015,
+      "winner": "Levon Aronian (ARM)",
+      "runnerUp": "Magnus Carlsen / Hikaru Nakamura / MVL / Anish Giri",
+      "score": "6.0 / 9 (+3)",
+      "margin": "Aronian produced brilliant attacking chess in Category XXII super-tournament"
+    },
+    {
+      "year": 2014,
+      "winner": "Fabiano Caruana (ITA)",
+      "runnerUp": "Magnus Carlsen (NOR)",
+      "score": "8.5 / 10 (+7)",
+      "margin": "Legendary 7-0 start against world top-10; 3103 tournament performance rating, highest in chess history"
+    },
+    {
+      "year": 2013,
+      "winner": "Magnus Carlsen (NOR)",
+      "runnerUp": "Hikaru Nakamura (USA)",
+      "score": "4.5 / 6 (+3)",
+      "margin": "Inaugural Sinquefield Cup; Carlsen undefeated (+3) ahead of Nakamura, Aronian, and Kamsky"
+    }
+  ]
+}

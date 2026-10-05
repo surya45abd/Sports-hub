@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "Olympic Swimming",
+  "source": {
+    "url": "https://olympics.com/en/sports/swimming/",
+    "label": "International Olympic Committee (IOC) Official Olympic Swimming Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Olympic swimming archive (1988–2024) across premier blue-riband events.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's 100m Freestyle",
+      "archiveUrl": "https://olympics.com/en/sports/swimming/",
+      "sourceUrl": "https://www.worldaquatics.com/",
+      "sourceLabel": "World Aquatics Official Men's 100m Free Archive",
+      "archiveLabel": "Full Men's 100m Free Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Pan Zhanle (CHN)",
+          "runnerUp": "Kyle Chalmers (AUS)",
+          "score": "46.40 (WR)",
+          "margin": "Paris La Défense Arena; shattered his own World Record by 0.40s; won by massive 1.08s margin over Chalmers (47.48)"
+        },
+        {
+          "year": 2020,
+          "winner": "Caeleb Dressel (USA)",
+          "runnerUp": "Kyle Chalmers (AUS)",
+          "score": "47.02 (OR)",
+          "margin": "Tokyo Aquatics Centre; edged Chalmers by 0.06s in electric finish"
+        },
+        {
+          "year": 2016,
+          "winner": "Kyle Chalmers (AUS)",
+          "runnerUp": "Pieter Timmers (BEL)",
+          "score": "47.58 (WJR)",
+          "margin": "Olympic Aquatics Stadium, Rio; 18-year-old Australian stormed from 7th at the turn to win gold"
+        },
+        {
+          "year": 2012,
+          "winner": "Nathan Adrian (USA)",
+          "runnerUp": "James Magnussen (AUS)",
+          "score": "47.52",
+          "margin": "London Aquatics Centre; dramatic 0.01-second margin of victory over 'The Missile' Magnussen (47.53)"
+        },
+        {
+          "year": 2008,
+          "winner": "Alain Bernard (FRA)",
+          "runnerUp": "Eamon Sullivan (AUS)",
+          "score": "47.21",
+          "margin": "Water Cube, Beijing; Bernard edged World Record holder Sullivan (47.32); Jason Lezak & César Cielo tied bronze"
+        },
+        {
+          "year": 2004,
+          "winner": "Pieter van den Hoogenband (NED)",
+          "runnerUp": "Roland Schoeman (RSA)",
+          "score": "48.17",
+          "margin": "Athens Olympic Aquatic Centre; defended title; held off Schoeman (48.23) and Ian Thorpe (48.56)"
+        },
+        {
+          "year": 2000,
+          "winner": "Pieter van den Hoogenband (NED)",
+          "runnerUp": "Alexander Popov (RUS)",
+          "score": "48.30",
+          "margin": "Sydney International Aquatic Centre; broke Popov's 8-year Olympic reign; set WR 47.84 in semi-final"
+        },
+        {
+          "year": 1996,
+          "winner": "Alexander Popov (RUS)",
+          "runnerUp": "Gary Hall Jr. (USA)",
+          "score": "48.74",
+          "margin": "Georgia Tech Aquatic Center, Atlanta; defended 100m gold against home favorite Hall (49.04)"
+        },
+        {
+          "year": 1992,
+          "winner": "Alexander Popov (EUN)",
+          "runnerUp": "Matt Biondi (USA)",
+          "score": "49.02",
+          "margin": "Piscines Bernat Picornell, Barcelona; 20-year-old Russian sprinted past defending champion Biondi"
+        },
+        {
+          "year": 1988,
+          "winner": "Matt Biondi (USA)",
+          "runnerUp": "Chris Jacobs (USA)",
+          "score": "48.63 (OR)",
+          "margin": "Jamsil Indoor Swimming Pool, Seoul; Biondi's first individual gold of historic 5-gold, 7-medal Games"
+        }
+      ]
+    },
+    {
+      "title": "Women's 100m Freestyle",
+      "archiveUrl": "https://olympics.com/en/sports/swimming/",
+      "sourceUrl": "https://www.worldaquatics.com/",
+      "sourceLabel": "World Aquatics Official Women's 100m Free Archive",
+      "archiveLabel": "Full Women's 100m Free Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Sarah Sjöström (SWE)",
+          "runnerUp": "Torri Huske (USA)",
+          "score": "52.16",
+          "margin": "Paris La Défense Arena; 30-year-old sprint legend captured gold from lane 7; Huske 52.29, Siobhán Haughey 52.33"
+        },
+        {
+          "year": 2020,
+          "winner": "Emma McKeon (AUS)",
+          "runnerUp": "Siobhán Haughey (HKG)",
+          "score": "51.96 (OR)",
+          "margin": "Tokyo Aquatics Centre; first woman under 52 seconds in Olympic history; part of record 7-medal haul in Tokyo"
+        },
+        {
+          "year": 2016,
+          "winner": "Simone Manuel (USA) & Penny Oleksiak (CAN)",
+          "runnerUp": "Sarah Sjöström (SWE - Bronze)",
+          "score": "52.70 (OR - Dead Heat for Gold)",
+          "margin": "Rio; historic dead heat; Manuel became first Black woman to win individual Olympic swimming gold; Oleksiak won at age 16"
+        },
+        {
+          "year": 2012,
+          "winner": "Ranomi Kromowidjojo (NED)",
+          "runnerUp": "Aliaksandra Herasimenia (BLR)",
+          "score": "53.00 (OR)",
+          "margin": "London Aquatics Centre; completed 50m/100m sprint double"
+        },
+        {
+          "year": 2008,
+          "winner": "Britta Steffen (GER)",
+          "runnerUp": "Lisbeth Trickett (AUS)",
+          "score": "53.12 (OR)",
+          "margin": "Water Cube, Beijing; edged World Record holder Trickett by 0.04s (53.16)"
+        },
+        {
+          "year": 2004,
+          "winner": "Jodie Henry (AUS)",
+          "runnerUp": "Inge de Bruijn (NED)",
+          "score": "53.84",
+          "margin": "Athens; Henry set World Record (53.52) in semi-finals before defeating defending champion De Bruijn"
+        },
+        {
+          "year": 2000,
+          "winner": "Inge de Bruijn (NED)",
+          "runnerUp": "Therese Alshammar (SWE)",
+          "score": "53.83",
+          "margin": "Sydney; 'Invincible Inge' won 50m, 100m Free and 100m Fly gold medals"
+        },
+        {
+          "year": 1996,
+          "winner": "Le Jingyi (CHN)",
+          "runnerUp": "Sandra Völker (GER)",
+          "score": "54.50",
+          "margin": "Atlanta; World Champion led from the gun"
+        },
+        {
+          "year": 1992,
+          "winner": "Zhuang Yong (CHN)",
+          "runnerUp": "Jenny Thompson (USA)",
+          "score": "54.64 (OR)",
+          "margin": "Barcelona; China's first-ever Olympic swimming gold medal, edging world record holder Thompson"
+        },
+        {
+          "year": 1988,
+          "winner": "Kristin Otto (GDR)",
+          "runnerUp": "Zhuang Yong (CHN)",
+          "score": "54.93",
+          "margin": "Seoul; first woman to win 6 gold medals at a single Olympic Games"
+        }
+      ]
+    },
+    {
+      "title": "Women's 800m Freestyle",
+      "archiveUrl": "https://olympics.com/en/sports/swimming/",
+      "sourceUrl": "https://www.worldaquatics.com/",
+      "sourceLabel": "World Aquatics Official Women's 800m Free Archive",
+      "archiveLabel": "Full Women's 800m Free Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Katie Ledecky (USA)",
+          "runnerUp": "Ariarne Titmus (AUS)",
+          "score": "8:11.04",
+          "margin": "Paris; historic 4-peat (joined Michael Phelps as only swimmers to win same individual Olympic event 4 times)"
+        },
+        {
+          "year": 2020,
+          "winner": "Katie Ledecky (USA)",
+          "runnerUp": "Ariarne Titmus (AUS)",
+          "score": "8:12.57",
+          "margin": "Tokyo; 3-peat; held off Titmus (8:13.83) by 1.26s"
+        },
+        {
+          "year": 2016,
+          "winner": "Katie Ledecky (USA)",
+          "runnerUp": "Jazz Carlin (GBR)",
+          "score": "8:04.79 (WR)",
+          "margin": "Rio; shattered World Record by nearly 2 seconds; won by an astonishing 11.38-second margin"
+        },
+        {
+          "year": 2012,
+          "winner": "Katie Ledecky (USA)",
+          "runnerUp": "Mireia Belmonte (ESP)",
+          "score": "8:14.63 (AR)",
+          "margin": "London; 15-year-old sensation stunned home favorite Rebecca Adlington"
+        },
+        {
+          "year": 2008,
+          "winner": "Rebecca Adlington (GBR)",
+          "runnerUp": "Alessia Filippi (ITA)",
+          "score": "8:14.10 (WR)",
+          "margin": "Beijing; shattered Janet Evans's legendary 19-year-old World Record"
+        },
+        {
+          "year": 2004,
+          "winner": "Ai Shibata (JPN)",
+          "runnerUp": "Laure Manaudou (FRA)",
+          "score": "8:24.54",
+          "margin": "Athens; surprise victory from lane 6 over French star Manaudou"
+        },
+        {
+          "year": 2000,
+          "winner": "Brooke Bennett (USA)",
+          "runnerUp": "Diana Munz (USA)",
+          "score": "8:19.67 (OR)",
+          "margin": "Sydney; broke Janet Evans's 1988 Olympic record"
+        }
+      ]
+    }
+  ]
+}

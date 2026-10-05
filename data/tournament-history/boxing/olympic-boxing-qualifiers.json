@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "Olympic Boxing Qualifiers",
+  "source": {
+    "url": "https://olympics.com/en/paris-2024/sports/boxing",
+    "label": "IOC Boxing Unit Olympic Qualification Tournament Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Olympic World Qualification Tournaments (Bangkok & Busto Arsizio) for Paris 2024.",
+  "records": [],
+  "sections": [
+    {
+      "title": "World Qualification Tournaments",
+      "archiveUrl": "https://olympics.com/",
+      "sourceUrl": "https://olympics.com/",
+      "sourceLabel": "IOC Boxing Qualification Archive",
+      "archiveLabel": "Full Olympic Qualifiers Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Nishan Dev (IND - Light Middleweight 71 kg)",
+          "runnerUp": "Vasile Cebotari (MDA)",
+          "score": "5-0 (Olympic Quota Secured)",
+          "margin": "Bangkok World Qualification Tournament 2; Dev produced dominant display to punch ticket to Paris 2024"
+        },
+        {
+          "year": 2024,
+          "winner": "Jaismine Lamboria (IND - Featherweight 57 kg)",
+          "runnerUp": "Marine Camara (MLI)",
+          "score": "5-0 (Olympic Quota Secured)",
+          "margin": "Bangkok World Qualification Tournament 2; earned ticket with masterclass in counter-punching"
+        },
+        {
+          "year": 2024,
+          "winner": "Ayoub Ghadfa (ESP - Super Heavyweight +92 kg)",
+          "runnerUp": "Martin McDonagh (IRL)",
+          "score": "5-0 (Olympic Quota Secured)",
+          "margin": "Busto Arsizio World Qualification Tournament 1 (Italy)"
+        },
+        {
+          "year": 2024,
+          "winner": "Chantelle Reid (GBR - Middleweight 75 kg)",
+          "runnerUp": "Sunniva Hofstad (NOR)",
+          "score": "5-0 (Olympic Quota Secured)",
+          "margin": "Busto Arsizio World Qualification Tournament 1; former junior world champion qualified for Paris"
+        },
+        {
+          "year": 2023,
+          "winner": "Nikhat Zareen (IND - Flyweight 50 kg)",
+          "runnerUp": "Chuthamat Raksat (THA)",
+          "score": "Bronze / Quota Secured",
+          "margin": "Hangzhou Asian Games; two-time World Champion secured Olympic qualification"
+        },
+        {
+          "year": 2023,
+          "winner": "Lovlina Borgohain (IND - Middleweight 75 kg)",
+          "runnerUp": "Li Qian (CHN)",
+          "score": "Silver / Quota Secured",
+          "margin": "Hangzhou Asian Games; Tokyo bronze medalist booked Olympic return"
+        }
+      ]
+    }
+  ]
+}

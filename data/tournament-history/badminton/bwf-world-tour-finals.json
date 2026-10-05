@@ -1,0 +1,107 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Badminton",
+    "tournament":  "BWF World Tour Finals",
+    "source":  {
+                   "url":  "https://bwfworldtour.bwfbadminton.com/",
+                   "label":  "Official BWF World Tour"
+               },
+    "verificationStatus":  "verified",
+    "historyNote":  "Complete finalists and final scores are listed for all eight completed editions from 2018 through 2025 across the five disciplines. The 2026 finals have not yet been played.",
+    "verificationSources":  [
+                                {
+                                    "url":  "https://www.xinhuanet.com/english/2018-12/16/c_137678575.htm",
+                                    "label":  "2018 final results"
+                                },
+                                {
+                                    "url":  "https://en.wikipedia.org/wiki/2019_BWF_World_Tour",
+                                    "label":  "2019 final results"
+                                },
+                                {
+                                    "url":  "https://en.wikipedia.org/wiki/2020_BWF_World_Tour",
+                                    "label":  "2020 final results"
+                                },
+                                {
+                                    "url":  "https://en.wikipedia.org/wiki/2021_BWF_World_Tour",
+                                    "label":  "2021 final results"
+                                },
+                                {
+                                    "url":  "https://www.kompas.com/badminton/read/2022/12/11/18585658/daftar-juara-bwf-world-tour-finals-2022-indonesia-tanpa-gelar-china?page=all",
+                                    "label":  "2022 final results"
+                                },
+                                {
+                                    "url":  "https://en.wikipedia.org/wiki/2023_BWF_World_Tour",
+                                    "label":  "2023 final results"
+                                },
+                                {
+                                    "url":  "https://badmintonasia.org/2024/12/15/host-china-take-three-titles-at-bwf-world-tour-finals-2024/",
+                                    "label":  "2024 final results"
+                                },
+                                {
+                                    "url":  "https://en.wikipedia.org/wiki/2025_BWF_World_Tour",
+                                    "label":  "2025 final results"
+                                }
+                            ],
+    "reviewNotes":  "Finalists and scores checked against event reports and year-specific final result summaries.",
+    "records":  [
+                    {
+                        "year":  2018,
+                        "winner":  "MS: Shi Yuqi; WS: P. V. Sindhu; MD: Li Junhui / Liu Yuchen; WD: Misaki Matsutomo / Ayaka Takahashi; XD: Wang Yilyu / Huang Dongping",
+                        "runnerUp":  "MS: Kento Momota; WS: Nozomi Okuhara; MD: Hiroyuki Endo / Yuta Watanabe; WD: Lee So-hee / Shin Seung-chan; XD: Zheng Siwei / Huang Yaqiong",
+                        "score":  "MS: 21-12, 21-11; WS: 21-19, 21-17; MD: 21-15, 21-11; WD: 21-12, 22-20; XD: 23-21, 16-21, 21-18",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2019,
+                        "winner":  "MS: Kento Momota; WS: Chen Yufei; MD: Mohammad Ahsan / Hendra Setiawan; WD: Chen Qingchen / Jia Yifan; XD: Zheng Siwei / Huang Yaqiong",
+                        "runnerUp":  "MS: Anthony Sinisuka Ginting; WS: Tai Tzu-ying; MD: Hiroyuki Endo / Yuta Watanabe; WD: Mayu Matsumoto / Wakana Nagahara; XD: Wang Yilyu / Huang Dongping",
+                        "score":  "MS: 17-21, 21-17, 21-14; WS: 12-21, 21-12, 21-17; MD: 24-22, 21-19; WD: 21-14, 21-10; XD: 21-14, 21-14",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2020,
+                        "winner":  "MS: Anders Antonsen; WS: Tai Tzu-ying; MD: Lee Yang / Wang Chi-lin; WD: Lee So-hee / Shin Seung-chan; XD: Dechapol Puavaranukroh / Sapsiree Taerattanachai",
+                        "runnerUp":  "MS: Viktor Axelsen; WS: Carolina Marín; MD: Mohammad Ahsan / Hendra Setiawan; WD: Kim So-yeong / Kong Hee-yong; XD: Seo Seung-jae / Chae Yoo-jung",
+                        "score":  "MS: 21-16, 5-21, 21-17; WS: 14-21, 21-8, 21-19; MD: 21-17, 23-21; WD: 15-21, 26-24, 21-19; XD: 21-18, 8-21, 21-8",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2021,
+                        "winner":  "MS: Viktor Axelsen; WS: An Se-young; MD: Takuro Hoki / Yugo Kobayashi; WD: Kim So-yeong / Kong Hee-yong; XD: Dechapol Puavaranukroh / Sapsiree Taerattanachai",
+                        "runnerUp":  "MS: Kunlavut Vitidsarn; WS: P. V. Sindhu; MD: Marcus Fernaldi Gideon / Kevin Sanjaya Sukamuljo; WD: Nami Matsuyama / Chiharu Shida; XD: Yuta Watanabe / Arisa Higashino",
+                        "score":  "MS: 21-12, 21-8; WS: 21-16, 21-12; MD: 21-16, 13-21, 21-17; WD: 21-14, 21-14; XD: 21-19, 21-11",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2022,
+                        "winner":  "MS: Viktor Axelsen; WS: Akane Yamaguchi; MD: Liu Yuchen / Ou Xuanyi; WD: Chen Qingchen / Jia Yifan; XD: Zheng Siwei / Huang Yaqiong",
+                        "runnerUp":  "MS: Anthony Sinisuka Ginting; WS: Tai Tzu-ying; MD: Mohammad Ahsan / Hendra Setiawan; WD: Benyapa Aimsaard / Nuntakarn Aimsaard; XD: Dechapol Puavaranukroh / Sapsiree Taerattanachai",
+                        "score":  "MS: 21-13, 21-14; WS: 21-18, 22-20; MD: 21-17, 19-21, 21-12; WD: 21-13, 21-14; XD: 21-19, 18-21, 21-13",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2023,
+                        "winner":  "MS: Viktor Axelsen; WS: Tai Tzu-ying; MD: Kang Min-hyuk / Seo Seung-jae; WD: Chen Qingchen / Jia Yifan; XD: Zheng Siwei / Huang Yaqiong",
+                        "runnerUp":  "MS: Shi Yuqi; WS: Carolina Marín; MD: Liang Weikeng / Wang Chang; WD: Baek Ha-na / Lee So-hee; XD: Feng Yanzhe / Huang Dongping",
+                        "score":  "MS: 21-11, 21-12; WS: 12-21, 21-14, 21-18; MD: 21-17, 22-20; WD: 21-16, 21-16; XD: 21-11, 21-18",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2024,
+                        "winner":  "MS: Shi Yuqi; WS: Wang Zhiyi; MD: Kim Astrup / Anders Skaarup Rasmussen; WD: Baek Ha-na / Lee So-hee; XD: Zheng Siwei / Huang Yaqiong",
+                        "runnerUp":  "MS: Anders Antonsen; WS: Han Yue; MD: Goh Sze Fei / Nur Izzuddin; WD: Nami Matsuyama / Chiharu Shida; XD: Chen Tang Jie / Toh Ee Wei",
+                        "score":  "MS: 21-18, 21-14; WS: 19-21, 21-19, 21-11; MD: 21-17, 17-21, 21-11; WD: 21-19, 21-14; XD: 21-18, 14-21, 21-17",
+                        "margin":  ""
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "MS: Christo Popov; WS: An Se-young; MD: Kim Won-ho / Seo Seung-jae; WD: Baek Ha-na / Lee So-hee; XD: Feng Yanzhe / Huang Dongping",
+                        "runnerUp":  "MS: Shi Yuqi; WS: Wang Zhiyi; MD: Liang Weikeng / Wang Chang; WD: Yuki Fukushima / Mayu Matsumoto; XD: Jiang Zhenbang / Wei Yaxin",
+                        "score":  "MS: 21-19, 21-9; WS: 21-13, 18-21, 21-10; MD: 21-18, 21-14; WD: 21-17, 21-11; XD: 21-12, 21-17",
+                        "margin":  ""
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ]
+}

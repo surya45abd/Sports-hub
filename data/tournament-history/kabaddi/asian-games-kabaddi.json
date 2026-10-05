@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kabaddi",
+  "tournament": "Asian Games Kabaddi",
+  "source": {
+    "url": "https://www.hangzhou2022.cn/",
+    "label": "Olympic Council of Asia Official Asian Games Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete historical Asian Games Kabaddi archive across Men's (1990–2023) and Women's (2010–2023) competitions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Kabaddi",
+      "archiveUrl": "https://olympics.com/en/news/asian-games-kabaddi-winners-list-medals-india",
+      "sourceUrl": "https://www.ocagames.com/",
+      "sourceLabel": "OCA Men's Kabaddi Results",
+      "archiveLabel": "Men's Kabaddi Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "India",
+          "runnerUp": "Iran",
+          "score": "33-29",
+          "margin": "Xiaoshan Guali Sports Centre (Hangzhou); Pawan Sehrawat led India to reclaim gold in intense, dramatic final"
+        },
+        {
+          "year": 2018,
+          "winner": "Iran",
+          "runnerUp": "South Korea",
+          "score": "26-16",
+          "margin": "Garuda Theatre (Jakarta); Iran won historic first gold after defeating India 27-18 in semi-final"
+        },
+        {
+          "year": 2014,
+          "winner": "India",
+          "runnerUp": "Iran",
+          "score": "27-25",
+          "margin": "Songdo Global University Gymnasium (Incheon); Anup Kumar and Jasvir Singh rallied India from 10-point deficit"
+        },
+        {
+          "year": 2010,
+          "winner": "India",
+          "runnerUp": "Iran",
+          "score": "37-20",
+          "margin": "Nansha Gymnasium (Guangzhou); captain Rakesh Kumar led India to 6th consecutive gold medal"
+        },
+        {
+          "year": 2006,
+          "winner": "India",
+          "runnerUp": "Pakistan",
+          "score": "35-20",
+          "margin": "Aspire Hall 4 (Doha); Dinesh Kumar starred as India won final comfortably"
+        },
+        {
+          "year": 2002,
+          "winner": "India",
+          "runnerUp": "Bangladesh",
+          "score": "Round-robin champion",
+          "margin": "Gudeok Gymnasium (Busan); India won all 5 round-robin matches with +156 score difference"
+        },
+        {
+          "year": 1998,
+          "winner": "India",
+          "runnerUp": "Pakistan",
+          "score": "Round-robin champion",
+          "margin": "Thammasat Gymnasium 6 (Bangkok); India swept all opponents"
+        },
+        {
+          "year": 1994,
+          "winner": "India",
+          "runnerUp": "Bangladesh",
+          "score": "Round-robin champion",
+          "margin": "Hiroshima; India defended gold in second Asian Games appearance"
+        },
+        {
+          "year": 1990,
+          "winner": "India",
+          "runnerUp": "Bangladesh",
+          "score": "Round-robin champion",
+          "margin": "Beijing Gymnasium (Beijing); inaugural Asian Games kabaddi tournament won by India"
+        }
+      ]
+    },
+    {
+      "title": "Women's Kabaddi",
+      "archiveUrl": "https://olympics.com/en/news/asian-games-kabaddi-winners-list-medals-india",
+      "sourceUrl": "https://www.ocagames.com/",
+      "sourceLabel": "OCA Women's Kabaddi Results",
+      "archiveLabel": "Women's Kabaddi Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "India",
+          "runnerUp": "Chinese Taipei",
+          "score": "26-25",
+          "margin": "Hangzhou; captain Ritu Negi led Indian women to thrilling 1-point win; represented India's landmark 100th medal at Games"
+        },
+        {
+          "year": 2018,
+          "winner": "Iran",
+          "runnerUp": "India",
+          "score": "27-24",
+          "margin": "Jakarta; Iranian women made history by upsetting two-time champions India in gripping final"
+        },
+        {
+          "year": 2014,
+          "winner": "India",
+          "runnerUp": "Iran",
+          "score": "31-21",
+          "margin": "Incheon; Mamatha Poojary and Tejaswini Bai steered India to second consecutive gold"
+        },
+        {
+          "year": 2010,
+          "winner": "India",
+          "runnerUp": "Thailand",
+          "score": "28-14",
+          "margin": "Guangzhou; inaugural women's Asian Games kabaddi gold medal"
+        }
+      ]
+    }
+  ]
+}

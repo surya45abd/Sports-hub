@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "UCI BMX Racing World Championships",
+  "source": {
+    "url": "https://www.uci.org/",
+    "label": "UCI BMX Racing"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Elite Men's and Women's BMX Racing World Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Joris Daudet (FRA) / Alise Willoughby (USA)",
+      "runnerUp": "Izaac Kennedy (AUS) / Saya Sakakibara (AUS)",
+      "score": "32.735 s / 32.513 s",
+      "margin": "Rock Hill, South Carolina; Daudet & Willoughby both won 3rd career world titles"
+    },
+    {
+      "year": 2023,
+      "winner": "Romain Mahieu (FRA) / Bethany Shriever (GBR)",
+      "runnerUp": "Arthur Pilard (FRA) / Laura Smulders (NED)",
+      "score": "32.983 s / 36.577 s",
+      "margin": "Glasgow, Scotland; French 1-2-3 sweep in elite men"
+    },
+    {
+      "year": 2022,
+      "winner": "Simon Marquart (SUI) / Felicia Stancil (USA)",
+      "runnerUp": "Kye Whyte (GBR) / Zoé Claessens (SUI)",
+      "score": "33.145 s / 33.144 s",
+      "margin": "Nantes, France; first Swiss elite world champion"
+    }
+  ]
+}

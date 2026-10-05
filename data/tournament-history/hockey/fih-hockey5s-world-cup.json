@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "FIH Hockey5s World Cup",
+  "source": {
+    "url": "https://www.fih.hockey/events/hockey5s-world-cup",
+    "label": "FIH Hockey5s World Cup"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Inaugural fast-paced 5-a-side Hockey World Cup (Muscat 2024).",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Netherlands",
+      "runnerUp": "Malaysia",
+      "score": "5-2",
+      "margin": "Muscat, Oman; Dutch men crowned inaugural Hockey5s World Champions"
+    },
+    {
+      "year": 2024,
+      "winner": "Netherlands (Women)",
+      "runnerUp": "India",
+      "score": "7-2",
+      "margin": "Muscat, Oman; Dutch women secured double inaugural gold"
+    }
+  ]
+}

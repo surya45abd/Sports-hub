@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "sport": "Rugby",
+  "tournament": "The Rugby Championship",
+  "source": {
+    "url": "https://super.rugby/therugbychampionship/about-trc/history/",
+    "label": "SANZAAR Official Rugby Championship & Tri Nations History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Rugby Championship and Tri Nations archive (1996–2024) across the southern hemisphere.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "South Africa (Springboks)",
+      "runnerUp": "New Zealand (All Blacks)",
+      "score": "5 wins / 1 loss (24 pts)",
+      "margin": "Springboks swept All Blacks in South Africa and reclaimed Freedom Cup & Championship"
+    },
+    {
+      "year": 2023,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "3 wins / 0 losses (14 pts)",
+      "margin": "Shortened single-round World Cup year format"
+    },
+    {
+      "year": 2022,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "4 wins / 2 losses (19 pts)",
+      "margin": "Tightest edition in history; all four teams were in contention on final weekend"
+    },
+    {
+      "year": 2021,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia (Wallabies)",
+      "score": "5 wins / 1 loss (25 pts)",
+      "margin": "Matches held in Australia due to travel quarantine"
+    },
+    {
+      "year": 2020,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Argentina (Los Pumas)",
+      "score": "2 wins / 2 losses (11 pts)",
+      "margin": "Tri-Nations format (South Africa withdrew); Argentina beat NZ for first time in history"
+    },
+    {
+      "year": 2019,
+      "winner": "South Africa (Springboks)",
+      "runnerUp": "Australia",
+      "score": "2 wins / 1 draw (12 pts)",
+      "margin": "Preceded Springboks' 2019 Rugby World Cup triumph in Japan"
+    },
+    {
+      "year": 2018,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "5 wins / 1 loss (25 pts)",
+      "margin": "3rd consecutive Rugby Championship crown"
+    },
+    {
+      "year": 2017,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "6 wins / 0 losses (28 pts)",
+      "margin": "Undefeated championship campaign"
+    },
+    {
+      "year": 2016,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "6 wins / 0 losses (30 pts)",
+      "margin": "Maximum 30 competition points (bonus point in every match)"
+    },
+    {
+      "year": 2015,
+      "winner": "Australia (Wallabies)",
+      "runnerUp": "New Zealand",
+      "score": "3 wins / 0 losses (13 pts)",
+      "margin": "Michael Cheika's Wallabies won title with 27-19 victory in Sydney"
+    },
+    {
+      "year": 2014,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "4 wins / 1 draw / 1 loss (22 pts)",
+      "margin": "3-peat in Rugby Championship format"
+    },
+    {
+      "year": 2013,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "6 wins / 0 losses (28 pts)",
+      "margin": "Epic 38-27 Ellis Park finale against South Africa"
+    },
+    {
+      "year": 2012,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "6 wins / 0 losses (26 pts)",
+      "margin": "Inaugural Rugby Championship following Argentina's expansion"
+    },
+    {
+      "year": 2011,
+      "winner": "Australia (Wallabies)",
+      "runnerUp": "New Zealand",
+      "score": "3 wins / 1 loss (13 pts)",
+      "margin": "Last Tri Nations tournament before expansion"
+    },
+    {
+      "year": 2010,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "6 wins / 0 losses (27 pts)",
+      "margin": "Richie McCaw and Dan Carter led unbeaten sweep"
+    },
+    {
+      "year": 2009,
+      "winner": "South Africa (Springboks)",
+      "runnerUp": "New Zealand",
+      "score": "5 wins / 1 loss (21 pts)",
+      "margin": "Springboks beat All Blacks 3 times in single season"
+    },
+    {
+      "year": 2008,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "5 wins / 1 loss (19 pts)",
+      "margin": "4th consecutive Tri Nations title"
+    },
+    {
+      "year": 2007,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "3 wins / 1 loss (13 pts)",
+      "margin": "Shortened World Cup year"
+    },
+    {
+      "year": 2006,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "5 wins / 1 loss (23 pts)",
+      "margin": "First 9-match Tri Nations format"
+    },
+    {
+      "year": 2005,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "3 wins / 1 loss (15 pts)",
+      "margin": "Capped historic British & Irish Lions sweep year"
+    },
+    {
+      "year": 2004,
+      "winner": "South Africa (Springboks)",
+      "runnerUp": "Australia",
+      "score": "2 wins / 2 losses (11 pts)",
+      "margin": "Jake White's Springboks won first Tri Nations in 6 years"
+    },
+    {
+      "year": 2003,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "4 wins / 0 losses (18 pts)",
+      "margin": "Scored 50 points against Australia in Sydney"
+    },
+    {
+      "year": 2002,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "3 wins / 1 loss (15 pts)",
+      "margin": "John Mitchell's first tournament title"
+    },
+    {
+      "year": 2001,
+      "winner": "Australia (Wallabies)",
+      "runnerUp": "New Zealand",
+      "score": "2 wins / 1 draw / 1 loss (11 pts)",
+      "margin": "Toutai Kefu's last-minute try in Sydney to win trophy and send off John Eales"
+    },
+    {
+      "year": 2000,
+      "winner": "Australia (Wallabies)",
+      "runnerUp": "New Zealand",
+      "score": "3 wins / 1 loss (14 pts)",
+      "margin": "Historic 39-35 opener before 109,874 fans in Sydney ('Game of the Century')"
+    },
+    {
+      "year": 1999,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "Australia",
+      "score": "3 wins / 1 loss (12 pts)",
+      "margin": "Christian Cullen and Jonah Lomu starred"
+    },
+    {
+      "year": 1998,
+      "winner": "South Africa (Springboks)",
+      "runnerUp": "Australia",
+      "score": "4 wins / 0 losses (17 pts)",
+      "margin": "Nick Mallett's Springboks completed 17-match winning streak"
+    },
+    {
+      "year": 1997,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "4 wins / 0 losses (18 pts)",
+      "margin": "Undefeated title defence under Sean Fitzpatrick"
+    },
+    {
+      "year": 1996,
+      "winner": "New Zealand (All Blacks)",
+      "runnerUp": "South Africa",
+      "score": "4 wins / 0 losses (17 pts)",
+      "margin": "Inaugural professional Tri Nations tournament"
+    }
+  ],
+  "sections": []
+}

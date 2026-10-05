@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "NCAA Women's Swimming Championships",
+  "source": {
+    "url": "https://www.ncaa.com/championships/swimming-women/d1",
+    "label": "NCAA Women's Swimming"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "NCAA Division I Women's Swimming & Diving Champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Virginia Cavaliers",
+      "runnerUp": "Texas Longhorns",
+      "score": "527.5 - 441.0 pts",
+      "margin": "Athens, GA; Gretchen Walsh set 3 individual all-time American/US Open records"
+    },
+    {
+      "year": 2023,
+      "winner": "Virginia Cavaliers",
+      "runnerUp": "Texas Longhorns",
+      "score": "541.5 - 414.5 pts",
+      "margin": "Knoxville, TN; 3rd consecutive NCAA crown"
+    },
+    {
+      "year": 2022,
+      "winner": "Virginia Cavaliers",
+      "runnerUp": "Texas Longhorns",
+      "score": "551.5 - 406.0 pts",
+      "margin": "Atlanta, GA; Todd DeSorbo led historic repeat"
+    },
+    {
+      "year": 2021,
+      "winner": "Virginia Cavaliers",
+      "runnerUp": "NC State",
+      "score": "491.0 - 354.0 pts",
+      "margin": "Greensboro, NC; first women's title in program history"
+    }
+  ]
+}

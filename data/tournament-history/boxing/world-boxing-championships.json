@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "World Boxing Championships",
+  "source": {
+    "url": "https://www.iba.sport/events/world-championships/",
+    "label": "IBA World Boxing Championships Official Results Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Boxing Championships verified champions archive across Men's Super Heavyweight / Heavyweight and leading divisions (2011–2023).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Super Heavyweight (+92 kg)",
+      "archiveUrl": "https://www.iba.sport/",
+      "sourceUrl": "https://www.iba.sport/",
+      "sourceLabel": "IBA Men's Super Heavyweight World Results",
+      "archiveLabel": "Super Heavyweight World Championships",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Bakhodir Jalolov (UZB)",
+          "runnerUp": "Fernando Arzola (CUB)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Humo Arena (Tashkent, Uzbekistan); Olympic champion Jalolov dominated before ecstatic 10,000 home fans to win second World Championship crown"
+        },
+        {
+          "year": 2021,
+          "winner": "Mark Petrovskii (RUS)",
+          "runnerUp": "Davit Chaloyan (ARM)",
+          "score": "4-1 (Split decision)",
+          "margin": "Štark Arena (Belgrade, Serbia); 22-year-old Russian underdog won gold"
+        },
+        {
+          "year": 2019,
+          "winner": "Bakhodir Jalolov (UZB)",
+          "runnerUp": "Kamshybek Kunkabayev (KAZ)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Expo Arena (Yekaterinburg, Russia); Jalolov won his first world title"
+        },
+        {
+          "year": 2017,
+          "winner": "Magomedrasul Majidov (AZE)",
+          "runnerUp": "Kamshybek Kunkabayev (KAZ)",
+          "score": "4-1",
+          "margin": "Alsterdorfer Sporthalle (Hamburg, Germany); Majidov won record-equalling 3rd super heavyweight world title (2011, 2013, 2017)"
+        },
+        {
+          "year": 2015,
+          "winner": "Tony Yoka (FRA)",
+          "runnerUp": "Ivan Dychko (KAZ)",
+          "score": "3-0",
+          "margin": "Ali Bin Hamad Al Attiya Arena (Doha, Qatar); Yoka won world gold ahead of Olympic triumph in Rio"
+        },
+        {
+          "year": 2013,
+          "winner": "Magomedrasul Majidov (AZE)",
+          "runnerUp": "Ivan Dychko (KAZ)",
+          "score": "KO R3",
+          "margin": "Baluan Sholak Sports Palace (Almaty, Kazakhstan); dramatic knockout in final round"
+        },
+        {
+          "year": 2011,
+          "winner": "Magomedrasul Majidov (AZE)",
+          "runnerUp": "Anthony Joshua (GBR)",
+          "score": "22-21",
+          "margin": "Heydar Aliyev Sports and Concert Complex (Baku); Majidov edged future heavyweight pro star Joshua by 1 point"
+        }
+      ]
+    },
+    {
+      "title": "Men's Heavyweight (-92 kg)",
+      "archiveUrl": "https://www.iba.sport/",
+      "sourceUrl": "https://www.iba.sport/",
+      "sourceLabel": "IBA Men's Heavyweight World Results",
+      "archiveLabel": "Heavyweight World Championships",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Muslim Gadzhimagomedov (RUS)",
+          "runnerUp": "Aziz Abbes Mouhiidine (ITA)",
+          "score": "4-3 (Split decision)",
+          "margin": "Tashkent; Gadzhimagomedov won second World Championship gold"
+        },
+        {
+          "year": 2021,
+          "winner": "Julio César La Cruz (CUB)",
+          "runnerUp": "Aziz Abbes Mouhiidine (ITA)",
+          "score": "5-0 (Unanimous decision)",
+          "margin": "Belgrade; legendary Cuban 'The Shadow' captured his historic 5TH World Championship gold medal (2011, 2013, 2015, 2017, 2021)"
+        },
+        {
+          "year": 2019,
+          "winner": "Muslim Gadzhimagomedov (RUS)",
+          "runnerUp": "Julio Castillo (ECU)",
+          "score": "5-0",
+          "margin": "Yekaterinburg; dominant unanimous decision victory"
+        },
+        {
+          "year": 2017,
+          "winner": "Erislandy Savón (CUB)",
+          "runnerUp": "Evgeny Tishchenko (RUS)",
+          "score": "3-2",
+          "margin": "Hamburg; Savón won gold to follow family boxing legacy"
+        },
+        {
+          "year": 2015,
+          "winner": "Evgeny Tishchenko (RUS)",
+          "runnerUp": "Erislandy Savón (CUB)",
+          "score": "3-0",
+          "margin": "Doha; Russian claimed world heavyweight title"
+        },
+        {
+          "year": 2013,
+          "winner": "Clemente Russo (ITA)",
+          "runnerUp": "Evgeny Tishchenko (RUS)",
+          "score": "3-0",
+          "margin": "Almaty; veteran Russo claimed his second world championship"
+        },
+        {
+          "year": 2011,
+          "winner": "Oleksandr Usyk (UKR)",
+          "runnerUp": "Teymur Mammadov (AZE)",
+          "score": "25-15",
+          "margin": "Baku; future undisputed cruiserweight and heavyweight world champion Usyk won amateur world gold"
+        }
+      ]
+    }
+  ]
+}

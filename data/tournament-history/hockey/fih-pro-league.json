@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "FIH Pro League",
+  "source": {
+    "url": "https://www.fih.hockey/events/fih-pro-league",
+    "label": "FIH Pro League Official Results Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete FIH Pro League archive (2019–2024) across Men's and Women's seasons, tracking league champions, runners-up, and top scorers.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Pro League",
+      "archiveUrl": "https://www.fih.hockey/events/fih-pro-league",
+      "sourceUrl": "https://www.fih.hockey/",
+      "sourceLabel": "FIH Men's Pro League Results",
+      "archiveLabel": "Men's Pro League Archive",
+      "records": [
+        {
+          "year": "2023-24",
+          "winner": "Australia (Kookaburras)",
+          "runnerUp": "Netherlands",
+          "score": "34 points (10 wins)",
+          "margin": "Australia secured second Pro League crown; Blake Govers leading goalscorer with 12 goals"
+        },
+        {
+          "year": "2022-23",
+          "winner": "Netherlands",
+          "runnerUp": "Great Britain",
+          "score": "35 points (10 wins)",
+          "margin": "Netherlands retained title under coach Jeroen Delmee; Jip Janssen key drag-flicker"
+        },
+        {
+          "year": "2021-22",
+          "winner": "Netherlands",
+          "runnerUp": "Belgium",
+          "score": "36 points (12 wins)",
+          "margin": "Dutch team edged Olympic champions Belgium by a single point in dramatic final standings"
+        },
+        {
+          "year": "2020-21",
+          "winner": "Belgium (Red Lions)",
+          "runnerUp": "Australia",
+          "score": "Points percentage 66.7%",
+          "margin": "Covid-extended season; reigning world champions Belgium claimed maiden Pro League title"
+        },
+        {
+          "year": "2019",
+          "winner": "Australia (Kookaburras)",
+          "runnerUp": "Belgium",
+          "score": "3-2 (Grand Final)",
+          "margin": "Wagener Stadium (Amstelveen); Aran Zalewski and Flynn Ogilvie scored as Australia won inaugural Grand Final"
+        }
+      ]
+    },
+    {
+      "title": "Women's Pro League",
+      "archiveUrl": "https://www.fih.hockey/events/fih-pro-league",
+      "sourceUrl": "https://www.fih.hockey/",
+      "sourceLabel": "FIH Women's Pro League Results",
+      "archiveLabel": "Women's Pro League Archive",
+      "records": [
+        {
+          "year": "2023-24",
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "45 points (15 wins)",
+          "margin": "Dominant Dutch side won 15 out of 16 matches; Yibbi Jansen top scorer with 19 goals"
+        },
+        {
+          "year": "2022-23",
+          "winner": "Netherlands",
+          "runnerUp": "Argentina (Las Leonas)",
+          "score": "46 points (15 wins)",
+          "margin": "Dutch team ran away with title, finishing 14 points ahead of second-placed Argentina"
+        },
+        {
+          "year": "2021-22",
+          "winner": "Argentina (Las Leonas)",
+          "runnerUp": "Netherlands",
+          "score": "42 points (13 wins)",
+          "margin": "Argentina went undefeated in regulation play; Agustina Gorzelany top scorer with 12 goals"
+        },
+        {
+          "year": "2020-21",
+          "winner": "Netherlands",
+          "runnerUp": "Great Britain",
+          "score": "Points percentage 68.5%",
+          "margin": "Dutch women crowned champions in pandemic-adjusted points percentage system"
+        },
+        {
+          "year": "2019",
+          "winner": "Netherlands",
+          "runnerUp": "Australia (Hockeyroos)",
+          "score": "2-2 (4-3 shoot-out)",
+          "margin": "Wagener Stadium (Amstelveen); Dutch goalkeeper Josine Koning starred in penalty shoot-out to win inaugural title"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Wrestling",
+  "tournament": "U23 World Championships",
+  "source": {
+    "url": "https://uww.org/athletes-results",
+    "label": "United World Wrestling"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "U23 World Championship team and individual winners.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Iran (Freestyle & Greco-Roman) / Japan (Women)",
+      "runnerUp": "USA / Azerbaijan",
+      "score": "Team Champions",
+      "margin": "Tirana, Albania; premier U23 world wrestling titles"
+    },
+    {
+      "year": 2023,
+      "winner": "United States (Freestyle) / Turkey (Greco-Roman)",
+      "runnerUp": "Iran / Azerbaijan",
+      "score": "Team Champions",
+      "margin": "Tirana, Albania; Reetika Hooda historic Gold in 76kg for India"
+    },
+    {
+      "year": 2022,
+      "winner": "Georgia (Freestyle) / Iran (Greco-Roman) / Japan (Women)",
+      "runnerUp": "Iran / Turkey",
+      "score": "Team Champions",
+      "margin": "Pontevedra, Spain; Aman Sehrawat won 57kg Gold for India"
+    }
+  ]
+}

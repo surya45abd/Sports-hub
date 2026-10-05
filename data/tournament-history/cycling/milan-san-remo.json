@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "Milan-San Remo",
+  "source": {
+    "url": "https://www.milanosanremo.it/en/",
+    "label": "RCS Sport Official Milano-Sanremo Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Milano-Sanremo 'La Classicissima' archive (2000–2024) across the Poggio and Via Roma.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Jasper Philipsen (BEL)",
+      "runnerUp": "Michael Matthews (AUS)",
+      "score": "6h 14' 44\"",
+      "margin": "Via Roma bunch sprint; photo finish by millimeters after Mathieu van der Poel covered attacks on the Poggio"
+    },
+    {
+      "year": 2023,
+      "winner": "Mathieu van der Poel (NED)",
+      "runnerUp": "Filippo Ganna (ITA)",
+      "score": "6h 25' 23\"",
+      "margin": "+15\"; decisive solo attack cresting the Poggio with 5.5km to go; 62 years after grandfather Raymond Poulidor won in 1961"
+    },
+    {
+      "year": 2022,
+      "winner": "Matej Mohorič (SLO)",
+      "runnerUp": "Anthony Turgis (FRA)",
+      "score": "6h 27' 49\"",
+      "margin": "+02\"; legendary daredevil descent off the Poggio using a dropper seatpost"
+    },
+    {
+      "year": 2021,
+      "winner": "Jasper Stuyven (BEL)",
+      "runnerUp": "Caleb Ewan (AUS)",
+      "score": "6h 38' 06\"",
+      "margin": "+01\"; late solo flyer at the bottom of the Poggio descent holding off charging peloton"
+    },
+    {
+      "year": 2020,
+      "winner": "Wout van Aert (BEL)",
+      "runnerUp": "Julian Alaphilippe (FRA)",
+      "score": "7h 16' 09\"",
+      "margin": "Two-up sprint; August heat edition; Van Aert chased down Alaphilippe on Poggio descent"
+    },
+    {
+      "year": 2019,
+      "winner": "Julian Alaphilippe (FRA)",
+      "runnerUp": "Oliver Naesen (BEL)",
+      "score": "6h 40' 14\"",
+      "margin": "Small group sprint of 10 riders following violent acceleration on Poggio"
+    },
+    {
+      "year": 2018,
+      "winner": "Vincenzo Nibali (ITA)",
+      "runnerUp": "Caleb Ewan (AUS)",
+      "score": "7h 18' 43\"",
+      "margin": "+00\"; 'The Shark of Messina' held off the sprinters by meters after solo Poggio attack"
+    },
+    {
+      "year": 2017,
+      "winner": "Michał Kwiatkowski (POL)",
+      "runnerUp": "Peter Sagan (SVK)",
+      "score": "7h 08' 39\"",
+      "margin": "Three-up sprint; edged Sagan by half a wheel after Sagan's explosive Poggio attack with Julian Alaphilippe"
+    },
+    {
+      "year": 2016,
+      "winner": "Arnaud Démare (FRA)",
+      "runnerUp": "Ben Swift (GBR)",
+      "score": "6h 54' 45\"",
+      "margin": "Bunch sprint; first French winner of Milano-Sanremo since Laurent Jalabert in 1995"
+    },
+    {
+      "year": 2015,
+      "winner": "John Degenkolb (GER)",
+      "runnerUp": "Alexander Kristoff (NOR)",
+      "score": "6h 46' 16\"",
+      "margin": "Reduced bunch sprint; first German champion since Erik Zabel in 2001"
+    },
+    {
+      "year": 2014,
+      "winner": "Alexander Kristoff (NOR)",
+      "runnerUp": "Fabian Cancellara (SUI)",
+      "score": "6h 55' 56\"",
+      "margin": "Cold wet reduced bunch sprint; Kristoff launched early from 200m"
+    },
+    {
+      "year": 2013,
+      "winner": "Gerald Ciolek (GER)",
+      "runnerUp": "Peter Sagan (SVK)",
+      "score": "5h 37' 20\"",
+      "margin": "Sprint from 7-man break; snow-shortened 246km race over Turchino pass"
+    },
+    {
+      "year": 2012,
+      "winner": "Simon Gerrans (AUS)",
+      "runnerUp": "Fabian Cancellara (SUI)",
+      "score": "6h 59' 24\"",
+      "margin": "Three-man sprint; Gerrans edged Cancellara and Vincenzo Nibali on Lungomare Italo Calvino"
+    },
+    {
+      "year": 2011,
+      "winner": "Matthew Goss (AUS)",
+      "runnerUp": "Fabian Cancellara (SUI)",
+      "score": "6h 51' 10\"",
+      "margin": "Sprint of 8 riders; first non-European winner in Milano-Sanremo history"
+    },
+    {
+      "year": 2010,
+      "winner": "Óscar Freire (ESP)",
+      "runnerUp": "Tom Boonen (BEL)",
+      "score": "6h 57' 28\"",
+      "margin": "Mass bunch sprint; Freire's 3rd Milano-Sanremo crown"
+    },
+    {
+      "year": 2009,
+      "winner": "Mark Cavendish (GBR)",
+      "runnerUp": "Heinrich Haussler (GER)",
+      "score": "6h 42' 45\"",
+      "margin": "Millimeter photo finish; Cavendish caught Haussler in the final pedal strokes on Sanremo debut"
+    },
+    {
+      "year": 2008,
+      "winner": "Fabian Cancellara (SUI)",
+      "runnerUp": "Filippo Pozzato (ITA)",
+      "score": "7h 14' 35\"",
+      "margin": "+04\"; trademark solo attack with 2km to go through the streets of Sanremo"
+    },
+    {
+      "year": 2007,
+      "winner": "Óscar Freire (ESP)",
+      "runnerUp": "Allan Davis (AUS)",
+      "score": "6h 43' 50\"",
+      "margin": "Bunch sprint; Spanish master timed his sprint to perfection"
+    },
+    {
+      "year": 2006,
+      "winner": "Filippo Pozzato (ITA)",
+      "runnerUp": "Alessandro Petacchi (ITA)",
+      "score": "6h 29' 41\"",
+      "margin": "Sprint from late break; Quick-Step tactical masterclass"
+    },
+    {
+      "year": 2005,
+      "winner": "Alessandro Petacchi (ITA)",
+      "runnerUp": "Danilo Hondo (GER)",
+      "score": "7h 11' 39\"",
+      "margin": "Mass bunch sprint; 'Ale-Jet' delivered by Fassa Bortolo train"
+    },
+    {
+      "year": 2004,
+      "winner": "Óscar Freire (ESP)",
+      "runnerUp": "Erik Zabel (GER)",
+      "score": "7h 11' 23\"",
+      "margin": "Photo finish; Zabel raised his arms in premature celebration and Freire threw bike on line"
+    },
+    {
+      "year": 2003,
+      "winner": "Paolo Bettini (ITA)",
+      "runnerUp": "Mirko Celestino (ITA)",
+      "score": "6h 44' 43\"",
+      "margin": "Sprint from 3-man breakaway with Luca Paolini"
+    },
+    {
+      "year": 2002,
+      "winner": "Mario Cipollini (ITA)",
+      "runnerUp": "Fred Rodriguez (USA)",
+      "score": "6h 48' 29\"",
+      "margin": "Record fast bunch sprint; 'Super Mario' won in world championship year"
+    },
+    {
+      "year": 2001,
+      "winner": "Erik Zabel (GER)",
+      "runnerUp": "Mario Cipollini (ITA)",
+      "score": "7h 23' 13\"",
+      "margin": "Bunch sprint; Zabel's 4th Milano-Sanremo victory in 5 years (1997, 1998, 2000, 2001)"
+    },
+    {
+      "year": 2000,
+      "winner": "Erik Zabel (GER)",
+      "runnerUp": "Fabio Baldato (ITA)",
+      "score": "7h 11' 29\"",
+      "margin": "Mass bunch sprint on Via Roma"
+    }
+  ]
+}

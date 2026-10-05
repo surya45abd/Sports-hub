@@ -1,0 +1,1085 @@
+{
+  "schemaVersion": 1,
+  "sport": "Baseball",
+  "tournament": "Nippon Professional Baseball",
+  "source": {
+    "url": "https://npb.jp/nippons/backnumber.html",
+    "label": "Official NPB Japan Series archive"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 1950,
+      "winner": "Mainichi Orions",
+      "runnerUp": "Shochiku Robins",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1951,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1952,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1953,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 1954,
+      "winner": "Chunichi Dragons",
+      "runnerUp": "Nishitetsu Lions",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1955,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1956,
+      "winner": "Nishitetsu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1957,
+      "winner": "Nishitetsu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0-1",
+      "margin": ""
+    },
+    {
+      "year": 1958,
+      "winner": "Nishitetsu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1959,
+      "winner": "Nankai Hawks",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1960,
+      "winner": "Taiyo Whales",
+      "runnerUp": "Daimai Orions",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1961,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1962,
+      "winner": "Toei Flyers",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 1963,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nishitetsu Lions",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1964,
+      "winner": "Nankai Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1965,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1966,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Lotte Orions",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Lotte Orions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Hankyu Braves",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-0-2",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Hankyu Braves",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Hankyu Braves",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Hiroshima Toyo Carp",
+      "runnerUp": "Kintetsu Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Hiroshima Toyo Carp",
+      "runnerUp": "Kintetsu Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nippon-Ham Fighters",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Seibu Lions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Hiroshima Toyo Carp",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Hanshin Tigers",
+      "runnerUp": "Seibu Lions",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Seibu Lions",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-3-1",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Seibu Lions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Kintetsu Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Seibu Lions",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yakult Swallows",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Seibu Lions",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Seibu Lions",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Orix BlueWave",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Orix BlueWave",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Seibu Lions",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Yokohama BayStars",
+      "runnerUp": "Seibu Lions",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Fukuoka Daiei Hawks",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Fukuoka Daiei Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Osaka Kintetsu Buffaloes",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Seibu Lions",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Fukuoka Daiei Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Seibu Lions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Chiba Lotte Marines",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Hokkaido Nippon-Ham Fighters",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Chunichi Dragons",
+      "runnerUp": "Hokkaido Nippon-Ham Fighters",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Saitama Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hokkaido Nippon-Ham Fighters",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Chiba Lotte Marines",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hokkaido Nippon-Ham Fighters",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Tohoku Rakuten Golden Eagles",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Tokyo Yakult Swallows",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Hokkaido Nippon-Ham Fighters",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Yokohama DeNA BayStars",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-1-1",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Tokyo Yakult Swallows",
+      "runnerUp": "Orix Buffaloes",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Orix Buffaloes",
+      "runnerUp": "Tokyo Yakult Swallows",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Hanshin Tigers",
+      "runnerUp": "Orix Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Yokohama DeNA BayStars",
+      "runnerUp": "Fukuoka SoftBank Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-1",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 1950,
+      "winner": "Mainichi Orions",
+      "runnerUp": "Shochiku Robins",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1951,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1952,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1953,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 1954,
+      "winner": "Chunichi Dragons",
+      "runnerUp": "Nishitetsu Lions",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1955,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1956,
+      "winner": "Nishitetsu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1957,
+      "winner": "Nishitetsu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0-1",
+      "margin": ""
+    },
+    {
+      "year": 1958,
+      "winner": "Nishitetsu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1959,
+      "winner": "Nankai Hawks",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1960,
+      "winner": "Taiyo Whales",
+      "runnerUp": "Daimai Orions",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1961,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1962,
+      "winner": "Toei Flyers",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 1963,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nishitetsu Lions",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1964,
+      "winner": "Nankai Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1965,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1966,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Lotte Orions",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nankai Hawks",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Lotte Orions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Hankyu Braves",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-0-2",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Hankyu Braves",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Hankyu Braves",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Hiroshima Toyo Carp",
+      "runnerUp": "Kintetsu Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Hiroshima Toyo Carp",
+      "runnerUp": "Kintetsu Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Nippon-Ham Fighters",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Seibu Lions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Hiroshima Toyo Carp",
+      "runnerUp": "Hankyu Braves",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Hanshin Tigers",
+      "runnerUp": "Seibu Lions",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Seibu Lions",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-3-1",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Seibu Lions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Kintetsu Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Seibu Lions",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Seibu Lions",
+      "runnerUp": "Yakult Swallows",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Seibu Lions",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Seibu Lions",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Orix BlueWave",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Orix BlueWave",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Seibu Lions",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Yokohama BayStars",
+      "runnerUp": "Seibu Lions",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Fukuoka Daiei Hawks",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Fukuoka Daiei Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Yakult Swallows",
+      "runnerUp": "Osaka Kintetsu Buffaloes",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Seibu Lions",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Fukuoka Daiei Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Seibu Lions",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Chiba Lotte Marines",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Hokkaido Nippon-Ham Fighters",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Chunichi Dragons",
+      "runnerUp": "Hokkaido Nippon-Ham Fighters",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Saitama Seibu Lions",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hokkaido Nippon-Ham Fighters",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Chiba Lotte Marines",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Chunichi Dragons",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Yomiuri Giants",
+      "runnerUp": "Hokkaido Nippon-Ham Fighters",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Tohoku Rakuten Golden Eagles",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Tokyo Yakult Swallows",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Hokkaido Nippon-Ham Fighters",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Yokohama DeNA BayStars",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Hiroshima Toyo Carp",
+      "score": "4-1-1",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Yomiuri Giants",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Tokyo Yakult Swallows",
+      "runnerUp": "Orix Buffaloes",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Orix Buffaloes",
+      "runnerUp": "Tokyo Yakult Swallows",
+      "score": "4-2-1",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Hanshin Tigers",
+      "runnerUp": "Orix Buffaloes",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Yokohama DeNA BayStars",
+      "runnerUp": "Fukuoka SoftBank Hawks",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Fukuoka SoftBank Hawks",
+      "runnerUp": "Hanshin Tigers",
+      "score": "4-1",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Japan_Series",
+      "label": "Year-by-year Japan Series results cross-check"
+    }
+  ],
+  "reviewNotes": "Complete list of Japan Series champions from the inaugural 1950 edition through 2025. The 2026 Japan Series is not yet complete."
+}

@@ -1,0 +1,844 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "Wimbledon",
+  "source": {
+    "url": "https://www.wimbledon.com/pdf/2025_Wimbledon_Compendium_W_250617.pdf",
+    "label": "Official Wimbledon Compendium & Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Open Era archive (1968–2026) for both Gentlemen's Singles and Ladies' Singles, verified against the official Wimbledon Compendium.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://www.wimbledon.com/en_GB/about/history",
+      "sourceUrl": "https://www.atptour.com/",
+      "sourceLabel": "Official Gentlemen's Singles History",
+      "archiveLabel": "Full Gentlemen's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Jannik Sinner",
+          "runnerUp": "Alexander Zverev",
+          "score": "6-7(7), 7-6(2), 6-3, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Jannik Sinner",
+          "runnerUp": "Carlos Alcaraz",
+          "score": "4-6, 6-4, 6-4, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2024,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-2, 6-2, 7-6(4)",
+          "margin": ""
+        },
+        {
+          "year": 2023,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Novak Djokovic",
+          "score": "1-6, 7-6(6), 6-1, 3-6, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2022,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Nick Kyrgios",
+          "score": "4-6, 6-3, 6-4, 7-6(3)",
+          "margin": ""
+        },
+        {
+          "year": 2021,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Matteo Berrettini",
+          "score": "6-7(4), 6-4, 6-4, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2019,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Roger Federer",
+          "score": "7-6(5), 1-6, 7-6(4), 4-6, 13-12(3)",
+          "margin": "First Wimbledon final with final-set tiebreak"
+        },
+        {
+          "year": 2018,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Kevin Anderson",
+          "score": "6-2, 6-2, 7-6(3)",
+          "margin": ""
+        },
+        {
+          "year": 2017,
+          "winner": "Roger Federer",
+          "runnerUp": "Marin Čilić",
+          "score": "6-3, 6-1, 6-4",
+          "margin": "Federer won title without dropping a set"
+        },
+        {
+          "year": 2016,
+          "winner": "Andy Murray",
+          "runnerUp": "Milos Raonic",
+          "score": "6-4, 7-6(3), 7-6(2)",
+          "margin": ""
+        },
+        {
+          "year": 2015,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Roger Federer",
+          "score": "7-6(1), 6-7(10), 6-4, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2014,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Roger Federer",
+          "score": "6-7(7), 6-4, 7-6(4), 5-7, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2013,
+          "winner": "Andy Murray",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-4, 7-5, 6-4",
+          "margin": "First British men's singles champion in 77 years"
+        },
+        {
+          "year": 2012,
+          "winner": "Roger Federer",
+          "runnerUp": "Andy Murray",
+          "score": "4-6, 7-5, 6-3, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2011,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-4, 6-1, 1-6, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2010,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Tomáš Berdych",
+          "score": "6-3, 7-5, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2009,
+          "winner": "Roger Federer",
+          "runnerUp": "Andy Roddick",
+          "score": "5-7, 7-6(6), 7-6(5), 3-6, 16-14",
+          "margin": "30 games in final set; record 77 total games"
+        },
+        {
+          "year": 2008,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Roger Federer",
+          "score": "6-4, 6-4, 6-7(5), 6-7(8), 9-7",
+          "margin": "Regarded as one of the greatest matches in tennis history"
+        },
+        {
+          "year": 2007,
+          "winner": "Roger Federer",
+          "runnerUp": "Rafael Nadal",
+          "score": "7-6(7), 4-6, 7-6(3), 2-6, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2006,
+          "winner": "Roger Federer",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-0, 7-6(5), 6-7(2), 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2005,
+          "winner": "Roger Federer",
+          "runnerUp": "Andy Roddick",
+          "score": "6-2, 7-6(2), 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2004,
+          "winner": "Roger Federer",
+          "runnerUp": "Andy Roddick",
+          "score": "4-6, 7-5, 7-6(3), 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2003,
+          "winner": "Roger Federer",
+          "runnerUp": "Mark Philippoussis",
+          "score": "7-6(5), 6-2, 7-6(3)",
+          "margin": "Federer's maiden Grand Slam title"
+        },
+        {
+          "year": 2002,
+          "winner": "Lleyton Hewitt",
+          "runnerUp": "David Nalbandian",
+          "score": "6-1, 6-3, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2001,
+          "winner": "Goran Ivanišević",
+          "runnerUp": "Patrick Rafter",
+          "score": "6-3, 3-6, 6-3, 2-6, 9-7",
+          "margin": "Only wildcard player to win Gentlemen's Singles"
+        },
+        {
+          "year": 2000,
+          "winner": "Pete Sampras",
+          "runnerUp": "Patrick Rafter",
+          "score": "6-7(10), 7-6(5), 6-4, 6-2",
+          "margin": "Record 7th Wimbledon Gentlemen's title"
+        },
+        {
+          "year": 1999,
+          "winner": "Pete Sampras",
+          "runnerUp": "Andre Agassi",
+          "score": "6-3, 6-4, 7-5",
+          "margin": ""
+        },
+        {
+          "year": 1998,
+          "winner": "Pete Sampras",
+          "runnerUp": "Goran Ivanišević",
+          "score": "6-7(2), 7-6(9), 6-4, 3-6, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1997,
+          "winner": "Pete Sampras",
+          "runnerUp": "Cédric Pioline",
+          "score": "6-4, 6-2, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1996,
+          "winner": "Richard Krajicek",
+          "runnerUp": "MaliVai Washington",
+          "score": "6-3, 6-4, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1995,
+          "winner": "Pete Sampras",
+          "runnerUp": "Boris Becker",
+          "score": "6-7(5), 6-2, 6-4, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1994,
+          "winner": "Pete Sampras",
+          "runnerUp": "Goran Ivanišević",
+          "score": "7-6(2), 7-6(5), 6-0",
+          "margin": ""
+        },
+        {
+          "year": 1993,
+          "winner": "Pete Sampras",
+          "runnerUp": "Jim Courier",
+          "score": "7-6(3), 7-6(6), 3-6, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Andre Agassi",
+          "runnerUp": "Goran Ivanišević",
+          "score": "6-7(8), 6-4, 6-4, 1-6, 6-4",
+          "margin": "Agassi's maiden Grand Slam singles title"
+        },
+        {
+          "year": 1991,
+          "winner": "Michael Stich",
+          "runnerUp": "Boris Becker",
+          "score": "6-4, 7-6(4), 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1990,
+          "winner": "Stefan Edberg",
+          "runnerUp": "Boris Becker",
+          "score": "6-2, 6-2, 3-6, 3-6, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1989,
+          "winner": "Boris Becker",
+          "runnerUp": "Stefan Edberg",
+          "score": "6-0, 7-6(1), 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1988,
+          "winner": "Stefan Edberg",
+          "runnerUp": "Boris Becker",
+          "score": "4-6, 7-6(2), 6-4, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1987,
+          "winner": "Pat Cash",
+          "runnerUp": "Ivan Lendl",
+          "score": "7-6(5), 6-2, 7-5",
+          "margin": "Originated the player box climb celebration"
+        },
+        {
+          "year": 1986,
+          "winner": "Boris Becker",
+          "runnerUp": "Ivan Lendl",
+          "score": "6-4, 6-3, 7-5",
+          "margin": ""
+        },
+        {
+          "year": 1985,
+          "winner": "Boris Becker",
+          "runnerUp": "Kevin Curren",
+          "score": "6-3, 6-7(4), 7-6(3), 6-4",
+          "margin": "Youngest male champion in Wimbledon history at age 17"
+        },
+        {
+          "year": 1984,
+          "winner": "John McEnroe",
+          "runnerUp": "Jimmy Connors",
+          "score": "6-1, 6-1, 6-2",
+          "margin": "Only 4 unforced errors throughout the final"
+        },
+        {
+          "year": 1983,
+          "winner": "John McEnroe",
+          "runnerUp": "Chris Lewis",
+          "score": "6-2, 6-2, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1982,
+          "winner": "Jimmy Connors",
+          "runnerUp": "John McEnroe",
+          "score": "3-6, 6-3, 6-7(2), 7-6(5), 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1981,
+          "winner": "John McEnroe",
+          "runnerUp": "Björn Borg",
+          "score": "4-6, 7-6(1), 7-6(4), 6-4",
+          "margin": "Ended Borg's 41-match Wimbledon winning streak"
+        },
+        {
+          "year": 1980,
+          "winner": "Björn Borg",
+          "runnerUp": "John McEnroe",
+          "score": "1-6, 7-5, 6-3, 6-7(16), 8-6",
+          "margin": "Iconic 18-16 4th-set tiebreak"
+        },
+        {
+          "year": 1979,
+          "winner": "Björn Borg",
+          "runnerUp": "Roscoe Tanner",
+          "score": "6-7(4), 6-1, 3-6, 6-3, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1978,
+          "winner": "Björn Borg",
+          "runnerUp": "Jimmy Connors",
+          "score": "6-2, 6-2, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1977,
+          "winner": "Björn Borg",
+          "runnerUp": "Jimmy Connors",
+          "score": "3-6, 6-2, 6-1, 5-7, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1976,
+          "winner": "Björn Borg",
+          "runnerUp": "Ilie Năstase",
+          "score": "6-4, 6-2, 9-7",
+          "margin": "Borg won without dropping a set"
+        },
+        {
+          "year": 1975,
+          "winner": "Arthur Ashe",
+          "runnerUp": "Jimmy Connors",
+          "score": "6-1, 6-1, 5-7, 6-4",
+          "margin": "First Black man to win Wimbledon singles title"
+        },
+        {
+          "year": 1974,
+          "winner": "Jimmy Connors",
+          "runnerUp": "Ken Rosewall",
+          "score": "6-1, 6-1, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1973,
+          "winner": "Jan Kodeš",
+          "runnerUp": "Alex Metreveli",
+          "score": "6-1, 9-8(5), 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1972,
+          "winner": "Stan Smith",
+          "runnerUp": "Ilie Năstase",
+          "score": "4-6, 6-3, 6-3, 4-6, 7-5",
+          "margin": ""
+        },
+        {
+          "year": 1971,
+          "winner": "John Newcombe",
+          "runnerUp": "Stan Smith",
+          "score": "6-3, 5-7, 2-6, 6-4, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1970,
+          "winner": "John Newcombe",
+          "runnerUp": "Ken Rosewall",
+          "score": "5-7, 6-3, 6-2, 3-6, 6-1",
+          "margin": ""
+        },
+        {
+          "year": 1969,
+          "winner": "Rod Laver",
+          "runnerUp": "John Newcombe",
+          "score": "6-4, 5-7, 6-4, 6-4",
+          "margin": "Completed the 1969 Open Era Grand Slam"
+        },
+        {
+          "year": 1968,
+          "winner": "Rod Laver",
+          "runnerUp": "Tony Roche",
+          "score": "6-3, 6-4, 6-2",
+          "margin": "Inaugural Wimbledon Open Era Gentlemen's final"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://www.wimbledon.com/en_GB/about/history",
+      "sourceUrl": "https://www.wtatennis.com/",
+      "sourceLabel": "Official Ladies' Singles History",
+      "archiveLabel": "Full Ladies' Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Iga Świątek",
+          "runnerUp": "Coco Gauff",
+          "score": "6-4, 7-6(3)",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Iga Świątek",
+          "runnerUp": "Amanda Anisimova",
+          "score": "6-3, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2024,
+          "winner": "Barbora Krejčíková",
+          "runnerUp": "Jasmine Paolini",
+          "score": "6-2, 2-6, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2023,
+          "winner": "Markéta Vondroušová",
+          "runnerUp": "Ons Jabeur",
+          "score": "6-4, 6-4",
+          "margin": "First unseeded woman to win Wimbledon singles in Open Era"
+        },
+        {
+          "year": 2022,
+          "winner": "Elena Rybakina",
+          "runnerUp": "Ons Jabeur",
+          "score": "3-6, 6-2, 6-2",
+          "margin": "First Kazakhstani player to win a major singles title"
+        },
+        {
+          "year": 2021,
+          "winner": "Ashleigh Barty",
+          "runnerUp": "Karolína Plíšková",
+          "score": "6-3, 6-7(4), 6-3",
+          "margin": "First Australian woman to win Wimbledon since 1980"
+        },
+        {
+          "year": 2019,
+          "winner": "Simona Halep",
+          "runnerUp": "Serena Williams",
+          "score": "6-2, 6-2",
+          "margin": "Committed only 3 unforced errors in entire final"
+        },
+        {
+          "year": 2018,
+          "winner": "Angelique Kerber",
+          "runnerUp": "Serena Williams",
+          "score": "6-3, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2017,
+          "winner": "Garbiñe Muguruza",
+          "runnerUp": "Venus Williams",
+          "score": "7-5, 6-0",
+          "margin": ""
+        },
+        {
+          "year": 2016,
+          "winner": "Serena Williams",
+          "runnerUp": "Angelique Kerber",
+          "score": "7-5, 6-3",
+          "margin": "Equalled Steffi Graf's 22 Grand Slam singles titles"
+        },
+        {
+          "year": 2015,
+          "winner": "Serena Williams",
+          "runnerUp": "Garbiñe Muguruza",
+          "score": "6-4, 6-4",
+          "margin": "Completed second career 'Serena Slam'"
+        },
+        {
+          "year": 2014,
+          "winner": "Petra Kvitová",
+          "runnerUp": "Eugenie Bouchard",
+          "score": "6-3, 6-0",
+          "margin": "Final concluded in only 55 minutes"
+        },
+        {
+          "year": 2013,
+          "winner": "Marion Bartoli",
+          "runnerUp": "Sabine Lisicki",
+          "score": "6-1, 6-4",
+          "margin": "Won title without dropping a single set"
+        },
+        {
+          "year": 2012,
+          "winner": "Serena Williams",
+          "runnerUp": "Agnieszka Radwańska",
+          "score": "6-1, 5-7, 6-2",
+          "margin": "Hit tournament-record 102 aces"
+        },
+        {
+          "year": 2011,
+          "winner": "Petra Kvitová",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-3, 6-4",
+          "margin": "First Grand Slam singles title"
+        },
+        {
+          "year": 2010,
+          "winner": "Serena Williams",
+          "runnerUp": "Vera Zvonareva",
+          "score": "6-3, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2009,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "7-6(3), 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2008,
+          "winner": "Venus Williams",
+          "runnerUp": "Serena Williams",
+          "score": "7-5, 6-4",
+          "margin": "5th Wimbledon Ladies' Singles title"
+        },
+        {
+          "year": 2007,
+          "winner": "Venus Williams",
+          "runnerUp": "Marion Bartoli",
+          "score": "6-4, 6-1",
+          "margin": "Lowest-seeded woman (23) to win Wimbledon"
+        },
+        {
+          "year": 2006,
+          "winner": "Amélie Mauresmo",
+          "runnerUp": "Justine Henin",
+          "score": "2-6, 6-3, 6-4",
+          "margin": "First French woman to win Wimbledon since 1925"
+        },
+        {
+          "year": 2005,
+          "winner": "Venus Williams",
+          "runnerUp": "Lindsay Davenport",
+          "score": "4-6, 7-6(4), 9-7",
+          "margin": "Longest Wimbledon women's final (2h 45m)"
+        },
+        {
+          "year": 2004,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Serena Williams",
+          "score": "6-1, 6-4",
+          "margin": "Third-youngest woman to win Wimbledon (age 17)"
+        },
+        {
+          "year": 2003,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "4-6, 6-4, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2002,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "7-6(4), 6-3",
+          "margin": "Maiden Wimbledon singles title"
+        },
+        {
+          "year": 2001,
+          "winner": "Venus Williams",
+          "runnerUp": "Justine Henin",
+          "score": "6-1, 3-6, 6-0",
+          "margin": ""
+        },
+        {
+          "year": 2000,
+          "winner": "Venus Williams",
+          "runnerUp": "Lindsay Davenport",
+          "score": "6-3, 7-6(3)",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 1999,
+          "winner": "Lindsay Davenport",
+          "runnerUp": "Steffi Graf",
+          "score": "6-4, 7-5",
+          "margin": "Graf's final Wimbledon appearance"
+        },
+        {
+          "year": 1998,
+          "winner": "Jana Novotná",
+          "runnerUp": "Nathalie Tauziat",
+          "score": "6-4, 7-6(2)",
+          "margin": ""
+        },
+        {
+          "year": 1997,
+          "winner": "Martina Hingis",
+          "runnerUp": "Jana Novotná",
+          "score": "2-6, 6-3, 6-3",
+          "margin": "Youngest singles champion in Open Era (16y, 278d)"
+        },
+        {
+          "year": 1996,
+          "winner": "Steffi Graf",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "6-3, 7-5",
+          "margin": "7th Wimbledon title"
+        },
+        {
+          "year": 1995,
+          "winner": "Steffi Graf",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "4-6, 6-1, 7-5",
+          "margin": "Famous 32-point 11th game in 3rd set"
+        },
+        {
+          "year": 1994,
+          "winner": "Conchita Martínez",
+          "runnerUp": "Martina Navratilova",
+          "score": "6-4, 3-6, 6-3",
+          "margin": "First Spanish woman to win Wimbledon"
+        },
+        {
+          "year": 1993,
+          "winner": "Steffi Graf",
+          "runnerUp": "Jana Novotná",
+          "score": "7-6(6), 1-6, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Steffi Graf",
+          "runnerUp": "Monica Seles",
+          "score": "6-2, 6-1",
+          "margin": ""
+        },
+        {
+          "year": 1991,
+          "winner": "Steffi Graf",
+          "runnerUp": "Gabriela Sabatini",
+          "score": "6-4, 3-6, 8-6",
+          "margin": ""
+        },
+        {
+          "year": 1990,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Zina Garrison",
+          "score": "6-4, 6-1",
+          "margin": "Record 9th Wimbledon Ladies' Singles title"
+        },
+        {
+          "year": 1989,
+          "winner": "Steffi Graf",
+          "runnerUp": "Martina Navratilova",
+          "score": "6-2, 6-7(1), 6-1",
+          "margin": ""
+        },
+        {
+          "year": 1988,
+          "winner": "Steffi Graf",
+          "runnerUp": "Martina Navratilova",
+          "score": "5-7, 6-2, 6-1",
+          "margin": "Part of Graf's historic 1988 Golden Slam"
+        },
+        {
+          "year": 1987,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Steffi Graf",
+          "score": "7-5, 6-3",
+          "margin": "6th consecutive Wimbledon singles title"
+        },
+        {
+          "year": 1986,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Hana Mandlíková",
+          "score": "7-6(1), 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1985,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Chris Evert",
+          "score": "4-6, 6-3, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1984,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Chris Evert",
+          "score": "7-6(5), 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1983,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Andrea Jaeger",
+          "score": "6-0, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1982,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Chris Evert",
+          "score": "6-1, 3-6, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1981,
+          "winner": "Chris Evert",
+          "runnerUp": "Hana Mandlíková",
+          "score": "6-2, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1980,
+          "winner": "Evonne Goolagong Cawley",
+          "runnerUp": "Chris Evert",
+          "score": "6-1, 7-6(4)",
+          "margin": "First mother to win Wimbledon in 66 years"
+        },
+        {
+          "year": 1979,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Chris Evert",
+          "score": "6-4, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1978,
+          "winner": "Martina Navratilova",
+          "runnerUp": "Chris Evert",
+          "score": "2-6, 6-4, 7-5",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 1977,
+          "winner": "Virginia Wade",
+          "runnerUp": "Betty Stöve",
+          "score": "4-6, 6-3, 6-1",
+          "margin": "Wimbledon Centenary celebration in front of Queen Elizabeth II"
+        },
+        {
+          "year": 1976,
+          "winner": "Chris Evert",
+          "runnerUp": "Evonne Goolagong Cawley",
+          "score": "6-3, 4-6, 8-6",
+          "margin": ""
+        },
+        {
+          "year": 1975,
+          "winner": "Billie Jean King",
+          "runnerUp": "Evonne Goolagong Cawley",
+          "score": "6-0, 6-1",
+          "margin": "6th Wimbledon singles title"
+        },
+        {
+          "year": 1974,
+          "winner": "Chris Evert",
+          "runnerUp": "Olga Morozova",
+          "score": "6-0, 6-4",
+          "margin": "Maiden Wimbledon title"
+        },
+        {
+          "year": 1973,
+          "winner": "Billie Jean King",
+          "runnerUp": "Chris Evert",
+          "score": "6-0, 7-5",
+          "margin": ""
+        },
+        {
+          "year": 1972,
+          "winner": "Billie Jean King",
+          "runnerUp": "Evonne Goolagong",
+          "score": "6-3, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1971,
+          "winner": "Evonne Goolagong",
+          "runnerUp": "Margaret Court",
+          "score": "6-4, 6-1",
+          "margin": "First major singles title"
+        },
+        {
+          "year": 1970,
+          "winner": "Margaret Court",
+          "runnerUp": "Billie Jean King",
+          "score": "14-12, 11-9",
+          "margin": "Completed the 1970 Grand Slam"
+        },
+        {
+          "year": 1969,
+          "winner": "Ann Jones",
+          "runnerUp": "Billie Jean King",
+          "score": "3-6, 6-3, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1968,
+          "winner": "Billie Jean King",
+          "runnerUp": "Judy Tegart",
+          "score": "9-7, 7-5",
+          "margin": "Inaugural Wimbledon Open Era Ladies' final"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "schemaVersion": 1,
+  "sport": "Baseball",
+  "tournament": "NCAA Men's Division II World Series",
+  "source": {
+    "url": "https://www.ncaa.com/history/baseball/d2",
+    "label": "Official NCAA Division II baseball championship history"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 2026,
+      "winner": "Tampa",
+      "runnerUp": "West Chester",
+      "score": "8-4",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Tampa",
+      "runnerUp": "Central Missouri",
+      "score": "11-5",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Tampa",
+      "runnerUp": "Angelo State",
+      "score": "8-3",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Angelo State",
+      "runnerUp": "Rollins",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "North Greenville",
+      "runnerUp": "Point Loma",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Wingate",
+      "runnerUp": "Central Missouri",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Canceled due to Covid-19",
+      "runnerUp": "Not held",
+      "score": "Canceled",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Tampa",
+      "runnerUp": "Colorado Mesa",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Augustana (SD)",
+      "runnerUp": "Columbus State",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "West Chester",
+      "runnerUp": "UC San Diego",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Nova Southeastern",
+      "runnerUp": "Millersville",
+      "score": "8-6",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Tampa",
+      "runnerUp": "Catawba",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Southern Indiana",
+      "runnerUp": "Colorado Mesa",
+      "score": "3-2 (12)",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Tampa",
+      "runnerUp": "Minn. St.-Mankato",
+      "score": "8-2",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "West Chester",
+      "runnerUp": "Delta State",
+      "score": "9-0",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "West Florida",
+      "runnerUp": "Winona State",
+      "score": "12-2",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Southern Indiana",
+      "runnerUp": "UC San Diego",
+      "score": "6-4",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Lynn",
+      "runnerUp": "Emporia State",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Mount Olive",
+      "runnerUp": "Ouachita Baptist",
+      "score": "6-2",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Tampa",
+      "runnerUp": "Columbus State",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Tampa",
+      "runnerUp": "Chico State",
+      "score": "3-2 (12)",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Florida Southern",
+      "runnerUp": "North Florida",
+      "score": "12-9",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Delta State",
+      "runnerUp": "Grand Valley State",
+      "score": "12-8",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Central Missouri",
+      "runnerUp": "Tampa",
+      "score": "11-4",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Columbus State",
+      "runnerUp": "Chico State",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "St. Mary's (Texas)",
+      "runnerUp": "Central Missouri",
+      "score": "11-3",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Southeastern Oklahoma",
+      "runnerUp": "Fort Hays State",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Chico State",
+      "runnerUp": "Kennesaw State",
+      "score": "11-5",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Tampa",
+      "runnerUp": "Kennesaw State",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Chico State",
+      "runnerUp": "Central Oklahoma",
+      "score": "13-12",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Kennesaw State",
+      "runnerUp": "St. Joseph's (Ind.)",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Florida Southern",
+      "runnerUp": "Georgia College",
+      "score": "15-0",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Central Missouri",
+      "runnerUp": "Florida Southern",
+      "score": "14-9",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Tampa",
+      "runnerUp": "Cal Poly",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Tampa",
+      "runnerUp": "Mansfield",
+      "score": "11-8",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Jacksonville State",
+      "runnerUp": "Missouri Southern State",
+      "score": "20-4",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Jacksonville State",
+      "runnerUp": "Cal State Northridge",
+      "score": "12-8",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Cal Poly",
+      "runnerUp": "New Haven",
+      "score": "9-5",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Florida Southern",
+      "runnerUp": "Cal State Sacramento",
+      "score": "5-4 (10)",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Troy",
+      "runnerUp": "Tampa",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Troy",
+      "runnerUp": "Columbus State",
+      "score": "5-0",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Florida Southern",
+      "runnerUp": "Cal Poly Pomona",
+      "score": "15-5",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Cal State Northridge",
+      "runnerUp": "Florida Southern",
+      "score": "10-5",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Cal Poly Pomona",
+      "runnerUp": "Jacksonville State",
+      "score": "9-7",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "UC Riverside",
+      "runnerUp": "Florida Southern",
+      "score": "10-1",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Florida Southern",
+      "runnerUp": "Eastern Illinois",
+      "score": "9-0",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Cal Poly Pomona",
+      "runnerUp": "New Haven",
+      "score": "13-6",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Valdosta State",
+      "runnerUp": "Florida Southern",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Florida Southern",
+      "runnerUp": "Delta State",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "UC Riverside",
+      "runnerUp": "Eckerd",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Cal Poly Pomona",
+      "runnerUp": "SIU-Edwardsville",
+      "score": "17-3",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Florida Southern",
+      "runnerUp": "Marietta",
+      "score": "10-7",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "UC Irvine",
+      "runnerUp": "New Orleans",
+      "score": "14-1",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "UC Irvine",
+      "runnerUp": "Ithaca",
+      "score": "9-6",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Florida Southern",
+      "runnerUp": "Cal State Northridge",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Florida Southern",
+      "runnerUp": "Central Michigan",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Cal State Northridge",
+      "runnerUp": "Nicholls State",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Illinois State",
+      "runnerUp": "Missouri State",
+      "score": "12-0",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Chapman",
+      "runnerUp": "Delta State",
+      "score": "11-0",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 2026,
+      "winner": "Tampa",
+      "runnerUp": "West Chester",
+      "score": "8-4",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Tampa",
+      "runnerUp": "Central Missouri",
+      "score": "11-5",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Tampa",
+      "runnerUp": "Angelo State",
+      "score": "8-3",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Angelo State",
+      "runnerUp": "Rollins",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "North Greenville",
+      "runnerUp": "Point Loma",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Wingate",
+      "runnerUp": "Central Missouri",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Canceled due to Covid-19",
+      "runnerUp": "Not held",
+      "score": "Canceled",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Tampa",
+      "runnerUp": "Colorado Mesa",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Augustana (SD)",
+      "runnerUp": "Columbus State",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "West Chester",
+      "runnerUp": "UC San Diego",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Nova Southeastern",
+      "runnerUp": "Millersville",
+      "score": "8-6",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Tampa",
+      "runnerUp": "Catawba",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Southern Indiana",
+      "runnerUp": "Colorado Mesa",
+      "score": "3-2 (12)",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Tampa",
+      "runnerUp": "Minn. St.-Mankato",
+      "score": "8-2",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "West Chester",
+      "runnerUp": "Delta State",
+      "score": "9-0",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "West Florida",
+      "runnerUp": "Winona State",
+      "score": "12-2",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Southern Indiana",
+      "runnerUp": "UC San Diego",
+      "score": "6-4",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Lynn",
+      "runnerUp": "Emporia State",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Mount Olive",
+      "runnerUp": "Ouachita Baptist",
+      "score": "6-2",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Tampa",
+      "runnerUp": "Columbus State",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Tampa",
+      "runnerUp": "Chico State",
+      "score": "3-2 (12)",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Florida Southern",
+      "runnerUp": "North Florida",
+      "score": "12-9",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Delta State",
+      "runnerUp": "Grand Valley State",
+      "score": "12-8",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Central Missouri",
+      "runnerUp": "Tampa",
+      "score": "11-4",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Columbus State",
+      "runnerUp": "Chico State",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "St. Mary's (Texas)",
+      "runnerUp": "Central Missouri",
+      "score": "11-3",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Southeastern Oklahoma",
+      "runnerUp": "Fort Hays State",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Chico State",
+      "runnerUp": "Kennesaw State",
+      "score": "11-5",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Tampa",
+      "runnerUp": "Kennesaw State",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Chico State",
+      "runnerUp": "Central Oklahoma",
+      "score": "13-12",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Kennesaw State",
+      "runnerUp": "St. Joseph's (Ind.)",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Florida Southern",
+      "runnerUp": "Georgia College",
+      "score": "15-0",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Central Missouri",
+      "runnerUp": "Florida Southern",
+      "score": "14-9",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Tampa",
+      "runnerUp": "Cal Poly",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Tampa",
+      "runnerUp": "Mansfield",
+      "score": "11-8",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Jacksonville State",
+      "runnerUp": "Missouri Southern State",
+      "score": "20-4",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Jacksonville State",
+      "runnerUp": "Cal State Northridge",
+      "score": "12-8",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Cal Poly",
+      "runnerUp": "New Haven",
+      "score": "9-5",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Florida Southern",
+      "runnerUp": "Cal State Sacramento",
+      "score": "5-4 (10)",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Troy",
+      "runnerUp": "Tampa",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Troy",
+      "runnerUp": "Columbus State",
+      "score": "5-0",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Florida Southern",
+      "runnerUp": "Cal Poly Pomona",
+      "score": "15-5",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Cal State Northridge",
+      "runnerUp": "Florida Southern",
+      "score": "10-5",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Cal Poly Pomona",
+      "runnerUp": "Jacksonville State",
+      "score": "9-7",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "UC Riverside",
+      "runnerUp": "Florida Southern",
+      "score": "10-1",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Florida Southern",
+      "runnerUp": "Eastern Illinois",
+      "score": "9-0",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Cal Poly Pomona",
+      "runnerUp": "New Haven",
+      "score": "13-6",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Valdosta State",
+      "runnerUp": "Florida Southern",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Florida Southern",
+      "runnerUp": "Delta State",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "UC Riverside",
+      "runnerUp": "Eckerd",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Cal Poly Pomona",
+      "runnerUp": "SIU-Edwardsville",
+      "score": "17-3",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Florida Southern",
+      "runnerUp": "Marietta",
+      "score": "10-7",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "UC Irvine",
+      "runnerUp": "New Orleans",
+      "score": "14-1",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "UC Irvine",
+      "runnerUp": "Ithaca",
+      "score": "9-6",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Florida Southern",
+      "runnerUp": "Cal State Northridge",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Florida Southern",
+      "runnerUp": "Central Michigan",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Cal State Northridge",
+      "runnerUp": "Nicholls State",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Illinois State",
+      "runnerUp": "Missouri State",
+      "score": "12-0",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Chapman",
+      "runnerUp": "Delta State",
+      "score": "11-0",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://www.ncaa.com/news/baseball/article/2026-06-06/these-schools-have-most-dii-baseball-national-championships",
+      "label": "Official 2026 championship results and archive"
+    }
+  ],
+  "reviewNotes": "Complete championship history from the inaugural 1968 Division II tournament through 2026. The 2020 tournament was canceled and is recorded as such."
+}

@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "PGA Championship",
+  "source": {
+    "url": "https://www.pgachampionship.com/history/past-winners",
+    "label": "PGA of America Official Past Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern PGA Championship archive (1990–2025) with winning scores, venues and margins.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Scottie Scheffler",
+      "runnerUp": "Jon Rahm",
+      "score": "271 (-13)",
+      "margin": "2 strokes (Quail Hollow)"
+    },
+    {
+      "year": 2024,
+      "winner": "Xander Schauffele",
+      "runnerUp": "Bryson DeChambeau",
+      "score": "263 (-21)",
+      "margin": "1 stroke (Valhalla); all-time lowest 72-hole score in major championship history (-21)"
+    },
+    {
+      "year": 2023,
+      "winner": "Brooks Koepka",
+      "runnerUp": "Viktor Hovland, Scottie Scheffler",
+      "score": "271 (-9)",
+      "margin": "2 strokes (Oak Hill); 3rd PGA Championship and 5th major"
+    },
+    {
+      "year": 2022,
+      "winner": "Justin Thomas",
+      "runnerUp": "Will Zalatoris",
+      "score": "275 (-5)",
+      "margin": "3-hole playoff (Southern Hills); rallied from 7 strokes back on Sunday"
+    },
+    {
+      "year": 2021,
+      "winner": "Phil Mickelson",
+      "runnerUp": "Brooks Koepka, Louis Oosthuizen",
+      "score": "282 (-6)",
+      "margin": "2 strokes (Kiawah Island); oldest major champion in golf history at age 50y 11m"
+    },
+    {
+      "year": 2020,
+      "winner": "Collin Morikawa",
+      "runnerUp": "Paul Casey, Dustin Johnson",
+      "score": "267 (-13)",
+      "margin": "2 strokes (TPC Harding Park); drove green on par-4 16th on Sunday"
+    },
+    {
+      "year": 2019,
+      "winner": "Brooks Koepka",
+      "runnerUp": "Dustin Johnson",
+      "score": "272 (-8)",
+      "margin": "2 strokes (Bethpage Black); back-to-back PGA champion"
+    },
+    {
+      "year": 2018,
+      "winner": "Brooks Koepka",
+      "runnerUp": "Tiger Woods",
+      "score": "264 (-16)",
+      "margin": "2 strokes (Bellerive)"
+    },
+    {
+      "year": 2017,
+      "winner": "Justin Thomas",
+      "runnerUp": "Francesco Molinari, Louis Oosthuizen, Patrick Reed",
+      "score": "276 (-8)",
+      "margin": "2 strokes (Quail Hollow); maiden major title"
+    },
+    {
+      "year": 2016,
+      "winner": "Jimmy Walker",
+      "runnerUp": "Jason Day",
+      "score": "266 (-14)",
+      "margin": "1 stroke (Baltusrol); wire-to-wire victory"
+    },
+    {
+      "year": 2015,
+      "winner": "Jason Day",
+      "runnerUp": "Jordan Spieth",
+      "score": "268 (-20)",
+      "margin": "3 strokes (Whistling Straits); first player to finish -20 in a major"
+    },
+    {
+      "year": 2014,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Phil Mickelson",
+      "score": "268 (-16)",
+      "margin": "1 stroke (Valhalla); finished in twilight to claim 4th major"
+    },
+    {
+      "year": 2013,
+      "winner": "Jason Dufner",
+      "runnerUp": "Jim Furyk",
+      "score": "270 (-10)",
+      "margin": "2 strokes (Oak Hill)"
+    },
+    {
+      "year": 2012,
+      "winner": "Rory McIlroy",
+      "runnerUp": "David Lynn",
+      "score": "273 (-15)",
+      "margin": "Record 8-stroke victory at Kiawah Island Ocean Course"
+    },
+    {
+      "year": 2011,
+      "winner": "Keegan Bradley",
+      "runnerUp": "Jason Dufner",
+      "score": "272 (-8)",
+      "margin": "3-hole playoff (Atlanta Athletic Club); won on major debut"
+    },
+    {
+      "year": 2010,
+      "winner": "Martin Kaymer",
+      "runnerUp": "Bubba Watson",
+      "score": "277 (-11)",
+      "margin": "3-hole playoff (Whistling Straits); Dustin Johnson penalty on 18"
+    },
+    {
+      "year": 2009,
+      "winner": "Y.E. Yang",
+      "runnerUp": "Tiger Woods",
+      "score": "280 (-8)",
+      "margin": "3 strokes (Hazeltine); first Asian-born male major champion; first to beat Woods after trailing into Sunday"
+    },
+    {
+      "year": 2008,
+      "winner": "Pádraig Harrington",
+      "runnerUp": "Ben Curtis, Sergio García",
+      "score": "277 (-3)",
+      "margin": "2 strokes (Oakland Hills); back-to-back major victories in 2008"
+    },
+    {
+      "year": 2007,
+      "winner": "Tiger Woods",
+      "runnerUp": "Woody Austin",
+      "score": "272 (-8)",
+      "margin": "2 strokes (Southern Hills); shot 63 in 2nd round"
+    },
+    {
+      "year": 2006,
+      "winner": "Tiger Woods",
+      "runnerUp": "Shaun Micheel",
+      "score": "270 (-18)",
+      "margin": "5 strokes (Medinah); 3rd PGA Championship"
+    },
+    {
+      "year": 2005,
+      "winner": "Phil Mickelson",
+      "runnerUp": "Thomas Bjørn, Steve Elkington",
+      "score": "276 (-4)",
+      "margin": "1 stroke (Baltusrol); Monday morning finish"
+    },
+    {
+      "year": 2004,
+      "winner": "Vijay Singh",
+      "runnerUp": "Justin Leonard, Chris DiMarco",
+      "score": "280 (-8)",
+      "margin": "3-hole playoff (Whistling Straits); 2nd PGA Championship"
+    },
+    {
+      "year": 2003,
+      "winner": "Shaun Micheel",
+      "runnerUp": "Chad Campbell",
+      "score": "276 (-4)",
+      "margin": "2 strokes (Oak Hill); iconic 7-iron to 2 inches on 72nd hole"
+    },
+    {
+      "year": 2002,
+      "winner": "Rich Beem",
+      "runnerUp": "Tiger Woods",
+      "score": "278 (-10)",
+      "margin": "1 stroke (Hazeltine)"
+    },
+    {
+      "year": 2001,
+      "winner": "David Toms",
+      "runnerUp": "Phil Mickelson",
+      "score": "265 (-15)",
+      "margin": "1 stroke (Atlanta Athletic Club); laid up on 18 and made 12-foot par putt"
+    },
+    {
+      "year": 2000,
+      "winner": "Tiger Woods",
+      "runnerUp": "Bob May",
+      "score": "270 (-18)",
+      "margin": "3-hole playoff (Valhalla); legendary duel"
+    },
+    {
+      "year": 1999,
+      "winner": "Tiger Woods",
+      "runnerUp": "Sergio García",
+      "score": "277 (-11)",
+      "margin": "1 stroke (Medinah); 19-year-old García's tree shot"
+    },
+    {
+      "year": 1998,
+      "winner": "Vijay Singh",
+      "runnerUp": "Steve Stricker",
+      "score": "271 (-9)",
+      "margin": "2 strokes (Sahalee); maiden major title"
+    },
+    {
+      "year": 1997,
+      "winner": "Davis Love III",
+      "runnerUp": "Justin Leonard",
+      "score": "269 (-11)",
+      "margin": "5 strokes (Winged Foot); rainbow appeared on 18"
+    },
+    {
+      "year": 1996,
+      "winner": "Mark Brooks",
+      "runnerUp": "Kenny Perry",
+      "score": "277 (-11)",
+      "margin": "Birdie on 1st playoff hole (Valhalla)"
+    },
+    {
+      "year": 1995,
+      "winner": "Steve Elkington",
+      "runnerUp": "Colin Montgomerie",
+      "score": "267 (-17)",
+      "margin": "Birdie on 1st playoff hole (Riviera)"
+    },
+    {
+      "year": 1994,
+      "winner": "Nick Price",
+      "runnerUp": "Corey Pavin",
+      "score": "269 (-11)",
+      "margin": "6 strokes (Southern Hills); back-to-back major titles in 1994"
+    },
+    {
+      "year": 1993,
+      "winner": "Paul Azinger",
+      "runnerUp": "Greg Norman",
+      "score": "268 (-12)",
+      "margin": "Birdie on 2nd playoff hole (Inverness)"
+    },
+    {
+      "year": 1992,
+      "winner": "Nick Price",
+      "runnerUp": "John Cook, Nick Faldo, Jim Gallagher Jr., Gene Sauers",
+      "score": "278 (-6)",
+      "margin": "3 strokes (Bellerive); maiden major"
+    },
+    {
+      "year": 1991,
+      "winner": "John Daly",
+      "runnerUp": "Bruce Lietzke",
+      "score": "276 (-12)",
+      "margin": "3 strokes (Crooked Stick); 9th alternate drove through the night to play"
+    },
+    {
+      "year": 1990,
+      "winner": "Wayne Grady",
+      "runnerUp": "Fred Couples",
+      "score": "282 (-6)",
+      "margin": "3 strokes (Shoal Creek)"
+    }
+  ],
+  "sections": []
+}

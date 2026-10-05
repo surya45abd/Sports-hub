@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sport": "Cricket",
+  "tournament": "Women's Cricket World Cup",
+  "source": {
+    "url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/from-1973-2025-an-historic-look-at-the-women-s-world-cup/",
+    "label": "Official ICC Women's World Cup history"
+  },
+  "verificationSources": [
+    "https://images.icc-cricket.com/image/upload/prd/sxo0ufhpgayxrqbv2rqz.pdf",
+    "https://www.icc-cricket.com/media-releases/india-clinch-historic-first-icc-women-s-cricket-world-cup-title"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete archive of all 13 editions, 1973–2025. The 1973 and 1978 titles were decided by league standings rather than a final; their listed runners-up are the next-ranked teams. Later editions are knockout finals.",
+  "records": [
+    { "year": 1973, "winner": "England", "runnerUp": "Australia", "score": "England 20 points / Australia 17 points", "margin": "Round-robin standings" },
+    { "year": 1978, "winner": "Australia", "runnerUp": "England", "score": "Australia 6 points / England 4 points", "margin": "Round-robin standings" },
+    { "year": 1982, "winner": "Australia", "runnerUp": "England", "score": "152/7 / 151/5", "margin": "3 wickets" },
+    { "year": 1988, "winner": "Australia", "runnerUp": "England", "score": "129/2 / 127/7", "margin": "8 wickets" },
+    { "year": 1993, "winner": "England", "runnerUp": "New Zealand", "score": "195/5 / 128 all out", "margin": "67 runs" },
+    { "year": 1997, "winner": "Australia", "runnerUp": "New Zealand", "score": "165/5 / 164 all out", "margin": "5 wickets" },
+    { "year": 2000, "winner": "New Zealand", "runnerUp": "Australia", "score": "184 all out / 180 all out", "margin": "4 runs" },
+    { "year": 2005, "winner": "Australia", "runnerUp": "India", "score": "215/4 / 117 all out", "margin": "98 runs" },
+    { "year": 2009, "winner": "England", "runnerUp": "New Zealand", "score": "167/6 / 166 all out", "margin": "4 wickets" },
+    { "year": 2013, "winner": "Australia", "runnerUp": "West Indies", "score": "259/7 / 145 all out", "margin": "114 runs" },
+    { "year": 2017, "winner": "England", "runnerUp": "India", "score": "228/7 / 219 all out", "margin": "9 runs" },
+    { "year": 2022, "winner": "Australia", "runnerUp": "England", "score": "356/5 / 285 all out", "margin": "71 runs" },
+    { "year": 2025, "winner": "India", "runnerUp": "South Africa", "score": "298/7 / 246 all out", "margin": "52 runs" }
+  ],
+  "candidateRecords": []
+}

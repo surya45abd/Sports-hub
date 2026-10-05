@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "Olympic Table Tennis",
+  "source": {
+    "url": "https://olympics.com/en/sports/table-tennis",
+    "label": "International Olympic Committee (IOC) Official Table Tennis Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Olympic table tennis singles gold medal finals archive (1988–2024) for both Men's and Women's competitions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://olympics.com/en/sports/table-tennis",
+      "sourceUrl": "https://www.ittf.com/",
+      "sourceLabel": "ITTF Olympic Men's Archive",
+      "archiveLabel": "Full Men's Olympic Singles Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Truls Möregårdh (SWE)",
+          "score": "4-1 (7-11, 11-9, 11-9, 11-8, 11-8)",
+          "margin": "South Paris Arena 4; completed career Grand Slam; Möregårdh won Sweden's first singles medal since 2000"
+        },
+        {
+          "year": 2020,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Fan Zhendong (CHN)",
+          "score": "4-2 (11-4, 10-12, 11-8, 11-9, 3-11, 11-7)",
+          "margin": "Tokyo Metropolitan Gymnasium; first male player in history to defend Olympic singles gold; completed Double Grand Slam"
+        },
+        {
+          "year": 2016,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Zhang Jike (CHN)",
+          "score": "4-0 (14-12, 11-5, 11-4, 11-4)",
+          "margin": "Riocentro, Rio de Janeiro; swept defending champion to complete career Grand Slam"
+        },
+        {
+          "year": 2012,
+          "winner": "Zhang Jike (CHN)",
+          "runnerUp": "Wang Hao (CHN)",
+          "score": "4-1 (18-16, 11-5, 11-6, 10-12, 13-11)",
+          "margin": "ExCeL London; completed fastest career Grand Slam in history in just 445 days"
+        },
+        {
+          "year": 2008,
+          "winner": "Ma Lin (CHN)",
+          "runnerUp": "Wang Hao (CHN)",
+          "score": "4-1 (11-9, 11-9, 6-11, 11-7, 11-9)",
+          "margin": "Peking University Gymnasium; all-Chinese podium sweep (Wang Liqin bronze)"
+        },
+        {
+          "year": 2004,
+          "winner": "Ryu Seung-min (KOR)",
+          "runnerUp": "Wang Hao (CHN)",
+          "score": "4-2 (11-3, 9-11, 11-9, 11-9, 11-13, 11-9)",
+          "margin": "Galatsi Olympic Hall, Athens; penhold single-sided offensive masterclass to win gold"
+        },
+        {
+          "year": 2000,
+          "winner": "Kong Linghui (CHN)",
+          "runnerUp": "Jan-Ove Waldner (SWE)",
+          "score": "3-2 (21-16, 21-19, 17-21, 14-21, 21-13)",
+          "margin": "State Sports Centre, Sydney; kissed shirt badge in emotional celebration of Grand Slam"
+        },
+        {
+          "year": 1996,
+          "winner": "Liu Guoliang (CHN)",
+          "runnerUp": "Wang Tao (CHN)",
+          "score": "3-2 (21-12, 22-24, 21-19, 15-21, 21-6)",
+          "margin": "Georgia World Congress Center, Atlanta; Liu won both singles and doubles gold"
+        },
+        {
+          "year": 1992,
+          "winner": "Jan-Ove Waldner (SWE)",
+          "runnerUp": "Jean-Philippe Gatien (FRA)",
+          "score": "3-0 (21-10, 21-18, 25-23)",
+          "margin": "Poliesportiu Estació del Nord, Barcelona; 'The Mozart of Table Tennis' won Sweden's only gold of the Games"
+        },
+        {
+          "year": 1988,
+          "winner": "Yoo Nam-kyu (KOR)",
+          "runnerUp": "Kim Ki-taik (KOR)",
+          "score": "3-1 (20-22, 21-17, 21-17, 21-17)",
+          "margin": "Seoul National University Gymnasium; inaugural Olympic table tennis champion on home soil"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://olympics.com/en/sports/table-tennis",
+      "sourceUrl": "https://www.ittf.com/",
+      "sourceLabel": "ITTF Olympic Women's Archive",
+      "archiveLabel": "Full Women's Olympic Singles Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Chen Meng (CHN)",
+          "runnerUp": "Sun Yingsha (CHN)",
+          "score": "4-2 (4-11, 11-7, 11-4, 9-11, 11-9, 11-6)",
+          "margin": "South Paris Arena 4; 3rd woman in history to defend Olympic singles gold (after Deng Yaping and Zhang Yining)"
+        },
+        {
+          "year": 2020,
+          "winner": "Chen Meng (CHN)",
+          "runnerUp": "Sun Yingsha (CHN)",
+          "score": "4-2 (9-11, 11-6, 11-4, 5-11, 11-4, 11-9)",
+          "margin": "Tokyo Metropolitan Gymnasium; China's 9th consecutive women's singles gold medal"
+        },
+        {
+          "year": 2016,
+          "winner": "Ding Ning (CHN)",
+          "runnerUp": "Li Xiaoxia (CHN)",
+          "score": "4-3 (11-9, 5-11, 14-12, 9-11, 8-11, 11-7, 11-7)",
+          "margin": "Riocentro, Rio; reversed 2012 final result to complete career Grand Slam"
+        },
+        {
+          "year": 2012,
+          "winner": "Li Xiaoxia (CHN)",
+          "runnerUp": "Ding Ning (CHN)",
+          "score": "4-1 (11-8, 14-12, 8-11, 11-6, 11-4)",
+          "margin": "ExCeL London; dominant attacking display"
+        },
+        {
+          "year": 2008,
+          "winner": "Zhang Yining (CHN)",
+          "runnerUp": "Wang Nan (CHN)",
+          "score": "4-1 (8-11, 13-11, 11-8, 11-8, 11-3)",
+          "margin": "Peking University Gymnasium; defended Olympic singles gold; all-Chinese podium (Guo Yue bronze)"
+        },
+        {
+          "year": 2004,
+          "winner": "Zhang Yining (CHN)",
+          "runnerUp": "Kim Hyang-mi (PRK)",
+          "score": "4-0 (11-8, 11-7, 11-2, 11-2)",
+          "margin": "Galatsi Olympic Hall, Athens; won both singles and doubles gold (with Wang Nan)"
+        },
+        {
+          "year": 2000,
+          "winner": "Wang Nan (CHN)",
+          "runnerUp": "Li Ju (CHN)",
+          "score": "3-2 (12-21, 12-21, 21-19, 21-17, 21-18)",
+          "margin": "State Sports Centre, Sydney; historic comeback from 0-2 sets down"
+        },
+        {
+          "year": 1996,
+          "winner": "Deng Yaping (CHN)",
+          "runnerUp": "Chen Jing (TPE)",
+          "score": "3-2 (21-14, 21-17, 20-22, 17-21, 21-5)",
+          "margin": "Atlanta; Juan Antonio Samaranch presented medal; Deng defended singles and doubles gold"
+        },
+        {
+          "year": 1992,
+          "winner": "Deng Yaping (CHN)",
+          "runnerUp": "Qiao Hong (CHN)",
+          "score": "3-1 (21-6, 21-8, 15-21, 23-21)",
+          "margin": "Barcelona; dominant speed and ferocity at table"
+        },
+        {
+          "year": 1988,
+          "winner": "Chen Jing (CHN)",
+          "runnerUp": "Li Huifen (CHN)",
+          "score": "3-2 (21-17, 17-21, 14-21, 21-16, 21-13)",
+          "margin": "Seoul; inaugural women's Olympic champion; all-Chinese podium (Jiao Zhimin bronze)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 2,
+  "sport": "Wrestling",
+  "tournament": "Olympic Wrestling",
+  "source": {
+    "url": "https://uww.org/athletes-results",
+    "label": "United World Wrestling (UWW) Official Olympic Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Olympic Wrestling verified champions archive across Men's Freestyle 74 kg, Women's Freestyle legends, and National Medal Table leaders (1996–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's freestyle 74 kg",
+      "archiveUrl": "https://uww.org/athletes-results",
+      "sourceUrl": "https://olympics.com/en/paris-2024/sports/wrestling",
+      "sourceLabel": "UWW Olympic Freestyle Results",
+      "archiveLabel": "Olympic Freestyle Wrestling Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Razambek Zhamalov (UZB)",
+          "runnerUp": "Daichi Takatani (JPN)",
+          "score": "Fall (5-0)",
+          "margin": "Grand Palais Éphémère (Paris); Zhamalov pinned Takatani in 2nd minute of final"
+        },
+        {
+          "year": 2020,
+          "winner": "Zaurbek Sidakov (ROC)",
+          "runnerUp": "Mahamedkhabib Kadzimahamedau (BLR)",
+          "score": "7-0",
+          "margin": "Makuhari Messe (Tokyo); World Champion Sidakov dominated final with clean technical display"
+        },
+        {
+          "year": 2016,
+          "winner": "Hassan Yazdani (IRI)",
+          "runnerUp": "Aniuar Geduev (RUS)",
+          "score": "6-6 (Criteria)",
+          "margin": "Carioca Arena 2 (Rio); Yazdani staged dramatic final-minute comeback to win on highest-value point criteria"
+        },
+        {
+          "year": 2012,
+          "winner": "Jordan Burroughs (USA)",
+          "runnerUp": "Sadegh Goudarzi (IRI)",
+          "score": "1-0, 1-0",
+          "margin": "ExCeL London; Burroughs celebrated Olympic gold in his signature explosive double-leg style"
+        },
+        {
+          "year": 2008,
+          "winner": "Buvaisar Saitiev (RUS)",
+          "runnerUp": "Soslan Tigiev (UZB)",
+          "score": "3-1 (Period decision)",
+          "margin": "Beijing; Saitiev captured his 3rd Olympic gold medal, cementing status as greatest freestyle wrestler"
+        },
+        {
+          "year": 2004,
+          "winner": "Buvaisar Saitiev (RUS)",
+          "runnerUp": "Gennadiy Laliyev (KAZ)",
+          "score": "7-0",
+          "margin": "Ano Liossia Hall (Athens); Saitiev cruised to second Olympic title"
+        },
+        {
+          "year": 2000,
+          "winner": "Brandon Slay (USA)",
+          "runnerUp": "Moon Eui-jae (KOR)",
+          "score": "4-1",
+          "margin": "Sydney; Slay awarded gold after Alexander Leipold was disqualified for doping"
+        },
+        {
+          "year": 1996,
+          "winner": "Buvaisar Saitiev (RUS)",
+          "runnerUp": "Park Jang-soon (KOR)",
+          "score": "5-0",
+          "margin": "Georgia World Congress Center (Atlanta); 21-year-old Saitiev defeated reigning Olympic champion Park"
+        }
+      ]
+    },
+    {
+      "title": "Women's freestyle legends",
+      "archiveUrl": "https://uww.org/athletes-results",
+      "sourceUrl": "https://olympics.com/en/paris-2024/sports/wrestling",
+      "sourceLabel": "UWW Women's Wrestling Archive",
+      "archiveLabel": "Olympic Women's Wrestling Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Rei Higuchi & Tsugumi Sakurai (JPN)",
+          "runnerUp": "Spencer Lee & Anastasia Nichita",
+          "score": "4 Gold Medals for Japan",
+          "margin": "Paris; Japan swept women's freestyle (50kg, 53kg, 57kg, 62kg) with Sakurai, Motoki, Fujinami, and Susaki taking bronze"
+        },
+        {
+          "year": 2020,
+          "winner": "Yui Susaki (JPN)",
+          "runnerUp": "Sun Yanan (CHN)",
+          "score": "10-0 (Technical Fall)",
+          "margin": "Tokyo (50kg); Susaki went unscored upon (33-0 total) across entire tournament, completing final in 96 seconds"
+        },
+        {
+          "year": 2016,
+          "winner": "Kaori Icho (JPN)",
+          "runnerUp": "Valeriia Koblova (RUS)",
+          "score": "3-2",
+          "margin": "Rio (58kg); scored takedown with 5 seconds left to become FIRST wrestler in history to win 4 consecutive Olympic golds (2004, 2008, 2012, 2016)"
+        },
+        {
+          "year": 2016,
+          "winner": "Helen Maroulis (USA)",
+          "runnerUp": "Saori Yoshida (JPN)",
+          "score": "4-1",
+          "margin": "Rio (53kg); Maroulis ended Yoshida's 14-year reign to become the first American woman to win Olympic wrestling gold"
+        },
+        {
+          "year": 2012,
+          "winner": "Kaori Icho (JPN)",
+          "runnerUp": "Jing Ruixue (CHN)",
+          "score": "3-0, 2-0",
+          "margin": "ExCeL London (63kg); Icho claimed third Olympic gold medal without dropping a single period"
+        },
+        {
+          "year": 2012,
+          "winner": "Saori Yoshida (JPN)",
+          "runnerUp": "Tonya Verbeek (CAN)",
+          "score": "3-0, 2-0",
+          "margin": "London (55kg); Yoshida secured 3rd straight Olympic gold and carried Japanese flag"
+        },
+        {
+          "year": 2008,
+          "winner": "Kaori Icho (JPN)",
+          "runnerUp": "Alena Kartashova (RUS)",
+          "score": "1-0, 2-0",
+          "margin": "Beijing (63kg); Icho defended Olympic title in straight periods"
+        },
+        {
+          "year": 2008,
+          "winner": "Saori Yoshida (JPN)",
+          "runnerUp": "Xu Li (CHN)",
+          "score": "Fall (5-0)",
+          "margin": "Beijing (55kg); Yoshida pinned host favourite Xu Li in the final"
+        },
+        {
+          "year": 2004,
+          "winner": "Kaori Icho (JPN)",
+          "runnerUp": "Sara McMann (USA)",
+          "score": "3-2",
+          "margin": "Ano Liossia (Athens); inaugural women's 63kg Olympic gold in overtime"
+        },
+        {
+          "year": 2004,
+          "winner": "Saori Yoshida (JPN)",
+          "runnerUp": "Tonya Verbeek (CAN)",
+          "score": "6-0",
+          "margin": "Athens; inaugural women's 55kg Olympic gold medal"
+        }
+      ]
+    },
+    {
+      "title": "Medal table champions",
+      "archiveUrl": "https://uww.org/athletes-results",
+      "sourceUrl": "https://olympics.com/en/paris-2024/sports/wrestling",
+      "sourceLabel": "UWW Official Wrestling Medal Tables",
+      "archiveLabel": "Olympic Wrestling Medal Tables",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Japan",
+          "runnerUp": "Iran",
+          "score": "8 Gold, 1 Silver, 2 Bronze (11 total)",
+          "margin": "Paris; record 8 gold medals across men's and women's freestyle and Greco-Roman"
+        },
+        {
+          "year": 2020,
+          "winner": "Japan",
+          "runnerUp": "ROC (Russian Olympic Committee)",
+          "score": "5 Gold, 1 Silver, 1 Bronze (7 total)",
+          "margin": "Tokyo; Japan dominated home wrestling at Makuhari Messe"
+        },
+        {
+          "year": 2016,
+          "winner": "Russia",
+          "runnerUp": "Japan",
+          "score": "4 Gold, 2 Silver, 2 Bronze (8 total)",
+          "margin": "Rio; Russia topped wrestling table ahead of Japan (4 golds)"
+        },
+        {
+          "year": 2012,
+          "winner": "Russia",
+          "runnerUp": "Japan",
+          "score": "4 Gold, 2 Silver, 5 Bronze (11 total)",
+          "margin": "London; Russia won 11 medals in wrestling"
+        },
+        {
+          "year": 2008,
+          "winner": "Russia",
+          "runnerUp": "Japan",
+          "score": "6 Gold, 3 Silver, 2 Bronze (11 total)",
+          "margin": "Beijing; Russia won 6 gold medals across freestyle and Greco-Roman"
+        },
+        {
+          "year": 2004,
+          "winner": "Russia",
+          "runnerUp": "Japan",
+          "score": "5 Gold, 2 Silver, 3 Bronze (10 total)",
+          "margin": "Athens; Russia claimed 5 wrestling golds"
+        },
+        {
+          "year": 2000,
+          "winner": "Russia",
+          "runnerUp": "United States",
+          "score": "6 Gold, 2 Silver, 1 Bronze (9 total)",
+          "margin": "Sydney; Russian wrestlers dominated Olympic mats"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "FIDE Candidates Tournament",
+  "source": {
+    "url": "https://candidates2024.fide.com/",
+    "label": "Official FIDE Candidates Tournament Archives"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern FIDE Candidates tournament archive for both Open and Women's competitions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Open section",
+      "archiveUrl": "https://candidates2024.fide.com/",
+      "sourceUrl": "https://www.fide.com/calendar",
+      "sourceLabel": "FIDE Candidates Official Archive",
+      "archiveLabel": "Full Candidates Open Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Gukesh Dommaraju (IND)",
+          "runnerUp": "Hikaru Nakamura, Ian Nepomniachtchi, Fabiano Caruana",
+          "score": "9 / 14",
+          "margin": "Toronto, Canada; youngest Candidates winner in history (age 17)"
+        },
+        {
+          "year": 2022,
+          "winner": "Ian Nepomniachtchi (FIDE)",
+          "runnerUp": "Ding Liren (CHN)",
+          "score": "9½ / 14",
+          "margin": "Madrid, Spain; record modern Candidates score (+5)"
+        },
+        {
+          "year": 2021,
+          "winner": "Ian Nepomniachtchi (RUS)",
+          "runnerUp": "Maxime Vachier-Lagrave (FRA)",
+          "score": "8½ / 14",
+          "margin": "Yekaterinburg, Russia (split across 2020–21 due to pandemic)"
+        },
+        {
+          "year": 2018,
+          "winner": "Fabiano Caruana (USA)",
+          "runnerUp": "Shakhriyar Mamedyarov, Sergey Karjakin",
+          "score": "9 / 14",
+          "margin": "Berlin, Germany; first American challenger since Fischer in 1972"
+        },
+        {
+          "year": 2016,
+          "winner": "Sergey Karjakin (RUS)",
+          "runnerUp": "Fabiano Caruana (USA)",
+          "score": "8½ / 14",
+          "margin": "Moscow, Russia; won final-round showdown against Caruana"
+        },
+        {
+          "year": 2014,
+          "winner": "Viswanathan Anand (IND)",
+          "runnerUp": "Sergey Karjakin (RUS)",
+          "score": "8½ / 14",
+          "margin": "Khanty-Mansiysk, Russia; unbeaten run to earn rematch with Carlsen"
+        },
+        {
+          "year": 2013,
+          "winner": "Magnus Carlsen (NOR)",
+          "runnerUp": "Vladimir Kramnik (RUS)",
+          "score": "8½ / 14",
+          "margin": "London, England; won on tiebreak (most wins) after both lost in dramatic final round"
+        },
+        {
+          "year": 2011,
+          "winner": "Boris Gelfand (ISR)",
+          "runnerUp": "Alexander Grischuk (RUS)",
+          "score": "3½ - 2½",
+          "margin": "Kazan, Russia (knockout format)"
+        },
+        {
+          "year": 2009,
+          "winner": "Veselin Topalov (BUL)",
+          "runnerUp": "Gata Kamsky (USA)",
+          "score": "4½ - 2½",
+          "margin": "Sofia, Bulgaria; Challenger Match"
+        },
+        {
+          "year": 2007,
+          "winner": "Levon Aronian, Peter Leko, Boris Gelfand, Alexander Grischuk",
+          "runnerUp": "N/A",
+          "score": "Knockout qualifiers",
+          "margin": "Elista, Russia; 4 players qualified to Mexico City 2007 World Championship"
+        }
+      ]
+    },
+    {
+      "title": "Women's section",
+      "archiveUrl": "https://candidates2024.fide.com/",
+      "sourceUrl": "https://www.fide.com/calendar",
+      "sourceLabel": "FIDE Women's Candidates Official Archive",
+      "archiveLabel": "Full Candidates Women's Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Tan Zhongyi (CHN)",
+          "runnerUp": "Humpy Koneru, Lei Tingjie",
+          "score": "9 / 14",
+          "margin": "Toronto, Canada; dominant wire-to-wire victory to earn World Championship match"
+        },
+        {
+          "year": 2023,
+          "winner": "Lei Tingjie (CHN)",
+          "runnerUp": "Tan Zhongyi (CHN)",
+          "score": "3½ - 1½",
+          "margin": "Chongqing, China; knockout format final"
+        },
+        {
+          "year": 2019,
+          "winner": "Aleksandra Goryachkina (RUS)",
+          "runnerUp": "Anna Muzychuk (UKR)",
+          "score": "9½ / 14",
+          "margin": "Kazan, Russia; won with two rounds to spare at age 20"
+        }
+      ]
+    }
+  ]
+}

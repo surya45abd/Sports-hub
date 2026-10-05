@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "sport": "Basketball",
+  "tournament": "EuroLeague",
+  "source": {
+    "url": "https://www.euroleaguebasketball.net/euroleague/history/",
+    "label": "Euroleague Basketball Official History & Champions Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern EuroLeague Final Four championship archive (2001–2024).",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Panathinaikos AKTOR (GRE)",
+      "runnerUp": "Real Madrid (ESP)",
+      "score": "95 - 80",
+      "margin": "Uber Arena, Berlin; Kostas Sloukas Final Four MVP (24 pts); 7th EuroLeague crown for Panathinaikos"
+    },
+    {
+      "year": 2023,
+      "winner": "Real Madrid (ESP)",
+      "runnerUp": "Olympiacos (GRE)",
+      "score": "79 - 78",
+      "margin": "Žalgirio Arena, Kaunas; Sergio Llull hit rainbow baseline jumper with 3.1s left; record 11th EuroLeague title"
+    },
+    {
+      "year": 2022,
+      "winner": "Anadolu Efes (TUR)",
+      "runnerUp": "Real Madrid (ESP)",
+      "score": "58 - 57",
+      "margin": "Štark Arena, Belgrade; Vasilije Micić Final Four MVP (23 pts); back-to-back EuroLeague crowns"
+    },
+    {
+      "year": 2021,
+      "winner": "Anadolu Efes (TUR)",
+      "runnerUp": "FC Barcelona (ESP)",
+      "score": "86 - 81",
+      "margin": "Lanxess Arena, Cologne; Vasilije Micić and Shane Larkin led Efes to maiden EuroLeague title"
+    },
+    {
+      "year": 2019,
+      "winner": "CSKA Moscow (RUS)",
+      "runnerUp": "Anadolu Efes (TUR)",
+      "score": "91 - 83",
+      "margin": "Fernando Buesa Arena, Vitoria-Gasteiz; Will Clyburn Final Four MVP (20 pts)"
+    },
+    {
+      "year": 2018,
+      "winner": "Real Madrid (ESP)",
+      "runnerUp": "Fenerbahçe Doğuş (TUR)",
+      "score": "85 - 80",
+      "margin": "Štark Arena, Belgrade; 19-year-old Luka Dončić named EuroLeague MVP and Final Four MVP"
+    },
+    {
+      "year": 2017,
+      "winner": "Fenerbahçe (TUR)",
+      "runnerUp": "Olympiacos (GRE)",
+      "score": "80 - 64",
+      "margin": "Sinan Erdem Dome, Istanbul; first Turkish EuroLeague champion in history; coach Željko Obradović's record 9th title"
+    },
+    {
+      "year": 2016,
+      "winner": "CSKA Moscow (RUS)",
+      "runnerUp": "Fenerbahçe (TUR)",
+      "score": "101 - 96 (a.e.t.)",
+      "margin": "Mercedes-Benz Arena, Berlin; Viktor Khryapa tip-in at 1.9s forced overtime; Nando de Colo MVP (22 pts)"
+    },
+    {
+      "year": 2015,
+      "winner": "Real Madrid (ESP)",
+      "runnerUp": "Olympiacos (GRE)",
+      "score": "78 - 59",
+      "margin": "Barclaycard Center, Madrid; Andrés Nocioni Final Four MVP (12 pts, 7 reb)"
+    },
+    {
+      "year": 2014,
+      "winner": "Maccabi Electra Tel Aviv (ISR)",
+      "runnerUp": "Real Madrid (ESP)",
+      "score": "98 - 86 (a.e.t.)",
+      "margin": "Mediolanum Forum, Milan; Tyrese Rice exploded for 26 points in sensational overtime upset"
+    },
+    {
+      "year": 2013,
+      "winner": "Olympiacos (GRE)",
+      "runnerUp": "Real Madrid (ESP)",
+      "score": "100 - 88",
+      "margin": "O2 Arena, London; Vassilis Spanoulis erupted for 22 points (all in second half) to complete back-to-back crowns"
+    },
+    {
+      "year": 2012,
+      "winner": "Olympiacos (GRE)",
+      "runnerUp": "CSKA Moscow (RUS)",
+      "score": "62 - 61",
+      "margin": "Sinan Erdem Dome, Istanbul; Georgios Printezis hit iconic one-handed floater with 0.7s left after rallying from 19 points down"
+    },
+    {
+      "year": 2011,
+      "winner": "Panathinaikos (GRE)",
+      "runnerUp": "Maccabi Electra Tel Aviv (ISR)",
+      "score": "78 - 70",
+      "margin": "Palau Sant Jordi, Barcelona; Dimitris Diamantidis Final Four MVP (16 pts, 9 ast)"
+    },
+    {
+      "year": 2010,
+      "winner": "Regal FC Barcelona (ESP)",
+      "runnerUp": "Olympiacos (GRE)",
+      "score": "86 - 68",
+      "margin": "Palais Omnisports de Paris-Bercy; Juan Carlos Navarro Final Four MVP (21 pts)"
+    },
+    {
+      "year": 2009,
+      "winner": "Panathinaikos (GRE)",
+      "runnerUp": "CSKA Moscow (RUS)",
+      "score": "73 - 71",
+      "margin": "O2 World, Berlin; Vassilis Spanoulis Final Four MVP; Šarūnas Jasikevičius won 4th EuroLeague crown"
+    },
+    {
+      "year": 2008,
+      "winner": "CSKA Moscow (RUS)",
+      "runnerUp": "Maccabi Elite Tel Aviv (ISR)",
+      "score": "91 - 77",
+      "margin": "Palacio de Deportes, Madrid; Trajan Langdon Final Four MVP (21 pts, 4/5 threes)"
+    },
+    {
+      "year": 2007,
+      "winner": "Panathinaikos (GRE)",
+      "runnerUp": "CSKA Moscow (RUS)",
+      "score": "93 - 91",
+      "margin": "O.A.C.A., Athens; Dimitris Diamantidis and Ramūnas Šiškauskas starred in epic battle before home crowd"
+    },
+    {
+      "year": 2006,
+      "winner": "CSKA Moscow (RUS)",
+      "runnerUp": "Maccabi Elite Tel Aviv (ISR)",
+      "score": "73 - 69",
+      "margin": "Sazka Arena, Prague; Theodoros Papaloukas Final Four MVP (18 pts, 7 ast)"
+    },
+    {
+      "year": 2005,
+      "winner": "Maccabi Elite Tel Aviv (ISR)",
+      "runnerUp": "TAU Cerámica (ESP)",
+      "score": "90 - 78",
+      "margin": "Olimpiisky Arena, Moscow; Šarūnas Jasikevičius Final Four MVP (22 pts); defended championship"
+    },
+    {
+      "year": 2004,
+      "winner": "Maccabi Elite Tel Aviv (ISR)",
+      "runnerUp": "Skipper Bologna (ITA)",
+      "score": "118 - 74",
+      "margin": "Yad Eliyahu Arena, Tel Aviv; record 44-point margin in a European final; Anthony Parker Final Four MVP"
+    },
+    {
+      "year": 2003,
+      "winner": "FC Barcelona (ESP)",
+      "runnerUp": "Benetton Treviso (ITA)",
+      "score": "76 - 65",
+      "margin": "Palau Sant Jordi, Barcelona; Dejan Bodiroga Final Four MVP (20 pts, 8 reb) to claim Barca's maiden title"
+    },
+    {
+      "year": 2002,
+      "winner": "Panathinaikos (GRE)",
+      "runnerUp": "Kinder Bologna (ITA)",
+      "score": "89 - 83",
+      "margin": "PalaMalaguti, Bologna; Dejan Bodiroga Final Four MVP (21 pts); Željko Obradović's 5th title"
+    },
+    {
+      "year": 2001,
+      "winner": "Kinder Bologna (ITA)",
+      "runnerUp": "TAU Cerámica (ESP)",
+      "score": "3 - 2 (series)",
+      "margin": "Inaugural Euroleague Basketball season; Manu Ginóbili Finals MVP (won decisive Game 5 82-74)"
+    }
+  ],
+  "sections": []
+}

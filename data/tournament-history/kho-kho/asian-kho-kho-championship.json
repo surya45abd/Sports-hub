@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "Asian Kho Kho Championship",
+  "source": {
+    "url": "https://khokhofederation.in/",
+    "label": "Asian Kho Kho Federation"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "All editions of the Asian Kho Kho Championship.",
+  "sections": [
+    {
+      "title": "Men's Championship",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "India",
+          "runnerUp": "Nepal",
+          "score": "40-10",
+          "margin": "4th edition (Tamulpur, Assam); India undefeated throughout"
+        },
+        {
+          "year": 2016,
+          "winner": "India",
+          "runnerUp": "Bangladesh",
+          "score": "36-12",
+          "margin": "3rd edition (Indore)"
+        },
+        {
+          "year": 2000,
+          "winner": "India",
+          "runnerUp": "Bangladesh",
+          "score": "30-14",
+          "margin": "2nd edition (Dhaka)"
+        },
+        {
+          "year": 1996,
+          "winner": "India",
+          "runnerUp": "Nepal",
+          "score": "34-12",
+          "margin": "Inaugural Asian Championship (Kolkata)"
+        }
+      ]
+    },
+    {
+      "title": "Women's Championship",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "India",
+          "runnerUp": "Nepal",
+          "score": "33-15",
+          "margin": "4th Asian Championship; Nasreen Shaikh captained India"
+        },
+        {
+          "year": 2016,
+          "winner": "India",
+          "runnerUp": "Bangladesh",
+          "score": "28-10",
+          "margin": "3rd Asian Championship"
+        },
+        {
+          "year": 2000,
+          "winner": "India",
+          "runnerUp": "Sri Lanka",
+          "score": "26-8",
+          "margin": "2nd Asian Championship"
+        }
+      ]
+    }
+  ]
+}

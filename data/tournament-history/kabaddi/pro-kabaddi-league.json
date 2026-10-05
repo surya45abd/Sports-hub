@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sport": "Kabaddi",
+  "tournament": "Pro Kabaddi League",
+  "source": {
+    "url": "https://www.prokabaddi.com/",
+    "label": "Official Pro Kabaddi League Archive"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": "Season 11 (2024-25)",
+      "winner": "Haryana Steelers",
+      "runnerUp": "Patna Pirates",
+      "score": "32-26",
+      "margin": "6 points"
+    },
+    {
+      "year": "Season 10 (2023-24)",
+      "winner": "Puneri Paltan",
+      "runnerUp": "Haryana Steelers",
+      "score": "28-25",
+      "margin": "3 points; maiden title for Puneri Paltan"
+    },
+    {
+      "year": "Season 9 (2022)",
+      "winner": "Jaipur Pink Panthers",
+      "runnerUp": "Puneri Paltan",
+      "score": "33-29",
+      "margin": "4 points; second PKL title for Jaipur"
+    },
+    {
+      "year": "Season 8 (2021-22)",
+      "winner": "Dabang Delhi KC",
+      "runnerUp": "Patna Pirates",
+      "score": "37-36",
+      "margin": "1 point; Naveen Kumar 13 raid points"
+    },
+    {
+      "year": "Season 7 (2019)",
+      "winner": "Bengal Warriors",
+      "runnerUp": "Dabang Delhi KC",
+      "score": "39-34",
+      "margin": "5 points; Mohammad Nabibakhsh 10 points"
+    },
+    {
+      "year": "Season 6 (2018-19)",
+      "winner": "Bengaluru Bulls",
+      "runnerUp": "Gujarat Giants",
+      "score": "38-33",
+      "margin": "5 points; Pawan Sehrawat 22 raid points"
+    },
+    {
+      "year": "Season 5 (2017)",
+      "winner": "Patna Pirates",
+      "runnerUp": "Gujarat Fortune Giants",
+      "score": "55-38",
+      "margin": "17 points; Pardeep Narwal 19 raid points; 3-peat"
+    },
+    {
+      "year": "Season 4 (2016-II)",
+      "winner": "Patna Pirates",
+      "runnerUp": "Jaipur Pink Panthers",
+      "score": "37-29",
+      "margin": "8 points; Pardeep Narwal 16 raid points"
+    },
+    {
+      "year": "Season 3 (2016-I)",
+      "winner": "Patna Pirates",
+      "runnerUp": "U Mumba",
+      "score": "31-28",
+      "margin": "3 points; Rohit Kumar 8 raid points"
+    },
+    {
+      "year": "Season 2 (2015)",
+      "winner": "U Mumba",
+      "runnerUp": "Bengaluru Bulls",
+      "score": "36-30",
+      "margin": "6 points; Anup Kumar and Shabeer Bapu led U Mumba"
+    },
+    {
+      "year": "Season 1 (2014)",
+      "winner": "Jaipur Pink Panthers",
+      "runnerUp": "U Mumba",
+      "score": "35-24",
+      "margin": "11 points; Maninder Singh 13 points in inaugural final"
+    }
+  ],
+  "candidateRecords": []
+}

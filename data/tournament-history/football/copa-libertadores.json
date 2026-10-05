@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 2,
+  "sport": "Football",
+  "tournament": "Copa Libertadores",
+  "source": {
+    "url": "https://libertadores.com.br/historia-libertadores/",
+    "label": "Candidate complete finals timeline (not verified)"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 1960,
+      "winner": "Peñarol",
+      "runnerUp": "Olimpia",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1961,
+      "winner": "Peñarol",
+      "runnerUp": "Palmeiras",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1962,
+      "winner": "Santos",
+      "runnerUp": "Peñarol",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1963,
+      "winner": "Santos",
+      "runnerUp": "Boca Juniors",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1964,
+      "winner": "Independiente",
+      "runnerUp": "Nacional",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1965,
+      "winner": "Independiente",
+      "runnerUp": "Peñarol",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1966,
+      "winner": "Peñarol",
+      "runnerUp": "River Plate",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Racing Club",
+      "runnerUp": "Nacional",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Estudiantes",
+      "runnerUp": "Palmeiras",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Estudiantes",
+      "runnerUp": "Nacional",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Estudiantes",
+      "runnerUp": "Peñarol",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Nacional",
+      "runnerUp": "Estudiantes",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Independiente",
+      "runnerUp": "Universitario",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Independiente",
+      "runnerUp": "Colo-Colo",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Independiente",
+      "runnerUp": "São Paulo",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Independiente",
+      "runnerUp": "Unión Española",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Cruzeiro",
+      "runnerUp": "River Plate",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Boca Juniors",
+      "runnerUp": "Cruzeiro",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Boca Juniors",
+      "runnerUp": "Deportivo Cali",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Olimpia",
+      "runnerUp": "Boca Juniors",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Nacional",
+      "runnerUp": "Internacional",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Flamengo",
+      "runnerUp": "Cobreloa",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Peñarol",
+      "runnerUp": "Cobreloa",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Grêmio",
+      "runnerUp": "Peñarol",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Independiente",
+      "runnerUp": "Grêmio",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Argentinos Juniors",
+      "runnerUp": "América de Cali",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "River Plate",
+      "runnerUp": "América de Cali",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Peñarol",
+      "runnerUp": "América de Cali",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Nacional",
+      "runnerUp": "Newell's Old Boys",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Atlético Nacional",
+      "runnerUp": "Olimpia",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Olimpia",
+      "runnerUp": "Barcelona SC",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Colo-Colo",
+      "runnerUp": "Olimpia",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "São Paulo",
+      "runnerUp": "Newell's Old Boys",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "São Paulo",
+      "runnerUp": "Universidad Católica",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Vélez Sarsfield",
+      "runnerUp": "São Paulo",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Grêmio",
+      "runnerUp": "Atlético Nacional",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "River Plate",
+      "runnerUp": "América de Cali",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Cruzeiro",
+      "runnerUp": "Sporting Cristal",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Vasco da Gama",
+      "runnerUp": "Barcelona SC",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Palmeiras",
+      "runnerUp": "Deportivo Cali",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Boca Juniors",
+      "runnerUp": "Palmeiras",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Boca Juniors",
+      "runnerUp": "Cruz Azul",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Olimpia",
+      "runnerUp": "São Caetano",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Boca Juniors",
+      "runnerUp": "Santos",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Once Caldas",
+      "runnerUp": "Boca Juniors",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "São Paulo",
+      "runnerUp": "Atlético Paranaense",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Internacional",
+      "runnerUp": "São Paulo",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Boca Juniors",
+      "runnerUp": "Grêmio",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "LDU Quito",
+      "runnerUp": "Fluminense",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Estudiantes",
+      "runnerUp": "Cruzeiro",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Internacional",
+      "runnerUp": "Chivas Guadalajara",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Santos",
+      "runnerUp": "Peñarol",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Corinthians",
+      "runnerUp": "Boca Juniors",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Atlético Mineiro",
+      "runnerUp": "Olimpia",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "San Lorenzo",
+      "runnerUp": "Nacional",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "River Plate",
+      "runnerUp": "Tigres UANL",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Atlético Nacional",
+      "runnerUp": "Independiente del Valle",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Grêmio",
+      "runnerUp": "Lanús",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "River Plate",
+      "runnerUp": "Boca Juniors",
+      "score": "Championship final",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Flamengo",
+      "runnerUp": "River Plate",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Palmeiras",
+      "runnerUp": "Santos",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Palmeiras",
+      "runnerUp": "Flamengo",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Flamengo",
+      "runnerUp": "Athletico Paranaense",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Fluminense",
+      "runnerUp": "Boca Juniors",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Botafogo",
+      "runnerUp": "Atlético Mineiro",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Flamengo",
+      "runnerUp": "Palmeiras",
+      "score": "1-0",
+      "margin": ""
+    }
+  ],
+  "reviewNotes": "Candidate list covers all 66 completed finals from 1960 through 2025. Seasons remain unverified until every final is checked against organizer records. The CONMEBOL references cross-check selected historical editions and 2025; they do not independently substantiate this entire list. Aggregate scores for two-leg finals are omitted; scores are included for single-match finals from 2019 onward.",
+  "verificationSources": [
+    {
+      "url": "https://gol.conmebol.com/libertadores/en/news/former-conmebol-libertadores-champions-chasing-another-crown",
+      "label": "Official CONMEBOL retrospective (selected editions only)"
+    },
+    {
+      "url": "https://gol.conmebol.com/libertadores/en/news/2026-conmebol-libertadores-final-will-be-played-montevideo",
+      "label": "Official CONMEBOL retrospective (1960 inaugural final and selected later finals)"
+    }
+  ],
+  "historyCoverage": "Complete Copa Libertadores championship history from the inaugural 1960 edition through 2025."
+}

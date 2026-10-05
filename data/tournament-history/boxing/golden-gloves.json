@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "sport": "Boxing",
+  "tournament": "Golden Gloves",
+  "source": {
+    "url": "https://www.nationalgoldengloves.com/",
+    "label": "National Golden Gloves Official Tournament Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "National Golden Gloves Tournament of Champions winners across premier divisions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "National Tournament of Champions",
+      "archiveUrl": "https://www.nationalgoldengloves.com/",
+      "sourceUrl": "https://www.nationalgoldengloves.com/",
+      "sourceLabel": "National Golden Gloves Archive",
+      "archiveLabel": "Full Golden Gloves Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Kelvin Davis / Detroit Team (Medal Leaders)",
+          "runnerUp": "Texas Team",
+          "score": "Team Points Trophy",
+          "margin": "Detroit, Michigan; 96th annual National Golden Gloves Tournament of Champions"
+        },
+        {
+          "year": 2023,
+          "winner": "Treysean Wiggins (Welterweight)",
+          "runnerUp": "Amir Anderson",
+          "score": "5-0 Decision",
+          "margin": "Chester, Pennsylvania; outstanding tournament performer award"
+        },
+        {
+          "year": 2022,
+          "winner": "Jahmal Harvey (Featherweight)",
+          "runnerUp": "Francis Stewart",
+          "score": "5-0 Decision",
+          "margin": "Tulsa, Oklahoma; Harvey went on to capture World Amateur Championship gold"
+        },
+        {
+          "year": 2021,
+          "winner": "Rahim Gonzales (Light Heavyweight)",
+          "runnerUp": "Arjan Iseni",
+          "score": "4-1 Decision",
+          "margin": "Tulsa, Oklahoma; Gonzales claimed Golden Gloves title en route to world title"
+        },
+        {
+          "year": 2019,
+          "winner": "Keyshawn Davis (Lightweight)",
+          "runnerUp": "Harley Mederos",
+          "score": "5-0 Decision",
+          "margin": "Chattanooga, Tennessee; Davis won National Golden Gloves Outstanding Boxer honors"
+        },
+        {
+          "year": 2018,
+          "winner": "Richard Torrez Jr. (Super Heavyweight)",
+          "runnerUp": "Antonio Mireles",
+          "score": "5-0 Decision",
+          "margin": "Omaha, Nebraska; Torrez went on to win Olympic silver medal in Tokyo 2020"
+        },
+        {
+          "year": 2016,
+          "winner": "Vergil Ortiz Jr. (Light Welterweight)",
+          "runnerUp": "Frevian Gonzalez",
+          "score": "Unanimous Decision",
+          "margin": "Salt Lake City, Utah; 140 lb national championship"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "Ryder Cup",
+  "source": {
+    "url": "https://www.rydercup.com/history",
+    "label": "Official Ryder Cup Match History Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete biennial Ryder Cup match archive (1985–2025) between Europe and the United States.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "United States",
+      "runnerUp": "Europe",
+      "score": "15 - 13",
+      "margin": "Bethpage Black, New York"
+    },
+    {
+      "year": 2023,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "16½ - 11½",
+      "margin": "Marco Simone, Rome, Italy; captained by Luke Donald"
+    },
+    {
+      "year": 2021,
+      "winner": "United States",
+      "runnerUp": "Europe",
+      "score": "19 - 9",
+      "margin": "Whistling Straits, Wisconsin; record modern margin of victory"
+    },
+    {
+      "year": 2018,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "17½ - 10½",
+      "margin": "Le Golf National, Paris, France; 'Moliwood' (Molinari/Fleetwood) 4-0"
+    },
+    {
+      "year": 2016,
+      "winner": "United States",
+      "runnerUp": "Europe",
+      "score": "17 - 11",
+      "margin": "Hazeltine National, Minnesota; captained by Davis Love III"
+    },
+    {
+      "year": 2014,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "16½ - 11½",
+      "margin": "Gleneagles, Scotland; captained by Paul McGinley"
+    },
+    {
+      "year": 2012,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "14½ - 13½",
+      "margin": "Medinah, Illinois; 'Miracle at Medinah' comeback from 10-6 down on Sunday"
+    },
+    {
+      "year": 2010,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "14½ - 13½",
+      "margin": "Celtic Manor, Wales; Graeme McDowell won deciding match on Monday finish"
+    },
+    {
+      "year": 2008,
+      "winner": "United States",
+      "runnerUp": "Europe",
+      "score": "16½ - 11½",
+      "margin": "Valhalla, Kentucky; captained by Paul Azinger"
+    },
+    {
+      "year": 2006,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "18½ - 9½",
+      "margin": "The K Club, Ireland; captained by Ian Woosnam"
+    },
+    {
+      "year": 2004,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "18½ - 9½",
+      "margin": "Oakland Hills, Michigan; captained by Bernhard Langer"
+    },
+    {
+      "year": 2002,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "15½ - 12½",
+      "margin": "The Belfry, England (postponed from 2001)"
+    },
+    {
+      "year": 1999,
+      "winner": "United States",
+      "runnerUp": "Europe",
+      "score": "14½ - 13½",
+      "margin": "The Country Club, Brookline; historic Sunday comeback from 10-6 down"
+    },
+    {
+      "year": 1997,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "14½ - 13½",
+      "margin": "Valderrama, Spain; first Ryder Cup in continental Europe, captained by Seve Ballesteros"
+    },
+    {
+      "year": 1995,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "14½ - 13½",
+      "margin": "Oak Hill, New York; Philip Walton secured the winning point"
+    },
+    {
+      "year": 1993,
+      "winner": "United States",
+      "runnerUp": "Europe",
+      "score": "15 - 13",
+      "margin": "The Belfry, England; Tom Watson's US team won"
+    },
+    {
+      "year": 1991,
+      "winner": "United States",
+      "runnerUp": "Europe",
+      "score": "14½ - 13½",
+      "margin": "Kiawah Island; 'War on the Shore' decided by Bernhard Langer's 6-foot putt on 18"
+    },
+    {
+      "year": 1989,
+      "winner": "Europe (Retained)",
+      "runnerUp": "United States",
+      "score": "14 - 14",
+      "margin": "The Belfry, England; tied match, Europe retained trophy"
+    },
+    {
+      "year": 1987,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "15 - 13",
+      "margin": "Muirfield Village, Ohio; first European victory on American soil"
+    },
+    {
+      "year": 1985,
+      "winner": "Europe",
+      "runnerUp": "United States",
+      "score": "16½ - 11½",
+      "margin": "The Belfry, England; ended 28-year US winning streak"
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "sport": "Rugby",
+  "tournament": "Investec Champions Cup",
+  "source": {
+    "url": "https://www.epcrugby.com/champions-cup/history/past-winners",
+    "label": "European Professional Club Rugby (EPCR) Official Champions Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete European Rugby Champions Cup / Heineken Cup finals archive (1996–2024).",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Toulouse",
+      "runnerUp": "Leinster",
+      "score": "31 - 22 (a.e.t.)",
+      "margin": "Tottenham Hotspur Stadium, London; record 6th European crown for Toulouse; Antoine Dupont Player of the Match"
+    },
+    {
+      "year": 2023,
+      "winner": "La Rochelle",
+      "runnerUp": "Leinster",
+      "score": "27 - 26",
+      "margin": "Aviva Stadium, Dublin; Ronan O'Gara's side overcame 17-0 early Leinster lead"
+    },
+    {
+      "year": 2022,
+      "winner": "La Rochelle",
+      "runnerUp": "Leinster",
+      "score": "24 - 21",
+      "margin": "Stade Vélodrome, Marseille; Arthur Retière scored 79th-minute winning try"
+    },
+    {
+      "year": 2021,
+      "winner": "Toulouse",
+      "runnerUp": "La Rochelle",
+      "score": "22 - 17",
+      "margin": "Twickenham, London; 5th European title"
+    },
+    {
+      "year": 2020,
+      "winner": "Exeter Chiefs",
+      "runnerUp": "Racing 92",
+      "score": "31 - 27",
+      "margin": "Ashton Gate, Bristol; completed historic Premiership and European double"
+    },
+    {
+      "year": 2019,
+      "winner": "Saracens",
+      "runnerUp": "Leinster",
+      "score": "20 - 10",
+      "margin": "St James' Park, Newcastle; 3rd European Champions Cup title"
+    },
+    {
+      "year": 2018,
+      "winner": "Leinster",
+      "runnerUp": "Racing 92",
+      "score": "15 - 12",
+      "margin": "San Mamés Stadium, Bilbao; Isa Nacewa kicked late penalty for 4th title"
+    },
+    {
+      "year": 2017,
+      "winner": "Saracens",
+      "runnerUp": "Clermont",
+      "score": "28 - 17",
+      "margin": "Murrayfield, Edinburgh; defended European crown"
+    },
+    {
+      "year": 2016,
+      "winner": "Saracens",
+      "runnerUp": "Racing 92",
+      "score": "21 - 9",
+      "margin": "Grand Stade de Lyon; Owen Farrell kicked 7 penalties"
+    },
+    {
+      "year": 2015,
+      "winner": "Toulon",
+      "runnerUp": "Clermont",
+      "score": "24 - 18",
+      "margin": "Twickenham; historic 3-peat (first club to win 3 consecutive European titles)"
+    },
+    {
+      "year": 2014,
+      "winner": "Toulon",
+      "runnerUp": "Saracens",
+      "score": "23 - 6",
+      "margin": "Millennium Stadium, Cardiff; Jonny Wilkinson's fairy-tale farewell match"
+    },
+    {
+      "year": 2013,
+      "winner": "Toulon",
+      "runnerUp": "Clermont",
+      "score": "16 - 15",
+      "margin": "Aviva Stadium, Dublin; Delon Armitage scored decisive late try"
+    },
+    {
+      "year": 2012,
+      "winner": "Leinster",
+      "runnerUp": "Ulster",
+      "score": "42 - 14",
+      "margin": "Twickenham, London; record margin of victory in a Heineken Cup final"
+    },
+    {
+      "year": 2011,
+      "winner": "Leinster",
+      "runnerUp": "Northampton Saints",
+      "score": "33 - 22",
+      "margin": "Millennium Stadium; Jonathan Sexton inspired stunning comeback from 22-6 down at half-time"
+    },
+    {
+      "year": 2010,
+      "winner": "Toulouse",
+      "runnerUp": "Biarritz",
+      "score": "21 - 19",
+      "margin": "Stade de France, Saint-Denis; Florian Fritz drop goal and penalty masterclass"
+    },
+    {
+      "year": 2009,
+      "winner": "Leinster",
+      "runnerUp": "Leicester Tigers",
+      "score": "19 - 16",
+      "margin": "Murrayfield, Edinburgh; maiden European championship for Leinster"
+    },
+    {
+      "year": 2008,
+      "winner": "Munster",
+      "runnerUp": "Toulouse",
+      "score": "16 - 13",
+      "margin": "Millennium Stadium, Cardiff; Ronan O'Gara kicked 11 points for 2nd title"
+    },
+    {
+      "year": 2007,
+      "winner": "Wasps",
+      "runnerUp": "Leicester Tigers",
+      "score": "25 - 9",
+      "margin": "Twickenham, London; Raphael Ibañez and Eoin Reddan scored tries"
+    },
+    {
+      "year": 2006,
+      "winner": "Munster",
+      "runnerUp": "Biarritz",
+      "score": "23 - 19",
+      "margin": "Millennium Stadium; 'Red Army' celebrated maiden European title after 2 lost finals"
+    },
+    {
+      "year": 2005,
+      "winner": "Toulouse",
+      "runnerUp": "Stade Français",
+      "score": "18 - 12 (a.e.t.)",
+      "margin": "Murrayfield, Edinburgh; Frédéric Michalak drop goal in extra time"
+    },
+    {
+      "year": 2004,
+      "winner": "Wasps",
+      "runnerUp": "Toulouse",
+      "score": "27 - 20",
+      "margin": "Twickenham; Rob Howley pounced on Clément Poitrenaud's hesitation in final seconds"
+    },
+    {
+      "year": 2003,
+      "winner": "Toulouse",
+      "runnerUp": "Perpignan",
+      "score": "22 - 17",
+      "margin": "Lansdowne Road, Dublin; all-French final"
+    },
+    {
+      "year": 2002,
+      "winner": "Leicester Tigers",
+      "runnerUp": "Munster",
+      "score": "15 - 9",
+      "margin": "Millennium Stadium; Neil Back's infamous 'Hand of Back' scrum tap"
+    },
+    {
+      "year": 2001,
+      "winner": "Leicester Tigers",
+      "runnerUp": "Stade Français",
+      "score": "34 - 30",
+      "margin": "Parc des Princes, Paris; Leon Lloyd scored 79th-minute try"
+    },
+    {
+      "year": 2000,
+      "winner": "Northampton Saints",
+      "runnerUp": "Munster",
+      "score": "9 - 8",
+      "margin": "Twickenham, London; Paul Grayson kicked 3 penalties in defensive slugfest"
+    },
+    {
+      "year": 1999,
+      "winner": "Ulster",
+      "runnerUp": "Colomiers",
+      "score": "21 - 6",
+      "margin": "Lansdowne Road, Dublin; David Humphreys kicked 19 points"
+    },
+    {
+      "year": 1998,
+      "winner": "Bath",
+      "runnerUp": "Brive",
+      "score": "19 - 18",
+      "margin": "Stade Lescure, Bordeaux; Jon Callard scored all 19 points for Bath"
+    },
+    {
+      "year": 1997,
+      "winner": "Brive",
+      "runnerUp": "Leicester Tigers",
+      "score": "28 - 9",
+      "margin": "Cardiff Arms Park, Wales; 4-try blitz"
+    },
+    {
+      "year": 1996,
+      "winner": "Toulouse",
+      "runnerUp": "Cardiff",
+      "score": "21 - 18 (a.e.t.)",
+      "margin": "Cardiff Arms Park; inaugural Heineken Cup final decided in extra time"
+    }
+  ],
+  "sections": []
+}

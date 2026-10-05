@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sport": "Football",
+  "tournament": "FIFA Women's World Cup",
+  "source": {
+    "url": "https://www.fifa.com/en/tournaments/womens/womensworldcup/australia-new-zealand2023/articles/watch-highlights-from-every-womens-world-cup-final-australia-new-zealand-2023",
+    "label": "FIFA finals archive (1991–2023)"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    { "year": 1991, "winner": "United States", "runnerUp": "Norway", "score": "2-1", "margin": "" },
+    { "year": 1995, "winner": "Norway", "runnerUp": "Germany", "score": "2-0", "margin": "" },
+    { "year": 1999, "winner": "United States", "runnerUp": "China", "score": "0-0 (United States won 5-4 on penalties)", "margin": "" },
+    { "year": 2003, "winner": "Germany", "runnerUp": "Sweden", "score": "2-1 (golden goal)", "margin": "" },
+    { "year": 2007, "winner": "Germany", "runnerUp": "Brazil", "score": "2-0", "margin": "" },
+    { "year": 2011, "winner": "Japan", "runnerUp": "United States", "score": "2-2 (Japan won 3-1 on penalties)", "margin": "" },
+    { "year": 2015, "winner": "United States", "runnerUp": "Japan", "score": "5-2", "margin": "" },
+    { "year": 2019, "winner": "United States", "runnerUp": "Netherlands", "score": "2-0", "margin": "" },
+    { "year": 2023, "winner": "Spain", "runnerUp": "England", "score": "1-0", "margin": "" }
+  ],
+  "candidateRecords": [],
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_FIFA_Women's_World_Cup_finals",
+      "label": "Final results cross-check (1991–2023)"
+    },
+    {
+      "url": "https://www.uefa.com/womensworldcup/news/027a-166817b8be17-9e0082e122cd-1000--women-s-world-cup-groups-and-matches-netherlands-face-us-eng/",
+      "label": "UEFA 2023 final result report"
+    }
+  ],
+  "lastVerified": "2026-10-03",
+  "reviewNotes": [
+    {
+      "year": 1999,
+      "field": "score",
+      "note": "The match was 0-0 after extra time; the United States won the penalty shoot-out 5-4."
+    },
+    {
+      "year": 2003,
+      "field": "score",
+      "note": "Germany won in extra time by golden goal."
+    },
+    {
+      "year": 2011,
+      "field": "score",
+      "note": "The match was 2-2 after extra time; Japan won the penalty shoot-out 3-1."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "sport": "Volleyball",
+  "tournament": "Olympic Volleyball",
+  "source": {
+    "url": "https://olympics.com/en/sports/volleyball/",
+    "label": "Olympic volleyball"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "Men's and women's indoor volleyball gold and silver medalists for every Olympic edition since the sport's 1964 debut. Tokyo 2020 was held in 2021; it remains listed under its official Games year.",
+  "verificationSources": [
+    {
+      "url": "https://olympics.com/en/olympic-games/tokyo-1964/results/volleyball",
+      "label": "Tokyo 1964 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/mexico-city-1968/results/volleyball",
+      "label": "Mexico City 1968 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/munich-1972/results/volleyball",
+      "label": "Munich 1972 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/montreal-1976/results/volleyball",
+      "label": "Montreal 1976 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/moscow-1980/results/volleyball",
+      "label": "Moscow 1980 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/los-angeles-1984/results/volleyball",
+      "label": "Los Angeles 1984 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/seoul-1988/results/volleyball",
+      "label": "Seoul 1988 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/barcelona-1992/results/volleyball",
+      "label": "Barcelona 1992 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/atlanta-1996/results/volleyball",
+      "label": "Atlanta 1996 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/sydney-2000/results/volleyball",
+      "label": "Sydney 2000 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/athens-2004/results/volleyball",
+      "label": "Athens 2004 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/beijing-2008/results/volleyball",
+      "label": "Beijing 2008 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/london-2012/results/volleyball",
+      "label": "London 2012 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/rio-2016/results/volleyball",
+      "label": "Rio 2016 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/tokyo-2020/results/volleyball",
+      "label": "Tokyo 2020 results"
+    },
+    {
+      "url": "https://olympics.com/en/olympic-games/paris-2024/results/volleyball",
+      "label": "Paris 2024 results"
+    }
+  ],
+  "records": [
+    {
+      "year": 1964,
+      "winner": "Men: Soviet Union; Women: Japan",
+      "runnerUp": "Men: Czechoslovakia; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Japan; Women: Japan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Men: Japan; Women: Soviet Union",
+      "runnerUp": "Men: East Germany; Women: Japan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Men: Poland; Women: Japan",
+      "runnerUp": "Men: Soviet Union; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Bulgaria; Women: East Germany",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Men: United States; Women: China",
+      "runnerUp": "Men: Brazil; Women: United States",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Men: United States; Women: Soviet Union",
+      "runnerUp": "Men: Soviet Union; Women: Peru",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Men: Brazil; Women: Cuba",
+      "runnerUp": "Men: Netherlands; Women: Unified Team",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Men: Netherlands; Women: Cuba",
+      "runnerUp": "Men: Italy; Women: China",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Men: Yugoslavia; Women: Cuba",
+      "runnerUp": "Men: Russia; Women: Russia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Men: Brazil; Women: China",
+      "runnerUp": "Men: Italy; Women: Russia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Men: United States; Women: Brazil",
+      "runnerUp": "Men: Brazil; Women: United States",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Men: Russia; Women: Brazil",
+      "runnerUp": "Men: Brazil; Women: Japan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Men: Brazil; Women: China",
+      "runnerUp": "Men: Italy; Women: Serbia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Men: France; Women: United States",
+      "runnerUp": "Men: Russian Olympic Committee; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Men: France; Women: Italy",
+      "runnerUp": "Men: Poland; Women: United States",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": []
+}

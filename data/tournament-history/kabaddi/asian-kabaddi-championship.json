@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kabaddi",
+  "tournament": "Asian Kabaddi Championship",
+  "source": {
+    "url": "https://www.kabaddi.org/",
+    "label": "Asian Kabaddi Federation"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "All-time Asian Kabaddi Championship finals.",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "India",
+      "runnerUp": "Iran",
+      "score": "42-32",
+      "margin": "Busan, South Korea; Pawan Sehrawat led India to 8th title"
+    },
+    {
+      "year": 2017,
+      "winner": "India",
+      "runnerUp": "Pakistan",
+      "score": "36-22",
+      "margin": "Gorgan, Iran; Ajay Thakur star raider"
+    },
+    {
+      "year": 2005,
+      "winner": "India",
+      "runnerUp": "Pakistan",
+      "score": "34-25",
+      "margin": "Tehran, Iran"
+    },
+    {
+      "year": 2003,
+      "winner": "India",
+      "runnerUp": "Pakistan",
+      "score": "31-21",
+      "margin": "Kangar, Malaysia"
+    },
+    {
+      "year": 2001,
+      "winner": "India",
+      "runnerUp": "Sri Lanka",
+      "score": "44-18",
+      "margin": "Bangkok, Thailand"
+    },
+    {
+      "year": 1988,
+      "winner": "India",
+      "runnerUp": "Bangladesh",
+      "score": "38-16",
+      "margin": "Kolkata, India"
+    },
+    {
+      "year": 1980,
+      "winner": "India",
+      "runnerUp": "Bangladesh",
+      "score": "35-12",
+      "margin": "Inaugural Asian Championship (Kolkata)"
+    }
+  ]
+}

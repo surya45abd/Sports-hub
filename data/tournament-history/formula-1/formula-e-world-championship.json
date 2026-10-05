@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "sport": "Formula 1",
+  "tournament": "Formula E World Championship",
+  "source": {
+    "url": "https://www.fiaformulae.com/en/results",
+    "label": "FIA Formula E Official Standings & Championship Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete FIA Formula E championship history (2015–2024) from inaugural season through Gen3 era.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Pascal Wehrlein (GER)",
+      "runnerUp": "Mitch Evans (NZL)",
+      "score": "198 pts (TAG Heuer Porsche)",
+      "margin": "+7 pts; clinched maiden world crown at London ExCeL double-header season finale"
+    },
+    {
+      "year": 2023,
+      "winner": "Jake Dennis (GBR)",
+      "runnerUp": "Nick Cassidy (NZL)",
+      "score": "229 pts (Avalanche Andretti)",
+      "margin": "+30 pts; inaugural Gen3 car world champion with record 11 podiums in 16 races"
+    },
+    {
+      "year": 2022,
+      "winner": "Stoffel Vandoorne (BEL)",
+      "runnerUp": "Mitch Evans (NZL)",
+      "score": "213 pts (Mercedes-EQ)",
+      "margin": "+33 pts; clinched title at Formula E's 100th race in Seoul; final season of Gen2 car"
+    },
+    {
+      "year": 2021,
+      "winner": "Nyck de Vries (NED)",
+      "runnerUp": "Edoardo Mortara (SUI)",
+      "score": "99 pts (Mercedes-EQ)",
+      "margin": "+7 pts; inaugural FIA World Championship status season; decided in chaotic Berlin finale"
+    },
+    {
+      "year": 2020,
+      "winner": "António Félix da Costa (POR)",
+      "runnerUp": "Stoffel Vandoorne (BEL)",
+      "score": "158 pts (DS Techeetah)",
+      "margin": "+71 pts; dominated 6-race Berlin Templehof marathon finale"
+    },
+    {
+      "year": 2019,
+      "winner": "Jean-Éric Vergne (FRA)",
+      "runnerUp": "Sébastien Buemi (SUI)",
+      "score": "136 pts (DS Techeetah)",
+      "margin": "+17 pts; first driver to win back-to-back Formula E titles (Gen2 debut year)"
+    },
+    {
+      "year": 2018,
+      "winner": "Jean-Éric Vergne (FRA)",
+      "runnerUp": "Lucas di Grassi (BRA)",
+      "score": "198 pts (Techeetah)",
+      "margin": "+54 pts; privateer customer team beat all manufacturers; sealed in New York City"
+    },
+    {
+      "year": 2017,
+      "winner": "Lucas di Grassi (BRA)",
+      "runnerUp": "Sébastien Buemi (SUI)",
+      "score": "181 pts (Abt Schaeffler Audi Sport)",
+      "margin": "+24 pts; overturned 10-point deficit in Montreal finale after Buemi was disqualified"
+    },
+    {
+      "year": 2016,
+      "winner": "Sébastien Buemi (SUI)",
+      "runnerUp": "Lucas di Grassi (BRA)",
+      "score": "155 pts (Renault e.dams)",
+      "margin": "+2 pts; title decided by fastest lap point in London Battersea Park after opening-lap crash"
+    },
+    {
+      "year": 2015,
+      "winner": "Nelson Piquet Jr. (BRA)",
+      "runnerUp": "Sébastien Buemi (SUI)",
+      "score": "144 pts (NEXTEV TCR)",
+      "margin": "+1 pt; inaugural Formula E championship decided by a single point in London"
+    }
+  ],
+  "sections": []
+}

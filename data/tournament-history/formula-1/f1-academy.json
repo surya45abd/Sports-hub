@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sport": "Formula 1",
+  "tournament": "F1 Academy",
+  "source": {
+    "url": "https://www.f1academy.com/Racing-Series/Standings/Driver?seasonId=3",
+    "label": "Official 2025 driver standings"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 2023,
+      "winner": "Marta García",
+      "runnerUp": "Léna Bühler",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Abbi Pulling",
+      "runnerUp": "Doriane Pin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Doriane Pin",
+      "runnerUp": "Maya Weug",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 2025,
+      "winner": "Doriane Pin",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://www.f1academy.com/Racing-Series/Standings/Driver?seasonId=1",
+      "label": "Official 2023 driver standings"
+    },
+    {
+      "url": "https://www.f1academy.com/Racing-Series/Standings/Driver?seasonId=2",
+      "label": "Official 2024 driver standings"
+    }
+  ],
+  "reviewNotes": "Complete F1 ACADEMY driver championship standings reviewed for all completed seasons from the series launch in 2023 through 2025. The 2026 season is not included because it is still in progress. Standings pages do not publish a match score, so score fields are left blank."
+}

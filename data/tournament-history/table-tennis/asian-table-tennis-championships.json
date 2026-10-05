@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "Asian Table Tennis Championships",
+  "source": {
+    "url": "https://www.ittf.com/",
+    "label": "Asian Table Tennis Union"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Asian Table Tennis Championship singles and team champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Tomokazu Harimoto (JPN, Men) / Kim Kum-yong (PRK, Women) / China (Men Team) / Japan (Women Team)",
+      "runnerUp": "Lin Shidong (CHN) / Miwa Harimoto (JPN)",
+      "score": "3-1 / 3-1",
+      "margin": "Astana, Kazakhstan; Japan women won historic team gold defeating China"
+    },
+    {
+      "year": 2023,
+      "winner": "Ma Long (CHN, Men) / Wang Manyu (CHN, Women) / China (Team Sweep)",
+      "runnerUp": "Fan Zhendong (CHN) / Sun Yingsha (CHN)",
+      "score": "3-2 / 3-2",
+      "margin": "Pyeongchang, South Korea; China swept all 7 gold medals"
+    },
+    {
+      "year": 2021,
+      "winner": "Lee Sang-su (KOR, Men) / Hina Hayata (JPN, Women) / South Korea (Men Team) / Japan (Women Team)",
+      "runnerUp": "Chuang Chih-yuan (TPE) / Shin Yu-bin (KOR)",
+      "score": "3-2 / 3-1",
+      "margin": "Doha, Qatar"
+    }
+  ]
+}

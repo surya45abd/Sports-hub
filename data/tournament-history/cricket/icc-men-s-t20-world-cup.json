@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "sport": "Cricket",
+  "tournament": "ICC Men's T20 World Cup",
+  "source": {
+    "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/the-story-of-icc-men-s-t20-world-cup-so-far",
+    "label": "Official ICC tournament history"
+  },
+  "verificationSources": [
+    "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/live-india-new-zealand-chase-world-cup-glory"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete men's T20 World Cup final archive, 2007–2026. Winner, runner-up and final result were checked against ICC tournament histories. The 2007 Pakistan innings ended at 19.3 overs.",
+  "records": [
+    { "year": 2007, "winner": "India", "runnerUp": "Pakistan", "score": "157/5 / 152 all out", "margin": "5 runs" },
+    { "year": 2009, "winner": "Pakistan", "runnerUp": "Sri Lanka", "score": "139/2 / 138/6", "margin": "8 wickets" },
+    { "year": 2010, "winner": "England", "runnerUp": "Australia", "score": "148/3 / 147/6", "margin": "7 wickets" },
+    { "year": 2012, "winner": "West Indies", "runnerUp": "Sri Lanka", "score": "137/6 / 101 all out", "margin": "36 runs" },
+    { "year": 2014, "winner": "Sri Lanka", "runnerUp": "India", "score": "134/4 / 130/4", "margin": "6 wickets" },
+    { "year": 2016, "winner": "West Indies", "runnerUp": "England", "score": "161/6 / 155/9", "margin": "4 wickets" },
+    { "year": 2021, "winner": "Australia", "runnerUp": "New Zealand", "score": "173/2 / 172/4", "margin": "8 wickets" },
+    { "year": 2022, "winner": "England", "runnerUp": "Pakistan", "score": "138/5 / 137/8", "margin": "5 wickets" },
+    { "year": 2024, "winner": "India", "runnerUp": "South Africa", "score": "176/7 / 169/8", "margin": "7 runs" },
+    { "year": 2026, "winner": "India", "runnerUp": "New Zealand", "score": "255/5 / 159 all out", "margin": "96 runs" }
+  ],
+  "candidateRecords": []
+}

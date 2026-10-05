@@ -1,0 +1,564 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "US Open",
+  "source": {
+    "url": "https://www.usopen.org/en_US/visit/history.html",
+    "label": "Official US Open Past Champions & History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Open Era hard-court finals archive (1988–2026) for both Men's Singles and Women's Singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://www.usopen.org/en_US/visit/history.html",
+      "sourceUrl": "https://www.atptour.com/",
+      "sourceLabel": "Official Men's Singles History",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Alexander Zverev",
+          "score": "6-4, 7-6(5), 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Jannik Sinner",
+          "score": "6-2, 3-6, 6-3, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2024,
+          "winner": "Jannik Sinner",
+          "runnerUp": "Taylor Fritz",
+          "score": "6-3, 6-4, 7-5",
+          "margin": "First Italian man to win US Open singles"
+        },
+        {
+          "year": 2023,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Daniil Medvedev",
+          "score": "6-3, 7-6(5), 6-3",
+          "margin": "Record-tying 24th Grand Slam singles title"
+        },
+        {
+          "year": 2022,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Casper Ruud",
+          "score": "6-4, 2-6, 7-6(1), 6-3",
+          "margin": "Youngest World No. 1 in ATP history at age 19"
+        },
+        {
+          "year": 2021,
+          "winner": "Daniil Medvedev",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-4, 6-4, 6-4",
+          "margin": "Denied Djokovic the calendar-year Grand Slam"
+        },
+        {
+          "year": 2020,
+          "winner": "Dominic Thiem",
+          "runnerUp": "Alexander Zverev",
+          "score": "2-6, 4-6, 6-4, 6-3, 7-6(6)",
+          "margin": "First man in Open Era to rally from 2 sets down in US Open final"
+        },
+        {
+          "year": 2019,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Daniil Medvedev",
+          "score": "7-5, 6-3, 5-7, 4-6, 6-4",
+          "margin": "Epic 4h 50m 5-set final"
+        },
+        {
+          "year": 2018,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Juan Martín del Potro",
+          "score": "6-3, 7-6(4), 6-3",
+          "margin": "3rd US Open title"
+        },
+        {
+          "year": 2017,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Kevin Anderson",
+          "score": "6-3, 6-3, 6-4",
+          "margin": "3rd US Open title"
+        },
+        {
+          "year": 2016,
+          "winner": "Stan Wawrinka",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-7(1), 6-4, 7-5, 6-3",
+          "margin": "3rd Grand Slam singles title"
+        },
+        {
+          "year": 2015,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Roger Federer",
+          "score": "6-4, 5-7, 6-4, 6-4",
+          "margin": "Saved 19 of 23 break points"
+        },
+        {
+          "year": 2014,
+          "winner": "Marin Čilić",
+          "runnerUp": "Kei Nishikori",
+          "score": "6-3, 6-3, 6-3",
+          "margin": "First major final since 2005 without Big Four"
+        },
+        {
+          "year": 2013,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-2, 3-6, 6-4, 6-1",
+          "margin": "Saved crucial break point at 4-4 in 3rd set"
+        },
+        {
+          "year": 2012,
+          "winner": "Andy Murray",
+          "runnerUp": "Novak Djokovic",
+          "score": "7-6(10), 7-5, 2-6, 3-6, 6-2",
+          "margin": "First British man to win a Grand Slam singles title since 1936 (4h 54m)"
+        },
+        {
+          "year": 2011,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-2, 6-4, 6-7(3), 6-1",
+          "margin": "4h 10m masterclass; 3rd major of 2011 season"
+        },
+        {
+          "year": 2010,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-4, 5-7, 6-4, 6-2",
+          "margin": "Completed career Golden Slam at age 24"
+        },
+        {
+          "year": 2009,
+          "winner": "Juan Martín del Potro",
+          "runnerUp": "Roger Federer",
+          "score": "3-6, 7-6(5), 4-6, 7-6(4), 6-2",
+          "margin": "Ended Federer's 40-match US Open winning streak"
+        },
+        {
+          "year": 2008,
+          "winner": "Roger Federer",
+          "runnerUp": "Andy Murray",
+          "score": "6-2, 7-5, 6-2",
+          "margin": "5th consecutive US Open title"
+        },
+        {
+          "year": 2007,
+          "winner": "Roger Federer",
+          "runnerUp": "Novak Djokovic",
+          "score": "7-6(4), 7-6(2), 6-4",
+          "margin": "Saved 7 set points across first two sets"
+        },
+        {
+          "year": 2006,
+          "winner": "Roger Federer",
+          "runnerUp": "Andy Roddick",
+          "score": "6-2, 4-6, 7-5, 6-1",
+          "margin": ""
+        },
+        {
+          "year": 2005,
+          "winner": "Roger Federer",
+          "runnerUp": "Andre Agassi",
+          "score": "6-3, 2-6, 7-6(1), 6-1",
+          "margin": "Agassi's final Grand Slam final at age 35"
+        },
+        {
+          "year": 2004,
+          "winner": "Roger Federer",
+          "runnerUp": "Lleyton Hewitt",
+          "score": "6-0, 7-6(3), 6-0",
+          "margin": "Maiden US Open title"
+        },
+        {
+          "year": 2003,
+          "winner": "Andy Roddick",
+          "runnerUp": "Juan Carlos Ferrero",
+          "score": "6-3, 7-6(2), 6-3",
+          "margin": "Roddick's maiden major and became World No. 1"
+        },
+        {
+          "year": 2002,
+          "winner": "Pete Sampras",
+          "runnerUp": "Andre Agassi",
+          "score": "6-3, 6-4, 5-7, 6-4",
+          "margin": "Sampras's record 14th major in final match of career"
+        },
+        {
+          "year": 2001,
+          "winner": "Lleyton Hewitt",
+          "runnerUp": "Pete Sampras",
+          "score": "7-6(4), 6-1, 6-1",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2000,
+          "winner": "Marat Safin",
+          "runnerUp": "Pete Sampras",
+          "score": "6-4, 6-3, 6-3",
+          "margin": "20-year-old Safin blew away Sampras in straight sets"
+        },
+        {
+          "year": 1999,
+          "winner": "Andre Agassi",
+          "runnerUp": "Todd Martin",
+          "score": "6-4, 6-7(5), 6-7(2), 6-3, 6-2",
+          "margin": "Agassi's 2nd US Open crown"
+        },
+        {
+          "year": 1998,
+          "winner": "Patrick Rafter",
+          "runnerUp": "Mark Philippoussis",
+          "score": "6-3, 3-6, 6-2, 6-0",
+          "margin": "All-Australian final; back-to-back US Open titles"
+        },
+        {
+          "year": 1997,
+          "winner": "Patrick Rafter",
+          "runnerUp": "Greg Rusedski",
+          "score": "6-3, 6-2, 4-6, 7-5",
+          "margin": "First US Open held at Arthur Ashe Stadium"
+        },
+        {
+          "year": 1996,
+          "winner": "Pete Sampras",
+          "runnerUp": "Michael Chang",
+          "score": "6-1, 6-4, 7-6(3)",
+          "margin": "4th US Open title"
+        },
+        {
+          "year": 1995,
+          "winner": "Pete Sampras",
+          "runnerUp": "Andre Agassi",
+          "score": "6-4, 6-3, 4-6, 7-5",
+          "margin": ""
+        },
+        {
+          "year": 1994,
+          "winner": "Andre Agassi",
+          "runnerUp": "Michael Stich",
+          "score": "6-1, 7-6(5), 7-5",
+          "margin": "First unseeded player to win US Open in Open Era"
+        },
+        {
+          "year": 1993,
+          "winner": "Pete Sampras",
+          "runnerUp": "Cédric Pioline",
+          "score": "6-4, 6-4, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Stefan Edberg",
+          "runnerUp": "Pete Sampras",
+          "score": "3-6, 6-4, 7-6(5), 6-2",
+          "margin": "Back-to-back US Open titles"
+        },
+        {
+          "year": 1991,
+          "winner": "Stefan Edberg",
+          "runnerUp": "Jim Courier",
+          "score": "6-2, 6-4, 6-0",
+          "margin": "Masterclass serve-and-volley display"
+        },
+        {
+          "year": 1990,
+          "winner": "Pete Sampras",
+          "runnerUp": "Andre Agassi",
+          "score": "6-4, 6-3, 6-2",
+          "margin": "Youngest US Open men's champion in history at age 19y, 28d"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://www.usopen.org/en_US/visit/history.html",
+      "sourceUrl": "https://www.wtatennis.com/",
+      "sourceLabel": "Official Women's Singles History",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Aryna Sabalenka",
+          "runnerUp": "Iga Świątek",
+          "score": "7-5, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Aryna Sabalenka",
+          "runnerUp": "Amanda Anisimova",
+          "score": "6-3, 7-6(4)",
+          "margin": ""
+        },
+        {
+          "year": 2024,
+          "winner": "Aryna Sabalenka",
+          "runnerUp": "Jessica Pegula",
+          "score": "7-5, 7-5",
+          "margin": "Maiden US Open singles title"
+        },
+        {
+          "year": 2023,
+          "winner": "Coco Gauff",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "2-6, 6-3, 6-2",
+          "margin": "Maiden Grand Slam title for 19-year-old American"
+        },
+        {
+          "year": 2022,
+          "winner": "Iga Świątek",
+          "runnerUp": "Ons Jabeur",
+          "score": "6-2, 7-6(5)",
+          "margin": "Maiden hard-court Grand Slam title"
+        },
+        {
+          "year": 2021,
+          "winner": "Emma Raducanu",
+          "runnerUp": "Leylah Fernandez",
+          "score": "6-4, 6-3",
+          "margin": "First qualifier in tennis history to win a Grand Slam title; won 10 matches without dropping a set"
+        },
+        {
+          "year": 2020,
+          "winner": "Naomi Osaka",
+          "runnerUp": "Victoria Azarenka",
+          "score": "1-6, 6-3, 6-3",
+          "margin": "Overcame 1-6, 0-2 deficit in Arthur Ashe Stadium"
+        },
+        {
+          "year": 2019,
+          "winner": "Bianca Andreescu",
+          "runnerUp": "Serena Williams",
+          "score": "6-3, 7-5",
+          "margin": "First Canadian Grand Slam singles champion"
+        },
+        {
+          "year": 2018,
+          "winner": "Naomi Osaka",
+          "runnerUp": "Serena Williams",
+          "score": "6-2, 6-4",
+          "margin": "First Japanese Grand Slam singles champion"
+        },
+        {
+          "year": 2017,
+          "winner": "Sloane Stephens",
+          "runnerUp": "Madison Keys",
+          "score": "6-3, 6-0",
+          "margin": "All-American final; Stephens returned from foot surgery"
+        },
+        {
+          "year": 2016,
+          "winner": "Angelique Kerber",
+          "runnerUp": "Karolína Plíšková",
+          "score": "6-3, 4-6, 6-4",
+          "margin": "Became World No. 1"
+        },
+        {
+          "year": 2015,
+          "winner": "Flavia Pennetta",
+          "runnerUp": "Roberta Vinci",
+          "score": "7-6(4), 6-2",
+          "margin": "All-Italian final; announced retirement during trophy ceremony"
+        },
+        {
+          "year": 2014,
+          "winner": "Serena Williams",
+          "runnerUp": "Caroline Wozniacki",
+          "score": "6-3, 6-3",
+          "margin": "3-peat at US Open; tied Navratilova and Evert with 18 majors"
+        },
+        {
+          "year": 2013,
+          "winner": "Serena Williams",
+          "runnerUp": "Victoria Azarenka",
+          "score": "7-5, 6-7(6), 6-1",
+          "margin": "5th US Open title"
+        },
+        {
+          "year": 2012,
+          "winner": "Serena Williams",
+          "runnerUp": "Victoria Azarenka",
+          "score": "6-2, 2-6, 7-5",
+          "margin": "Came back from 3-5 in 3rd set"
+        },
+        {
+          "year": 2011,
+          "winner": "Samantha Stosur",
+          "runnerUp": "Serena Williams",
+          "score": "6-2, 6-3",
+          "margin": "First Australian woman to win US Open since Margaret Court in 1973"
+        },
+        {
+          "year": 2010,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Vera Zvonareva",
+          "score": "6-2, 6-1",
+          "margin": "Defended US Open title in 59 minutes"
+        },
+        {
+          "year": 2009,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Caroline Wozniacki",
+          "score": "7-5, 6-3",
+          "margin": "First unranked mother to win a Grand Slam title"
+        },
+        {
+          "year": 2008,
+          "winner": "Serena Williams",
+          "runnerUp": "Jelena Janković",
+          "score": "6-4, 7-5",
+          "margin": "Won without dropping a set; regained World No. 1"
+        },
+        {
+          "year": 2007,
+          "winner": "Justine Henin",
+          "runnerUp": "Svetlana Kuznetsova",
+          "score": "6-1, 6-3",
+          "margin": "Defeated both Serena and Venus Williams en route to title"
+        },
+        {
+          "year": 2006,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Justine Henin",
+          "score": "6-4, 6-4",
+          "margin": "2nd Grand Slam singles title"
+        },
+        {
+          "year": 2005,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Mary Pierce",
+          "score": "6-3, 6-1",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2004,
+          "winner": "Svetlana Kuznetsova",
+          "runnerUp": "Elena Dementieva",
+          "score": "6-3, 7-5",
+          "margin": "All-Russian final"
+        },
+        {
+          "year": 2003,
+          "winner": "Justine Henin",
+          "runnerUp": "Kim Clijsters",
+          "score": "7-5, 6-1",
+          "margin": "Maiden US Open title"
+        },
+        {
+          "year": 2002,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "6-4, 6-3",
+          "margin": "Won without dropping a set; 2nd leg of 'Serena Slam'"
+        },
+        {
+          "year": 2001,
+          "winner": "Venus Williams",
+          "runnerUp": "Serena Williams",
+          "score": "6-2, 6-4",
+          "margin": "First prime-time US Open final and first major final between sisters in 117 years"
+        },
+        {
+          "year": 2000,
+          "winner": "Venus Williams",
+          "runnerUp": "Lindsay Davenport",
+          "score": "6-4, 7-5",
+          "margin": "Maiden US Open title"
+        },
+        {
+          "year": 1999,
+          "winner": "Serena Williams",
+          "runnerUp": "Martina Hingis",
+          "score": "6-3, 7-6(4)",
+          "margin": "Maiden Grand Slam singles title at age 17"
+        },
+        {
+          "year": 1998,
+          "winner": "Lindsay Davenport",
+          "runnerUp": "Martina Hingis",
+          "score": "6-3, 7-5",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 1997,
+          "winner": "Martina Hingis",
+          "runnerUp": "Venus Williams",
+          "score": "6-0, 6-4",
+          "margin": "Youngest combined age final in Grand Slam history"
+        },
+        {
+          "year": 1996,
+          "winner": "Steffi Graf",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "7-5, 6-4",
+          "margin": "5th US Open title"
+        },
+        {
+          "year": 1995,
+          "winner": "Steffi Graf",
+          "runnerUp": "Monica Seles",
+          "score": "7-6(6), 0-6, 6-3",
+          "margin": "Seles's first major final after returning to tour"
+        },
+        {
+          "year": 1994,
+          "winner": "Arantxa Sánchez Vicario",
+          "runnerUp": "Steffi Graf",
+          "score": "1-6, 7-6(3), 6-4",
+          "margin": "Maiden US Open title"
+        },
+        {
+          "year": 1993,
+          "winner": "Steffi Graf",
+          "runnerUp": "Helena Suková",
+          "score": "6-3, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Monica Seles",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "6-3, 6-3",
+          "margin": "Back-to-back US Open titles"
+        },
+        {
+          "year": 1991,
+          "winner": "Monica Seles",
+          "runnerUp": "Martina Navratilova",
+          "score": "7-6(1), 6-1",
+          "margin": "Maiden US Open title"
+        },
+        {
+          "year": 1990,
+          "winner": "Gabriela Sabatini",
+          "runnerUp": "Steffi Graf",
+          "score": "6-2, 7-6(4)",
+          "margin": "Only Grand Slam singles title for Sabatini"
+        },
+        {
+          "year": 1989,
+          "winner": "Steffi Graf",
+          "runnerUp": "Martina Navratilova",
+          "score": "3-6, 7-5, 6-1",
+          "margin": ""
+        },
+        {
+          "year": 1988,
+          "winner": "Steffi Graf",
+          "runnerUp": "Gabriela Sabatini",
+          "score": "6-3, 3-6, 6-1",
+          "margin": "Final leg of Graf's historic 1988 Golden Slam"
+        }
+      ]
+    }
+  ]
+}

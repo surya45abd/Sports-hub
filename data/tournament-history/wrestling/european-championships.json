@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Wrestling",
+  "tournament": "European Championships",
+  "source": {
+    "url": "https://uww.org/athletes-results",
+    "label": "UWW European Wrestling Championships"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "European Championship title winners.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Turkey (Freestyle & Greco-Roman) / Ukraine (Women)",
+      "runnerUp": "Azerbaijan / Georgia",
+      "score": "Team Champions",
+      "margin": "Bucharest, Romania; Taha Akgül won 11th European title"
+    },
+    {
+      "year": 2023,
+      "winner": "Azerbaijan (Freestyle) / Turkey (Greco-Roman)",
+      "runnerUp": "Italy / Georgia",
+      "score": "Team Standings",
+      "margin": "Zagreb, Croatia"
+    },
+    {
+      "year": 2022,
+      "winner": "Azerbaijan (Freestyle) / Turkey (Greco-Roman)",
+      "runnerUp": "Turkey / Azerbaijan",
+      "score": "Team Standings",
+      "margin": "Budapest, Hungary"
+    }
+  ]
+}

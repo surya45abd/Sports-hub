@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sport": "Football",
+  "tournament": "UEFA Conference League",
+  "source": {
+    "url": "https://www.uefa.com/uefaconferenceleague/history/",
+    "label": "Official UEFA competition history"
+  },
+  "verificationSources": [
+    "https://www.uefa.com/uefaconferenceleague/news/0272-148692fa0a08-b95ab7bc5187-1000--uefa-europa-conference-league-final-roma-vs-feyenoord/",
+    "https://www.uefa.com/uefaconferenceleague/news/02a0-1f78989de317-2b5f170e5cfb-1000--meet-the-uefa-conference-league-semi-finalists/"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete finals archive since the inaugural 2021/22 season through 2025/26.",
+  "records": [
+    { "year": "2025-26", "winner": "Crystal Palace", "runnerUp": "Rayo Vallecano", "score": "1-0", "margin": "" },
+    { "year": "2024-25", "winner": "Chelsea", "runnerUp": "Real Betis", "score": "4-1", "margin": "" },
+    { "year": "2023-24", "winner": "Olympiacos", "runnerUp": "Fiorentina", "score": "1-0 (after extra time)", "margin": "" },
+    { "year": "2022-23", "winner": "West Ham United", "runnerUp": "Fiorentina", "score": "2-1", "margin": "" },
+    { "year": "2021-22", "winner": "Roma", "runnerUp": "Feyenoord", "score": "1-0", "margin": "" }
+  ],
+  "candidateRecords": []
+}

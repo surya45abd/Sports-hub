@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "European Table Tennis Championships",
+  "source": {
+    "url": "https://www.ettu.org/en/events/ittf-european-individual-championships/",
+    "label": "European Table Tennis Union (ETTU) Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern European Table Tennis Championships singles archive across Men's Singles and Women's Singles (2010–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Singles",
+      "archiveUrl": "https://www.ettu.org/",
+      "sourceUrl": "https://www.ettu.org/",
+      "sourceLabel": "ETTU Men's Singles European Results",
+      "archiveLabel": "Men's European Table Tennis Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Alexis Lebrun (FRA)",
+          "runnerUp": "Benedikt Duda (GER)",
+          "score": "4-0 (11-5, 11-8, 11-6, 11-2)",
+          "margin": "TipsArena (Linz, Austria); 21-year-old Alexis swept final in 27 minutes to become first French champion since Emmanuel Lebesson in 2016"
+        },
+        {
+          "year": 2022,
+          "winner": "Dang Qiu (GER)",
+          "runnerUp": "Darko Jorgić (SLO)",
+          "score": "4-1 (10-12, 14-12, 11-8, 11-9, 11-2)",
+          "margin": "Rudi-Sedlmayer-Halle (Munich); penholder Dang Qiu won maiden European singles crown"
+        },
+        {
+          "year": 2020,
+          "winner": "Timo Boll (GER)",
+          "runnerUp": "Dimitrij Ovtcharov (GER)",
+          "score": "4-1 (9-11, 11-6, 11-9, 11-8, 11-8)",
+          "margin": "Torwar Hall (Warsaw, Poland; held 2021); 40-year-old Timo Boll won record-extending 8th European singles title"
+        },
+        {
+          "year": 2018,
+          "winner": "Timo Boll (GER)",
+          "runnerUp": "Ovidiu Ionescu (ROU)",
+          "score": "4-1 (6-11, 11-7, 11-9, 11-6, 11-5)",
+          "margin": "José Antonio Camacho Arena (Alicante, Spain); Boll captured 7th European title"
+        },
+        {
+          "year": 2016,
+          "winner": "Emmanuel Lebesson (FRA)",
+          "runnerUp": "Simon Gauzy (FRA)",
+          "score": "4-1 (14-12, 9-11, 11-7, 11-3, 11-6)",
+          "margin": "Budapest (Hungary); historic all-French final; first French champion in 40 years (since Jacques Secrétin 1976)"
+        },
+        {
+          "year": 2015,
+          "winner": "Dimitrij Ovtcharov (GER)",
+          "runnerUp": "Marcos Freitas (POR)",
+          "score": "4-1 (14-12, 9-11, 11-9, 11-4, 11-6)",
+          "margin": "Yekaterinburg (Russia); Ovtcharov defended title against Freitas"
+        },
+        {
+          "year": 2013,
+          "winner": "Dimitrij Ovtcharov (GER)",
+          "runnerUp": "Vladimir Samsonov (BLR)",
+          "score": "4-0 (11-4, 11-7, 12-10, 11-8)",
+          "margin": "Schwechat (Austria); Ovtcharov swept Samsonov in straight games"
+        },
+        {
+          "year": 2012,
+          "winner": "Timo Boll (GER)",
+          "runnerUp": "Tan Ruiwu (CRO)",
+          "score": "4-1 (11-2, 11-6, 11-7, 11-13, 11-9)",
+          "margin": "Herning (Denmark); Boll 6th European singles title"
+        },
+        {
+          "year": 2011,
+          "winner": "Timo Boll (GER)",
+          "runnerUp": "Patrick Baum (GER)",
+          "score": "4-1 (11-7, 6-11, 11-8, 11-7, 11-8)",
+          "margin": "Gdańsk-Sopot (Poland); all-German final"
+        },
+        {
+          "year": 2010,
+          "winner": "Timo Boll (GER)",
+          "runnerUp": "Patrick Baum (GER)",
+          "score": "4-1 (11-9, 11-9, 4-11, 11-6, 12-10)",
+          "margin": "Ostrava (Czech Republic); Boll completed triple gold (singles, doubles, team)"
+        }
+      ]
+    },
+    {
+      "title": "Women's Singles",
+      "archiveUrl": "https://www.ettu.org/",
+      "sourceUrl": "https://www.ettu.org/",
+      "sourceLabel": "ETTU Women's Singles European Results",
+      "archiveLabel": "Women's European Table Tennis Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Sofia Polcanova (AUT)",
+          "runnerUp": "Bernadette Szőcs (ROU)",
+          "score": "4-1 (11-8, 11-13, 12-10, 11-6, 11-9)",
+          "margin": "TipsArena (Linz); home favorite Polcanova defended her European crown before ecstatic Austrian crowd"
+        },
+        {
+          "year": 2022,
+          "winner": "Sofia Polcanova (AUT)",
+          "runnerUp": "Nina Mittelham (GER)",
+          "score": "4-0 (ret.) (14-12, 11-2, ret.)",
+          "margin": "Munich; Mittelham retired with shoulder injury in second set"
+        },
+        {
+          "year": 2020,
+          "winner": "Petrissa Solja (GER)",
+          "runnerUp": "Shan Xiaona (GER)",
+          "score": "4-3 (11-7, 11-3, 9-11, 4-11, 11-2, 8-11, 11-2)",
+          "margin": "Warsaw; Solja edged compatriot Shan in gripping 7-game final"
+        },
+        {
+          "year": 2018,
+          "winner": "Li Qian (POL)",
+          "runnerUp": "Margaryta Pesotska (UKR)",
+          "score": "4-2 (8-11, 10-12, 11-6, 11-6, 11-2, 11-2)",
+          "margin": "Alicante; defensive chopper Li Qian won 4 straight games to take title"
+        },
+        {
+          "year": 2016,
+          "winner": "Melek Hu (TUR)",
+          "runnerUp": "Yu Fu (POR)",
+          "score": "4-1 (11-3, 11-2, 11-4, 10-12, 11-7)",
+          "margin": "Budapest; Turkey's first ever European women's singles gold medal"
+        },
+        {
+          "year": 2015,
+          "winner": "Elizabeta Samara (ROU)",
+          "runnerUp": "Li Jie (NED)",
+          "score": "4-3 (11-6, 9-11, 3-11, 11-7, 12-14, 11-4, 11-4)",
+          "margin": "Yekaterinburg; Samara prevailed against defensive specialist Li Jie in 7 games"
+        },
+        {
+          "year": 2013,
+          "winner": "Li Fen (SWE)",
+          "runnerUp": "Shan Xiaona (GER)",
+          "score": "4-2 (9-11, 11-4, 11-6, 12-10, 9-11, 11-6)",
+          "margin": "Schwechat; Swedish representative Li Fen won European gold"
+        },
+        {
+          "year": 2012,
+          "winner": "Viktoria Pavlovich (BLR)",
+          "runnerUp": "Yi Fang Xian (FRA)",
+          "score": "4-1 (11-6, 9-11, 11-5, 11-5, 12-10)",
+          "margin": "Herning; Pavlovich won second European title with masterclass defensive chop"
+        },
+        {
+          "year": 2010,
+          "winner": "Viktoria Pavlovich (BLR)",
+          "runnerUp": "Liu Jia (AUT)",
+          "score": "4-3 (11-9, 11-8, 5-11, 11-7, 8-11, 4-11, 11-6)",
+          "margin": "Ostrava; Pavlovich edged Liu Jia in 7-game battle"
+        }
+      ]
+    }
+  ]
+}

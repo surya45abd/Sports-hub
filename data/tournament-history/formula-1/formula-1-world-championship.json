@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "sport": "Formula 1",
+  "tournament": "Formula 1 World Championship",
+  "source": {
+    "url": "https://www.formula1.com/en/results/drivers",
+    "label": "Official Formula 1 Drivers' Championship Archive"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 2026,
+      "winner": "Max Verstappen (Red Bull)",
+      "runnerUp": "Lando Norris (McLaren)",
+      "score": "World Champion",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Max Verstappen (Red Bull)",
+      "runnerUp": "Lando Norris (McLaren)",
+      "score": "World Champion",
+      "margin": "Clinched in Las Vegas"
+    },
+    {
+      "year": 2024,
+      "winner": "Max Verstappen (Red Bull)",
+      "runnerUp": "Lando Norris (McLaren)",
+      "score": "429 pts / 374 pts",
+      "margin": "55 points; 4th consecutive World Championship"
+    },
+    {
+      "year": 2023,
+      "winner": "Max Verstappen (Red Bull)",
+      "runnerUp": "Sergio Pérez (Red Bull)",
+      "score": "575 pts / 285 pts",
+      "margin": "Record 290-point margin; record 19 race wins in a season"
+    },
+    {
+      "year": 2022,
+      "winner": "Max Verstappen (Red Bull)",
+      "runnerUp": "Charles Leclerc (Ferrari)",
+      "score": "454 pts / 308 pts",
+      "margin": "146 points; 15 race wins"
+    },
+    {
+      "year": 2021,
+      "winner": "Max Verstappen (Red Bull)",
+      "runnerUp": "Lewis Hamilton (Mercedes)",
+      "score": "395.5 pts / 387.5 pts",
+      "margin": "8 points; final lap overtake at Abu Dhabi Grand Prix"
+    },
+    {
+      "year": 2020,
+      "winner": "Lewis Hamilton (Mercedes)",
+      "runnerUp": "Valtteri Bottas (Mercedes)",
+      "score": "347 pts / 223 pts",
+      "margin": "124 points; equalling Schumacher's record 7 titles"
+    },
+    {
+      "year": 2019,
+      "winner": "Lewis Hamilton (Mercedes)",
+      "runnerUp": "Valtteri Bottas (Mercedes)",
+      "score": "413 pts / 326 pts",
+      "margin": "87 points; 11 race wins"
+    },
+    {
+      "year": 2018,
+      "winner": "Lewis Hamilton (Mercedes)",
+      "runnerUp": "Sebastian Vettel (Ferrari)",
+      "score": "408 pts / 320 pts",
+      "margin": "88 points; 11 race wins"
+    },
+    {
+      "year": 2017,
+      "winner": "Lewis Hamilton (Mercedes)",
+      "runnerUp": "Sebastian Vettel (Ferrari)",
+      "score": "363 pts / 317 pts",
+      "margin": "46 points; 9 race wins"
+    },
+    {
+      "year": 2016,
+      "winner": "Nico Rosberg (Mercedes)",
+      "runnerUp": "Lewis Hamilton (Mercedes)",
+      "score": "385 pts / 380 pts",
+      "margin": "5 points; retired immediately after title"
+    },
+    {
+      "year": 2015,
+      "winner": "Lewis Hamilton (Mercedes)",
+      "runnerUp": "Nico Rosberg (Mercedes)",
+      "score": "381 pts / 322 pts",
+      "margin": "59 points; clinched title at Austin"
+    },
+    {
+      "year": 2014,
+      "winner": "Lewis Hamilton (Mercedes)",
+      "runnerUp": "Nico Rosberg (Mercedes)",
+      "score": "384 pts / 317 pts",
+      "margin": "67 points; beginning of V6 turbo-hybrid dominance"
+    },
+    {
+      "year": 2013,
+      "winner": "Sebastian Vettel (Red Bull)",
+      "runnerUp": "Fernando Alonso (Ferrari)",
+      "score": "397 pts / 242 pts",
+      "margin": "155 points; record 9 consecutive race wins to end season"
+    },
+    {
+      "year": 2012,
+      "winner": "Sebastian Vettel (Red Bull)",
+      "runnerUp": "Fernando Alonso (Ferrari)",
+      "score": "281 pts / 278 pts",
+      "margin": "3 points; dramatic wet Brazil GP finale recovery"
+    },
+    {
+      "year": 2011,
+      "winner": "Sebastian Vettel (Red Bull)",
+      "runnerUp": "Jenson Button (McLaren)",
+      "score": "392 pts / 270 pts",
+      "margin": "122 points; 15 pole positions"
+    },
+    {
+      "year": 2010,
+      "winner": "Sebastian Vettel (Red Bull)",
+      "runnerUp": "Fernando Alonso (Ferrari)",
+      "score": "256 pts / 252 pts",
+      "margin": "4 points; youngest champion in history (23y, 134d) in 4-way finale"
+    },
+    {
+      "year": 2009,
+      "winner": "Jenson Button (Brawn GP)",
+      "runnerUp": "Sebastian Vettel (Red Bull)",
+      "score": "95 pts / 84 pts",
+      "margin": "11 points; fairy-tale championship for Brawn GP double-diffuser"
+    },
+    {
+      "year": 2008,
+      "winner": "Lewis Hamilton (McLaren)",
+      "runnerUp": "Felipe Massa (Ferrari)",
+      "score": "98 pts / 97 pts",
+      "margin": "1 point; final corner pass on Glock in Interlagos rain"
+    },
+    {
+      "year": 2007,
+      "winner": "Kimi Räikkönen (Ferrari)",
+      "runnerUp": "Lewis Hamilton (McLaren)",
+      "score": "110 pts / 109 pts",
+      "margin": "1 point; overturned 17-point deficit with 2 races left"
+    },
+    {
+      "year": 2006,
+      "winner": "Fernando Alonso (Renault)",
+      "runnerUp": "Michael Schumacher (Ferrari)",
+      "score": "134 pts / 121 pts",
+      "margin": "13 points; defended title against Schumacher"
+    },
+    {
+      "year": 2005,
+      "winner": "Fernando Alonso (Renault)",
+      "runnerUp": "Kimi Räikkönen (McLaren)",
+      "score": "133 pts / 112 pts",
+      "margin": "21 points; ended Schumacher's 5-year title run"
+    },
+    {
+      "year": 2004,
+      "winner": "Michael Schumacher (Ferrari)",
+      "runnerUp": "Rubens Barrichello (Ferrari)",
+      "score": "148 pts / 114 pts",
+      "margin": "34 points; won 12 of first 13 races; 7th World Championship"
+    },
+    {
+      "year": 2003,
+      "winner": "Michael Schumacher (Ferrari)",
+      "runnerUp": "Kimi Räikkönen (McLaren)",
+      "score": "93 pts / 91 pts",
+      "margin": "2 points; broke Fangio's 46-year record with 6th title"
+    },
+    {
+      "year": 2002,
+      "winner": "Michael Schumacher (Ferrari)",
+      "runnerUp": "Rubens Barrichello (Ferrari)",
+      "score": "144 pts / 77 pts",
+      "margin": "Clinched title in July with 6 races remaining; podium in all 17 races"
+    },
+    {
+      "year": 2001,
+      "winner": "Michael Schumacher (Ferrari)",
+      "runnerUp": "David Coulthard (McLaren)",
+      "score": "123 pts / 65 pts",
+      "margin": "58 points; 9 race wins"
+    },
+    {
+      "year": 2000,
+      "winner": "Michael Schumacher (Ferrari)",
+      "runnerUp": "Mika Häkkinen (McLaren)",
+      "score": "108 pts / 89 pts",
+      "margin": "Ended Ferrari's 21-year Drivers' Championship drought"
+    },
+    {
+      "year": 1999,
+      "winner": "Mika Häkkinen (McLaren)",
+      "runnerUp": "Eddie Irvine (Ferrari)",
+      "score": "76 pts / 74 pts",
+      "margin": "2 points; back-to-back world titles"
+    },
+    {
+      "year": 1998,
+      "winner": "Mika Häkkinen (McLaren)",
+      "runnerUp": "Michael Schumacher (Ferrari)",
+      "score": "100 pts / 86 pts",
+      "margin": "14 points; maiden title in Suzuka finale"
+    },
+    {
+      "year": 1997,
+      "winner": "Jacques Villeneuve (Williams)",
+      "runnerUp": "Heinz-Harald Frentzen (Williams)",
+      "score": "81 pts / 42 pts",
+      "margin": "Schumacher disqualified from championship after Jerez collision"
+    },
+    {
+      "year": 1996,
+      "winner": "Damon Hill (Williams)",
+      "runnerUp": "Jacques Villeneuve (Williams)",
+      "score": "97 pts / 78 pts",
+      "margin": "First son of a World Champion (Graham Hill) to win title"
+    },
+    {
+      "year": 1995,
+      "winner": "Michael Schumacher (Benetton)",
+      "runnerUp": "Damon Hill (Williams)",
+      "score": "102 pts / 69 pts",
+      "margin": "33 points; 9 race wins with Renault V10"
+    },
+    {
+      "year": 1994,
+      "winner": "Michael Schumacher (Benetton)",
+      "runnerUp": "Damon Hill (Williams)",
+      "score": "92 pts / 91 pts",
+      "margin": "1 point; infamous collision in Adelaide season finale"
+    },
+    {
+      "year": 1993,
+      "winner": "Alain Prost (Williams)",
+      "runnerUp": "Ayrton Senna (McLaren)",
+      "score": "99 pts / 73 pts",
+      "margin": "4th World Championship; retired after title"
+    },
+    {
+      "year": 1992,
+      "winner": "Nigel Mansell (Williams)",
+      "runnerUp": "Riccardo Patrese (Williams)",
+      "score": "108 pts / 56 pts",
+      "margin": "Dominated in active-suspension FW14B; clinched title in August"
+    },
+    {
+      "year": 1991,
+      "winner": "Ayrton Senna (McLaren)",
+      "runnerUp": "Nigel Mansell (Williams)",
+      "score": "96 pts / 72 pts",
+      "margin": "3rd World Championship; won opening 4 races"
+    },
+    {
+      "year": 1990,
+      "winner": "Ayrton Senna (McLaren)",
+      "runnerUp": "Alain Prost (Ferrari)",
+      "score": "78 pts / 71 pts",
+      "margin": "First-corner collision at Suzuka sealed championship"
+    },
+    {
+      "year": 1989,
+      "winner": "Alain Prost (McLaren)",
+      "runnerUp": "Ayrton Senna (McLaren)",
+      "score": "76 pts / 60 pts",
+      "margin": "Infamous chicane collision at Suzuka"
+    },
+    {
+      "year": 1988,
+      "winner": "Ayrton Senna (McLaren)",
+      "runnerUp": "Alain Prost (McLaren)",
+      "score": "90 pts / 87 pts",
+      "margin": "McLaren-Honda won 15 of 16 races; Senna's maiden title"
+    }
+  ],
+  "candidateRecords": []
+}

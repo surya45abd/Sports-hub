@@ -1,0 +1,119 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Cricket",
+    "tournament":  "Caribbean Premier League",
+    "source":  {
+                   "url":  "https://www.cplt20.com/",
+                   "label":  "Official Caribbean Premier League archive"
+               },
+    "verificationStatus":  "verified",
+    "records":  [
+                    {
+                        "year":  2013,
+                        "winner":  "Jamaica Tallawahs",
+                        "runnerUp":  "Guyana Amazon Warriors",
+                        "score":  "129/3 (17.3 overs) / 128/5 (20 overs)",
+                        "margin":  "7 wickets"
+                    },
+                    {
+                        "year":  2014,
+                        "winner":  "Barbados Tridents",
+                        "runnerUp":  "Guyana Amazon Warriors",
+                        "score":  "152/6 (20 overs) / 107/4 (15.5 overs)",
+                        "margin":  "8 runs (D/L)"
+                    },
+                    {
+                        "year":  2015,
+                        "winner":  "Trinidad \u0026 Tobago Red Steel",
+                        "runnerUp":  "Barbados Tridents",
+                        "score":  "178/5 (20 overs) / 158/4 (20 overs)",
+                        "margin":  "20 runs"
+                    },
+                    {
+                        "year":  2016,
+                        "winner":  "Jamaica Tallawahs",
+                        "runnerUp":  "Guyana Amazon Warriors",
+                        "score":  "95/1 (12.5 overs) / 93 (20 overs)",
+                        "margin":  "9 wickets"
+                    },
+                    {
+                        "year":  2017,
+                        "winner":  "Trinbago Knight Riders",
+                        "runnerUp":  "St Kitts \u0026 Nevis Patriots",
+                        "score":  "136/7 (19 overs) / 135/6 (20 overs)",
+                        "margin":  "3 wickets"
+                    },
+                    {
+                        "year":  2018,
+                        "winner":  "Trinbago Knight Riders",
+                        "runnerUp":  "Guyana Amazon Warriors",
+                        "score":  "150/2 (17.3 overs) / 147/9 (20 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2019,
+                        "winner":  "Barbados Tridents",
+                        "runnerUp":  "Guyana Amazon Warriors",
+                        "score":  "171/6 (20 overs) / 144/9 (20 overs)",
+                        "margin":  "27 runs"
+                    },
+                    {
+                        "year":  2020,
+                        "winner":  "Trinbago Knight Riders",
+                        "runnerUp":  "St Lucia Zouks",
+                        "score":  "157/2 / 154 all out",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2021,
+                        "winner":  "St Kitts \u0026 Nevis Patriots",
+                        "runnerUp":  "Saint Lucia Kings",
+                        "score":  "160/7 (20 overs) / 159/7 (20 overs)",
+                        "margin":  "3 wickets"
+                    },
+                    {
+                        "year":  2022,
+                        "winner":  "Jamaica Tallawahs",
+                        "runnerUp":  "Barbados Royals",
+                        "score":  "162/2 (16.1 overs) / 161/7 (20 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2023,
+                        "winner":  "Guyana Amazon Warriors",
+                        "runnerUp":  "Trinbago Knight Riders",
+                        "score":  "99/1 (14 overs) / 94 (18.1 overs)",
+                        "margin":  "9 wickets"
+                    },
+                    {
+                        "year":  2024,
+                        "winner":  "St Lucia Kings",
+                        "runnerUp":  "Guyana Amazon Warriors",
+                        "score":  "139/4 (18.1 overs) / 138/8 (20 overs)",
+                        "margin":  "6 wickets"
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "Trinbago Knight Riders",
+                        "runnerUp":  "Guyana Amazon Warriors",
+                        "score":  "133/7 (18 overs) / 130/8 (20 overs)",
+                        "margin":  "3 wickets"
+                    },
+                    {
+                        "year":  2026,
+                        "winner":  "Antigua \u0026 Barbuda Falcons",
+                        "runnerUp":  "Jamaica Kingsmen",
+                        "score":  "173/2 (16.4 overs) / 170/9 (20 overs)",
+                        "margin":  "8 wickets"
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ],
+    "verificationSources":  [
+                                "https://en.wikipedia.org/wiki/Caribbean_Premier_League",
+                                "https://www.youtube.com/watch?v=HRmVY2jhCvA",
+                                "https://web4.jamaica-gleaner.com/article/sports/20260922/kingsmen-lose-cpl-final-falcons-8-wickets"
+                            ],
+    "reviewNotes":  "Complete archive of all 14 completed Caribbean Premier League seasons, 2013–2026. Restored the omitted 2020 edition; 2026 was the Antigua and Barbuda Falcons\u0027 first title."
+}

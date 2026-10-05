@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "sport": "Football",
+  "tournament": "Premier League",
+  "source": {
+    "url": "https://www.premierleague.com/en/premier-league-explained",
+    "label": "Official Premier League history"
+  },
+  "verificationSources": [
+    "https://dataqia.com/en-us/world/premier-league-all-seasons/",
+    "https://www.myfootballfacts.com/premier-league/all-time-premier-league/tables-stats/premier-league-winners-by-year/"
+  ],
+  "verificationStatus": "verified",
+  "reviewNotes": "Complete Premier League season archive from its inaugural 1992/93 season through 2025/26. This covers the Premier League era only, not earlier English top-flight seasons.",
+  "records": [
+    { "year": "2025-26", "winner": "Arsenal", "runnerUp": "Manchester City", "score": "85 points", "margin": "" },
+    { "year": "2024-25", "winner": "Liverpool", "runnerUp": "Arsenal", "score": "84 points", "margin": "" },
+    { "year": "2023-24", "winner": "Manchester City", "runnerUp": "Arsenal", "score": "91 points", "margin": "" },
+    { "year": "2022-23", "winner": "Manchester City", "runnerUp": "Arsenal", "score": "89 points", "margin": "" },
+    { "year": "2021-22", "winner": "Manchester City", "runnerUp": "Liverpool", "score": "93 points", "margin": "" },
+    { "year": "2020-21", "winner": "Manchester City", "runnerUp": "Manchester United", "score": "86 points", "margin": "" },
+    { "year": "2019-20", "winner": "Liverpool", "runnerUp": "Manchester City", "score": "99 points", "margin": "" },
+    { "year": "2018-19", "winner": "Manchester City", "runnerUp": "Liverpool", "score": "98 points", "margin": "" },
+    { "year": "2017-18", "winner": "Manchester City", "runnerUp": "Manchester United", "score": "100 points", "margin": "" },
+    { "year": "2016-17", "winner": "Chelsea", "runnerUp": "Tottenham Hotspur", "score": "93 points", "margin": "" },
+    { "year": "2015-16", "winner": "Leicester City", "runnerUp": "Arsenal", "score": "81 points", "margin": "" },
+    { "year": "2014-15", "winner": "Chelsea", "runnerUp": "Manchester City", "score": "87 points", "margin": "" },
+    { "year": "2013-14", "winner": "Manchester City", "runnerUp": "Liverpool", "score": "86 points", "margin": "" },
+    { "year": "2012-13", "winner": "Manchester United", "runnerUp": "Manchester City", "score": "89 points", "margin": "" },
+    { "year": "2011-12", "winner": "Manchester City", "runnerUp": "Manchester United", "score": "89 points", "margin": "" },
+    { "year": "2010-11", "winner": "Manchester United", "runnerUp": "Chelsea", "score": "80 points", "margin": "" },
+    { "year": "2009-10", "winner": "Chelsea", "runnerUp": "Manchester United", "score": "86 points", "margin": "" },
+    { "year": "2008-09", "winner": "Manchester United", "runnerUp": "Liverpool", "score": "90 points", "margin": "" },
+    { "year": "2007-08", "winner": "Manchester United", "runnerUp": "Chelsea", "score": "87 points", "margin": "" },
+    { "year": "2006-07", "winner": "Manchester United", "runnerUp": "Chelsea", "score": "89 points", "margin": "" },
+    { "year": "2005-06", "winner": "Chelsea", "runnerUp": "Manchester United", "score": "91 points", "margin": "" },
+    { "year": "2004-05", "winner": "Chelsea", "runnerUp": "Arsenal", "score": "95 points", "margin": "" },
+    { "year": "2003-04", "winner": "Arsenal", "runnerUp": "Chelsea", "score": "90 points", "margin": "" },
+    { "year": "2002-03", "winner": "Manchester United", "runnerUp": "Arsenal", "score": "83 points", "margin": "" },
+    { "year": "2001-02", "winner": "Arsenal", "runnerUp": "Liverpool", "score": "87 points", "margin": "" },
+    { "year": "2000-01", "winner": "Manchester United", "runnerUp": "Arsenal", "score": "80 points", "margin": "" },
+    { "year": "1999-2000", "winner": "Manchester United", "runnerUp": "Arsenal", "score": "91 points", "margin": "" },
+    { "year": "1998-99", "winner": "Manchester United", "runnerUp": "Arsenal", "score": "79 points", "margin": "" },
+    { "year": "1997-98", "winner": "Arsenal", "runnerUp": "Manchester United", "score": "78 points", "margin": "" },
+    { "year": "1996-97", "winner": "Manchester United", "runnerUp": "Newcastle United", "score": "75 points", "margin": "" },
+    { "year": "1995-96", "winner": "Manchester United", "runnerUp": "Newcastle United", "score": "82 points", "margin": "" },
+    { "year": "1994-95", "winner": "Blackburn Rovers", "runnerUp": "Manchester United", "score": "89 points", "margin": "" },
+    { "year": "1993-94", "winner": "Manchester United", "runnerUp": "Blackburn Rovers", "score": "92 points", "margin": "" },
+    { "year": "1992-93", "winner": "Manchester United", "runnerUp": "Aston Villa", "score": "84 points", "margin": "" }
+  ],
+  "candidateRecords": []
+}

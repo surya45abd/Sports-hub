@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "The Open",
+  "source": {
+    "url": "https://www.theopen.com/previous-opens",
+    "label": "Official Open Championship Past Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Open Championship archive (1990–2025) with winning venues, scores and margins.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Jon Rahm",
+      "score": "272 (-12)",
+      "margin": "2 strokes (Royal Portrush)"
+    },
+    {
+      "year": 2024,
+      "winner": "Xander Schauffele",
+      "runnerUp": "Billy Horschel, Justin Rose",
+      "score": "275 (-9)",
+      "margin": "2 strokes (Royal Troon); 2nd major of 2024"
+    },
+    {
+      "year": 2023,
+      "winner": "Brian Harman",
+      "runnerUp": "Jason Day, Tom Kim, Jon Rahm, Sepp Straka",
+      "score": "271 (-13)",
+      "margin": "6 strokes (Royal Liverpool)"
+    },
+    {
+      "year": 2022,
+      "winner": "Cameron Smith",
+      "runnerUp": "Cameron Young",
+      "score": "268 (-20)",
+      "margin": "1 stroke (St Andrews - 150th Open); back-nine 30 on Sunday"
+    },
+    {
+      "year": 2021,
+      "winner": "Collin Morikawa",
+      "runnerUp": "Jordan Spieth",
+      "score": "265 (-15)",
+      "margin": "2 strokes (Royal St George's); won on Open debut"
+    },
+    {
+      "year": 2019,
+      "winner": "Shane Lowry",
+      "runnerUp": "Tommy Fleetwood",
+      "score": "269 (-15)",
+      "margin": "6 strokes on home island at Royal Portrush"
+    },
+    {
+      "year": 2018,
+      "winner": "Francesco Molinari",
+      "runnerUp": "Kevin Kisner, Rory McIlroy, Justin Rose, Xander Schauffele",
+      "score": "276 (-8)",
+      "margin": "2 strokes (Carnoustie); first Italian major champion"
+    },
+    {
+      "year": 2017,
+      "winner": "Jordan Spieth",
+      "runnerUp": "Matt Kuchar",
+      "score": "268 (-12)",
+      "margin": "3 strokes (Royal Birkdale); legendary driving range recovery on 13"
+    },
+    {
+      "year": 2016,
+      "winner": "Henrik Stenson",
+      "runnerUp": "Phil Mickelson",
+      "score": "264 (-20)",
+      "margin": "3 strokes (Royal Troon); Sunday 63 in all-time major duel"
+    },
+    {
+      "year": 2015,
+      "winner": "Zach Johnson",
+      "runnerUp": "Louis Oosthuizen, Marc Leishman",
+      "score": "273 (-15)",
+      "margin": "4-hole playoff (St Andrews)"
+    },
+    {
+      "year": 2014,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Rickie Fowler, Sergio García",
+      "score": "271 (-17)",
+      "margin": "2 strokes (Royal Liverpool); wire-to-wire"
+    },
+    {
+      "year": 2013,
+      "winner": "Phil Mickelson",
+      "runnerUp": "Henrik Stenson",
+      "score": "281 (-3)",
+      "margin": "3 strokes (Muirfield); final-round 66 in tough conditions"
+    },
+    {
+      "year": 2012,
+      "winner": "Ernie Els",
+      "runnerUp": "Adam Scott",
+      "score": "278 (-2)",
+      "margin": "1 stroke (Royal Lytham); Els birdied 18 as Scott bogeyed last 4"
+    },
+    {
+      "year": 2011,
+      "winner": "Darren Clarke",
+      "runnerUp": "Dustin Johnson, Phil Mickelson",
+      "score": "275 (-5)",
+      "margin": "3 strokes (Royal St George's) at age 42"
+    },
+    {
+      "year": 2010,
+      "winner": "Louis Oosthuizen",
+      "runnerUp": "Lee Westwood",
+      "score": "272 (-16)",
+      "margin": "7 strokes (St Andrews)"
+    },
+    {
+      "year": 2009,
+      "winner": "Stewart Cink",
+      "runnerUp": "Tom Watson",
+      "score": "278 (-2)",
+      "margin": "4-hole playoff (Turnberry); Watson was 59 years old"
+    },
+    {
+      "year": 2008,
+      "winner": "Pádraig Harrington",
+      "runnerUp": "Ian Poulter",
+      "score": "283 (+3)",
+      "margin": "4 strokes (Royal Birkdale); back-to-back Open champion"
+    },
+    {
+      "year": 2007,
+      "winner": "Pádraig Harrington",
+      "runnerUp": "Sergio García",
+      "score": "277 (-7)",
+      "margin": "4-hole playoff (Carnoustie); first Irish champion in 60 years"
+    },
+    {
+      "year": 2006,
+      "winner": "Tiger Woods",
+      "runnerUp": "Chris DiMarco",
+      "score": "270 (-18)",
+      "margin": "2 strokes (Royal Liverpool); hit driver only once all week"
+    },
+    {
+      "year": 2005,
+      "winner": "Tiger Woods",
+      "runnerUp": "Colin Montgomerie",
+      "score": "274 (-14)",
+      "margin": "5 strokes (St Andrews); completed 2nd career Grand Slam"
+    },
+    {
+      "year": 2004,
+      "winner": "Todd Hamilton",
+      "runnerUp": "Ernie Els",
+      "score": "274 (-10)",
+      "margin": "4-hole playoff (Royal Troon); famous hybrid chip shots"
+    },
+    {
+      "year": 2003,
+      "winner": "Ben Curtis",
+      "runnerUp": "Thomas Bjørn, Vijay Singh",
+      "score": "283 (-1)",
+      "margin": "1 stroke (Royal St George's); ranked No. 396 in the world"
+    },
+    {
+      "year": 2002,
+      "winner": "Ernie Els",
+      "runnerUp": "Thomas Levet, Stuart Appleby, Steve Elkington",
+      "score": "278 (-6)",
+      "margin": "Sudden-death playoff (Muirfield)"
+    },
+    {
+      "year": 2001,
+      "winner": "David Duval",
+      "runnerUp": "Niclas Fasth",
+      "score": "274 (-10)",
+      "margin": "3 strokes (Royal Lytham); final-round 67"
+    },
+    {
+      "year": 2000,
+      "winner": "Tiger Woods",
+      "runnerUp": "Thomas Bjørn, Ernie Els",
+      "score": "269 (-19)",
+      "margin": "8 strokes (St Andrews); did not hit into a single bunker all week"
+    },
+    {
+      "year": 1999,
+      "winner": "Paul Lawrie",
+      "runnerUp": "Jean van de Velde, Justin Leonard",
+      "score": "290 (+6)",
+      "margin": "4-hole playoff (Carnoustie); Lawrie came from 10 strokes behind on Sunday"
+    },
+    {
+      "year": 1998,
+      "winner": "Mark O'Meara",
+      "runnerUp": "Brian Watts",
+      "score": "279 (-1)",
+      "margin": "4-hole playoff (Royal Birkdale); Masters & Open double in 1998"
+    },
+    {
+      "year": 1997,
+      "winner": "Justin Leonard",
+      "runnerUp": "Darren Clarke, Jesper Parnevik",
+      "score": "272 (-12)",
+      "margin": "3 strokes (Royal Troon); Sunday 65"
+    },
+    {
+      "year": 1996,
+      "winner": "Tom Lehman",
+      "runnerUp": "Ernie Els, Mark McCumber",
+      "score": "271 (-13)",
+      "margin": "2 strokes (Royal Lytham)"
+    },
+    {
+      "year": 1995,
+      "winner": "John Daly",
+      "runnerUp": "Costantino Rocca",
+      "score": "282 (-6)",
+      "margin": "4-hole playoff (St Andrews); Rocca sank 65-foot putt from Valley of Sin"
+    },
+    {
+      "year": 1994,
+      "winner": "Nick Price",
+      "runnerUp": "Jesper Parnevik",
+      "score": "268 (-12)",
+      "margin": "1 stroke (Turnberry); eagle putt on 17"
+    },
+    {
+      "year": 1993,
+      "winner": "Greg Norman",
+      "runnerUp": "Nick Faldo",
+      "score": "267 (-13)",
+      "margin": "2 strokes (Royal St George's); Sunday 64"
+    },
+    {
+      "year": 1992,
+      "winner": "Nick Faldo",
+      "runnerUp": "John Cook",
+      "score": "272 (-12)",
+      "margin": "1 stroke (Muirfield); birdied 15 and 17 to rally"
+    },
+    {
+      "year": 1991,
+      "winner": "Ian Baker-Finch",
+      "runnerUp": "Mike Harwood",
+      "score": "272 (-8)",
+      "margin": "2 strokes (Royal Birkdale); front-nine 29 on Sunday"
+    },
+    {
+      "year": 1990,
+      "winner": "Nick Faldo",
+      "runnerUp": "Mark McNulty, Payne Stewart",
+      "score": "270 (-18)",
+      "margin": "5 strokes (St Andrews); 2nd Open title"
+    }
+  ],
+  "sections": []
+}

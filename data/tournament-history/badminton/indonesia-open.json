@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 2,
+  "sport": "Badminton",
+  "tournament": "Indonesia Open",
+  "source": {
+    "url": "https://bwfworldtour.bwfbadminton.com/tournament/4737/indonesia-open/results/",
+    "label": "BWF World Tour Indonesia Open Official Results Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Indonesia Open Super 1000 archive (2000–2024) across Men's Singles and Women's Singles at Istora Gelora Bung Karno, Jakarta.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Singles",
+      "archiveUrl": "https://bwfworldtour.bwfbadminton.com/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "BWF Indonesia Open Men's Singles Archive",
+      "archiveLabel": "Indonesia Open Men's Singles Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Shi Yuqi (CHN)",
+          "runnerUp": "Anders Antonsen (DEN)",
+          "score": "21-9, 12-21, 21-14",
+          "margin": "Istora Senayan (Jakarta); Shi Yuqi's maiden Indonesia Open crown, clinching World No. 1 ranking"
+        },
+        {
+          "year": 2023,
+          "winner": "Viktor Axelsen (DEN)",
+          "runnerUp": "Anthony Sinisuka Ginting (INA)",
+          "score": "21-14, 21-13",
+          "margin": "Istora Senayan; Axelsen completed hat-trick of 3 consecutive Indonesia Open titles (2021, 2022, 2023)"
+        },
+        {
+          "year": 2022,
+          "winner": "Viktor Axelsen (DEN)",
+          "runnerUp": "Zhao Junpeng (CHN)",
+          "score": "21-9, 21-10",
+          "margin": "Istora Senayan; dominant 38-minute victory in front of packed Istora crowd"
+        },
+        {
+          "year": 2021,
+          "winner": "Viktor Axelsen (DEN)",
+          "runnerUp": "Loh Kean Yew (SGP)",
+          "score": "21-10, 22-24, 21-9",
+          "margin": "Bali International Convention Centre; Axelsen edged future world champion Loh in 3 games"
+        },
+        {
+          "year": 2019,
+          "winner": "Chou Tien-chen (TPE)",
+          "runnerUp": "Anders Antonsen (DEN)",
+          "score": "21-18, 24-26, 21-15",
+          "margin": "Istora Senayan; marathon 91-minute final; Chou saved match points to win first Super 1000 title"
+        },
+        {
+          "year": 2018,
+          "winner": "Kento Momota (JPN)",
+          "runnerUp": "Viktor Axelsen (DEN)",
+          "score": "21-14, 21-9",
+          "margin": "Istora Senayan; Momota outclassed reigning world champion Axelsen in 46 minutes"
+        },
+        {
+          "year": 2017,
+          "winner": "Srikanth Kidambi (IND)",
+          "runnerUp": "Kazumasa Sakai (JPN)",
+          "score": "21-11, 21-19",
+          "margin": "Jakarta Convention Center; Srikanth became the first Indian man to win Indonesia Open title"
+        },
+        {
+          "year": 2016,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Jan Ø. Jørgensen (DEN)",
+          "score": "17-21, 21-19, 21-17",
+          "margin": "Istora Senayan; Lee fought back from a game down to claim record-equalling 6th Indonesia Open title"
+        },
+        {
+          "year": 2015,
+          "winner": "Kento Momota (JPN)",
+          "runnerUp": "Jan Ø. Jørgensen (DEN)",
+          "score": "16-21, 21-19, 21-7",
+          "margin": "Istora Senayan; Momota captured his first BWF Super Series Premier title"
+        },
+        {
+          "year": 2014,
+          "winner": "Jan Ø. Jørgensen (DEN)",
+          "runnerUp": "Kenichi Tago (JPN)",
+          "score": "21-18, 21-18",
+          "margin": "Istora Senayan; Jørgensen became first European men's singles champion in Indonesia Open history"
+        },
+        {
+          "year": 2013,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Marc Zwiebler (GER)",
+          "score": "21-15, 21-14",
+          "margin": "Istora Senayan; Lee won 5th tournament crown in straight games"
+        },
+        {
+          "year": 2012,
+          "winner": "Simon Santoso (INA)",
+          "runnerUp": "Du Pengyu (CHN)",
+          "score": "21-18, 13-21, 21-11",
+          "margin": "Istora Senayan; Santoso brought the home crowd to their feet in 77-minute victory"
+        },
+        {
+          "year": 2011,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Peter Gade (DEN)",
+          "score": "21-11, 21-7",
+          "margin": "Istora Senayan; Lee conceded only 18 points in masterclass against veteran Gade"
+        },
+        {
+          "year": 2010,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Taufik Hidayat (INA)",
+          "score": "21-19, 21-8",
+          "margin": "Istora Senayan; Lee silenced the home fans by defeating 6-time champion Taufik"
+        },
+        {
+          "year": 2009,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Taufik Hidayat (INA)",
+          "score": "21-9, 21-14",
+          "margin": "Istora Senayan; Lee secured his second Indonesia Open title"
+        },
+        {
+          "year": 2008,
+          "winner": "Sony Dwi Kuncoro (INA)",
+          "runnerUp": "Simon Santoso (INA)",
+          "score": "19-21, 21-14, 21-9",
+          "margin": "Istora Senayan; all-Indonesian men's singles final"
+        },
+        {
+          "year": 2007,
+          "winner": "Lee Chong Wei (MAS)",
+          "runnerUp": "Bao Chunlai (CHN)",
+          "score": "21-15, 21-16",
+          "margin": "Istora Senayan; Lee won his inaugural Indonesia Open title"
+        },
+        {
+          "year": 2006,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Bao Chunlai (CHN)",
+          "score": "21-18, 21-19",
+          "margin": "Istora Senayan; Taufik clinched record 6th title on home soil in front of adoring fans"
+        },
+        {
+          "year": 2004,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Chen Hong (CHN)",
+          "score": "15-10, 15-11",
+          "margin": "Istora Senayan; Taufik 5th title shortly before winning Olympic gold in Athens"
+        },
+        {
+          "year": 2003,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Chen Hong (CHN)",
+          "score": "15-9, 15-9",
+          "margin": "Istora Senayan; Taufik 4th tournament crown"
+        },
+        {
+          "year": 2002,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Chen Hong (CHN)",
+          "score": "15-12, 15-12",
+          "margin": "Istora Senayan; Taufik completed hat-trick (2000, 2001, 2002)"
+        },
+        {
+          "year": 2001,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Bao Chunlai (CHN)",
+          "score": "15-8, 15-8",
+          "margin": "Istora Senayan; Taufik defended his home title in straight sets"
+        },
+        {
+          "year": 2000,
+          "winner": "Taufik Hidayat (INA)",
+          "runnerUp": "Ong Ewe Hock (MAS)",
+          "score": "15-5, 15-13",
+          "margin": "Istora Senayan; 18-year-old Taufik won second career Indonesia Open title"
+        }
+      ]
+    },
+    {
+      "title": "Women's Singles",
+      "archiveUrl": "https://bwfworldtour.bwfbadminton.com/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "BWF Indonesia Open Women's Singles Archive",
+      "archiveLabel": "Indonesia Open Women's Singles Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Chen Yufei (CHN)",
+          "runnerUp": "An Se-young (KOR)",
+          "score": "21-14, 14-21, 21-18",
+          "margin": "Istora Senayan (Jakarta); Chen defended title against World No. 1 in 82-minute epic"
+        },
+        {
+          "year": 2023,
+          "winner": "Chen Yufei (CHN)",
+          "runnerUp": "Carolina Marín (ESP)",
+          "score": "21-18, 21-19",
+          "margin": "Istora Senayan; Olympic champion Chen held off Marín in straight games"
+        },
+        {
+          "year": 2022,
+          "winner": "Tai Tzu-ying (TPE)",
+          "runnerUp": "Wang Zhiyi (CHN)",
+          "score": "21-23, 21-6, 21-15",
+          "margin": "Istora Senayan; Tai Tzu-ying won third Indonesia Open crown with brilliant deceptive play"
+        },
+        {
+          "year": 2021,
+          "winner": "An Se-young (KOR)",
+          "runnerUp": "Ratchanok Intanon (THA)",
+          "score": "21-17, 22-20",
+          "margin": "Bali; 19-year-old An completed Indonesia badminton festival sweep"
+        },
+        {
+          "year": 2019,
+          "winner": "Akane Yamaguchi (JPN)",
+          "runnerUp": "P. V. Sindhu (IND)",
+          "score": "21-15, 21-16",
+          "margin": "Istora Senayan; Yamaguchi defeated Sindhu in straight games to take title"
+        },
+        {
+          "year": 2018,
+          "winner": "Tai Tzu-ying (TPE)",
+          "runnerUp": "Chen Yufei (CHN)",
+          "score": "21-23, 21-15, 21-9",
+          "margin": "Istora Senayan; World No. 1 Tai came from behind in 3 games"
+        },
+        {
+          "year": 2017,
+          "winner": "Sayaka Sato (JPN)",
+          "runnerUp": "Sung Ji-hyun (KOR)",
+          "score": "21-13, 17-21, 21-14",
+          "margin": "Jakarta; unseeded Sato won maiden Super Series title"
+        },
+        {
+          "year": 2016,
+          "winner": "Tai Tzu-ying (TPE)",
+          "runnerUp": "Wang Yihan (CHN)",
+          "score": "21-17, 21-8",
+          "margin": "Istora Senayan; Tai dominated Wang Yihan in 34 minutes"
+        },
+        {
+          "year": 2015,
+          "winner": "Ratchanok Intanon (THA)",
+          "runnerUp": "Yui Hashimoto (JPN)",
+          "score": "21-11, 21-10",
+          "margin": "Istora Senayan; Thai prodigy won first Indonesia Open title"
+        },
+        {
+          "year": 2014,
+          "winner": "Li Xuerui (CHN)",
+          "runnerUp": "Ratchanok Intanon (THA)",
+          "score": "21-13, 21-13",
+          "margin": "Istora Senayan; Li defended her crown in straight games"
+        },
+        {
+          "year": 2013,
+          "winner": "Li Xuerui (CHN)",
+          "runnerUp": "Juliane Schenk (GER)",
+          "score": "21-16, 18-21, 21-17",
+          "margin": "Istora Senayan; Olympic champion Li won 3-game thriller"
+        },
+        {
+          "year": 2012,
+          "winner": "Saina Nehwal (IND)",
+          "runnerUp": "Li Xuerui (CHN)",
+          "score": "13-21, 22-20, 21-19",
+          "margin": "Istora Senayan; Saina completed famous hat-trick (2009, 2010, 2012) beating reigning All England champion Li"
+        },
+        {
+          "year": 2011,
+          "winner": "Wang Yihan (CHN)",
+          "runnerUp": "Saina Nehwal (IND)",
+          "score": "12-21, 23-21, 21-14",
+          "margin": "Istora Senayan; Wang halted Saina's 2-year winning streak in Jakarta"
+        },
+        {
+          "year": 2010,
+          "winner": "Saina Nehwal (IND)",
+          "runnerUp": "Sayaka Sato (JPN)",
+          "score": "21-19, 13-21, 21-11",
+          "margin": "Istora Senayan; Saina defended title to solidify world No. 2 ranking"
+        },
+        {
+          "year": 2009,
+          "winner": "Saina Nehwal (IND)",
+          "runnerUp": "Wang Lin (CHN)",
+          "score": "12-21, 21-18, 21-9",
+          "margin": "Istora Senayan; 19-year-old Saina became the first Indian ever to win a BWF Super Series title"
+        }
+      ]
+    }
+  ]
+}

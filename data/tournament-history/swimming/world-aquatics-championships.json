@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "World Aquatics Championships",
+  "source": {
+    "url": "https://www.worldaquatics.com/competitions",
+    "label": "World Aquatics Official World Championships Results & Medal Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern World Aquatics Championships medal and historical performance archive (2007–2024).",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "China",
+      "runnerUp": "United States",
+      "score": "23 Gold / 8 Silver / 2 Bronze (33 total)",
+      "margin": "Doha, Qatar; Pan Zhanle broke 100m Free World Record (46.80) in relay lead-off"
+    },
+    {
+      "year": 2023,
+      "winner": "China",
+      "runnerUp": "Australia",
+      "score": "20 Gold / 8 Silver / 12 Bronze (40 total)",
+      "margin": "Fukuoka, Japan; Léon Marchand broke Michael Phelps's last remaining World Record (400m IM in 4:02.50); Mollie O'Callaghan broke 200m Free WR"
+    },
+    {
+      "year": 2022,
+      "winner": "United States",
+      "runnerUp": "China",
+      "score": "18 Gold / 14 Silver / 17 Bronze (49 total)",
+      "margin": "Budapest, Hungary; Katie Ledecky won 4 golds; Thomas Ceccon broke 100m Backstroke World Record (51.60)"
+    },
+    {
+      "year": 2019,
+      "winner": "China",
+      "runnerUp": "United States",
+      "score": "16 Gold / 11 Silver / 3 Bronze (30 total)",
+      "margin": "Gwangju, South Korea; Caeleb Dressel won record 8 medals (6 gold) and broke Phelps's 100m Butterfly WR (49.50)"
+    },
+    {
+      "year": 2017,
+      "winner": "United States",
+      "runnerUp": "China",
+      "score": "21 Gold / 12 Silver / 13 Bronze (46 total)",
+      "margin": "Budapest, Hungary; Caeleb Dressel tied Phelps's record with 7 golds at a single World Championships; Sarah Sjöström 51.71 100m Free WR"
+    },
+    {
+      "year": 2015,
+      "winner": "China",
+      "runnerUp": "United States",
+      "score": "15 Gold / 10 Silver / 10 Bronze (35 total)",
+      "margin": "Kazan, Russia; Katie Ledecky completed unprecedented distance freestyle sweep (200m, 400m, 800m, 1500m Free)"
+    },
+    {
+      "year": 2013,
+      "winner": "United States",
+      "runnerUp": "China",
+      "score": "15 Gold / 10 Silver / 9 Bronze (34 total)",
+      "margin": "Palau Sant Jordi, Barcelona; Missy Franklin won 6 gold medals; Sun Yang won 3 distance golds"
+    },
+    {
+      "year": 2011,
+      "winner": "United States",
+      "runnerUp": "China",
+      "score": "17 Gold / 6 Silver / 9 Bronze (32 total)",
+      "margin": "Shanghai, China; Ryan Lochte broke first post-supersuit World Record (200m IM 1:54.00) and won 5 golds; Sun Yang broke 1500m Free WR"
+    },
+    {
+      "year": 2009,
+      "winner": "United States",
+      "runnerUp": "China",
+      "score": "11 Gold / 11 Silver / 10 Bronze (32 total)",
+      "margin": "Foro Italico, Rome; 'Plastic Games' polyurethane super-suit era; 43 World Records shattered; Michael Phelps 100m Fly 49.82; Paul Biedermann 200m Free 1:42.00"
+    },
+    {
+      "year": 2007,
+      "winner": "United States",
+      "runnerUp": "Russia",
+      "score": "21 Gold / 14 Silver / 5 Bronze (40 total)",
+      "margin": "Rod Laver Arena, Melbourne; Michael Phelps won 7 gold medals with 5 World Records in dominant warmup for Beijing 2008"
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,97 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Cricket",
+    "tournament":  "Pakistan Super League",
+    "source":  {
+                   "url":  "https://psl-t20.com/hbl-psl-a-trip-down-the-memory-lane/",
+                   "label":  "Official HBL PSL history"
+               },
+    "verificationStatus":  "verified",
+    "records":  [
+                    {
+                        "year":  2016,
+                        "winner":  "Islamabad United",
+                        "runnerUp":  "Quetta Gladiators",
+                        "score":  "175/4 (18.4 overs) / 174/7 (20 overs)",
+                        "margin":  "6 wickets"
+                    },
+                    {
+                        "year":  2017,
+                        "winner":  "Peshawar Zalmi",
+                        "runnerUp":  "Quetta Gladiators",
+                        "score":  "148/6 (20 overs) / 90 (16.3 overs)",
+                        "margin":  "58 runs"
+                    },
+                    {
+                        "year":  2018,
+                        "winner":  "Islamabad United",
+                        "runnerUp":  "Peshawar Zalmi",
+                        "score":  "154/7 (16.5 overs) / 148/9 (20 overs)",
+                        "margin":  "3 wickets"
+                    },
+                    {
+                        "year":  2019,
+                        "winner":  "Quetta Gladiators",
+                        "runnerUp":  "Peshawar Zalmi",
+                        "score":  "139/2 (17.5 overs) / 138/8 (20 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2020,
+                        "winner":  "Karachi Kings",
+                        "runnerUp":  "Lahore Qalandars",
+                        "score":  "135/5 (18.4 overs) / 134/7 (20 overs)",
+                        "margin":  "5 wickets"
+                    },
+                    {
+                        "year":  2021,
+                        "winner":  "Multan Sultans",
+                        "runnerUp":  "Peshawar Zalmi",
+                        "score":  "206/4 (20 overs) / 159/9 (20 overs)",
+                        "margin":  "47 runs"
+                    },
+                    {
+                        "year":  2022,
+                        "winner":  "Lahore Qalandars",
+                        "runnerUp":  "Multan Sultans",
+                        "score":  "180/5 (20 overs) / 138 (19.3 overs)",
+                        "margin":  "42 runs"
+                    },
+                    {
+                        "year":  2023,
+                        "winner":  "Lahore Qalandars",
+                        "runnerUp":  "Multan Sultans",
+                        "score":  "200/6 (20 overs) / 199/8 (20 overs)",
+                        "margin":  "1 run"
+                    },
+                    {
+                        "year":  2024,
+                        "winner":  "Islamabad United",
+                        "runnerUp":  "Multan Sultans",
+                        "score":  "163/8 (20 overs) / 159/9 (20 overs)",
+                        "margin":  "2 wickets"
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "Lahore Qalandars",
+                        "runnerUp":  "Quetta Gladiators",
+                        "score":  "204/4 (19.5 overs) / 201/9 (20 overs)",
+                        "margin":  "6 wickets"
+                    },
+                    {
+                        "year":  2026,
+                        "winner":  "Peshawar Zalmi",
+                        "runnerUp":  "Hyderabad Kingsmen",
+                        "score":  "130/5 (15.2 overs) / 129/10 (18 overs)",
+                        "margin":  "5 wickets"
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ],
+    "verificationSources":  [
+                                "https://en.wikipedia.org/wiki/List_of_Pakistan_Super_League_seasons_and_results",
+                                "https://psl-t20.com/hardies-all-round-masterclass-leads-zalmi-to-second-hbl-psl-title/"
+                            ],
+    "reviewNotes":  "Complete archive of all 11 completed HBL Pakistan Super League seasons, 2016–2026. Final winners, runners-up, scores, and margins were checked across the league history and final reports."
+}

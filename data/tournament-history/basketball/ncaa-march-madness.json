@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 2,
+  "sport": "Basketball",
+  "tournament": "NCAA March Madness",
+  "source": {
+    "url": "https://www.ncaa.com/history/basketball-men/d1",
+    "label": "Official NCAA Division I Basketball Championships Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Comprehensive national championship archives for both Men's Division I and Women's Division I tournaments.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Tournament (Division I)",
+      "archiveUrl": "https://www.ncaa.com/history/basketball-men/d1",
+      "archiveLabel": "Official Men's Tournament Archive",
+      "records": [
+        {
+          "year": 2025,
+          "winner": "Florida",
+          "runnerUp": "Houston",
+          "score": "65-63",
+          "margin": "2 points"
+        },
+        {
+          "year": 2024,
+          "winner": "UConn",
+          "runnerUp": "Purdue",
+          "score": "75-60",
+          "margin": "15 points; back-to-back national champions"
+        },
+        {
+          "year": 2023,
+          "winner": "UConn",
+          "runnerUp": "San Diego State",
+          "score": "76-59",
+          "margin": "17 points"
+        },
+        {
+          "year": 2022,
+          "winner": "Kansas",
+          "runnerUp": "North Carolina",
+          "score": "72-69",
+          "margin": "Overcame 15-point halftime deficit"
+        },
+        {
+          "year": 2021,
+          "winner": "Baylor",
+          "runnerUp": "Gonzaga",
+          "score": "86-70",
+          "margin": "16 points"
+        },
+        {
+          "year": 2019,
+          "winner": "Virginia",
+          "runnerUp": "Texas Tech",
+          "score": "85-77 (OT)",
+          "margin": "Overtime decider"
+        },
+        {
+          "year": 2018,
+          "winner": "Villanova",
+          "runnerUp": "Michigan",
+          "score": "79-62",
+          "margin": "17 points"
+        },
+        {
+          "year": 2017,
+          "winner": "North Carolina",
+          "runnerUp": "Gonzaga",
+          "score": "71-65",
+          "margin": "6 points"
+        },
+        {
+          "year": 2016,
+          "winner": "Villanova",
+          "runnerUp": "North Carolina",
+          "score": "77-74",
+          "margin": "Kris Jenkins buzzer-beater 3-pointer"
+        },
+        {
+          "year": 2015,
+          "winner": "Duke",
+          "runnerUp": "Wisconsin",
+          "score": "68-63",
+          "margin": "5 points"
+        },
+        {
+          "year": 2014,
+          "winner": "UConn",
+          "runnerUp": "Kentucky",
+          "score": "60-54",
+          "margin": "First No. 7 seed to win NCAA title"
+        },
+        {
+          "year": 2013,
+          "winner": "Louisville",
+          "runnerUp": "Michigan",
+          "score": "82-76",
+          "margin": "6 points"
+        },
+        {
+          "year": 2012,
+          "winner": "Kentucky",
+          "runnerUp": "Kansas",
+          "score": "67-59",
+          "margin": "8 points"
+        },
+        {
+          "year": 2011,
+          "winner": "UConn",
+          "runnerUp": "Butler",
+          "score": "53-41",
+          "margin": "12 points"
+        },
+        {
+          "year": 2010,
+          "winner": "Duke",
+          "runnerUp": "Butler",
+          "score": "61-59",
+          "margin": "Gordon Hayward half-court shot missed at buzzer"
+        },
+        {
+          "year": 2009,
+          "winner": "North Carolina",
+          "runnerUp": "Michigan State",
+          "score": "89-72",
+          "margin": "17 points"
+        },
+        {
+          "year": 2008,
+          "winner": "Kansas",
+          "runnerUp": "Memphis",
+          "score": "75-68 (OT)",
+          "margin": "Mario Chalmers 'Miracle' shot sent game to OT"
+        },
+        {
+          "year": 2007,
+          "winner": "Florida",
+          "runnerUp": "Ohio State",
+          "score": "84-75",
+          "margin": "Back-to-back national champions"
+        },
+        {
+          "year": 2006,
+          "winner": "Florida",
+          "runnerUp": "UCLA",
+          "score": "73-57",
+          "margin": "16 points"
+        },
+        {
+          "year": 2005,
+          "winner": "North Carolina",
+          "runnerUp": "Illinois",
+          "score": "75-70",
+          "margin": "5 points"
+        },
+        {
+          "year": 2004,
+          "winner": "UConn",
+          "runnerUp": "Georgia Tech",
+          "score": "82-73",
+          "margin": "9 points"
+        },
+        {
+          "year": 2003,
+          "winner": "Syracuse",
+          "runnerUp": "Kansas",
+          "score": "81-78",
+          "margin": "Carmelo Anthony led Orange to title as freshman"
+        },
+        {
+          "year": 2002,
+          "winner": "Maryland",
+          "runnerUp": "Indiana",
+          "score": "64-52",
+          "margin": "12 points"
+        },
+        {
+          "year": 2001,
+          "winner": "Duke",
+          "runnerUp": "Arizona",
+          "score": "82-72",
+          "margin": "10 points"
+        },
+        {
+          "year": 2000,
+          "winner": "Michigan State",
+          "runnerUp": "Florida",
+          "score": "89-76",
+          "margin": "13 points"
+        },
+        {
+          "year": 1999,
+          "winner": "UConn",
+          "runnerUp": "Duke",
+          "score": "77-74",
+          "margin": "UConn's maiden national championship"
+        },
+        {
+          "year": 1998,
+          "winner": "Kentucky",
+          "runnerUp": "Utah",
+          "score": "78-69",
+          "margin": "9 points"
+        },
+        {
+          "year": 1997,
+          "winner": "Arizona",
+          "runnerUp": "Kentucky",
+          "score": "84-79 (OT)",
+          "margin": "Overtime"
+        },
+        {
+          "year": 1996,
+          "winner": "Kentucky",
+          "runnerUp": "Syracuse",
+          "score": "76-67",
+          "margin": "9 points"
+        },
+        {
+          "year": 1995,
+          "winner": "UCLA",
+          "runnerUp": "Arkansas",
+          "score": "89-78",
+          "margin": "11 points"
+        },
+        {
+          "year": 1994,
+          "winner": "Arkansas",
+          "runnerUp": "Duke",
+          "score": "76-72",
+          "margin": "Scotty Thurman shot in final minute"
+        },
+        {
+          "year": 1993,
+          "winner": "North Carolina",
+          "runnerUp": "Michigan",
+          "score": "77-71",
+          "margin": "Fab Five timeout turnover"
+        },
+        {
+          "year": 1992,
+          "winner": "Duke",
+          "runnerUp": "Michigan",
+          "score": "71-51",
+          "margin": "Back-to-back national champions"
+        },
+        {
+          "year": 1991,
+          "winner": "Duke",
+          "runnerUp": "Kansas",
+          "score": "72-65",
+          "margin": "Mike Krzyzewski's first national championship"
+        },
+        {
+          "year": 1990,
+          "winner": "UNLV",
+          "runnerUp": "Duke",
+          "score": "103-73",
+          "margin": "Record 30-point margin in NCAA final"
+        }
+      ]
+    },
+    {
+      "title": "Women's Tournament (Division I)",
+      "archiveUrl": "https://www.ncaa.com/history/basketball-women/d1",
+      "archiveLabel": "Official Women's Tournament Archive",
+      "records": [
+        {
+          "year": 2025,
+          "winner": "South Carolina",
+          "runnerUp": "UConn",
+          "score": "79-72",
+          "margin": "7 points"
+        },
+        {
+          "year": 2024,
+          "winner": "South Carolina",
+          "runnerUp": "Iowa",
+          "score": "87-75",
+          "margin": "Capped an undefeated 38-0 season under Dawn Staley"
+        },
+        {
+          "year": 2023,
+          "winner": "LSU",
+          "runnerUp": "Iowa",
+          "score": "102-85",
+          "margin": "Kim Mulkey led Tigers to first national title; record 102 points in final"
+        },
+        {
+          "year": 2022,
+          "winner": "South Carolina",
+          "runnerUp": "UConn",
+          "score": "64-49",
+          "margin": "15 points"
+        },
+        {
+          "year": 2021,
+          "winner": "Stanford",
+          "runnerUp": "Arizona",
+          "score": "54-53",
+          "margin": "1 point; Tara VanDerveer's 3rd NCAA title"
+        },
+        {
+          "year": 2019,
+          "winner": "Baylor",
+          "runnerUp": "Notre Dame",
+          "score": "82-81",
+          "margin": "1 point"
+        },
+        {
+          "year": 2018,
+          "winner": "Notre Dame",
+          "runnerUp": "Mississippi State",
+          "score": "61-58",
+          "margin": "Arike Ogunbowale buzzer-beater corner 3-pointer"
+        },
+        {
+          "year": 2017,
+          "winner": "South Carolina",
+          "runnerUp": "Mississippi State",
+          "score": "67-55",
+          "margin": "Maiden NCAA championship for South Carolina"
+        },
+        {
+          "year": 2016,
+          "winner": "UConn",
+          "runnerUp": "Syracuse",
+          "score": "82-51",
+          "margin": "Record 4th consecutive NCAA title; Breanna Stewart 4x MOP"
+        },
+        {
+          "year": 2015,
+          "winner": "UConn",
+          "runnerUp": "Notre Dame",
+          "score": "63-53",
+          "margin": "10 points"
+        },
+        {
+          "year": 2014,
+          "winner": "UConn",
+          "runnerUp": "Notre Dame",
+          "score": "79-58",
+          "margin": "Battle of undefeated teams; capped 40-0 season"
+        },
+        {
+          "year": 2013,
+          "winner": "UConn",
+          "runnerUp": "Louisville",
+          "score": "93-60",
+          "margin": "33 points"
+        },
+        {
+          "year": 2012,
+          "winner": "Baylor",
+          "runnerUp": "Notre Dame",
+          "score": "80-61",
+          "margin": "Capped undefeated 40-0 season behind Brittney Griner"
+        },
+        {
+          "year": 2011,
+          "winner": "Texas A&M",
+          "runnerUp": "Notre Dame",
+          "score": "76-70",
+          "margin": "6 points"
+        },
+        {
+          "year": 2010,
+          "winner": "UConn",
+          "runnerUp": "Stanford",
+          "score": "53-47",
+          "margin": "Undefeated 39-0 season; Maya Moore led comeback"
+        },
+        {
+          "year": 2009,
+          "winner": "UConn",
+          "runnerUp": "Louisville",
+          "score": "76-54",
+          "margin": "Undefeated 39-0 season"
+        },
+        {
+          "year": 2008,
+          "winner": "Tennessee",
+          "runnerUp": "Stanford",
+          "score": "64-48",
+          "margin": "Pat Summitt's 8th and final national championship"
+        },
+        {
+          "year": 2007,
+          "winner": "Tennessee",
+          "runnerUp": "Rutgers",
+          "score": "59-46",
+          "margin": "Candace Parker led Lady Vols"
+        },
+        {
+          "year": 2006,
+          "winner": "Maryland",
+          "runnerUp": "Duke",
+          "score": "78-75 (OT)",
+          "margin": "Kristi Toliver game-tying 3-pointer sent to OT"
+        },
+        {
+          "year": 2005,
+          "winner": "Baylor",
+          "runnerUp": "Michigan State",
+          "score": "84-62",
+          "margin": "First national championship for Baylor"
+        },
+        {
+          "year": 2004,
+          "winner": "UConn",
+          "runnerUp": "Tennessee",
+          "score": "70-61",
+          "margin": "Diana Taurasi 3-peat"
+        },
+        {
+          "year": 2003,
+          "winner": "UConn",
+          "runnerUp": "Tennessee",
+          "score": "73-68",
+          "margin": "5 points"
+        },
+        {
+          "year": 2002,
+          "winner": "UConn",
+          "runnerUp": "Oklahoma",
+          "score": "82-70",
+          "margin": "Undefeated 39-0 season with Sue Bird & Diana Taurasi"
+        },
+        {
+          "year": 2001,
+          "winner": "Notre Dame",
+          "runnerUp": "Purdue",
+          "score": "68-66",
+          "margin": "Ruth Riley scored 28 points including winning free throws"
+        },
+        {
+          "year": 2000,
+          "winner": "UConn",
+          "runnerUp": "Tennessee",
+          "score": "71-52",
+          "margin": "19 points"
+        }
+      ]
+    }
+  ]
+}

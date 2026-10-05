@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 2,
+  "sport": "Athletics",
+  "tournament": "European Athletics Championships",
+  "source": {
+    "url": "https://www.european-athletics.com/competitions/european-athletics-championships",
+    "label": "European Athletics Official Championships Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "European Athletics Championships flagship champions archive (2002–2024) across Men's 100m, Women's 100m, and leading events.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's 100 metres",
+      "archiveUrl": "https://www.european-athletics.com/competitions/european-athletics-championships/history",
+      "sourceUrl": "https://www.european-athletics.com/",
+      "sourceLabel": "European Athletics Championships Men's 100m Results",
+      "archiveLabel": "European Athletics Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Marcell Jacobs (ITA)",
+          "runnerUp": "Chituru Ali (ITA)",
+          "score": "10.02 s",
+          "margin": "Stadio Olimpico (Rome); Italian 1-2 finish on home turf"
+        },
+        {
+          "year": 2022,
+          "winner": "Marcell Jacobs (ITA)",
+          "runnerUp": "Zharnel Hughes (GBR)",
+          "score": "9.95 s",
+          "margin": "Olympiastadion (Munich); Championship Record equalling 9.95 s"
+        },
+        {
+          "year": 2018,
+          "winner": "Zharnel Hughes (GBR)",
+          "runnerUp": "Reece Prescod (GBR)",
+          "score": "9.95 s",
+          "margin": "Olympic Stadium (Berlin); British 1-2 finish"
+        },
+        {
+          "year": 2016,
+          "winner": "Churandy Martina (NED)",
+          "runnerUp": "Jak Ali Harvey (TUR)",
+          "score": "10.07 s",
+          "margin": "Olympic Stadium (Amsterdam); Martina won gold for Netherlands on home track"
+        },
+        {
+          "year": 2014,
+          "winner": "James Dasaolu (GBR)",
+          "runnerUp": "Christophe Lemaitre (FRA)",
+          "score": "10.06 s",
+          "margin": "Letzigrund (Zürich); Dasaolu captured British sprint title"
+        },
+        {
+          "year": 2012,
+          "winner": "Christophe Lemaitre (FRA)",
+          "runnerUp": "Jimmy Vicaut (FRA)",
+          "score": "10.09 s",
+          "margin": "Helsinki; French 1-2 finish with Lemaitre defending title"
+        },
+        {
+          "year": 2010,
+          "winner": "Christophe Lemaitre (FRA)",
+          "runnerUp": "Mark Lewis-Francis (GBR)",
+          "score": "10.11 s",
+          "margin": "Barcelona; Lemaitre won sprint treble (100m, 200m, 4x100m)"
+        },
+        {
+          "year": 2006,
+          "winner": "Francis Obikwelu (POR)",
+          "runnerUp": "Andrey Yepishin (RUS)",
+          "score": "9.99 s",
+          "margin": "Gothenburg; Championship Record sub-10s run"
+        },
+        {
+          "year": 2002,
+          "winner": "Francis Obikwelu (POR)",
+          "runnerUp": "Darren Campbell (GBR)",
+          "score": "10.06 s",
+          "margin": "Munich; Dwain Chambers initially finished first but was later DQ for doping"
+        }
+      ]
+    },
+    {
+      "title": "Women's 100 metres",
+      "archiveUrl": "https://www.european-athletics.com/competitions/european-athletics-championships/history",
+      "sourceUrl": "https://www.european-athletics.com/",
+      "sourceLabel": "European Athletics Championships Women's 100m Results",
+      "archiveLabel": "European Athletics Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Dina Asher-Smith (GBR)",
+          "runnerUp": "Ewa Swoboda (POL)",
+          "score": "10.99 s",
+          "margin": "Rome; Asher-Smith captured her second European 100m title"
+        },
+        {
+          "year": 2022,
+          "winner": "Gina Lückenkemper (GER)",
+          "runnerUp": "Mujinga Kambundji (SUI)",
+          "score": "10.99 s",
+          "margin": "Munich; dramatic photo-finish separated top two by 0.005 seconds"
+        },
+        {
+          "year": 2018,
+          "winner": "Dina Asher-Smith (GBR)",
+          "runnerUp": "Gina Lückenkemper (GER)",
+          "score": "10.85 s",
+          "margin": "Berlin; WL 10.85 s; Asher-Smith won 100m/200m/4x100m sprint treble"
+        },
+        {
+          "year": 2016,
+          "winner": "Dafne Schippers (NED)",
+          "runnerUp": "Ivet Lalova-Collio (BUL)",
+          "score": "10.90 s",
+          "margin": "Amsterdam; Schippers defended her home European sprint crown"
+        },
+        {
+          "year": 2014,
+          "winner": "Dafne Schippers (NED)",
+          "runnerUp": "Jodie Williams (GBR)",
+          "score": "11.12 s",
+          "margin": "Zürich; Dutch heptathlete turned sprint champion won 100m/200m double"
+        },
+        {
+          "year": 2012,
+          "winner": "Ivet Lalova (BUL)",
+          "runnerUp": "Olesya Povh (UKR)",
+          "score": "11.28 s",
+          "margin": "Helsinki; Bulgarian captured maiden continental title"
+        },
+        {
+          "year": 2010,
+          "winner": "Verena Sailer (GER)",
+          "runnerUp": "Véronique Mang (FRA)",
+          "score": "11.10 s",
+          "margin": "Barcelona; German claimed gold with personal best"
+        },
+        {
+          "year": 2006,
+          "winner": "Kim Gevaert (BEL)",
+          "runnerUp": "Yevgeniya Polyakova (RUS)",
+          "score": "11.06 s",
+          "margin": "Gothenburg; Belgian sprint queen won 100m/200m double"
+        },
+        {
+          "year": 2002,
+          "winner": "Ekaterini Thanou (GRE)",
+          "runnerUp": "Kim Gevaert (BEL)",
+          "score": "11.10 s",
+          "margin": "Munich; Greek Olympic silver medalist claimed gold"
+        }
+      ]
+    }
+  ]
+}

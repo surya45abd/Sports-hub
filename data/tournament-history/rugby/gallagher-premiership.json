@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "sport": "Rugby",
+  "tournament": "Gallagher Premiership",
+  "source": {
+    "url": "https://www.premiershiprugby.com/history",
+    "label": "Premiership Rugby Official Past Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Gallagher Premiership rugby final archive (2010–2024) at Twickenham.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Northampton Saints",
+      "runnerUp": "Bath",
+      "score": "25 - 21",
+      "margin": "Twickenham; Alex Mitchell's 73rd-minute try won Saints their 2nd title with 14 men"
+    },
+    {
+      "year": 2023,
+      "winner": "Saracens",
+      "runnerUp": "Sale Sharks",
+      "score": "35 - 25",
+      "margin": "Twickenham; 6th Premiership title for Saracens"
+    },
+    {
+      "year": 2022,
+      "winner": "Leicester Tigers",
+      "runnerUp": "Saracens",
+      "score": "15 - 12",
+      "margin": "Twickenham; Freddie Burns's 80th-minute drop goal won Tigers' 11th title"
+    },
+    {
+      "year": 2021,
+      "winner": "Harlequins",
+      "runnerUp": "Exeter Chiefs",
+      "score": "40 - 38",
+      "margin": "Twickenham; highest-scoring Premiership final in history; Louis Lynagh scored 2 late tries"
+    },
+    {
+      "year": 2020,
+      "winner": "Exeter Chiefs",
+      "runnerUp": "Wasps",
+      "score": "19 - 13",
+      "margin": "Twickenham; completed historic domestic and European double"
+    },
+    {
+      "year": 2019,
+      "winner": "Saracens",
+      "runnerUp": "Exeter Chiefs",
+      "score": "37 - 34",
+      "margin": "Twickenham; Saracens rallied from 27-16 down with 22 unanswered points"
+    },
+    {
+      "year": 2018,
+      "winner": "Saracens",
+      "runnerUp": "Exeter Chiefs",
+      "score": "27 - 10",
+      "margin": "Twickenham; Chris Wyles and Sean Maitland scored tries"
+    },
+    {
+      "year": 2017,
+      "winner": "Exeter Chiefs",
+      "runnerUp": "Wasps",
+      "score": "23 - 20 (a.e.t.)",
+      "margin": "Twickenham; Gareth Steenson kicked 98th-minute extra-time penalty for maiden title"
+    },
+    {
+      "year": 2016,
+      "winner": "Saracens",
+      "runnerUp": "Exeter Chiefs",
+      "score": "28 - 20",
+      "margin": "Twickenham; Owen Farrell kicked 13 points to seal double"
+    },
+    {
+      "year": 2015,
+      "winner": "Saracens",
+      "runnerUp": "Bath",
+      "score": "28 - 16",
+      "margin": "Twickenham; Owen Farrell 18 points"
+    },
+    {
+      "year": 2014,
+      "winner": "Northampton Saints",
+      "runnerUp": "Saracens",
+      "score": "24 - 20 (a.e.t.)",
+      "margin": "Twickenham; Alex Waller scored 100th-minute try in 2nd period of extra time"
+    },
+    {
+      "year": 2013,
+      "winner": "Leicester Tigers",
+      "runnerUp": "Northampton Saints",
+      "score": "37 - 17",
+      "margin": "Twickenham; Dylan Hartley sent off for Saints in first half"
+    },
+    {
+      "year": 2012,
+      "winner": "Harlequins",
+      "runnerUp": "Leicester Tigers",
+      "score": "30 - 23",
+      "margin": "Twickenham; maiden Premiership title for Quins"
+    },
+    {
+      "year": 2011,
+      "winner": "Saracens",
+      "runnerUp": "Leicester Tigers",
+      "score": "22 - 18",
+      "margin": "Twickenham; maiden Premiership title for Saracens"
+    },
+    {
+      "year": 2010,
+      "winner": "Leicester Tigers",
+      "runnerUp": "Saracens",
+      "score": "33 - 27",
+      "margin": "Twickenham; Dan Hipkiss scored late try"
+    }
+  ],
+  "sections": []
+}

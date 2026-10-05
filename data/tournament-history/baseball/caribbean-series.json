@@ -1,0 +1,991 @@
+{
+  "schemaVersion": 1,
+  "sport": "Baseball",
+  "tournament": "Caribbean Series",
+  "source": {
+    "url": "https://caribbeanseries.com/en/history",
+    "label": "Official Caribbean Series edition archive"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 1949,
+      "winner": "Alacranes del Almendares",
+      "runnerUp": "Cerveceria Caracas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1950,
+      "winner": "Carta Vieja Yankees",
+      "runnerUp": "Criollos de Caguas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1951,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Leones del Habana",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1952,
+      "winner": "Leones del Habana",
+      "runnerUp": "Carta Vieja Yankees",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1953,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Leones del Habana",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1954,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Alacranes del Almendares",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1955,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Navegantes del Magallanes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1956,
+      "winner": "Elefantes de Cienfuegos",
+      "runnerUp": "Chesterfield Smokers",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1957,
+      "winner": "Tigres de Marianao",
+      "runnerUp": "Cerveza Balboa",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1958,
+      "winner": "Tigres de Marianao",
+      "runnerUp": "Criollos de Caguas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1959,
+      "winner": "Alacranes del Almendares",
+      "runnerUp": "Indios de Oriente",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1960,
+      "winner": "Elefantes de Cienfuegos",
+      "runnerUp": "Marlboro Smokers",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Navegantes del Magallanes",
+      "runnerUp": "Leones de Ponce",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Leones de Ponce",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Vaqueros de Bayamon",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Naranjeros de Hermosillo",
+      "runnerUp": "Tigres de Aragua",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Navegantes del Magallanes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Indios de Mayaguez",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Navegantes del Magallanes",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Not held",
+      "runnerUp": "",
+      "score": "Not held",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Leones del Caracas",
+      "runnerUp": "Leones de Ponce",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Lobos de Arecibo",
+      "runnerUp": "Tiburones de La Guaira",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Aguilas del Zulia",
+      "runnerUp": "Cañeros de Los Mochis",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Aguilas de Mexicali",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Aguilas del Zulia",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Cardenales de Lara",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Indios de Mayaguez",
+      "runnerUp": "Aguilas del Zulia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Navegantes del Magallanes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Senadores de San Juan",
+      "runnerUp": "Azucareros del Este",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Tomateros de Culiacan",
+      "runnerUp": "Lobos de Arecibo",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Tomateros de Culiacan",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Venados de Mazatlan",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Leones del Caracas",
+      "runnerUp": "Tigres del Licey",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Gigantes de Carolina",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Venados de Mazatlan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Tigres de Aragua",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Yaquis de Obregon",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Yaquis de Obregon",
+      "runnerUp": "Leones del Escogido",
+      "score": "4-3 (F/18)",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Naranjeros de Hermosillo",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Vegueros de Pinar del Rio",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Venados de Mazatlan",
+      "runnerUp": "Tigres de Aragua",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Aguilas de Mexicali",
+      "score": "1-0 (F/10)",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Toros de Herrera",
+      "runnerUp": "Leñadores de Las Tunas",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Toros del Este",
+      "runnerUp": "Cardenales de Lara",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Criollos de Caguas",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Caimanes de Barranquilla",
+      "runnerUp": "Gigantes del Cibao",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Leones del Caracas",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Tiburones de La Guaira",
+      "runnerUp": "Tigres del Licey",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Charros de Jalisco",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "Charros de Jalisco",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "12-11 (F/10)",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 1949,
+      "winner": "Alacranes del Almendares",
+      "runnerUp": "Cerveceria Caracas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1950,
+      "winner": "Carta Vieja Yankees",
+      "runnerUp": "Criollos de Caguas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1951,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Leones del Habana",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1952,
+      "winner": "Leones del Habana",
+      "runnerUp": "Carta Vieja Yankees",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1953,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Leones del Habana",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1954,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Alacranes del Almendares",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1955,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Navegantes del Magallanes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1956,
+      "winner": "Elefantes de Cienfuegos",
+      "runnerUp": "Chesterfield Smokers",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1957,
+      "winner": "Tigres de Marianao",
+      "runnerUp": "Cerveza Balboa",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1958,
+      "winner": "Tigres de Marianao",
+      "runnerUp": "Criollos de Caguas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1959,
+      "winner": "Alacranes del Almendares",
+      "runnerUp": "Indios de Oriente",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1960,
+      "winner": "Elefantes de Cienfuegos",
+      "runnerUp": "Marlboro Smokers",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Navegantes del Magallanes",
+      "runnerUp": "Leones de Ponce",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Leones de Ponce",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Vaqueros de Bayamon",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Naranjeros de Hermosillo",
+      "runnerUp": "Tigres de Aragua",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Navegantes del Magallanes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Indios de Mayaguez",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Navegantes del Magallanes",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Not held",
+      "runnerUp": "",
+      "score": "Not held",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Leones del Caracas",
+      "runnerUp": "Leones de Ponce",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Lobos de Arecibo",
+      "runnerUp": "Tiburones de La Guaira",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Aguilas del Zulia",
+      "runnerUp": "Cañeros de Los Mochis",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Aguilas de Mexicali",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Aguilas del Zulia",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Cardenales de Lara",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Indios de Mayaguez",
+      "runnerUp": "Aguilas del Zulia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Navegantes del Magallanes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Senadores de San Juan",
+      "runnerUp": "Azucareros del Este",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Tomateros de Culiacan",
+      "runnerUp": "Lobos de Arecibo",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Cangrejeros de Santurce",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Tomateros de Culiacan",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Venados de Mazatlan",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Leones del Caracas",
+      "runnerUp": "Tigres del Licey",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Gigantes de Carolina",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Venados de Mazatlan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Tigres de Aragua",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Yaquis de Obregon",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Tied",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Yaquis de Obregon",
+      "runnerUp": "Leones del Escogido",
+      "score": "4-3 (F/18)",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Naranjeros de Hermosillo",
+      "runnerUp": "Indios de Mayaguez",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Vegueros de Pinar del Rio",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Venados de Mazatlan",
+      "runnerUp": "Tigres de Aragua",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Aguilas de Mexicali",
+      "score": "1-0 (F/10)",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Criollos de Caguas",
+      "runnerUp": "Aguilas Cibaeñas",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Toros de Herrera",
+      "runnerUp": "Leñadores de Las Tunas",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Toros del Este",
+      "runnerUp": "Cardenales de Lara",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Aguilas Cibaeñas",
+      "runnerUp": "Criollos de Caguas",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Caimanes de Barranquilla",
+      "runnerUp": "Gigantes del Cibao",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Tigres del Licey",
+      "runnerUp": "Leones del Caracas",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Tiburones de La Guaira",
+      "runnerUp": "Tigres del Licey",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Leones del Escogido",
+      "runnerUp": "Charros de Jalisco",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "Charros de Jalisco",
+      "runnerUp": "Tomateros de Culiacan",
+      "score": "12-11 (F/10)",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Caribbean_Series",
+      "label": "Edition table cross-check, including runners-up and finals"
+    },
+    {
+      "url": "https://caribbeanseries.com/en/history/2026",
+      "label": "Official 2026 final report"
+    }
+  ],
+  "reviewNotes": "Complete edition archive from 1949 through 2026. The competition was not held from 1961?1969 or in 1981; 1981 is retained as a not-held row from the prior candidate data. Before 2013, the champion was determined by round-robin standings rather than a final. Rows marked Tied reflect tied runners-up in the source table."
+}

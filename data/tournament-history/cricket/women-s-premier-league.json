@@ -1,0 +1,48 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Cricket",
+    "tournament":  "Women\u0027s Premier League",
+    "source":  {
+                   "url":  "https://www.wplt20.com/",
+                   "label":  "Official WPL past winners and results"
+               },
+    "verificationStatus":  "verified",
+    "records":  [
+                    {
+                        "year":  2023,
+                        "winner":  "Mumbai Indians",
+                        "runnerUp":  "Delhi Capitals",
+                        "score":  "134/3 (19.3 overs) / 131/9 (20 overs)",
+                        "margin":  "7 wickets"
+                    },
+                    {
+                        "year":  2024,
+                        "winner":  "Royal Challengers Bengaluru",
+                        "runnerUp":  "Delhi Capitals",
+                        "score":  "115/2 (19.3 overs) / 113 (18.3 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "Mumbai Indians",
+                        "runnerUp":  "Delhi Capitals",
+                        "score":  "149/7 (20 overs) / 141/9 (20 overs)",
+                        "margin":  "8 runs"
+                    },
+                    {
+                        "year":  2026,
+                        "winner":  "Royal Challengers Bengaluru",
+                        "runnerUp":  "Delhi Capitals",
+                        "score":  "204/4 (19.4 overs) / 203/4 (20 overs)",
+                        "margin":  "6 wickets"
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ],
+    "verificationSources":  [
+                                "https://en.wikipedia.org/wiki/List_of_Women%27s_Premier_League_(cricket)_seasons_and_results",
+                                "https://www.wplt20.com/news/article/match-report-tata-wpl-2026-final"
+                            ],
+    "reviewNotes":  "Complete archive of all four completed Women\u0027s Premier League seasons, 2023–2026. Winner, runner-up, and final result were checked against the official WPL history and final match records."
+}

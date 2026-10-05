@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "sport": "Swimming",
+  "tournament": "Pan Pacific Swimming Championships",
+  "source": {
+    "url": "https://www.panpacs.com/",
+    "label": "Pan Pacific Swimming Association Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Pan Pacific Swimming Championships archive across Men's 100m Freestyle, Women's 100m Freestyle, and overall Medal Table standings (2002–2018).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's 100m Freestyle",
+      "archiveUrl": "https://www.panpacs.com/",
+      "sourceUrl": "https://www.panpacs.com/",
+      "sourceLabel": "Pan Pacs Men's 100m Free Results",
+      "archiveLabel": "Men's 100m Free Archive",
+      "records": [
+        {
+          "year": 2018,
+          "winner": "Kyle Chalmers (AUS)",
+          "runnerUp": "Jack Alexy (USA)",
+          "score": "48.00 s",
+          "margin": "Tatsumi International Swimming Center (Tokyo); Olympic champion Chalmers stormed home to take gold"
+        },
+        {
+          "year": 2014,
+          "winner": "Cameron McEvoy (AUS)",
+          "runnerUp": "Nathan Adrian (USA)",
+          "score": "47.82 s",
+          "margin": "Gold Coast Aquatic Centre; McEvoy edged Olympic champion Adrian in torrential rain"
+        },
+        {
+          "year": 2010,
+          "winner": "Nathan Adrian (USA)",
+          "runnerUp": "Brent Hayden (CAN)",
+          "score": "48.15 s",
+          "margin": "William Woollett Jr. Aquatics Center (Irvine, CA); Championship Record at the time"
+        },
+        {
+          "year": 2006,
+          "winner": "Brent Hayden (CAN)",
+          "runnerUp": "Jason Lezak (USA)",
+          "score": "48.59 s",
+          "margin": "Saanich Commonwealth Place (Victoria, BC); Canadian won gold on home soil"
+        },
+        {
+          "year": 2002,
+          "winner": "Ian Thorpe (AUS)",
+          "runnerUp": "Ashley Callus (AUS)",
+          "score": "48.84 s",
+          "margin": "Yokohama International Swimming Pool (Japan); Thorpe led Australian 1-2 finish"
+        }
+      ]
+    },
+    {
+      "title": "Women's 100m Freestyle",
+      "archiveUrl": "https://www.panpacs.com/",
+      "sourceUrl": "https://www.panpacs.com/",
+      "sourceLabel": "Pan Pacs Women's 100m Free Results",
+      "archiveLabel": "Women's 100m Free Archive",
+      "records": [
+        {
+          "year": 2018,
+          "winner": "Cate Campbell (AUS)",
+          "runnerUp": "Simone Manuel (USA)",
+          "score": "52.03 s",
+          "margin": "Tokyo; Championship Record 52.03s; Campbell held off Olympic champion Manuel"
+        },
+        {
+          "year": 2014,
+          "winner": "Cate Campbell (AUS)",
+          "runnerUp": "Bronte Campbell (AUS)",
+          "score": "52.72 s",
+          "margin": "Gold Coast; historic Campbell sisters 1-2 finish"
+        },
+        {
+          "year": 2010,
+          "winner": "Natalie Coughlin (USA)",
+          "runnerUp": "Emily Seebohm (AUS)",
+          "score": "53.67 s",
+          "margin": "Irvine; Coughlin captured gold in 53.67s"
+        },
+        {
+          "year": 2006,
+          "winner": "Amanda Weir (USA)",
+          "runnerUp": "Lisbeth Lenton (AUS)",
+          "score": "53.76 s",
+          "margin": "Victoria; Weir upset world record holder Lenton"
+        },
+        {
+          "year": 2002,
+          "winner": "Natalie Coughlin (USA)",
+          "runnerUp": "Jodie Henry (AUS)",
+          "score": "53.99 s",
+          "margin": "Yokohama; Coughlin won 100m freestyle and 100m backstroke golds"
+        }
+      ]
+    },
+    {
+      "title": "Medal table champions",
+      "archiveUrl": "https://www.panpacs.com/",
+      "sourceUrl": "https://www.panpacs.com/",
+      "sourceLabel": "Pan Pacs Medal Table Archive",
+      "archiveLabel": "Pan Pacs Medal Tables",
+      "records": [
+        {
+          "year": 2018,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "20 Gold, 15 Silver, 10 Bronze (45 total)",
+          "margin": "Tokyo; USA topped table ahead of Australia (8 golds) and host Japan (6 golds)"
+        },
+        {
+          "year": 2014,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "16 Gold, 14 Silver, 14 Bronze (44 total)",
+          "margin": "Gold Coast; USA edged Australia (10 golds) and Japan (7 golds)"
+        },
+        {
+          "year": 2010,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "28 Gold, 18 Silver, 10 Bronze (56 total)",
+          "margin": "Irvine; Michael Phelps won 5 gold medals, Lochte won 6 golds"
+        },
+        {
+          "year": 2006,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "26 Gold, 14 Silver, 8 Bronze (48 total)",
+          "margin": "Victoria; USA dominated medal count with Phelps setting 3 world records"
+        },
+        {
+          "year": 2002,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "21 Gold, 10 Silver, 11 Bronze (42 total)",
+          "margin": "Yokohama; USA finished ahead of Australia (11 golds)"
+        }
+      ]
+    }
+  ]
+}

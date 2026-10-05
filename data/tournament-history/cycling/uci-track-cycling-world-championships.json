@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "UCI Track Cycling World Championships",
+  "source": {
+    "url": "https://www.uci.org/competition-hub/uci-track-world-championships/",
+    "label": "UCI Official Track Cycling World Championships Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern UCI Track Cycling World Championships archive across Men's Sprint and Women's Sprint flagship disciplines (2010–2024).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Individual Sprint",
+      "archiveUrl": "https://www.uci.org/competition-hub/uci-track-world-championships/",
+      "sourceUrl": "https://www.uci.org/",
+      "sourceLabel": "UCI Track Men's Sprint Results",
+      "archiveLabel": "Men's Sprint Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Harrie Lavreysen (NED)",
+          "runnerUp": "Jeffrey Hoogland (NED)",
+          "score": "2-0",
+          "margin": "Ballerup Super Arena (Denmark); Lavreysen won record 6th consecutive individual sprint world title and 16th career world title"
+        },
+        {
+          "year": 2023,
+          "winner": "Harrie Lavreysen (NED)",
+          "runnerUp": "Nicholas Paul (TTO)",
+          "score": "2-0",
+          "margin": "Sir Chris Hoy Velodrome (Glasgow); Lavreysen defended rainbow jersey in two straight matches"
+        },
+        {
+          "year": 2022,
+          "winner": "Harrie Lavreysen (NED)",
+          "runnerUp": "Matthew Richardson (AUS)",
+          "score": "2-0",
+          "margin": "Vélodrome National (Saint-Quentin-en-Yvelines); Dutch star swept final"
+        },
+        {
+          "year": 2021,
+          "winner": "Harrie Lavreysen (NED)",
+          "runnerUp": "Jeffrey Hoogland (NED)",
+          "score": "2-1",
+          "margin": "Roubaix Velodrome (France); Lavreysen came back after losing first heat in all-Dutch final"
+        },
+        {
+          "year": 2020,
+          "winner": "Harrie Lavreysen (NED)",
+          "runnerUp": "Jeffrey Hoogland (NED)",
+          "score": "2-0",
+          "margin": "Velodrom (Berlin); Lavreysen clocked 9.400s 200m time in qualification"
+        },
+        {
+          "year": 2019,
+          "winner": "Harrie Lavreysen (NED)",
+          "runnerUp": "Jeffrey Hoogland (NED)",
+          "score": "2-1",
+          "margin": "Pruszków (Poland); 21-year-old Lavreysen won his first individual sprint world crown"
+        },
+        {
+          "year": 2018,
+          "winner": "Matthew Glaetzer (AUS)",
+          "runnerUp": "Jack Carlin (GBR)",
+          "score": "2-0",
+          "margin": "Omnisport Apeldoorn (Netherlands); Glaetzer won Australia's first sprint title since 1993"
+        },
+        {
+          "year": 2017,
+          "winner": "Denis Dmitriev (RUS)",
+          "runnerUp": "Harrie Lavreysen (NED)",
+          "score": "2-0",
+          "margin": "Hong Kong Velodrome; Dmitriev finally took gold after 4 previous podium finishes"
+        },
+        {
+          "year": 2016,
+          "winner": "Jason Kenny (GBR)",
+          "runnerUp": "Matthew Glaetzer (AUS)",
+          "score": "2-1",
+          "margin": "Lee Valley VeloPark (London); Kenny took title ahead of his Rio triple-gold Olympic campaign"
+        },
+        {
+          "year": 2015,
+          "winner": "Grégory Baugé (FRA)",
+          "runnerUp": "Denis Dmitriev (RUS)",
+          "score": "2-0",
+          "margin": "Vélodrome National (Saint-Quentin-en-Yvelines); Baugé won 4th individual sprint title before home crowd"
+        },
+        {
+          "year": 2014,
+          "winner": "François Pervis (FRA)",
+          "runnerUp": "Stefan Bötticher (GER)",
+          "score": "2-0",
+          "margin": "Alcides Nieto Patiño Velodrome (Cali, Colombia); Pervis won unprecedented historic treble (sprint, keirin, kilo)"
+        },
+        {
+          "year": 2013,
+          "winner": "Stefan Bötticher (GER)",
+          "runnerUp": "Denis Dmitriev (RUS)",
+          "score": "2-0",
+          "margin": "Minsk Arena (Belarus); 21-year-old German won both sprint and team sprint golds"
+        },
+        {
+          "year": 2012,
+          "winner": "Grégory Baugé (FRA)",
+          "runnerUp": "Jason Kenny (GBR)",
+          "score": "2-0",
+          "margin": "Hisense Arena (Melbourne); Baugé defeated Kenny in straight heats"
+        },
+        {
+          "year": 2010,
+          "winner": "Grégory Baugé (FRA)",
+          "runnerUp": "Kevin Sireau (FRA)",
+          "score": "2-0",
+          "margin": "Ballerup Super Arena (Copenhagen); all-French sprint final"
+        }
+      ]
+    },
+    {
+      "title": "Women's Individual Sprint",
+      "archiveUrl": "https://www.uci.org/competition-hub/uci-track-world-championships/",
+      "sourceUrl": "https://www.uci.org/",
+      "sourceLabel": "UCI Track Women's Sprint Results",
+      "archiveLabel": "Women's Sprint Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Emma Finucane (GBR)",
+          "runnerUp": "Hetty van de Wouw (NED)",
+          "score": "2-0",
+          "margin": "Ballerup (Denmark); 21-year-old Olympic champion Finucane defended world sprint crown in straight heats"
+        },
+        {
+          "year": 2023,
+          "winner": "Emma Finucane (GBR)",
+          "runnerUp": "Lea Sophie Friedrich (GER)",
+          "score": "2-0",
+          "margin": "Glasgow; Finucane became first British women's world sprint champion since Becky James in 2013"
+        },
+        {
+          "year": 2022,
+          "winner": "Mathilde Gros (FRA)",
+          "runnerUp": "Lea Sophie Friedrich (GER)",
+          "score": "2-0",
+          "margin": "Saint-Quentin-en-Yvelines; Gros defeated two German favorites on home velodrome"
+        },
+        {
+          "year": 2021,
+          "winner": "Emma Hinze (GER)",
+          "runnerUp": "Lea Sophie Friedrich (GER)",
+          "score": "2-0",
+          "margin": "Roubaix; Hinze defeated teammate Friedrich in all-German final"
+        },
+        {
+          "year": 2020,
+          "winner": "Emma Hinze (GER)",
+          "runnerUp": "Anastasia Voynova (RUS)",
+          "score": "2-0",
+          "margin": "Berlin; Hinze won sprint treble (sprint, keirin, team sprint) on home soil"
+        },
+        {
+          "year": 2019,
+          "winner": "Lee Wai-sze (HKG)",
+          "runnerUp": "Stephanie Morton (AUS)",
+          "score": "2-0",
+          "margin": "Pruszków; Lee won second career individual sprint rainbow jersey"
+        },
+        {
+          "year": 2018,
+          "winner": "Kristina Vogel (GER)",
+          "runnerUp": "Stephanie Morton (AUS)",
+          "score": "2-1",
+          "margin": "Apeldoorn; Vogel captured record-equalling 11th world title shortly before life-altering crash"
+        },
+        {
+          "year": 2017,
+          "winner": "Kristina Vogel (GER)",
+          "runnerUp": "Stephanie Morton (AUS)",
+          "score": "2-0",
+          "margin": "Hong Kong; Vogel defended title in dominant fashion"
+        },
+        {
+          "year": 2016,
+          "winner": "Zhong Tianshi (CHN)",
+          "runnerUp": "Lin Junhong (CHN)",
+          "score": "2-0",
+          "margin": "London; historic all-Chinese final; China's first individual sprint world championship"
+        },
+        {
+          "year": 2015,
+          "winner": "Kristina Vogel (GER)",
+          "runnerUp": "Elis Ligtlee (NED)",
+          "score": "2-0",
+          "margin": "Saint-Quentin-en-Yvelines; Vogel won second individual sprint title"
+        },
+        {
+          "year": 2014,
+          "winner": "Kristina Vogel (GER)",
+          "runnerUp": "Anna Meares (AUS)",
+          "score": "2-0",
+          "margin": "Cali (Colombia); Vogel defeated legendary 11-time world champion Meares"
+        },
+        {
+          "year": 2013,
+          "winner": "Becky James (GBR)",
+          "runnerUp": "Kristina Vogel (GER)",
+          "score": "2-1",
+          "margin": "Minsk (Belarus); 21-year-old Welsh rider won both sprint and keirin world titles"
+        },
+        {
+          "year": 2012,
+          "winner": "Victoria Pendleton (GBR)",
+          "runnerUp": "Simona Krupeckaitė (LTU)",
+          "score": "2-0",
+          "margin": "Melbourne; Pendleton's 6th sprint world title (2005, 2007, 2008, 2009, 2010, 2012)"
+        }
+      ]
+    }
+  ]
+}

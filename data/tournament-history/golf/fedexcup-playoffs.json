@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "FedExCup Playoffs",
+  "source": {
+    "url": "https://www.pgatour.com/fedexcup",
+    "label": "PGA Tour Official FedExCup Champion Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete FedExCup championship history (2007–2025) from the inaugural season through modern Starting Strokes format.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Scottie Scheffler",
+      "runnerUp": "Rory McIlroy",
+      "score": "-28 (starting strokes)",
+      "margin": "East Lake, Atlanta; defended FedExCup crown"
+    },
+    {
+      "year": 2024,
+      "winner": "Scottie Scheffler",
+      "runnerUp": "Collin Morikawa",
+      "score": "-30 (starting strokes)",
+      "margin": "4 strokes (East Lake); capped historic 7-win PGA Tour season with $25M prize"
+    },
+    {
+      "year": 2023,
+      "winner": "Viktor Hovland",
+      "runnerUp": "Xander Schauffele",
+      "score": "-27 (starting strokes)",
+      "margin": "5 strokes (East Lake); final-round 63 after winning BMW Championship"
+    },
+    {
+      "year": 2022,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Scottie Scheffler, Sungjae Im",
+      "score": "-21 (starting strokes)",
+      "margin": "1 stroke; historic 3rd FedExCup title, rallying from 6 strokes down on Sunday"
+    },
+    {
+      "year": 2021,
+      "winner": "Patrick Cantlay",
+      "runnerUp": "Jon Rahm",
+      "score": "-21 (starting strokes)",
+      "margin": "1 stroke; 'Patty Ice' birdied 72nd hole at East Lake"
+    },
+    {
+      "year": 2020,
+      "winner": "Dustin Johnson",
+      "runnerUp": "Xander Schauffele, Justin Thomas",
+      "score": "-21 (starting strokes)",
+      "margin": "3 strokes (East Lake); wire-to-wire finale"
+    },
+    {
+      "year": 2019,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Xander Schauffele",
+      "score": "-18 (starting strokes)",
+      "margin": "4 strokes; first year of Starting Strokes format at East Lake"
+    },
+    {
+      "year": 2018,
+      "winner": "Justin Rose",
+      "runnerUp": "Tiger Woods (Tour Champ winner)",
+      "score": "FedExCup points champion",
+      "margin": "Tiger Woods won Tour Championship; Rose birdied 18 to clinch season trophy"
+    },
+    {
+      "year": 2017,
+      "winner": "Justin Thomas",
+      "runnerUp": "Xander Schauffele (Tour Champ winner)",
+      "score": "FedExCup points champion",
+      "margin": "5-win season crowned with maiden FedExCup"
+    },
+    {
+      "year": 2016,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Kevin Chappell, Ryan Moore",
+      "score": "268 (-12)",
+      "margin": "4th playoff hole at East Lake to win tournament & cup"
+    },
+    {
+      "year": 2015,
+      "winner": "Jordan Spieth",
+      "runnerUp": "Henrik Stenson, Danny Lee, Justin Rose",
+      "score": "271 (-9)",
+      "margin": "4 strokes; 5th win of season including 2 majors"
+    },
+    {
+      "year": 2014,
+      "winner": "Billy Horschel",
+      "runnerUp": "Jim Furyk, Rory McIlroy",
+      "score": "269 (-11)",
+      "margin": "3 strokes; back-to-back playoff victories at BMW & Tour Championship"
+    },
+    {
+      "year": 2013,
+      "winner": "Henrik Stenson",
+      "runnerUp": "Jordan Spieth, Steve Stricker",
+      "score": "267 (-13)",
+      "margin": "3 strokes; completed historic FedExCup and Race to Dubai double"
+    },
+    {
+      "year": 2012,
+      "winner": "Brandt Snedeker",
+      "runnerUp": "Justin Rose",
+      "score": "270 (-10)",
+      "margin": "3 strokes; final-round 69 to take $10M jackpot"
+    },
+    {
+      "year": 2011,
+      "winner": "Bill Haas",
+      "runnerUp": "Hunter Mahan",
+      "score": "272 (-8)",
+      "margin": "Playoff (East Lake); iconic shot out of the water hazard on 17"
+    },
+    {
+      "year": 2010,
+      "winner": "Jim Furyk",
+      "runnerUp": "Luke Donald",
+      "score": "272 (-8)",
+      "margin": "1 stroke; saved par out of greenside bunker on 18 wearing backwards cap"
+    },
+    {
+      "year": 2009,
+      "winner": "Tiger Woods",
+      "runnerUp": "Phil Mickelson (Tour Champ winner)",
+      "score": "FedExCup points champion",
+      "margin": "Mickelson won Tour Championship; Woods clinched 2nd FedExCup"
+    },
+    {
+      "year": 2008,
+      "winner": "Vijay Singh",
+      "runnerUp": "Camilo Villegas (Tour Champ winner)",
+      "score": "FedExCup points champion",
+      "margin": "Singh swept The Barclays and Deutsche Bank Championship to seal cup"
+    },
+    {
+      "year": 2007,
+      "winner": "Tiger Woods",
+      "runnerUp": "Mark Calcavecchia, Zach Johnson",
+      "score": "257 (-23)",
+      "margin": "8-stroke Tour Championship blowout to win inaugural FedExCup"
+    }
+  ],
+  "sections": []
+}

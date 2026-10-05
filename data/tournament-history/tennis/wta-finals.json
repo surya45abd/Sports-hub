@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "WTA Finals",
+  "source": {
+    "url": "https://www.wtatennis.com/tournaments/808/wta-finals",
+    "label": "Official WTA Finals History & Champions"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Comprehensive WTA Finals championship singles archive (1990–2025).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://www.wtatennis.com/tournaments/808/wta-finals",
+      "sourceUrl": "https://www.wtatennis.com/tournament/808/wta-finals/past-winners",
+      "sourceLabel": "Official WTA Finals Winners Roll",
+      "archiveLabel": "Full WTA Finals Archive",
+      "records": [
+        {
+          "year": 2025,
+          "winner": "Coco Gauff",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "6-4, 3-6, 6-3",
+          "margin": "Riyadh, Saudi Arabia"
+        },
+        {
+          "year": 2024,
+          "winner": "Coco Gauff",
+          "runnerUp": "Zheng Qinwen",
+          "score": "3-6, 6-4, 7-6(2)",
+          "margin": "Youngest American champion since Serena Williams in 2001 (Riyadh)"
+        },
+        {
+          "year": 2023,
+          "winner": "Iga Świątek",
+          "runnerUp": "Jessica Pegula",
+          "score": "6-1, 6-0",
+          "margin": "Cancún; lost only 20 games throughout the entire tournament"
+        },
+        {
+          "year": 2022,
+          "winner": "Caroline Garcia",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "7-6(4), 6-4",
+          "margin": "Fort Worth, Texas"
+        },
+        {
+          "year": 2021,
+          "winner": "Garbiñe Muguruza",
+          "runnerUp": "Anett Kontaveit",
+          "score": "6-3, 7-5",
+          "margin": "Guadalajara, Mexico; first Spanish woman to win WTA Finals"
+        },
+        {
+          "year": 2019,
+          "winner": "Ashleigh Barty",
+          "runnerUp": "Elina Svitolina",
+          "score": "6-4, 6-3",
+          "margin": "Shenzhen, China; record $4.42M prize payout"
+        },
+        {
+          "year": 2018,
+          "winner": "Elina Svitolina",
+          "runnerUp": "Sloane Stephens",
+          "score": "3-6, 6-2, 6-2",
+          "margin": "Singapore; undefeated 5-0 tournament run"
+        },
+        {
+          "year": 2017,
+          "winner": "Caroline Wozniacki",
+          "runnerUp": "Venus Williams",
+          "score": "6-4, 6-4",
+          "margin": "Singapore; biggest career title"
+        },
+        {
+          "year": 2016,
+          "winner": "Dominika Cibulková",
+          "runnerUp": "Angelique Kerber",
+          "score": "6-3, 6-4",
+          "margin": "Singapore; lowest-ranked champion (No. 8) in modern format"
+        },
+        {
+          "year": 2015,
+          "winner": "Agnieszka Radwańska",
+          "runnerUp": "Petra Kvitová",
+          "score": "6-2, 4-6, 6-3",
+          "margin": "Singapore; won title after losing 2 round-robin matches"
+        },
+        {
+          "year": 2014,
+          "winner": "Serena Williams",
+          "runnerUp": "Simona Halep",
+          "score": "6-3, 6-0",
+          "margin": "Singapore; 3-peat and 5th career WTA Finals title"
+        },
+        {
+          "year": 2013,
+          "winner": "Serena Williams",
+          "runnerUp": "Li Na",
+          "score": "2-6, 6-3, 6-0",
+          "margin": "Istanbul; 4th title and finished season 78-4"
+        },
+        {
+          "year": 2012,
+          "winner": "Serena Williams",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-4, 6-3",
+          "margin": "Istanbul; won without dropping a set"
+        },
+        {
+          "year": 2011,
+          "winner": "Petra Kvitová",
+          "runnerUp": "Victoria Azarenka",
+          "score": "7-5, 4-6, 6-3",
+          "margin": "Istanbul; undefeated tournament run"
+        },
+        {
+          "year": 2010,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Caroline Wozniacki",
+          "score": "6-3, 5-7, 6-3",
+          "margin": "Doha, Qatar; 3rd career WTA Finals crown"
+        },
+        {
+          "year": 2009,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "6-2, 7-6(4)",
+          "margin": "Doha; regained World No. 1 ranking"
+        },
+        {
+          "year": 2008,
+          "winner": "Venus Williams",
+          "runnerUp": "Vera Zvonareva",
+          "score": "6-7(5), 6-0, 6-2",
+          "margin": "Doha; undefeated run to claim maiden title"
+        },
+        {
+          "year": 2007,
+          "winner": "Justine Henin",
+          "runnerUp": "Maria Sharapova",
+          "score": "5-7, 7-5, 6-3",
+          "margin": "Madrid; 3h 24m epic final"
+        },
+        {
+          "year": 2006,
+          "winner": "Justine Henin",
+          "runnerUp": "Amélie Mauresmo",
+          "score": "6-4, 6-3",
+          "margin": "Madrid; maiden WTA Championships crown"
+        },
+        {
+          "year": 2005,
+          "winner": "Amélie Mauresmo",
+          "runnerUp": "Mary Pierce",
+          "score": "5-7, 7-6(3), 6-4",
+          "margin": "Los Angeles; all-French final"
+        },
+        {
+          "year": 2004,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Serena Williams",
+          "score": "4-6, 6-2, 6-4",
+          "margin": "Los Angeles; rallied from 0-4 down in final set"
+        },
+        {
+          "year": 2003,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Amélie Mauresmo",
+          "score": "6-2, 6-0",
+          "margin": "Los Angeles; defended championship"
+        },
+        {
+          "year": 2002,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Serena Williams",
+          "score": "7-5, 6-3",
+          "margin": "Los Angeles; ended Serena's dominant season streak"
+        },
+        {
+          "year": 2001,
+          "winner": "Serena Williams",
+          "runnerUp": "Lindsay Davenport",
+          "score": "Walkover",
+          "margin": "Munich; Davenport withdrew with knee injury"
+        },
+        {
+          "year": 2000,
+          "winner": "Martina Hingis",
+          "runnerUp": "Monica Seles",
+          "score": "6-7(5), 6-4, 6-4",
+          "margin": "New York (Madison Square Garden)"
+        },
+        {
+          "year": 1999,
+          "winner": "Lindsay Davenport",
+          "runnerUp": "Martina Hingis",
+          "score": "6-4, 6-2",
+          "margin": "New York (MSG); Davenport won singles & doubles"
+        },
+        {
+          "year": 1998,
+          "winner": "Martina Hingis",
+          "runnerUp": "Lindsay Davenport",
+          "score": "7-5, 6-4, 4-6, 6-2",
+          "margin": "New York (MSG; best-of-5 final)"
+        },
+        {
+          "year": 1997,
+          "winner": "Jana Novotná",
+          "runnerUp": "Mary Pierce",
+          "score": "7-6(4), 6-2, 6-3",
+          "margin": "New York (MSG)"
+        },
+        {
+          "year": 1996,
+          "winner": "Steffi Graf",
+          "runnerUp": "Martina Hingis",
+          "score": "6-3, 4-6, 6-0, 4-6, 6-0",
+          "margin": "New York (MSG); 5th WTA Championships crown"
+        },
+        {
+          "year": 1995,
+          "winner": "Steffi Graf",
+          "runnerUp": "Anke Huber",
+          "score": "6-1, 2-6, 6-1, 4-6, 6-3",
+          "margin": "New York (MSG); all-German 5-set final"
+        },
+        {
+          "year": 1994,
+          "winner": "Gabriela Sabatini",
+          "runnerUp": "Lindsay Davenport",
+          "score": "6-3, 6-2, 6-4",
+          "margin": "New York (MSG); 2nd year-end championship"
+        },
+        {
+          "year": 1993,
+          "winner": "Steffi Graf",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "6-1, 6-4, 3-6, 6-1",
+          "margin": "New York (MSG)"
+        },
+        {
+          "year": 1992,
+          "winner": "Monica Seles",
+          "runnerUp": "Martina Navratilova",
+          "score": "7-5, 6-3, 6-1",
+          "margin": "New York (MSG); 3rd consecutive title"
+        },
+        {
+          "year": 1991,
+          "winner": "Monica Seles",
+          "runnerUp": "Martina Navratilova",
+          "score": "6-4, 3-6, 7-5, 6-0",
+          "margin": "New York (MSG)"
+        },
+        {
+          "year": 1990,
+          "winner": "Monica Seles",
+          "runnerUp": "Gabriela Sabatini",
+          "score": "6-4, 5-7, 3-6, 6-4, 6-2",
+          "margin": "First 5-set women's match since 1901"
+        }
+      ]
+    }
+  ]
+}

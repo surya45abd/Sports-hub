@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "sport": "Formula 1",
+  "tournament": "Formula 2",
+  "source": {
+    "url": "https://www.fiaformula2.com/Standings/Driver",
+    "label": "FIA Formula 2 Championship Official Driver Standings"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern FIA Formula 2 Championship archive (2017–2024).",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Gabriel Bortoleto (BRA)",
+      "runnerUp": "Isack Hadjar (FRA)",
+      "score": "Invicta Racing",
+      "margin": "Back-to-back F3 and F2 rookie champion; signed by Sauber/Audi for F1 2025"
+    },
+    {
+      "year": 2023,
+      "winner": "Théo Pourchaire (FRA)",
+      "runnerUp": "Frederik Vesti (DEN)",
+      "score": "203 pts (ART Grand Prix)",
+      "margin": "+11 pts; sealed title at Yas Marina finale in Abu Dhabi"
+    },
+    {
+      "year": 2022,
+      "winner": "Felipe Drugovich (BRA)",
+      "runnerUp": "Théo Pourchaire (FRA)",
+      "score": "265 pts (MP Motorsport)",
+      "margin": "+101 pts; dominant 5 race wins to clinch championship with 3 races to spare at Monza"
+    },
+    {
+      "year": 2021,
+      "winner": "Oscar Piastri (AUS)",
+      "runnerUp": "Robert Shwartzman (RUS)",
+      "score": "252½ pts (Prema Racing)",
+      "margin": "+60½ pts; rookie champion won 6 races and 5 consecutive pole positions"
+    },
+    {
+      "year": 2020,
+      "winner": "Mick Schumacher (GER)",
+      "runnerUp": "Callum Ilott (GBR)",
+      "score": "215 pts (Prema Racing)",
+      "margin": "+14 pts; son of Michael Schumacher claimed title in dramatic Sakhir finale"
+    },
+    {
+      "year": 2019,
+      "winner": "Nyck de Vries (NED)",
+      "runnerUp": "Nicholas Latifi (CAN)",
+      "score": "266 pts (ART Grand Prix)",
+      "margin": "+52 pts; clinched title at Sochi Autodrom with 4 wins and 12 podiums"
+    },
+    {
+      "year": 2018,
+      "winner": "George Russell (GBR)",
+      "runnerUp": "Lando Norris (GBR)",
+      "score": "287 pts (ART Grand Prix)",
+      "margin": "+68 pts; rookie champion won 7 races, edging Norris and Alex Albon into F1 promotions"
+    },
+    {
+      "year": 2017,
+      "winner": "Charles Leclerc (MON)",
+      "runnerUp": "Artem Markelov (RUS)",
+      "score": "282 pts (Prema Racing)",
+      "margin": "+72 pts; dominant rookie title with 7 wins and record 8 pole positions"
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "sport": "Basketball",
+  "tournament": "EuroCup",
+  "source": {
+    "url": "https://www.euroleaguebasketball.net/eurocup/history/",
+    "label": "Euroleague Basketball Official EuroCup History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern EuroCup (ULEB Cup) finals archive (2003–2024), tracking champions, runners-up, scores, and Finals MVPs.",
+  "records": [
+    {
+      "year": "2023-24",
+      "winner": "Paris Basketball (FRA)",
+      "runnerUp": "JL Bourg (FRA)",
+      "score": "2-0 series (77-64, 89-81)",
+      "margin": "All-French finals series; T.J. Shorts named Finals MVP; Paris qualified for EuroLeague"
+    },
+    {
+      "year": "2022-23",
+      "winner": "Gran Canaria (ESP)",
+      "runnerUp": "Türk Telekom (TUR)",
+      "score": "71-67",
+      "margin": "Gran Canaria Arena (Las Palmas); John Shurna named Finals MVP with 18 points"
+    },
+    {
+      "year": "2021-22",
+      "winner": "Virtus Segafredo Bologna (ITA)",
+      "runnerUp": "Frutti Extra Bursaspor (TUR)",
+      "score": "80-67",
+      "margin": "Segafredo Arena (Bologna); Miloš Teodosić scored 21 points to take Finals MVP"
+    },
+    {
+      "year": "2020-21",
+      "winner": "Monaco (FRA)",
+      "runnerUp": "UNICS Kazan (RUS)",
+      "score": "2-0 series (89-87, 86-83)",
+      "margin": "Basket Hall (Kazan); Rob Gray named Finals MVP averaging 24.0 PPG in finals"
+    },
+    {
+      "year": "2018-19",
+      "winner": "Valencia Basket (ESP)",
+      "runnerUp": "Alba Berlin (GER)",
+      "score": "2-1 series (89-75, 92-95, 89-63)",
+      "margin": "Pabellón Fuente de San Luis (Valencia); Will Thomas Finals MVP; record 4th EuroCup title"
+    },
+    {
+      "year": "2017-18",
+      "winner": "Darüşşafaka (TUR)",
+      "runnerUp": "Lokomotiv Kuban (RUS)",
+      "score": "2-0 series (81-78, 67-59)",
+      "margin": "Volkswagen Arena (Istanbul); Scottie Wilbekin Finals MVP under coach David Blatt"
+    },
+    {
+      "year": "2016-17",
+      "winner": "Unicaja (ESP)",
+      "runnerUp": "Valencia Basket (ESP)",
+      "score": "2-1 series (62-68, 79-71, 63-58)",
+      "margin": "Valencia; Unicaja rallied from 13 down in 4th quarter of Game 3; Alberto Díaz Finals MVP"
+    },
+    {
+      "year": "2015-16",
+      "winner": "Galatasaray Odeabank (TUR)",
+      "runnerUp": "SIG Strasbourg (FRA)",
+      "score": "140-133 agg. (62-66, 78-67)",
+      "margin": "Abdi İpekçi Arena (Istanbul); Stéphane Lasme named Finals MVP before ecstatic home crowd"
+    },
+    {
+      "year": "2014-15",
+      "winner": "Khimki (RUS)",
+      "runnerUp": "Herbalife Gran Canaria (ESP)",
+      "score": "174-130 agg. (91-66, 83-64)",
+      "margin": "Basketball Center of Moscow Region; Tyrese Rice named Finals MVP"
+    },
+    {
+      "year": "2013-14",
+      "winner": "Valencia Basket (ESP)",
+      "runnerUp": "UNICS Kazan (RUS)",
+      "score": "165-140 agg. (80-67, 85-73)",
+      "margin": "Basket Hall (Kazan); Justin Doellman Finals MVP; Valencia's 3rd crown"
+    },
+    {
+      "year": "2012-13",
+      "winner": "Lokomotiv Kuban (RUS)",
+      "runnerUp": "Uxúe Bilbao Basket (ESP)",
+      "score": "75-64",
+      "margin": "Spiroudome (Charleroi, Belgium); Richard Hendrix named Finals MVP"
+    },
+    {
+      "year": "2011-12",
+      "winner": "Khimki (RUS)",
+      "runnerUp": "Valencia Basket (ESP)",
+      "score": "77-68",
+      "margin": "Basketball Center of Moscow Region; Zoran Planinić named Finals MVP"
+    },
+    {
+      "year": "2010-11",
+      "winner": "UNICS Kazan (RUS)",
+      "runnerUp": "Cajasol Sevilla (ESP)",
+      "score": "92-67",
+      "margin": "PalaWhirlpool (Varese, Italy); Marko Popović scored 18 points and 11 assists for Finals MVP"
+    },
+    {
+      "year": "2009-10",
+      "winner": "Power Electronics Valencia (ESP)",
+      "runnerUp": "Alba Berlin (GER)",
+      "score": "67-44",
+      "margin": "Fernando Buesa Arena (Vitoria-Gasteiz); Matt Nielsen named Finals MVP"
+    },
+    {
+      "year": "2008-09",
+      "winner": "Lietuvos Rytas (LTU)",
+      "runnerUp": "Khimki (RUS)",
+      "score": "80-74",
+      "margin": "Palasport Olimpico (Turin, Italy); Marijonas Petravičius scored 20 points for Finals MVP"
+    },
+    {
+      "year": "2007-08",
+      "winner": "DKV Joventut (ESP)",
+      "runnerUp": "Akasvayu Girona (ESP)",
+      "score": "79-54",
+      "margin": "Palavela (Turin); Rudy Fernández recorded 13 points and 3 steals for Finals MVP"
+    },
+    {
+      "year": "2006-07",
+      "winner": "Real Madrid (ESP)",
+      "runnerUp": "Lietuvos Rytas (LTU)",
+      "score": "75-73",
+      "margin": "Spiroudome (Charleroi); Charles Smith named Finals MVP with 19 points"
+    },
+    {
+      "year": "2005-06",
+      "winner": "Dynamo Moscow (RUS)",
+      "runnerUp": "Aris TT Bank (GRE)",
+      "score": "73-60",
+      "margin": "Spiroudome (Charleroi); Ruben Douglas named Finals MVP with 17 points"
+    },
+    {
+      "year": "2004-05",
+      "winner": "Lietuvos Rytas (LTU)",
+      "runnerUp": "Makedonikos (GRE)",
+      "score": "78-74",
+      "margin": "Spiroudome (Charleroi); Robertas Javtokas named Finals MVP with 9 points and 5 rebounds"
+    },
+    {
+      "year": "2003-04",
+      "winner": "Hapoel Jerusalem (ISR)",
+      "runnerUp": "Real Madrid (ESP)",
+      "score": "83-72",
+      "margin": "Spiroudome (Charleroi); Kelly McCarty scored 22 points for Finals MVP in historic upset"
+    },
+    {
+      "year": "2002-03",
+      "winner": "Pamesa Valencia (ESP)",
+      "runnerUp": "Krka Novo Mesto (SLO)",
+      "score": "168-154 agg. (90-78, 78-76)",
+      "margin": "Inaugural ULEB Cup; Dejan Tomašević named Finals MVP"
+    }
+  ]
+}

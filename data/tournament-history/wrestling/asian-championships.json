@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Wrestling",
+  "tournament": "Asian Championships",
+  "source": {
+    "url": "https://uww.org/athletes-results",
+    "label": "UWW Asian Wrestling Championships"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Asian Wrestling Championship winners.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Iran (Freestyle: 190 pts) / Japan (Women: 173 pts)",
+      "runnerUp": "Japan / China",
+      "score": "5 Freestyle Golds",
+      "margin": "Bishkek, Kyrgyzstan"
+    },
+    {
+      "year": 2023,
+      "winner": "Kazakhstan (Freestyle) / Iran (Greco-Roman)",
+      "runnerUp": "Japan / Kyrgyzstan",
+      "score": "Team Standings",
+      "margin": "Astana, Kazakhstan; Aman Sehrawat won Men's 57kg Freestyle Gold"
+    },
+    {
+      "year": 2022,
+      "winner": "Iran (Freestyle) / Kazakhstan (Greco-Roman)",
+      "runnerUp": "India / Japan",
+      "score": "Team Standings",
+      "margin": "Ulaanbaatar, Mongolia; Ravi Dahiya won 3rd consecutive Asian Gold (57kg)"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "sport": "Volleyball",
+  "tournament": "FIVB Beach Volleyball World Championships",
+  "source": {
+    "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/competition/past-winners",
+    "label": "Official beach world championship medal archive"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "All completed editions from the inaugural 1997 championship through 2025 are listed, with men's and women's gold and silver medalists together by year.",
+  "verificationSources": [
+    {
+      "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/competition/past-winners",
+      "label": "Men's and women's past winners through 2023"
+    },
+    {
+      "url": "https://www.cev.eu/articles/features/2025-a-landmark-year-for-european-volleyball/",
+      "label": "2025 men's and women's medal matches"
+    }
+  ],
+  "records": [
+    {
+      "year": 1997,
+      "winner": "Men: Rogério Ferreira / Guilherme Marques; Women: Sandra Pires / Jackie Silva",
+      "runnerUp": "Men: Canyon Ceman / Mike Whitmarsh; Women: Lisa Arce / Holly McPeak",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Men: José Loiola / Emanuel Rego; Women: Shelda Bede / Adriana Behar",
+      "runnerUp": "Men: Martin Laciga / Paul Laciga; Women: Annett Davis / Jenny Johnson Jordan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Men: Mariano Baracetti / Martín Conde; Women: Shelda Bede / Adriana Behar",
+      "runnerUp": "Men: José Loiola / Ricardo Santos; Women: Tatiana Minello / Sandra Pires",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Men: Emanuel Rego / Ricardo Santos; Women: Misty May / Kerri Walsh",
+      "runnerUp": "Men: Dax Holdren / Stein Metzger; Women: Shelda Bede / Adriana Behar",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Men: Márcio Araújo / Fábio Luiz Magalhães; Women: Misty May-Treanor / Kerri Walsh",
+      "runnerUp": "Men: Sascha Heyer / Paul Laciga; Women: Larissa França / Juliana Silva",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Men: Phil Dalhausser / Todd Rogers; Women: Misty May-Treanor / Kerri Walsh",
+      "runnerUp": "Men: Dmitri Barsuk / Igor Kolodinsky; Women: Tian Jia / Wang Jie",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Men: Julius Brink / Jonas Reckermann; Women: Jennifer Kessy / April Ross",
+      "runnerUp": "Men: Alison Cerutti / Harley Marques Silva; Women: Larissa França / Juliana Silva",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Men: Alison Cerutti / Emanuel Rego; Women: Larissa França / Juliana Silva",
+      "runnerUp": "Men: Márcio Araújo / Ricardo Santos; Women: Misty May-Treanor / Kerri Walsh Jennings",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Men: Alexander Brouwer / Robert Meeuwsen; Women: Xue Chen / Zhang Xi",
+      "runnerUp": "Men: Álvaro Filho / Ricardo Santos; Women: Karla Borger / Britta Büthe",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Men: Alison Cerutti / Bruno Schmidt; Women: Ágatha Bednarczuk / Bárbara Seixas",
+      "runnerUp": "Men: Reinder Nummerdor / Christiaan Varenhorst; Women: Taiana Lima / Fernanda Berti",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Men: Evandro Oliveira / André Stein; Women: Laura Ludwig / Kira Walkenhorst",
+      "runnerUp": "Men: Clemens Doppler / Alexander Horst; Women: April Ross / Lauren Fendrick",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Men: Oleg Stoyanovskiy / Viacheslav Krasilnikov; Women: Sarah Pavan / Melissa Humana-Paredes",
+      "runnerUp": "Men: Julius Thole / Clemens Wickler; Women: Alix Klineman / April Ross",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Men: Anders Mol / Christian Sørum; Women: Duda / Ana Patrícia",
+      "runnerUp": "Men: Vitor Felipe / Renato Lima; Women: Sophie Bukovec / Brandie Wilkerson",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Men: Ondřej Perušič / David Schweiner; Women: Sara Hughes / Kelly Cheng",
+      "runnerUp": "Men: David Åhman / Jonatan Hellvig; Women: Ana Patrícia / Duda",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Men: David Åhman / Jonatan Hellvig; Women: Tīna Graudiņa / Anastasija Samoilova",
+      "runnerUp": "Men: Jacob Hölting Nilsson / Elmer Andersson; Women: Kristen Nuss / Taryn Brasher",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": []
+}

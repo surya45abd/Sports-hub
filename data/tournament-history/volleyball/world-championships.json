@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "sport": "Volleyball",
+  "tournament": "World Championships",
+  "source": {
+    "url": "https://en.volleyballworld.com/volleyball/competitions/men-world-championship/news/honours-men-world-championship-2025",
+    "label": "Official men's honours archive"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "Every completed senior indoor world championship edition through 2025 is listed. The men's event began in 1949; the women's event began in 1952. Men and women are combined by edition year.",
+  "verificationSources": [
+    {
+      "url": "https://en.volleyballworld.com/volleyball/competitions/men-world-championship/news/honours-men-world-championship-2025",
+      "label": "Men's historical podiums"
+    },
+    {
+      "url": "https://en.volleyballworld.com/news/honours-women-world-championship-2025",
+      "label": "Women's historical podiums"
+    },
+    {
+      "url": "https://en.volleyballworld.com/volleyball/competitions/men-world-championship/news/italy-beat-bulgaria-to-triumph-with-second-consecutive-and-fifth-overall-world-title",
+      "label": "2025 men's final"
+    },
+    {
+      "url": "https://en.volleyballworld.com/news/italy-continue-dominate-claim-world-title",
+      "label": "2025 women's final"
+    }
+  ],
+  "records": [
+    {
+      "year": 1949,
+      "winner": "Men: Soviet Union; Women: Not held",
+      "runnerUp": "Men: Czechoslovakia; Women: Not held",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1952,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Czechoslovakia; Women: Poland",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1956,
+      "winner": "Men: Czechoslovakia; Women: Soviet Union",
+      "runnerUp": "Men: Romania; Women: Romania",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1960,
+      "winner": "Men: Soviet Union; Women: Soviet Union",
+      "runnerUp": "Men: Czechoslovakia; Women: Japan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1962,
+      "winner": "Men: Soviet Union; Women: Japan",
+      "runnerUp": "Men: Czechoslovakia; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1966,
+      "winner": "Men: Czechoslovakia; Women: Not held",
+      "runnerUp": "Men: Romania; Women: Not held",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Men: Not held; Women: Japan",
+      "runnerUp": "Men: Not held; Women: United States",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Men: East Germany; Women: Soviet Union",
+      "runnerUp": "Men: Bulgaria; Women: Japan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Men: Poland; Women: Japan",
+      "runnerUp": "Men: Soviet Union; Women: Soviet Union",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Men: Soviet Union; Women: Cuba",
+      "runnerUp": "Men: Italy; Women: Japan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Men: Soviet Union; Women: China",
+      "runnerUp": "Men: Brazil; Women: Peru",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Men: United States; Women: China",
+      "runnerUp": "Men: Soviet Union; Women: Cuba",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Men: Italy; Women: Soviet Union",
+      "runnerUp": "Men: Cuba; Women: China",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Men: Italy; Women: Cuba",
+      "runnerUp": "Men: Netherlands; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Men: Italy; Women: Cuba",
+      "runnerUp": "Men: Yugoslavia; Women: China",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Men: Brazil; Women: Italy",
+      "runnerUp": "Men: Russia; Women: United States",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Men: Brazil; Women: Russia",
+      "runnerUp": "Men: Poland; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Men: Brazil; Women: Russia",
+      "runnerUp": "Men: Cuba; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Men: Poland; Women: United States",
+      "runnerUp": "Men: Brazil; Women: China",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Men: Poland; Women: Serbia",
+      "runnerUp": "Men: Brazil; Women: Italy",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Men: Italy; Women: Serbia",
+      "runnerUp": "Men: Poland; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Men: Italy; Women: Italy",
+      "runnerUp": "Men: Bulgaria; Women: Türkiye",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": []
+}

@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 2,
+  "sport": "Athletics",
+  "tournament": "World Athletics Championships",
+  "source": {
+    "url": "https://worldathletics.org/competitions/world-athletics-championships",
+    "label": "World Athletics Official Results Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete historical archive of World Athletics Championships flagship events: Men's 100m, Women's 100m, Men's Pole Vault, and Medal Table winners across all editions (1983–2023).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's 100 metres",
+      "archiveUrl": "https://worldathletics.org/competitions/world-athletics-championships/budapest23/results/men/100-metres/final/result",
+      "sourceUrl": "https://worldathletics.org/competitions/world-athletics-championships",
+      "sourceLabel": "World Athletics Championships Men's 100m Official Results",
+      "archiveLabel": "World Athletics Men's 100m Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Noah Lyles (USA)",
+          "runnerUp": "Letsile Tebogo (BOT)",
+          "score": "9.83 s",
+          "margin": "National Athletics Centre (Budapest); Lyles completed 100m/200m/4x100m sprint treble"
+        },
+        {
+          "year": 2022,
+          "winner": "Fred Kerley (USA)",
+          "runnerUp": "Marvin Bracy (USA)",
+          "score": "9.86 s",
+          "margin": "Hayward Field (Eugene); USA clean sweep of the podium with Trayvon Bromell bronze"
+        },
+        {
+          "year": 2019,
+          "winner": "Christian Coleman (USA)",
+          "runnerUp": "Justin Gatlin (USA)",
+          "score": "9.76 s",
+          "margin": "Khalifa International Stadium (Doha); WL 9.76 seconds personal best"
+        },
+        {
+          "year": 2017,
+          "winner": "Justin Gatlin (USA)",
+          "runnerUp": "Christian Coleman (USA)",
+          "score": "9.92 s",
+          "margin": "London Stadium; Usain Bolt took bronze in his final individual championship race"
+        },
+        {
+          "year": 2015,
+          "winner": "Usain Bolt (JAM)",
+          "runnerUp": "Justin Gatlin (USA)",
+          "score": "9.79 s",
+          "margin": "Bird's Nest (Beijing); Bolt edged Gatlin by 0.01 seconds in thrilling final"
+        },
+        {
+          "year": 2013,
+          "winner": "Usain Bolt (JAM)",
+          "runnerUp": "Justin Gatlin (USA)",
+          "score": "9.77 s",
+          "margin": "Luzhniki Stadium (Moscow); Bolt won gold through heavy rainstorm"
+        },
+        {
+          "year": 2011,
+          "winner": "Yohan Blake (JAM)",
+          "runnerUp": "Walter Dix (USA)",
+          "score": "9.92 s",
+          "margin": "Daegu Stadium; youngest men's 100m champion (age 21) after Bolt false started"
+        },
+        {
+          "year": 2009,
+          "winner": "Usain Bolt (JAM)",
+          "runnerUp": "Tyson Gay (USA)",
+          "score": "9.58 s",
+          "margin": "Olympiastadion (Berlin); World Record 9.58 s, fastest human speed in history"
+        },
+        {
+          "year": 2007,
+          "winner": "Tyson Gay (USA)",
+          "runnerUp": "Derrick Atkins (BAH)",
+          "score": "9.85 s",
+          "margin": "Nagai Stadium (Osaka); Gay won sprint double (100m/200m) and 4x100m gold"
+        },
+        {
+          "year": 2005,
+          "winner": "Justin Gatlin (USA)",
+          "runnerUp": "Michael Frater (JAM)",
+          "score": "9.88 s",
+          "margin": "Helsinki Olympic Stadium; Gatlin won by 0.17 s, largest margin since 1999"
+        },
+        {
+          "year": 2003,
+          "winner": "Kim Collins (SKN)",
+          "runnerUp": "Darrel Brown (TTO)",
+          "score": "10.07 s",
+          "margin": "Stade de France (Saint-Denis); first world championship medal for Saint Kitts and Nevis"
+        },
+        {
+          "year": 2001,
+          "winner": "Maurice Greene (USA)",
+          "runnerUp": "Bernard Williams (USA)",
+          "score": "9.82 s",
+          "margin": "Commonwealth Stadium (Edmonton); Greene completed 3-peat of world titles"
+        },
+        {
+          "year": 1999,
+          "winner": "Maurice Greene (USA)",
+          "runnerUp": "Bruny Surin (CAN)",
+          "score": "9.80 s",
+          "margin": "Estadio de La Cartuja (Seville); Championship Record at the time"
+        },
+        {
+          "year": 1997,
+          "winner": "Maurice Greene (USA)",
+          "runnerUp": "Donovan Bailey (CAN)",
+          "score": "9.86 s",
+          "margin": "Olympic Stadium (Athens); Greene defeated reigning Olympic champion Bailey"
+        },
+        {
+          "year": 1995,
+          "winner": "Donovan Bailey (CAN)",
+          "runnerUp": "Bruny Surin (CAN)",
+          "score": "9.97 s",
+          "margin": "Ullevi (Gothenburg); Canadian 1-2 finish"
+        },
+        {
+          "year": 1993,
+          "winner": "Linford Christie (GBR)",
+          "runnerUp": "Andre Cason (USA)",
+          "score": "9.87 s",
+          "margin": "Gottlieb-Daimler-Stadion (Stuttgart); European record 9.87 s"
+        },
+        {
+          "year": 1991,
+          "winner": "Carl Lewis (USA)",
+          "runnerUp": "Leroy Burrell (USA)",
+          "score": "9.86 s",
+          "margin": "Olympic Stadium (Tokyo); broke World Record in legendary final where 6 broke 10s"
+        },
+        {
+          "year": 1987,
+          "winner": "Carl Lewis (USA)",
+          "runnerUp": "Raymond Stewart (JAM)",
+          "score": "9.93 s",
+          "margin": "Stadio Olimpico (Rome); Lewis equalled world record after Ben Johnson DQ"
+        },
+        {
+          "year": 1983,
+          "winner": "Carl Lewis (USA)",
+          "runnerUp": "Calvin Smith (USA)",
+          "score": "10.07 s",
+          "margin": "Helsinki Olympic Stadium; inaugural World Championships, Lewis won 3 golds"
+        }
+      ]
+    },
+    {
+      "title": "Women's 100 metres",
+      "archiveUrl": "https://worldathletics.org/competitions/world-athletics-championships/budapest23/results/women/100-metres/final/result",
+      "sourceUrl": "https://worldathletics.org/competitions/world-athletics-championships",
+      "sourceLabel": "World Athletics Championships Women's 100m Official Results",
+      "archiveLabel": "World Athletics Women's 100m Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Sha'Carri Richardson (USA)",
+          "runnerUp": "Shericka Jackson (JAM)",
+          "score": "10.65 s",
+          "margin": "Budapest; Championship Record from lane 9 in her World Championship debut"
+        },
+        {
+          "year": 2022,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Shericka Jackson (JAM)",
+          "score": "10.67 s",
+          "margin": "Eugene; record 5th 100m world title at age 35; Jamaican podium clean sweep"
+        },
+        {
+          "year": 2019,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Dina Asher-Smith (GBR)",
+          "score": "10.71 s",
+          "margin": "Doha; returned after childbirth to capture 4th 100m world crown"
+        },
+        {
+          "year": 2017,
+          "winner": "Tori Bowie (USA)",
+          "runnerUp": "Marie-Josée Ta Lou (CIV)",
+          "score": "10.85 s",
+          "margin": "London; Bowie dipped at the line to take gold by 0.01 seconds"
+        },
+        {
+          "year": 2015,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Dafne Schippers (NED)",
+          "score": "10.76 s",
+          "margin": "Beijing; Fraser-Pryce dominated final with green hair dye"
+        },
+        {
+          "year": 2013,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Murielle Ahouré (CIV)",
+          "score": "10.71 s",
+          "margin": "Moscow; Fraser-Pryce won sprint treble (100m, 200m, 4x100m)"
+        },
+        {
+          "year": 2011,
+          "winner": "Carmelita Jeter (USA)",
+          "runnerUp": "Veronica Campbell-Brown (JAM)",
+          "score": "10.90 s",
+          "margin": "Daegu; Jeter captured her first individual World Championship gold"
+        },
+        {
+          "year": 2009,
+          "winner": "Shelly-Ann Fraser (JAM)",
+          "runnerUp": "Kerron Stewart (JAM)",
+          "score": "10.73 s",
+          "margin": "Berlin; Jamaican national record 10.73 s, 1-2 finish"
+        },
+        {
+          "year": 2007,
+          "winner": "Veronica Campbell-Brown (JAM)",
+          "runnerUp": "Lauryn Williams (USA)",
+          "score": "11.01 s",
+          "margin": "Osaka; decided by photo-finish (both timed at 11.006 s)"
+        },
+        {
+          "year": 2005,
+          "winner": "Lauryn Williams (USA)",
+          "runnerUp": "Veronica Campbell (JAM)",
+          "score": "10.93 s",
+          "margin": "Helsinki; Williams claimed world title in torrential Nordic conditions"
+        },
+        {
+          "year": 2003,
+          "winner": "Torri Edwards (USA)",
+          "runnerUp": "Chandra Sturrup (BAH)",
+          "score": "10.93 s",
+          "margin": "Saint-Denis; Edwards promoted to gold following Kelli White disqualification"
+        },
+        {
+          "year": 2001,
+          "winner": "Zhanna Pintusevich-Block (UKR)",
+          "runnerUp": "Ekaterini Thanou (GRE)",
+          "score": "10.82 s",
+          "margin": "Edmonton; Ukrainian upset Marion Jones' 42-race winning streak"
+        },
+        {
+          "year": 1999,
+          "winner": "Marion Jones (USA)",
+          "runnerUp": "Inger Miller (USA)",
+          "score": "10.70 s",
+          "margin": "Seville; Championship Record at the time"
+        },
+        {
+          "year": 1997,
+          "winner": "Marion Jones (USA)",
+          "runnerUp": "Zhanna Pintusevich (UKR)",
+          "score": "10.83 s",
+          "margin": "Athens; Jones burst onto world stage at age 21"
+        },
+        {
+          "year": 1995,
+          "winner": "Gwen Torrence (USA)",
+          "runnerUp": "Merlene Ottey (JAM)",
+          "score": "10.85 s",
+          "margin": "Gothenburg; Torrence won gold over sprint legend Ottey"
+        },
+        {
+          "year": 1993,
+          "winner": "Gail Devers (USA)",
+          "runnerUp": "Merlene Ottey (JAM)",
+          "score": "10.82 s",
+          "margin": "Stuttgart; exact tie at 10.82 s, separated by thousands of a second on photo"
+        },
+        {
+          "year": 1991,
+          "winner": "Katrin Krabbe (GER)",
+          "runnerUp": "Gwen Torrence (USA)",
+          "score": "10.99 s",
+          "margin": "Tokyo; German sprinter won 100m/200m double"
+        },
+        {
+          "year": 1987,
+          "winner": "Silke Gladisch (GDR)",
+          "runnerUp": "Heike Drechsler (GDR)",
+          "score": "10.90 s",
+          "margin": "Rome; East German 1-2 finish with Gladisch winning sprint double"
+        },
+        {
+          "year": 1983,
+          "winner": "Marlies Göhr (GDR)",
+          "runnerUp": "Marita Koch (GDR)",
+          "score": "10.97 s",
+          "margin": "Helsinki; inaugural women's 100m world title"
+        }
+      ]
+    },
+    {
+      "title": "Medal table champions",
+      "archiveUrl": "https://worldathletics.org/competitions/world-athletics-championships/budapest23/medal-table",
+      "sourceUrl": "https://worldathletics.org/competitions/world-athletics-championships",
+      "sourceLabel": "World Athletics Official Medal Table Archives",
+      "archiveLabel": "World Athletics Medal Tables Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "United States",
+          "runnerUp": "Canada / Spain",
+          "score": "12 Gold, 8 Silver, 9 Bronze (29 total)",
+          "margin": "Budapest; USA topped medal table ahead of Canada (4 golds) and Spain (4 golds)"
+        },
+        {
+          "year": 2022,
+          "winner": "United States",
+          "runnerUp": "Ethiopia",
+          "score": "13 Gold, 9 Silver, 11 Bronze (33 total)",
+          "margin": "Eugene; historic record 33 total medals on home soil at Hayward Field"
+        },
+        {
+          "year": 2019,
+          "winner": "United States",
+          "runnerUp": "Kenya",
+          "score": "14 Gold, 11 Silver, 4 Bronze (29 total)",
+          "margin": "Doha; 14 gold medals dominated championships"
+        },
+        {
+          "year": 2017,
+          "winner": "United States",
+          "runnerUp": "Kenya",
+          "score": "10 Gold, 11 Silver, 9 Bronze (30 total)",
+          "margin": "London; USA finished ahead of Kenya (5 golds) and South Africa (3 golds)"
+        },
+        {
+          "year": 2015,
+          "winner": "Kenya",
+          "runnerUp": "Jamaica",
+          "score": "7 Gold, 6 Silver, 3 Bronze (16 total)",
+          "margin": "Beijing; Kenya topped World Championships medal table for the first time in history"
+        },
+        {
+          "year": 2013,
+          "winner": "Russia",
+          "runnerUp": "United States",
+          "score": "7 Gold, 3 Silver, 5 Bronze (15 total)",
+          "margin": "Moscow; host nation Russia edged USA (6 golds after reallocations)"
+        },
+        {
+          "year": 2011,
+          "winner": "United States",
+          "runnerUp": "Kenya",
+          "score": "12 Gold, 9 Silver, 7 Bronze (28 total)",
+          "margin": "Daegu; USA comfortably topped medal standings"
+        },
+        {
+          "year": 2009,
+          "winner": "United States",
+          "runnerUp": "Jamaica",
+          "score": "10 Gold, 6 Silver, 6 Bronze (22 total)",
+          "margin": "Berlin; Jamaica placed second with 7 golds (Bolt 3 golds)"
+        },
+        {
+          "year": 2007,
+          "winner": "United States",
+          "runnerUp": "Kenya",
+          "score": "14 Gold, 5 Silver, 7 Bronze (26 total)",
+          "margin": "Osaka; USA matched all-time gold haul record of 14"
+        },
+        {
+          "year": 2005,
+          "winner": "United States",
+          "runnerUp": "Russia",
+          "score": "14 Gold, 8 Silver, 3 Bronze (25 total)",
+          "margin": "Helsinki; dominant 14 gold medal haul by USA team"
+        }
+      ]
+    }
+  ]
+}

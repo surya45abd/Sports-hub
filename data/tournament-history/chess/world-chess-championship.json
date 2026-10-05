@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 2,
+  "sport": "Chess",
+  "tournament": "World Chess Championship",
+  "source": {
+    "url": "https://www.fide.com/calendar",
+    "label": "International Chess Federation (FIDE) Official Championship Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern World Chess Championship match archive (1972–2024) including Gukesh's historic 2024 triumph.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Gukesh Dommaraju (IND)",
+      "runnerUp": "Ding Liren (CHN)",
+      "score": "7½ - 6½",
+      "margin": "Singapore; at age 18, Gukesh became the youngest undisputed World Chess Champion in history"
+    },
+    {
+      "year": 2023,
+      "winner": "Ding Liren (CHN)",
+      "runnerUp": "Ian Nepomniachtchi (FIDE)",
+      "score": "2½ - 1½ (rapid tiebreak; 7 - 7 classical)",
+      "margin": "Astana, Kazakhstan; first Chinese World Chess Champion"
+    },
+    {
+      "year": 2021,
+      "winner": "Magnus Carlsen (NOR)",
+      "runnerUp": "Ian Nepomniachtchi (CFR)",
+      "score": "7½ - 3½",
+      "margin": "Dubai; Game 6 was the longest game in World Championship history (136 moves, 7h 45m)"
+    },
+    {
+      "year": 2018,
+      "winner": "Magnus Carlsen (NOR)",
+      "runnerUp": "Fabiano Caruana (USA)",
+      "score": "3 - 0 (rapid tiebreak; 6 - 6 classical)",
+      "margin": "London; all 12 classical games ended in draws"
+    },
+    {
+      "year": 2016,
+      "winner": "Magnus Carlsen (NOR)",
+      "runnerUp": "Sergey Karjakin (RUS)",
+      "score": "3 - 1 (rapid tiebreak; 6 - 6 classical)",
+      "margin": "New York; celebrated 26th birthday with queen sacrifice in Game 4 of tiebreak"
+    },
+    {
+      "year": 2014,
+      "winner": "Magnus Carlsen (NOR)",
+      "runnerUp": "Viswanathan Anand (IND)",
+      "score": "6½ - 4½",
+      "margin": "Sochi, Russia; defended title"
+    },
+    {
+      "year": 2013,
+      "winner": "Magnus Carlsen (NOR)",
+      "runnerUp": "Viswanathan Anand (IND)",
+      "score": "6½ - 3½",
+      "margin": "Chennai, India; Carlsen won maiden crown without losing a game"
+    },
+    {
+      "year": 2012,
+      "winner": "Viswanathan Anand (IND)",
+      "runnerUp": "Boris Gelfand (ISR)",
+      "score": "2½ - 1½ (rapid tiebreak; 6 - 6 classical)",
+      "margin": "Tretyakov Gallery, Moscow; Anand's 4th consecutive title defense"
+    },
+    {
+      "year": 2010,
+      "winner": "Viswanathan Anand (IND)",
+      "runnerUp": "Veselin Topalov (BUL)",
+      "score": "6½ - 5½",
+      "margin": "Sofia, Bulgaria; Anand won final 12th game with Black"
+    },
+    {
+      "year": 2008,
+      "winner": "Viswanathan Anand (IND)",
+      "runnerUp": "Vladimir Kramnik (RUS)",
+      "score": "6½ - 4½",
+      "margin": "Bonn, Germany; Anand won games 3, 5, and 6 with deep theoretical prep"
+    },
+    {
+      "year": 2007,
+      "winner": "Viswanathan Anand (IND)",
+      "runnerUp": "Vladimir Kramnik, Boris Gelfand",
+      "score": "9 / 14 (tournament)",
+      "margin": "Mexico City; 8-player double round-robin tournament to crown undisputed champion"
+    },
+    {
+      "year": 2006,
+      "winner": "Vladimir Kramnik (RUS)",
+      "runnerUp": "Veselin Topalov (BUL)",
+      "score": "2½ - 1½ (rapid tiebreak; 6 - 6 classical)",
+      "margin": "Elista, Russia; historical reunification match resolving the 13-year split in chess world"
+    },
+    {
+      "year": 2004,
+      "winner": "Vladimir Kramnik (RUS) (Retained)",
+      "runnerUp": "Péter Lékó (HUN)",
+      "score": "7 - 7",
+      "margin": "Brissago, Switzerland; Kramnik won 14th and final game to retain title"
+    },
+    {
+      "year": 2000,
+      "winner": "Vladimir Kramnik (RUS)",
+      "runnerUp": "Garry Kasparov (RUS)",
+      "score": "8½ - 6½",
+      "margin": "London; Kramnik's Berlin Defense neutralised Kasparov (unbeaten in match)"
+    },
+    {
+      "year": 1995,
+      "winner": "Garry Kasparov (RUS)",
+      "runnerUp": "Viswanathan Anand (IND)",
+      "score": "10½ - 7½",
+      "margin": "World Trade Center, New York (PCA World Championship)"
+    },
+    {
+      "year": 1993,
+      "winner": "Garry Kasparov (RUS)",
+      "runnerUp": "Nigel Short (ENG)",
+      "score": "12½ - 7½",
+      "margin": "Savoy Theatre, London (PCA World Championship)"
+    },
+    {
+      "year": 1990,
+      "winner": "Garry Kasparov (URS)",
+      "runnerUp": "Anatoly Karpov (URS)",
+      "score": "12½ - 11½",
+      "margin": "New York & Lyon; 5th epic Kasparov-Karpov match"
+    },
+    {
+      "year": 1987,
+      "winner": "Garry Kasparov (URS) (Retained)",
+      "runnerUp": "Anatoly Karpov (URS)",
+      "score": "12 - 12",
+      "margin": "Seville, Spain; Kasparov won dramatic 24th game to tie and keep crown"
+    },
+    {
+      "year": 1986,
+      "winner": "Garry Kasparov (URS)",
+      "runnerUp": "Anatoly Karpov (URS)",
+      "score": "12½ - 11½",
+      "margin": "London & Leningrad"
+    },
+    {
+      "year": 1985,
+      "winner": "Garry Kasparov (URS)",
+      "runnerUp": "Anatoly Karpov (URS)",
+      "score": "13 - 11",
+      "margin": "Moscow; at age 22, Kasparov became the youngest World Champion in history"
+    },
+    {
+      "year": 1984,
+      "winner": "Abandoned (No Winner)",
+      "runnerUp": "Anatoly Karpov & Garry Kasparov",
+      "score": "5 - 3 (40 draws)",
+      "margin": "Terminated without result after 48 games by FIDE President Campomanes"
+    },
+    {
+      "year": 1981,
+      "winner": "Anatoly Karpov (URS)",
+      "runnerUp": "Viktor Korchnoi (SUI)",
+      "score": "6 - 2",
+      "margin": "Merano, Italy; 'Massacre in Merano'"
+    },
+    {
+      "year": 1978,
+      "winner": "Anatoly Karpov (URS)",
+      "runnerUp": "Viktor Korchnoi (SUI)",
+      "score": "6 - 5 (21 draws)",
+      "margin": "Baguio, Philippines; legendary 32-game thriller with parapsychologists in crowd"
+    },
+    {
+      "year": 1975,
+      "winner": "Anatoly Karpov (URS)",
+      "runnerUp": "Bobby Fischer (USA)",
+      "score": "Forfeit",
+      "margin": "Fischer forfeited after dispute over match conditions"
+    },
+    {
+      "year": 1972,
+      "winner": "Bobby Fischer (USA)",
+      "runnerUp": "Boris Spassky (URS)",
+      "score": "12½ - 8½",
+      "margin": "Reykjavík, Iceland; iconic Cold War 'Match of the Century'"
+    }
+  ],
+  "sections": []
+}

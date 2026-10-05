@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 2,
+  "sport": "Athletics",
+  "tournament": "Diamond League",
+  "source": {
+    "url": "https://www.diamondleague.com/",
+    "label": "Wanda Diamond League Official Site"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Diamond League Final champions archive (2010–2024) across premier sprint and field categories.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's 100 metres Champions",
+      "archiveUrl": "https://www.diamondleague.com/results/",
+      "sourceUrl": "https://www.diamondleague.com/",
+      "sourceLabel": "Diamond League Final Archives",
+      "archiveLabel": "Diamond League Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Ackeem Blake (JAM)",
+          "runnerUp": "Christian Coleman (USA)",
+          "score": "9.93 s",
+          "margin": "Memorial Van Damme (Brussels); Blake claimed first Diamond Trophy"
+        },
+        {
+          "year": 2023,
+          "winner": "Christian Coleman (USA)",
+          "runnerUp": "Noah Lyles (USA)",
+          "score": "9.83 s",
+          "margin": "Prefontaine Classic (Eugene); equalled world lead 9.83 s"
+        },
+        {
+          "year": 2022,
+          "winner": "Trayvon Bromell (USA)",
+          "runnerUp": "Yohan Blake (JAM)",
+          "score": "9.94 s",
+          "margin": "Weltklasse Zürich; Bromell captured second Diamond League title"
+        },
+        {
+          "year": 2021,
+          "winner": "Fred Kerley (USA)",
+          "runnerUp": "Andre De Grasse (CAN)",
+          "score": "9.87 s",
+          "margin": "Letzigrund (Zürich); Kerley won maiden Diamond Trophy in 100m"
+        },
+        {
+          "year": 2019,
+          "winner": "Noah Lyles (USA)",
+          "runnerUp": "Justin Gatlin (USA)",
+          "score": "9.98 s",
+          "margin": "Memorial Van Damme (Brussels); Lyles also won the 200m Diamond Trophy"
+        },
+        {
+          "year": 2018,
+          "winner": "Christian Coleman (USA)",
+          "runnerUp": "Ronnie Baker (USA)",
+          "score": "9.79 s",
+          "margin": "Brussels; world-leading 9.79 s into headwind"
+        },
+        {
+          "year": 2017,
+          "winner": "Chijindu Ujah (GBR)",
+          "runnerUp": "Ben Youssef Meïté (CIV)",
+          "score": "9.97 s",
+          "margin": "Zürich; British sprinter clinched overall trophy by 0.003s"
+        },
+        {
+          "year": 2016,
+          "winner": "Asafa Powell (JAM)",
+          "runnerUp": "Ben Youssef Meïté (CIV)",
+          "score": "Season Champion (26 pts)",
+          "margin": "Powell won Diamond League 100m points series"
+        },
+        {
+          "year": 2015,
+          "winner": "Justin Gatlin (USA)",
+          "runnerUp": "Femi Ogunode (QAT)",
+          "score": "Season Champion (20 pts)",
+          "margin": "Gatlin undefeated throughout Diamond League 100m season"
+        },
+        {
+          "year": 2014,
+          "winner": "Michael Rodgers (USA)",
+          "runnerUp": "Christian Malcolm (GBR)",
+          "score": "Season Champion (13 pts)",
+          "margin": "Rodgers won overall 100m diamond trophy"
+        },
+        {
+          "year": 2013,
+          "winner": "Justin Gatlin (USA)",
+          "runnerUp": "Usain Bolt (JAM)",
+          "score": "Season Champion (14 pts)",
+          "margin": "Gatlin beat Bolt at Rome Golden Gala to take title"
+        },
+        {
+          "year": 2012,
+          "winner": "Usain Bolt (JAM)",
+          "runnerUp": "Nesta Carter (JAM)",
+          "score": "Season Champion (16 pts)",
+          "margin": "Bolt secured Diamond Trophy in post-London Olympic tour"
+        },
+        {
+          "year": 2011,
+          "winner": "Asafa Powell (JAM)",
+          "runnerUp": "Yohan Blake (JAM)",
+          "score": "Season Champion (18 pts)",
+          "margin": "Powell dominated season with sub-9.80 times"
+        },
+        {
+          "year": 2010,
+          "winner": "Tyson Gay (USA)",
+          "runnerUp": "Richard Thompson (TTO)",
+          "score": "Season Champion (16 pts)",
+          "margin": "Inaugural Diamond League season; Gay defeated Bolt in Stockholm"
+        }
+      ]
+    },
+    {
+      "title": "Women's 100 metres Champions",
+      "archiveUrl": "https://www.diamondleague.com/results/",
+      "sourceUrl": "https://www.diamondleague.com/",
+      "sourceLabel": "Diamond League Final Archives",
+      "archiveLabel": "Diamond League Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Julien Alfred (LCA)",
+          "runnerUp": "Dina Asher-Smith (GBR)",
+          "score": "10.88 s",
+          "margin": "Brussels; Olympic champion Alfred confirmed season supremacy"
+        },
+        {
+          "year": 2023,
+          "winner": "Shericka Jackson (JAM)",
+          "runnerUp": "Marie-Josée Ta Lou (CIV)",
+          "score": "10.70 s",
+          "margin": "Eugene; Jackson also won 200m in 21.57 s in historic double"
+        },
+        {
+          "year": 2022,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Shericka Jackson (JAM)",
+          "score": "10.65 s",
+          "margin": "Zürich; Fraser-Pryce clinched 5th Diamond Trophy with 10.65 s"
+        },
+        {
+          "year": 2021,
+          "winner": "Elaine Thompson-Herah (JAM)",
+          "runnerUp": "Dina Asher-Smith (GBR)",
+          "score": "10.65 s",
+          "margin": "Zürich; Thompson-Herah capped historic 2021 post-Olympic season"
+        },
+        {
+          "year": 2019,
+          "winner": "Dina Asher-Smith (GBR)",
+          "runnerUp": "Shelly-Ann Fraser-Pryce (JAM)",
+          "score": "10.88 s",
+          "margin": "Brussels; Asher-Smith won her first Diamond League Trophy"
+        },
+        {
+          "year": 2018,
+          "winner": "Murielle Ahouré (CIV)",
+          "runnerUp": "Dina Asher-Smith (GBR)",
+          "score": "11.01 s",
+          "margin": "Zürich; Ivorian sprinter clinched diamond trophy"
+        },
+        {
+          "year": 2017,
+          "winner": "Elaine Thompson (JAM)",
+          "runnerUp": "Marie-Josée Ta Lou (CIV)",
+          "score": "10.92 s",
+          "margin": "Brussels; Olympic double champion won Diamond Trophy"
+        },
+        {
+          "year": 2016,
+          "winner": "Elaine Thompson (JAM)",
+          "runnerUp": "English Gardner (USA)",
+          "score": "Season Champion (50 pts)",
+          "margin": "Thompson won both Rio Olympics and Diamond League circuit"
+        },
+        {
+          "year": 2015,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Blessing Okagbare (NGR)",
+          "score": "Season Champion (20 pts)",
+          "margin": "Fraser-Pryce took 100m diamond crown"
+        },
+        {
+          "year": 2013,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Alexandria Anderson (USA)",
+          "score": "Season Champion (20 pts)",
+          "margin": "Fraser-Pryce won Zurich final in 10.72 s"
+        },
+        {
+          "year": 2012,
+          "winner": "Shelly-Ann Fraser-Pryce (JAM)",
+          "runnerUp": "Carmelita Jeter (USA)",
+          "score": "Season Champion (19 pts)",
+          "margin": "Fraser-Pryce secured trophy following London Olympics"
+        },
+        {
+          "year": 2011,
+          "winner": "Carmelita Jeter (USA)",
+          "runnerUp": "Veronica Campbell-Brown (JAM)",
+          "score": "Season Champion (22 pts)",
+          "margin": "Jeter dominated circuit alongside world championship title"
+        },
+        {
+          "year": 2010,
+          "winner": "Carmelita Jeter (USA)",
+          "runnerUp": "Marshevet Myers (USA)",
+          "score": "Season Champion (21 pts)",
+          "margin": "Inaugural women's 100m Diamond League winner"
+        }
+      ]
+    },
+    {
+      "title": "Men's Pole Vault Champions",
+      "archiveUrl": "https://www.diamondleague.com/results/",
+      "sourceUrl": "https://www.diamondleague.com/",
+      "sourceLabel": "Diamond League Pole Vault Archives",
+      "archiveLabel": "Diamond League Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Armand Duplantis (SWE)",
+          "runnerUp": "Emmanouil Karalis (GRE)",
+          "score": "6.11 m",
+          "margin": "Brussels; Duplantis completed 4th consecutive Diamond Trophy"
+        },
+        {
+          "year": 2023,
+          "winner": "Armand Duplantis (SWE)",
+          "runnerUp": "EJ Obiena (PHI)",
+          "score": "6.23 m",
+          "margin": "Eugene; broke the World Record (6.23m) on his final attempt"
+        },
+        {
+          "year": 2022,
+          "winner": "Armand Duplantis (SWE)",
+          "runnerUp": "Sondre Guttormsen (NOR)",
+          "score": "6.07 m",
+          "margin": "Zürich; won with meeting record 6.07m"
+        },
+        {
+          "year": 2021,
+          "winner": "Armand Duplantis (SWE)",
+          "runnerUp": "Sam Kendricks (USA)",
+          "score": "6.06 m",
+          "margin": "Zürich; first career Diamond Trophy for Mondo Duplantis"
+        },
+        {
+          "year": 2019,
+          "winner": "Sam Kendricks (USA)",
+          "runnerUp": "Armand Duplantis (SWE)",
+          "score": "6.01 m",
+          "margin": "Zürich; Kendricks cleared 6.01m on third attempt to win thriller"
+        },
+        {
+          "year": 2017,
+          "winner": "Sam Kendricks (USA)",
+          "runnerUp": "Paweł Wojciechowski (POL)",
+          "score": "6.00 m",
+          "margin": "Zürich; Kendricks capped undefeated 2017 season"
+        },
+        {
+          "year": 2016,
+          "winner": "Renaud Lavillenie (FRA)",
+          "runnerUp": "Sam Kendricks (USA)",
+          "score": "Season Champion (72 pts)",
+          "margin": "Lavillenie won record 7th consecutive Diamond Trophy"
+        },
+        {
+          "year": 2015,
+          "winner": "Renaud Lavillenie (FRA)",
+          "runnerUp": "Konstantinos Filippidis (GRE)",
+          "score": "Season Champion (21 pts)",
+          "margin": "Lavillenie 6th straight Diamond League title"
+        },
+        {
+          "year": 2014,
+          "winner": "Renaud Lavillenie (FRA)",
+          "runnerUp": "Konstantinos Filippidis (GRE)",
+          "score": "Season Champion (28 pts)",
+          "margin": "Lavillenie 5th straight Diamond League title"
+        },
+        {
+          "year": 2013,
+          "winner": "Renaud Lavillenie (FRA)",
+          "runnerUp": "Brad Walker (USA)",
+          "score": "Season Champion (24 pts)",
+          "margin": "Lavillenie 4th straight Diamond League title"
+        },
+        {
+          "year": 2012,
+          "winner": "Renaud Lavillenie (FRA)",
+          "runnerUp": "Björn Otto (GER)",
+          "score": "Season Champion (24 pts)",
+          "margin": "Lavillenie 3rd straight Diamond League title"
+        },
+        {
+          "year": 2011,
+          "winner": "Renaud Lavillenie (FRA)",
+          "runnerUp": "Malte Mohr (GER)",
+          "score": "Season Champion (20 pts)",
+          "margin": "Lavillenie 2nd straight Diamond League title"
+        },
+        {
+          "year": 2010,
+          "winner": "Renaud Lavillenie (FRA)",
+          "runnerUp": "Malte Mohr (GER)",
+          "score": "Season Champion (20 pts)",
+          "margin": "Lavillenie inaugural Diamond Trophy winner"
+        }
+      ]
+    }
+  ]
+}

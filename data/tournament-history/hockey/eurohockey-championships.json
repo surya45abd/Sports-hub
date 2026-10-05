@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "EuroHockey Championships",
+  "source": {
+    "url": "https://eurohockey.org/competitions/eurohockey-championships",
+    "label": "European Hockey Federation (EHF) Official Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete EuroHockey Championship finals archive across Men's (2011–2023) and Women's (2011–2023) tournaments.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Championship",
+      "archiveUrl": "https://eurohockey.org/",
+      "sourceUrl": "https://eurohockey.org/",
+      "sourceLabel": "EuroHockey Men's Championships",
+      "archiveLabel": "Men's EuroHockey Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Netherlands",
+          "runnerUp": "England",
+          "score": "2-1",
+          "margin": "SparkassenPark (Mönchengladbach, Germany); Derck de Vilder and Duco Telgenkamp scored as Dutch retained title"
+        },
+        {
+          "year": 2021,
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "2-2 (4-1 shoot-out)",
+          "margin": "Wagener Stadium (Amstelveen); Pirmin Blaak saved 3 shoot-out penalties"
+        },
+        {
+          "year": 2019,
+          "winner": "Belgium (Red Lions)",
+          "runnerUp": "Spain",
+          "score": "5-0",
+          "margin": "Wilrijkse Plein (Antwerp); Tom Boon and Florent van Aubel powered world champions to maiden European gold"
+        },
+        {
+          "year": 2017,
+          "winner": "Netherlands",
+          "runnerUp": "Belgium",
+          "score": "4-2",
+          "margin": "Wagener Stadium (Amstelveen); Dutch came from 0-2 down to score 4 unanswered goals"
+        },
+        {
+          "year": 2015,
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "6-1",
+          "margin": "Lee Valley Hockey and Tennis Centre (London); Dutch produced record final blowout"
+        },
+        {
+          "year": 2013,
+          "winner": "Germany",
+          "runnerUp": "Belgium",
+          "score": "3-1",
+          "margin": "Boom (Belgium); Olympic champions Germany claimed title"
+        },
+        {
+          "year": 2011,
+          "winner": "Germany",
+          "runnerUp": "Netherlands",
+          "score": "4-2",
+          "margin": "Warsteiner HockeyPark (Mönchengladbach); Florian Fuchs scored brace"
+        }
+      ]
+    },
+    {
+      "title": "Women's Championship",
+      "archiveUrl": "https://eurohockey.org/",
+      "sourceUrl": "https://eurohockey.org/",
+      "sourceLabel": "EuroHockey Women's Championships",
+      "archiveLabel": "Women's EuroHockey Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Netherlands",
+          "runnerUp": "Belgium",
+          "score": "3-1",
+          "margin": "Mönchengladbach; Frédérique Matla and Yibbi Jansen scored; record 12th European title for Dutch women"
+        },
+        {
+          "year": 2021,
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "2-0",
+          "margin": "Amstelveen; Marloes Keetels and Frédérique Matla scored in front of home supporters"
+        },
+        {
+          "year": 2019,
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "2-0",
+          "margin": "Antwerp; Kelly Jonker and Lidewij Welten sealed victory"
+        },
+        {
+          "year": 2017,
+          "winner": "Netherlands",
+          "runnerUp": "Belgium",
+          "score": "3-0",
+          "margin": "Amstelveen; Carlien Dirkse van den Heuvel, Kelly Jonker, and Ireen van den Assem scored"
+        },
+        {
+          "year": 2015,
+          "winner": "England",
+          "runnerUp": "Netherlands",
+          "score": "2-2 (3-1 shoot-out)",
+          "margin": "London; Maddie Hinch made sensational saves in shoot-out to dethrone Netherlands"
+        },
+        {
+          "year": 2013,
+          "winner": "Germany",
+          "runnerUp": "England",
+          "score": "4-4 (2-0 shoot-out)",
+          "margin": "Boom (Belgium); Kristina Hillmann scored late equalizer and Germany swept shoot-out"
+        },
+        {
+          "year": 2011,
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "3-0",
+          "margin": "Mönchengladbach; Maartje Paumen scored two penalty corners"
+        }
+      ]
+    }
+  ]
+}

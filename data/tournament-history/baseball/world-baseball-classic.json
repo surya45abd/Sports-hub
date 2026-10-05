@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "sport": "Baseball",
+  "tournament": "World Baseball Classic",
+  "source": {
+    "url": "https://www.mlb.com/world-baseball-classic/history",
+    "label": "Official World Baseball Classic history"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 2006,
+      "winner": "Japan",
+      "runnerUp": "Cuba",
+      "score": "10-6",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Japan",
+      "runnerUp": "South Korea",
+      "score": "5-3 (10 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Dominican Republic",
+      "runnerUp": "Puerto Rico",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "United States",
+      "runnerUp": "Puerto Rico",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Japan",
+      "runnerUp": "United States",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "Venezuela",
+      "runnerUp": "United States",
+      "score": "3-2",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 2006,
+      "winner": "Japan",
+      "runnerUp": "Cuba",
+      "score": "10-6",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Japan",
+      "runnerUp": "South Korea",
+      "score": "5-3 (10 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Dominican Republic",
+      "runnerUp": "Puerto Rico",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "United States",
+      "runnerUp": "Puerto Rico",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Japan",
+      "runnerUp": "United States",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "Venezuela",
+      "runnerUp": "United States",
+      "score": "3-2",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://www.mlb.com/news/world-baseball-classic-results-and-stats",
+      "label": "Six-edition results archive through 2026"
+    }
+  ],
+  "reviewNotes": "Complete results for all six completed editions, 2006?2026. The tournament was not held in 2010, 2014, or 2018."
+}

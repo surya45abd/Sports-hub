@@ -1,0 +1,139 @@
+{
+    "schemaVersion":  1,
+    "sport":  "Cricket",
+    "tournament":  "Asia Cup",
+    "source":  {
+                   "url":  "https://acscricket.com/?page_id=3603",
+                   "label":  "Asia Cup results archive"
+               },
+    "verificationStatus":  "verified",
+    "records":  [
+                    {
+                        "year":  1984,
+                        "winner":  "India",
+                        "runnerUp":  "Sri Lanka",
+                        "score":  "No final; round-robin format",
+                        "margin":  "Tournament decided by league table"
+                    },
+                    {
+                        "year":  1986,
+                        "winner":  "Sri Lanka",
+                        "runnerUp":  "Pakistan",
+                        "score":  "195/5 (42.2 overs) / 191/9 (45 overs)",
+                        "margin":  "5 wickets"
+                    },
+                    {
+                        "year":  1988,
+                        "winner":  "India",
+                        "runnerUp":  "Sri Lanka",
+                        "score":  "180/4 (37.1 overs) / 176 (43.5 overs)",
+                        "margin":  "6 wickets"
+                    },
+                    {
+                        "year":  "1990-91",
+                        "winner":  "India",
+                        "runnerUp":  "Sri Lanka",
+                        "score":  "205/3 (42.1 overs) / 204/9 (45 overs)",
+                        "margin":  "7 wickets"
+                    },
+                    {
+                        "year":  1995,
+                        "winner":  "India",
+                        "runnerUp":  "Sri Lanka",
+                        "score":  "233/2 (41.5 overs) / 230/7 (50 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  1997,
+                        "winner":  "Sri Lanka",
+                        "runnerUp":  "India",
+                        "score":  "240/2 (36.5 overs) / 239/7 (50 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2000,
+                        "winner":  "Pakistan",
+                        "runnerUp":  "Sri Lanka",
+                        "score":  "277/4 (50 overs) / 238 (45.2 overs)",
+                        "margin":  "39 runs"
+                    },
+                    {
+                        "year":  2004,
+                        "winner":  "Sri Lanka",
+                        "runnerUp":  "India",
+                        "score":  "228/9 (50 overs) / 203/9 (50 overs)",
+                        "margin":  "25 runs"
+                    },
+                    {
+                        "year":  2008,
+                        "winner":  "Sri Lanka",
+                        "runnerUp":  "India",
+                        "score":  "273 (49.5 overs) / 173 (39.3 overs)",
+                        "margin":  "100 runs"
+                    },
+                    {
+                        "year":  2010,
+                        "winner":  "India",
+                        "runnerUp":  "Sri Lanka",
+                        "score":  "268/6 (50 overs) / 187 (44.4 overs)",
+                        "margin":  "81 runs"
+                    },
+                    {
+                        "year":  2012,
+                        "winner":  "Pakistan",
+                        "runnerUp":  "Bangladesh",
+                        "score":  "236/9 (50 overs) / 234/8 (50 overs)",
+                        "margin":  "2 runs"
+                    },
+                    {
+                        "year":  2014,
+                        "winner":  "Sri Lanka",
+                        "runnerUp":  "Pakistan",
+                        "score":  "261/5 (46.2 overs) / 260/5 (50 overs)",
+                        "margin":  "5 wickets"
+                    },
+                    {
+                        "year":  2016,
+                        "winner":  "India",
+                        "runnerUp":  "Bangladesh",
+                        "score":  "122/2 (13.5 overs) / 120/5 (15 overs)",
+                        "margin":  "8 wickets"
+                    },
+                    {
+                        "year":  2018,
+                        "winner":  "India",
+                        "runnerUp":  "Bangladesh",
+                        "score":  "223/7 (50 overs) / 222 (48.3 overs)",
+                        "margin":  "3 wickets"
+                    },
+                    {
+                        "year":  2022,
+                        "winner":  "Sri Lanka",
+                        "runnerUp":  "Pakistan",
+                        "score":  "170/6 (20 overs) / 147 (20 overs)",
+                        "margin":  "23 runs"
+                    },
+                    {
+                        "year":  2023,
+                        "winner":  "India",
+                        "runnerUp":  "Sri Lanka",
+                        "score":  "51/0 (6.1 overs) / 50 (15.2 overs)",
+                        "margin":  "10 wickets"
+                    },
+                    {
+                        "year":  2025,
+                        "winner":  "India",
+                        "runnerUp":  "Pakistan",
+                        "score":  "150/5 (19.4 overs) / 146 (19.1 overs)",
+                        "margin":  "5 wickets"
+                    }
+                ],
+    "candidateRecords":  [
+
+                         ],
+    "verificationSources":  [
+                                "https://www.asiancricket.org/",
+                                "https://www.pcb.com.pk/news-detail/pakistan-finish-runners-up-in-acc-men-s-t20-asia-cup.html"
+                            ],
+    "reviewNotes":  "Complete list of all 17 completed men\u0027s Asia Cup editions, 1984–2025. The 1984 and 1990–91 events used round-robin standings rather than a final; runners-up are the next-ranked teams."
+}

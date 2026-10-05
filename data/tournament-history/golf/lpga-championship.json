@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "LPGA Championship",
+  "source": {
+    "url": "https://www.kpmgwomenspgachampionship.com/history",
+    "label": "KPMG Women's PGA Championship Official Past Champions"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Women's PGA / LPGA Championship archive (2000–2025) with winning scores and margins.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Nelly Korda",
+      "runnerUp": "Lydia Ko",
+      "score": "276 (-12)",
+      "margin": "2 strokes (Fields Ranch East)"
+    },
+    {
+      "year": 2024,
+      "winner": "Amy Yang",
+      "runnerUp": "Jin Young Ko, Lilia Vu, Miyū Yamashita",
+      "score": "281 (-7)",
+      "margin": "3 strokes (Sahalee); maiden major championship in 75th start"
+    },
+    {
+      "year": 2023,
+      "winner": "Ruoning Yin",
+      "runnerUp": "Yuka Saso",
+      "score": "276 (-8)",
+      "margin": "1 stroke (Baltusrol); 20-year-old birdied 72nd hole for maiden major"
+    },
+    {
+      "year": 2022,
+      "winner": "In Gee Chun",
+      "runnerUp": "Minjee Lee, Lexi Thompson",
+      "score": "283 (-5)",
+      "margin": "1 stroke (Congressional); wire-to-wire victory"
+    },
+    {
+      "year": 2021,
+      "winner": "Nelly Korda",
+      "runnerUp": "Lizette Salas",
+      "score": "269 (-19)",
+      "margin": "3 strokes (Atlanta Athletic Club); maiden major; became World No. 1"
+    },
+    {
+      "year": 2020,
+      "winner": "Sei Young Kim",
+      "runnerUp": "Inbee Park",
+      "score": "266 (-14)",
+      "margin": "5 strokes (Aronimink); final-round 63 for maiden major"
+    },
+    {
+      "year": 2019,
+      "winner": "Hannah Green",
+      "runnerUp": "Sung Hyun Park",
+      "score": "279 (-9)",
+      "margin": "1 stroke (Hazeltine); wire-to-wire major breakthrough"
+    },
+    {
+      "year": 2018,
+      "winner": "Sung Hyun Park",
+      "runnerUp": "Nasa Hataoka, So Yeon Ryu",
+      "score": "278 (-10)",
+      "margin": "Playoff birdie on 2nd hole (Kempfertsbrunn)"
+    },
+    {
+      "year": 2017,
+      "winner": "Danielle Kang",
+      "runnerUp": "Brooke Henderson",
+      "score": "271 (-13)",
+      "margin": "1 stroke (Olympia Fields); maiden LPGA Tour victory at a major"
+    },
+    {
+      "year": 2016,
+      "winner": "Brooke Henderson",
+      "runnerUp": "Lydia Ko",
+      "score": "278 (-6)",
+      "margin": "Playoff (Sahalee); 18-year-old Canadian won maiden major"
+    },
+    {
+      "year": 2015,
+      "winner": "Inbee Park",
+      "runnerUp": "Sei Young Kim",
+      "score": "273 (-19)",
+      "margin": "5 strokes (Westchester); completed historic 3-peat"
+    },
+    {
+      "year": 2014,
+      "winner": "Inbee Park",
+      "runnerUp": "Brittany Lincicome",
+      "score": "277 (-11)",
+      "margin": "Playoff (Monroe Golf Club)"
+    },
+    {
+      "year": 2013,
+      "winner": "Inbee Park",
+      "runnerUp": "Catriona Matthew",
+      "score": "283 (-5)",
+      "margin": "Playoff (Locust Hill); 2nd leg of 3 consecutive major wins in 2013"
+    },
+    {
+      "year": 2012,
+      "winner": "Shanshan Feng",
+      "runnerUp": "Eun-Hee Ji, Stacy Lewis, Mika Miyazato, Suzann Pettersen",
+      "score": "282 (-6)",
+      "margin": "2 strokes; first player from mainland China to win a major"
+    },
+    {
+      "year": 2011,
+      "winner": "Yani Tseng",
+      "runnerUp": "Morgan Pressel",
+      "score": "269 (-19)",
+      "margin": "Record 10-stroke margin of victory"
+    },
+    {
+      "year": 2010,
+      "winner": "Cristie Kerr",
+      "runnerUp": "Song-Hee Kim",
+      "score": "269 (-19)",
+      "margin": "Record 12-stroke margin of victory"
+    },
+    {
+      "year": 2009,
+      "winner": "Anna Nordqvist",
+      "runnerUp": "Lindsey Wright",
+      "score": "273 (-15)",
+      "margin": "4 strokes; won major in 5th LPGA start as rookie"
+    },
+    {
+      "year": 2008,
+      "winner": "Yani Tseng",
+      "runnerUp": "Maria Hjorth",
+      "score": "276 (-12)",
+      "margin": "Playoff; 19-year-old rookie won maiden major"
+    },
+    {
+      "year": 2007,
+      "winner": "Suzann Pettersen",
+      "runnerUp": "Karrie Webb",
+      "score": "274 (-14)",
+      "margin": "1 stroke; maiden major title"
+    },
+    {
+      "year": 2006,
+      "winner": "Se Ri Pak",
+      "runnerUp": "Karrie Webb",
+      "score": "280 (-8)",
+      "margin": "Playoff birdie on 1st extra hole; 3rd LPGA Championship"
+    },
+    {
+      "year": 2005,
+      "winner": "Annika Sörenstam",
+      "runnerUp": "Michelle Wie",
+      "score": "277 (-11)",
+      "margin": "3 strokes; 3-peat at LPGA Championship"
+    },
+    {
+      "year": 2004,
+      "winner": "Annika Sörenstam",
+      "runnerUp": "Shi Hyun Ahn",
+      "score": "271 (-13)",
+      "margin": "3 strokes; defended championship"
+    },
+    {
+      "year": 2003,
+      "winner": "Annika Sörenstam",
+      "runnerUp": "Grace Park",
+      "score": "278 (-6)",
+      "margin": "Playoff birdie on 1st extra hole"
+    },
+    {
+      "year": 2002,
+      "winner": "Se Ri Pak",
+      "runnerUp": "Beth Daniel",
+      "score": "279 (-5)",
+      "margin": "3 strokes; 2nd LPGA Championship crown"
+    },
+    {
+      "year": 2001,
+      "winner": "Karrie Webb",
+      "runnerUp": "Laura Diaz",
+      "score": "274 (-14)",
+      "margin": "2 strokes; completed Career Grand Slam at age 26"
+    },
+    {
+      "year": 2000,
+      "winner": "Juli Inkster",
+      "runnerUp": "Stefania Croce",
+      "score": "281 (-3)",
+      "margin": "Playoff; back-to-back LPGA Championship crowns"
+    }
+  ],
+  "sections": []
+}

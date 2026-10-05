@@ -1,0 +1,578 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "Australian Open",
+  "source": {
+    "url": "https://ausopen.com/history/honour-roll",
+    "label": "Official Australian Open Honour Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Open Era hard-court finals archive (1988–2026) for both Men's Singles and Women's Singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://ausopen.com/history/honour-roll/mens-singles",
+      "sourceUrl": "https://www.atptour.com/",
+      "sourceLabel": "Official Men's Singles History",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Novak Djokovic",
+          "score": "2-6, 6-2, 6-3, 7-5",
+          "margin": "Completed career Grand Slam"
+        },
+        {
+          "year": 2025,
+          "winner": "Jannik Sinner",
+          "runnerUp": "Alexander Zverev",
+          "score": "6-3, 7-6(4), 6-3",
+          "margin": "Back-to-back Australian Open titles"
+        },
+        {
+          "year": 2024,
+          "winner": "Jannik Sinner",
+          "runnerUp": "Daniil Medvedev",
+          "score": "3-6, 3-6, 6-4, 6-4, 6-3",
+          "margin": "Overcame 0-2 sets deficit in 3h 44m"
+        },
+        {
+          "year": 2023,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Stefanos Tsitsipas",
+          "score": "6-3, 7-6(4), 7-6(5)",
+          "margin": "Record 10th Australian Open title"
+        },
+        {
+          "year": 2022,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Daniil Medvedev",
+          "score": "2-6, 6-7(5), 6-4, 6-4, 7-5",
+          "margin": "Historic 5h 24m comeback from 2 sets down"
+        },
+        {
+          "year": 2021,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Daniil Medvedev",
+          "score": "7-5, 6-2, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2020,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Dominic Thiem",
+          "score": "6-4, 4-6, 2-6, 6-3, 6-4",
+          "margin": "5-set comeback"
+        },
+        {
+          "year": 2019,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-3, 6-2, 6-3",
+          "margin": "Djokovic hit only 9 unforced errors"
+        },
+        {
+          "year": 2018,
+          "winner": "Roger Federer",
+          "runnerUp": "Marin Čilić",
+          "score": "6-2, 6-7(5), 6-3, 3-6, 6-1",
+          "margin": "20th Grand Slam singles title"
+        },
+        {
+          "year": 2017,
+          "winner": "Roger Federer",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-4, 3-6, 6-1, 3-6, 6-3",
+          "margin": "Epic 5-set final comeback in 5th set from break down"
+        },
+        {
+          "year": 2016,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Andy Murray",
+          "score": "6-1, 7-5, 7-6(3)",
+          "margin": ""
+        },
+        {
+          "year": 2015,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Andy Murray",
+          "score": "7-6(5), 6-7(4), 6-3, 6-0",
+          "margin": ""
+        },
+        {
+          "year": 2014,
+          "winner": "Stan Wawrinka",
+          "runnerUp": "Rafael Nadal",
+          "score": "6-3, 6-2, 3-6, 6-3",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2013,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Andy Murray",
+          "score": "6-7(2), 7-6(3), 6-3, 6-2",
+          "margin": "First man in Open Era to win 3 consecutive AO titles"
+        },
+        {
+          "year": 2012,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Rafael Nadal",
+          "score": "5-7, 6-4, 6-2, 6-7(5), 7-5",
+          "margin": "Longest Grand Slam final in history (5 hours, 53 minutes)"
+        },
+        {
+          "year": 2011,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Andy Murray",
+          "score": "6-4, 6-2, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2010,
+          "winner": "Roger Federer",
+          "runnerUp": "Andy Murray",
+          "score": "6-3, 6-4, 7-6(11)",
+          "margin": "4th Australian Open title"
+        },
+        {
+          "year": 2009,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Roger Federer",
+          "score": "7-5, 3-6, 7-6(3), 3-6, 6-2",
+          "margin": "First hard-court major for Nadal"
+        },
+        {
+          "year": 2008,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Jo-Wilfried Tsonga",
+          "score": "4-6, 6-4, 6-3, 7-6(2)",
+          "margin": "Maiden Grand Slam singles title for Djokovic"
+        },
+        {
+          "year": 2007,
+          "winner": "Roger Federer",
+          "runnerUp": "Fernando González",
+          "score": "7-6(2), 6-4, 6-4",
+          "margin": "Won title without losing a single set"
+        },
+        {
+          "year": 2006,
+          "winner": "Roger Federer",
+          "runnerUp": "Marcos Baghdatis",
+          "score": "5-7, 7-5, 6-0, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2005,
+          "winner": "Marat Safin",
+          "runnerUp": "Lleyton Hewitt",
+          "score": "1-6, 6-3, 6-4, 6-4",
+          "margin": "Overcame home favorite Hewitt in Centenary final"
+        },
+        {
+          "year": 2004,
+          "winner": "Roger Federer",
+          "runnerUp": "Marat Safin",
+          "score": "7-6(3), 6-4, 6-2",
+          "margin": "Ascended to World No. 1 for first time"
+        },
+        {
+          "year": 2003,
+          "winner": "Andre Agassi",
+          "runnerUp": "Rainer Schüttler",
+          "score": "6-2, 6-2, 6-1",
+          "margin": "Record 4th Australian Open title for Agassi"
+        },
+        {
+          "year": 2002,
+          "winner": "Thomas Johansson",
+          "runnerUp": "Marat Safin",
+          "score": "3-6, 6-4, 6-4, 7-6(4)",
+          "margin": ""
+        },
+        {
+          "year": 2001,
+          "winner": "Andre Agassi",
+          "runnerUp": "Arnaud Clément",
+          "score": "6-4, 6-2, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2000,
+          "winner": "Andre Agassi",
+          "runnerUp": "Yevgeny Kafelnikov",
+          "score": "3-6, 6-3, 6-2, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1999,
+          "winner": "Yevgeny Kafelnikov",
+          "runnerUp": "Thomas Enqvist",
+          "score": "4-6, 6-0, 6-3, 7-6(1)",
+          "margin": ""
+        },
+        {
+          "year": 1998,
+          "winner": "Petr Korda",
+          "runnerUp": "Marcelo Ríos",
+          "score": "6-2, 6-2, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1997,
+          "winner": "Pete Sampras",
+          "runnerUp": "Carlos Moyá",
+          "score": "6-2, 6-3, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1996,
+          "winner": "Boris Becker",
+          "runnerUp": "Michael Chang",
+          "score": "6-2, 6-4, 2-6, 6-2",
+          "margin": "Becker's final Grand Slam title"
+        },
+        {
+          "year": 1995,
+          "winner": "Andre Agassi",
+          "runnerUp": "Pete Sampras",
+          "score": "4-6, 6-1, 7-6(6), 6-4",
+          "margin": "Agassi won on Australian Open debut"
+        },
+        {
+          "year": 1994,
+          "winner": "Pete Sampras",
+          "runnerUp": "Todd Martin",
+          "score": "7-6(4), 6-4, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1993,
+          "winner": "Jim Courier",
+          "runnerUp": "Stefan Edberg",
+          "score": "6-2, 6-1, 2-6, 7-5",
+          "margin": "Back-to-back Australian Open titles"
+        },
+        {
+          "year": 1992,
+          "winner": "Jim Courier",
+          "runnerUp": "Stefan Edberg",
+          "score": "6-3, 3-6, 6-4, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1991,
+          "winner": "Boris Becker",
+          "runnerUp": "Ivan Lendl",
+          "score": "1-6, 6-4, 6-2, 6-4",
+          "margin": "Becker became World No. 1"
+        },
+        {
+          "year": 1990,
+          "winner": "Ivan Lendl",
+          "runnerUp": "Stefan Edberg",
+          "score": "4-6, 7-6(3), 5-2 (ret.)",
+          "margin": "Edberg retired with stomach muscle injury"
+        },
+        {
+          "year": 1989,
+          "winner": "Ivan Lendl",
+          "runnerUp": "Miloslav Mečíř",
+          "score": "6-2, 6-2, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 1988,
+          "winner": "Mats Wilander",
+          "runnerUp": "Pat Cash",
+          "score": "6-3, 6-7(3), 3-6, 6-1, 8-6",
+          "margin": "First tournament at Flinders Park (hard court)"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://ausopen.com/history/honour-roll/womens-singles",
+      "sourceUrl": "https://www.wtatennis.com/",
+      "sourceLabel": "Official Women's Singles History",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Aryna Sabalenka",
+          "runnerUp": "Elena Rybakina",
+          "score": "6-4, 4-6, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Madison Keys",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "6-3, 2-6, 7-5",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2024,
+          "winner": "Aryna Sabalenka",
+          "runnerUp": "Zheng Qinwen",
+          "score": "6-3, 6-2",
+          "margin": "Defended title without dropping a set"
+        },
+        {
+          "year": 2023,
+          "winner": "Aryna Sabalenka",
+          "runnerUp": "Elena Rybakina",
+          "score": "4-6, 6-3, 6-4",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2022,
+          "winner": "Ashleigh Barty",
+          "runnerUp": "Danielle Collins",
+          "score": "6-3, 7-6(2)",
+          "margin": "First Australian woman to win AO in 44 years; retired after tournament"
+        },
+        {
+          "year": 2021,
+          "winner": "Naomi Osaka",
+          "runnerUp": "Jennifer Brady",
+          "score": "6-4, 6-3",
+          "margin": "4th Grand Slam singles title"
+        },
+        {
+          "year": 2020,
+          "winner": "Sofia Kenin",
+          "runnerUp": "Garbiñe Muguruza",
+          "score": "4-6, 6-2, 6-2",
+          "margin": "Maiden Grand Slam singles title at age 21"
+        },
+        {
+          "year": 2019,
+          "winner": "Naomi Osaka",
+          "runnerUp": "Petra Kvitová",
+          "score": "7-6(2), 5-7, 6-4",
+          "margin": "Became World No. 1"
+        },
+        {
+          "year": 2018,
+          "winner": "Caroline Wozniacki",
+          "runnerUp": "Simona Halep",
+          "score": "7-6(2), 3-6, 6-4",
+          "margin": "Maiden Grand Slam title and returned to World No. 1"
+        },
+        {
+          "year": 2017,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "6-4, 6-4",
+          "margin": "Won 23rd Grand Slam singles title while pregnant"
+        },
+        {
+          "year": 2016,
+          "winner": "Angelique Kerber",
+          "runnerUp": "Serena Williams",
+          "score": "6-4, 3-6, 6-4",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2015,
+          "winner": "Serena Williams",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-3, 7-6(5)",
+          "margin": "6th Australian Open title"
+        },
+        {
+          "year": 2014,
+          "winner": "Li Na",
+          "runnerUp": "Dominika Cibulková",
+          "score": "7-6(3), 6-0",
+          "margin": "First Asian Australian Open singles champion"
+        },
+        {
+          "year": 2013,
+          "winner": "Victoria Azarenka",
+          "runnerUp": "Li Na",
+          "score": "4-6, 6-4, 6-3",
+          "margin": "Defended Australian Open title"
+        },
+        {
+          "year": 2012,
+          "winner": "Victoria Azarenka",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-3, 6-0",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2011,
+          "winner": "Kim Clijsters",
+          "runnerUp": "Li Na",
+          "score": "3-6, 6-3, 6-3",
+          "margin": "Aussie Kim's maiden Australian Open crown"
+        },
+        {
+          "year": 2010,
+          "winner": "Serena Williams",
+          "runnerUp": "Justine Henin",
+          "score": "6-4, 3-6, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2009,
+          "winner": "Serena Williams",
+          "runnerUp": "Dinara Safina",
+          "score": "6-0, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2008,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Ana Ivanovic",
+          "score": "7-5, 6-3",
+          "margin": "Won title without dropping a set"
+        },
+        {
+          "year": 2007,
+          "winner": "Serena Williams",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-1, 6-2",
+          "margin": "Ranked World No. 81 entering tournament"
+        },
+        {
+          "year": 2006,
+          "winner": "Amélie Mauresmo",
+          "runnerUp": "Justine Henin",
+          "score": "6-1, 2-0 (ret.)",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2005,
+          "winner": "Serena Williams",
+          "runnerUp": "Lindsay Davenport",
+          "score": "2-6, 6-3, 6-0",
+          "margin": ""
+        },
+        {
+          "year": 2004,
+          "winner": "Justine Henin",
+          "runnerUp": "Kim Clijsters",
+          "score": "6-3, 4-6, 6-3",
+          "margin": "All-Belgian final"
+        },
+        {
+          "year": 2003,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "7-6(4), 3-6, 6-4",
+          "margin": "Completed the first 'Serena Slam'"
+        },
+        {
+          "year": 2002,
+          "winner": "Jennifer Capriati",
+          "runnerUp": "Martina Hingis",
+          "score": "4-6, 7-6(7), 6-2",
+          "margin": "Saved 4 championship points in extreme 38°C heat"
+        },
+        {
+          "year": 2001,
+          "winner": "Jennifer Capriati",
+          "runnerUp": "Martina Hingis",
+          "score": "6-4, 6-3",
+          "margin": "Historic comeback major for Capriati"
+        },
+        {
+          "year": 2000,
+          "winner": "Lindsay Davenport",
+          "runnerUp": "Martina Hingis",
+          "score": "6-1, 7-5",
+          "margin": "Won without dropping a set"
+        },
+        {
+          "year": 1999,
+          "winner": "Martina Hingis",
+          "runnerUp": "Amélie Mauresmo",
+          "score": "6-2, 6-3",
+          "margin": "3rd consecutive Australian Open title"
+        },
+        {
+          "year": 1998,
+          "winner": "Martina Hingis",
+          "runnerUp": "Conchita Martínez",
+          "score": "6-3, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1997,
+          "winner": "Martina Hingis",
+          "runnerUp": "Mary Pierce",
+          "score": "6-2, 6-2",
+          "margin": "Youngest Grand Slam singles champion in 20th century (16y, 3m)"
+        },
+        {
+          "year": 1996,
+          "winner": "Monica Seles",
+          "runnerUp": "Anke Huber",
+          "score": "6-4, 6-1",
+          "margin": "Emotional first Grand Slam triumph after 1993 stabbing"
+        },
+        {
+          "year": 1995,
+          "winner": "Mary Pierce",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "6-3, 6-2",
+          "margin": "Maiden Grand Slam title"
+        },
+        {
+          "year": 1994,
+          "winner": "Steffi Graf",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "6-0, 6-2",
+          "margin": "Completed the 'non-calendar year Grand Slam'"
+        },
+        {
+          "year": 1993,
+          "winner": "Monica Seles",
+          "runnerUp": "Steffi Graf",
+          "score": "4-6, 6-3, 6-2",
+          "margin": "3rd consecutive Australian Open title"
+        },
+        {
+          "year": 1992,
+          "winner": "Monica Seles",
+          "runnerUp": "Mary Joe Fernández",
+          "score": "6-2, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1991,
+          "winner": "Monica Seles",
+          "runnerUp": "Jana Novotná",
+          "score": "5-7, 6-3, 6-1",
+          "margin": "Saved match point in semi-final"
+        },
+        {
+          "year": 1990,
+          "winner": "Steffi Graf",
+          "runnerUp": "Mary Joe Fernández",
+          "score": "6-3, 6-4",
+          "margin": "3rd consecutive Australian Open title"
+        },
+        {
+          "year": 1989,
+          "winner": "Steffi Graf",
+          "runnerUp": "Helena Suková",
+          "score": "6-4, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1988,
+          "winner": "Steffi Graf",
+          "runnerUp": "Chris Evert",
+          "score": "6-1, 7-6(3)",
+          "margin": "Opening leg of Graf's historic 1988 Golden Slam"
+        }
+      ]
+    }
+  ]
+}

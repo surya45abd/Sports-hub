@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 2,
+  "sport": "Golf",
+  "tournament": "The Masters",
+  "source": {
+    "url": "https://www.masters.com/en_US/history/index.html",
+    "label": "Official Masters Tournament History & Champions"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Masters Tournament champions archive (1990–2025) with winning scores and margins.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Rory McIlroy",
+      "runnerUp": "Justin Rose",
+      "score": "277 (-11)",
+      "margin": "Won in playoff to complete career Grand Slam"
+    },
+    {
+      "year": 2024,
+      "winner": "Scottie Scheffler",
+      "runnerUp": "Ludvig Åberg",
+      "score": "277 (-11)",
+      "margin": "4 strokes; 2nd Masters title in 3 years"
+    },
+    {
+      "year": 2023,
+      "winner": "Jon Rahm",
+      "runnerUp": "Brooks Koepka, Phil Mickelson",
+      "score": "276 (-12)",
+      "margin": "4 strokes on Seve Ballesteros's birthday"
+    },
+    {
+      "year": 2022,
+      "winner": "Scottie Scheffler",
+      "runnerUp": "Rory McIlroy",
+      "score": "278 (-10)",
+      "margin": "3 strokes; maiden major championship"
+    },
+    {
+      "year": 2021,
+      "winner": "Hideki Matsuyama",
+      "runnerUp": "Will Zalatoris",
+      "score": "278 (-10)",
+      "margin": "1 stroke; first Japanese male major champion"
+    },
+    {
+      "year": 2020,
+      "winner": "Dustin Johnson",
+      "runnerUp": "Cameron Smith, Sungjae Im",
+      "score": "268 (-20)",
+      "margin": "5 strokes; all-time Masters tournament scoring record (-20)"
+    },
+    {
+      "year": 2019,
+      "winner": "Tiger Woods",
+      "runnerUp": "Dustin Johnson, Brooks Koepka, Xander Schauffele",
+      "score": "275 (-13)",
+      "margin": "1 stroke; historic 5th Green Jacket, 11 years after last major"
+    },
+    {
+      "year": 2018,
+      "winner": "Patrick Reed",
+      "runnerUp": "Rickie Fowler",
+      "score": "273 (-15)",
+      "margin": "1 stroke"
+    },
+    {
+      "year": 2017,
+      "winner": "Sergio García",
+      "runnerUp": "Justin Rose",
+      "score": "279 (-9)",
+      "margin": "Birdie on 1st playoff hole; maiden major in 74th start"
+    },
+    {
+      "year": 2016,
+      "winner": "Danny Willett",
+      "runnerUp": "Jordan Spieth, Lee Westwood",
+      "score": "283 (-5)",
+      "margin": "3 strokes after Spieth's quadruple bogey on 12"
+    },
+    {
+      "year": 2015,
+      "winner": "Jordan Spieth",
+      "runnerUp": "Phil Mickelson, Justin Rose",
+      "score": "270 (-18)",
+      "margin": "4 strokes; tied Tiger Woods's 1997 scoring record at age 21"
+    },
+    {
+      "year": 2014,
+      "winner": "Bubba Watson",
+      "runnerUp": "Jonas Blixt, Jordan Spieth",
+      "score": "280 (-8)",
+      "margin": "3 strokes; 2nd Green Jacket"
+    },
+    {
+      "year": 2013,
+      "winner": "Adam Scott",
+      "runnerUp": "Ángel Cabrera",
+      "score": "279 (-9)",
+      "margin": "Birdie on 2nd playoff hole; first Australian Masters champion"
+    },
+    {
+      "year": 2012,
+      "winner": "Bubba Watson",
+      "runnerUp": "Louis Oosthuizen",
+      "score": "282 (-10)",
+      "margin": "Par on 2nd playoff hole after iconic hook shot from pine straw"
+    },
+    {
+      "year": 2011,
+      "winner": "Charl Schwartzel",
+      "runnerUp": "Jason Day, Adam Scott",
+      "score": "274 (-14)",
+      "margin": "2 strokes; birdied final 4 holes on Sunday"
+    },
+    {
+      "year": 2010,
+      "winner": "Phil Mickelson",
+      "runnerUp": "Lee Westwood",
+      "score": "272 (-16)",
+      "margin": "3 strokes; 3rd Masters title"
+    },
+    {
+      "year": 2009,
+      "winner": "Ángel Cabrera",
+      "runnerUp": "Kenny Perry, Chad Campbell",
+      "score": "276 (-12)",
+      "margin": "Par on 2nd playoff hole"
+    },
+    {
+      "year": 2008,
+      "winner": "Trevor Immelman",
+      "runnerUp": "Tiger Woods",
+      "score": "280 (-8)",
+      "margin": "3 strokes"
+    },
+    {
+      "year": 2007,
+      "winner": "Zach Johnson",
+      "runnerUp": "Retief Goosen, Rory Sabbatini, Tiger Woods",
+      "score": "289 (+1)",
+      "margin": "2 strokes; laid up on all 16 par-5s during tournament"
+    },
+    {
+      "year": 2006,
+      "winner": "Phil Mickelson",
+      "runnerUp": "Tim Clark",
+      "score": "281 (-7)",
+      "margin": "2 strokes; 2nd Masters crown"
+    },
+    {
+      "year": 2005,
+      "winner": "Tiger Woods",
+      "runnerUp": "Chris DiMarco",
+      "score": "276 (-12)",
+      "margin": "Birdie on 1st playoff hole; famous chip-in on 16"
+    },
+    {
+      "year": 2004,
+      "winner": "Phil Mickelson",
+      "runnerUp": "Ernie Els",
+      "score": "279 (-9)",
+      "margin": "1 stroke; 18-foot birdie putt on 18 for maiden major"
+    },
+    {
+      "year": 2003,
+      "winner": "Mike Weir",
+      "runnerUp": "Len Mattiace",
+      "score": "281 (-7)",
+      "margin": "Par on 1st playoff hole; first Canadian and left-hander to win Masters"
+    },
+    {
+      "year": 2002,
+      "winner": "Tiger Woods",
+      "runnerUp": "Retief Goosen",
+      "score": "276 (-12)",
+      "margin": "3 strokes; 3rd player to defend Masters title"
+    },
+    {
+      "year": 2001,
+      "winner": "Tiger Woods",
+      "runnerUp": "David Duval",
+      "score": "272 (-16)",
+      "margin": "2 strokes; completed the historic 'Tiger Slam' (holding all 4 majors simultaneously)"
+    },
+    {
+      "year": 2000,
+      "winner": "Vijay Singh",
+      "runnerUp": "Ernie Els",
+      "score": "278 (-10)",
+      "margin": "3 strokes; maiden Masters title"
+    },
+    {
+      "year": 1999,
+      "winner": "José María Olazábal",
+      "runnerUp": "Davis Love III",
+      "score": "280 (-8)",
+      "margin": "2 strokes; 2nd Green Jacket after overcoming career-threatening foot ailment"
+    },
+    {
+      "year": 1998,
+      "winner": "Mark O'Meara",
+      "runnerUp": "Fred Couples, David Duval",
+      "score": "279 (-9)",
+      "margin": "1 stroke; birdied 17 and 18 on Sunday"
+    },
+    {
+      "year": 1997,
+      "winner": "Tiger Woods",
+      "runnerUp": "Tom Kite",
+      "score": "270 (-18)",
+      "margin": "Record 12-stroke victory at age 21; youngest Masters champion"
+    },
+    {
+      "year": 1996,
+      "winner": "Nick Faldo",
+      "runnerUp": "Greg Norman",
+      "score": "276 (-12)",
+      "margin": "5 strokes; overcame Norman's 6-stroke Sunday lead"
+    },
+    {
+      "year": 1995,
+      "winner": "Ben Crenshaw",
+      "runnerUp": "Davis Love III",
+      "score": "274 (-14)",
+      "margin": "1 stroke; won days after serving as pallbearer for mentor Harvey Penick"
+    },
+    {
+      "year": 1994,
+      "winner": "José María Olazábal",
+      "runnerUp": "Tom Lehman",
+      "score": "279 (-9)",
+      "margin": "2 strokes; maiden major title"
+    },
+    {
+      "year": 1993,
+      "winner": "Bernhard Langer",
+      "runnerUp": "Chip Beck",
+      "score": "277 (-11)",
+      "margin": "4 strokes; 2nd Masters title"
+    },
+    {
+      "year": 1992,
+      "winner": "Fred Couples",
+      "runnerUp": "Raymond Floyd",
+      "score": "275 (-13)",
+      "margin": "2 strokes; famous ball staying dry on bank of 12"
+    },
+    {
+      "year": 1991,
+      "winner": "Ian Woosnam",
+      "runnerUp": "José María Olazábal",
+      "score": "277 (-11)",
+      "margin": "1 stroke; par putt on 18 for maiden major"
+    },
+    {
+      "year": 1990,
+      "winner": "Nick Faldo",
+      "runnerUp": "Raymond Floyd",
+      "score": "278 (-10)",
+      "margin": "Par on 2nd playoff hole; back-to-back Masters champion"
+    }
+  ],
+  "sections": []
+}

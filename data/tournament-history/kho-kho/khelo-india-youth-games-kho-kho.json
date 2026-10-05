@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "Khelo India Youth Games Kho Kho",
+  "source": {
+    "url": "https://kheloindia.gov.in/",
+    "label": "Sports Authority of India"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "National youth games Kho Kho gold medalists.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Maharashtra (Boys) / Maharashtra (Girls)",
+      "runnerUp": "Delhi (Boys) / Odisha (Girls)",
+      "score": "32-26",
+      "margin": "Chennai (Tamil Nadu)"
+    },
+    {
+      "year": 2023,
+      "winner": "Maharashtra (Boys) / Maharashtra (Girls)",
+      "runnerUp": "Delhi (Boys) / Haryana (Girls)",
+      "score": "28-22",
+      "margin": "Bhopal (Madhya Pradesh)"
+    },
+    {
+      "year": 2022,
+      "winner": "Maharashtra (Boys) / Maharashtra (Girls)",
+      "runnerUp": "West Bengal (Boys) / Punjab (Girls)",
+      "score": "35-24",
+      "margin": "Panchkula (Haryana)"
+    }
+  ]
+}

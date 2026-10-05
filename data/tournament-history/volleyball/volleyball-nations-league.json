@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "sport": "Volleyball",
+  "tournament": "Volleyball Nations League",
+  "source": {
+    "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/competition/previous-winners",
+    "label": "Official VNL winners archive"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "Official final standings for all completed editions through 2026, with men's and women's results shown together. The 2020 edition was cancelled.",
+  "verificationSources": [
+    {
+      "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/competition/previous-winners",
+      "label": "Men's and women's previous winners"
+    },
+    {
+      "url": "https://www.cev.eu/articles/volleyball/reigning-eurovolley-champions-poland-retain-vnl-crown/",
+      "label": "2026 men's final"
+    },
+    {
+      "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/news/turkiye-triumph-as-vnl-champions-for-second-time-in-history",
+      "label": "2026 women's final"
+    }
+  ],
+  "records": [
+    {
+      "year": 2018,
+      "winner": "Men: Russia; Women: United States",
+      "runnerUp": "Men: France; Women: Türkiye",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Men: Russia; Women: United States",
+      "runnerUp": "Men: United States; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Men: Brazil; Women: United States",
+      "runnerUp": "Men: Poland; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Men: France; Women: Italy",
+      "runnerUp": "Men: United States; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Men: Poland; Women: Türkiye",
+      "runnerUp": "Men: United States; Women: China",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Men: France; Women: Italy",
+      "runnerUp": "Men: Japan; Women: Japan",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Men: Poland; Women: Italy",
+      "runnerUp": "Men: Italy; Women: Brazil",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "Men: Poland; Women: Türkiye",
+      "runnerUp": "Men: United States; Women: Brazil",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": []
+}

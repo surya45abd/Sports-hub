@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "Olympic Field Hockey",
+  "source": {
+    "url": "https://olympics.com/en/sports/hockey",
+    "label": "International Olympic Committee (IOC) Official Field Hockey Results"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Olympic field hockey gold medal finals archive (1988–2024) for both Men's and Women's tournaments.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's tournament",
+      "archiveUrl": "https://olympics.com/en/sports/hockey",
+      "sourceUrl": "https://www.fih.hockey/events/olympic-games",
+      "sourceLabel": "FIH Men's Olympic Archive",
+      "archiveLabel": "Full Men's Olympic Hockey Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Netherlands",
+          "runnerUp": "Germany",
+          "score": "1-1 (3-1 shoot-out)",
+          "margin": "Stade Yves-du-Manoir, Paris; Duco Telgenkamp scored decisive shootout penalty; Pirmin Blaak shootout heroics"
+        },
+        {
+          "year": 2020,
+          "winner": "Belgium",
+          "runnerUp": "Australia",
+          "score": "1-1 (3-2 shoot-out)",
+          "margin": "Oi Hockey Stadium, Tokyo; Vincent Vanasch made 3 saves in video-reviewed shootout; Red Lions' first gold"
+        },
+        {
+          "year": 2016,
+          "winner": "Argentina",
+          "runnerUp": "Belgium",
+          "score": "4-2",
+          "margin": "Olympic Hockey Centre, Rio de Janeiro; Los Leones became first South American team to win Olympic field hockey gold"
+        },
+        {
+          "year": 2012,
+          "winner": "Germany",
+          "runnerUp": "Netherlands",
+          "score": "2-1",
+          "margin": "Riverbank Arena, London; Jan Philipp Rabente scored two field goals to defend Olympic gold"
+        },
+        {
+          "year": 2008,
+          "winner": "Germany",
+          "runnerUp": "Spain",
+          "score": "1-0",
+          "margin": "Olympic Green Hockey Field, Beijing; Christopher Zeller penalty corner goal"
+        },
+        {
+          "year": 2004,
+          "winner": "Australia",
+          "runnerUp": "Netherlands",
+          "score": "2-1 (a.e.t.)",
+          "margin": "Hellinikon Hockey Centre, Athens; Jamie Dwyer scored famous extra-time reverse-stick golden goal"
+        },
+        {
+          "year": 2000,
+          "winner": "Netherlands",
+          "runnerUp": "South Korea",
+          "score": "3-3 (5-4 penalties)",
+          "margin": "State Hockey Centre, Sydney; Ronald Jansen made the winning shootout save"
+        },
+        {
+          "year": 1996,
+          "winner": "Netherlands",
+          "runnerUp": "Spain",
+          "score": "3-1",
+          "margin": "Panther Stadium, Atlanta; Floris Jan Bovelander scored twice in farewell match"
+        },
+        {
+          "year": 1992,
+          "winner": "Germany",
+          "runnerUp": "Australia",
+          "score": "2-1",
+          "margin": "Estadi Olímpic de Terrassa, Barcelona; Michael Hilgers scored both goals for unified Germany"
+        },
+        {
+          "year": 1988,
+          "winner": "Great Britain",
+          "runnerUp": "West Germany",
+          "score": "3-1",
+          "margin": "Seongnam Stadium, Seoul; Imran Sherwani scored 2 goals; Sean Kerly opened scoring"
+        }
+      ]
+    },
+    {
+      "title": "Women's tournament",
+      "archiveUrl": "https://olympics.com/en/sports/hockey",
+      "sourceUrl": "https://www.fih.hockey/events/olympic-games",
+      "sourceLabel": "FIH Women's Olympic Archive",
+      "archiveLabel": "Full Women's Olympic Hockey Archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Netherlands",
+          "runnerUp": "China",
+          "score": "1-1 (3-1 shoot-out)",
+          "margin": "Stade Yves-du-Manoir, Paris; Anne Veenendaal shootout saves; Yibbi Jansen tournament top scorer with 9 goals"
+        },
+        {
+          "year": 2020,
+          "winner": "Netherlands",
+          "runnerUp": "Argentina",
+          "score": "3-1",
+          "margin": "Oi Hockey Stadium, Tokyo; Caia van Maasakker scored twice from penalty corners"
+        },
+        {
+          "year": 2016,
+          "winner": "Great Britain",
+          "runnerUp": "Netherlands",
+          "score": "3-3 (2-0 shoot-out)",
+          "margin": "Olympic Hockey Centre, Rio; Hollie Webb scored winning shootout penalty; Maddie Hinch saved all 4 Dutch penalties"
+        },
+        {
+          "year": 2012,
+          "winner": "Netherlands",
+          "runnerUp": "Argentina",
+          "score": "2-0",
+          "margin": "Riverbank Arena, London; Carlien Dirkse van den Heuvel and Maartje Paumen scored"
+        },
+        {
+          "year": 2008,
+          "winner": "Netherlands",
+          "runnerUp": "China",
+          "score": "2-0",
+          "margin": "Olympic Green Hockey Field, Beijing; Naomi van As and Maartje Goderie scored"
+        },
+        {
+          "year": 2004,
+          "winner": "Germany",
+          "runnerUp": "Netherlands",
+          "score": "2-1",
+          "margin": "Hellinikon, Athens; Anke Kühn and Franziska Gude scored to shock favorites Netherlands"
+        },
+        {
+          "year": 2000,
+          "winner": "Australia",
+          "runnerUp": "Argentina",
+          "score": "3-1",
+          "margin": "State Hockey Centre, Sydney; Hockeyroos completed historic 3-peat (1988, 1996, 2000)"
+        },
+        {
+          "year": 1996,
+          "winner": "Australia",
+          "runnerUp": "South Korea",
+          "score": "3-1",
+          "margin": "Panther Stadium, Atlanta; Alyson Annan scored twice for Ric Charlesworth's team"
+        },
+        {
+          "year": 1992,
+          "winner": "Spain",
+          "runnerUp": "Germany",
+          "score": "2-1 (a.e.t.)",
+          "margin": "Estadi Olímpic de Terrassa, Barcelona; Eli Maragall scored 83rd-minute extra-time goal for hosts"
+        },
+        {
+          "year": 1988,
+          "winner": "Australia",
+          "runnerUp": "South Korea",
+          "score": "2-0",
+          "margin": "Seongnam Stadium, Seoul; Debbie Bowman and Lee Capes scored for Australia's maiden hockey gold"
+        }
+      ]
+    }
+  ]
+}

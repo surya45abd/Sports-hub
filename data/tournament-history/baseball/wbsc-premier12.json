@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "sport": "Baseball",
+  "tournament": "WBSC Premier12",
+  "source": {
+    "url": "https://www.wbsc.org/en/events/2024-premier12",
+    "label": "Official WBSC Premier12 event archive"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 2015,
+      "winner": "South Korea",
+      "runnerUp": "United States",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Japan",
+      "runnerUp": "South Korea",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Chinese Taipei",
+      "runnerUp": "Japan",
+      "score": "4-0",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 2015,
+      "winner": "South Korea",
+      "runnerUp": "United States",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Japan",
+      "runnerUp": "South Korea",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Chinese Taipei",
+      "runnerUp": "Japan",
+      "score": "4-0",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://static.wbsc.org/uploads/federations/0/documents/20170630124244-2015%20Premier12%20Final%20Report.pdf",
+      "label": "Official 2015 final report"
+    },
+    {
+      "url": "https://www.mlb.com/news/premier12-teams-are-set-for-2024-international-tournament",
+      "label": "2015 and 2019 champions cross-check"
+    },
+    {
+      "url": "https://static.wbsc.org/uploads/federations/278/cms/documents/370112df-217b-1b20-b16b-939223807a8f.pdf",
+      "label": "Official 2024 championship report"
+    }
+  ],
+  "reviewNotes": "Complete record of all three completed WBSC Premier12 editions: 2015, 2019, and 2024."
+}

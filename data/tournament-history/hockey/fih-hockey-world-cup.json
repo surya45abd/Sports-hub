@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "sport": "Hockey",
+  "tournament": "FIH Hockey World Cup",
+  "source": {
+    "url": "https://www.fih.hockey/events/world-cup",
+    "label": "International Hockey Federation (FIH) Official World Cup Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete FIH Hockey World Cup finals archive (1971–2023) for Men's and Women's competitions.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's World Cup",
+      "archiveUrl": "https://www.fih.hockey/events/world-cup",
+      "sourceUrl": "https://www.fih.hockey/",
+      "sourceLabel": "FIH Men's World Cup Official Archive",
+      "archiveLabel": "Full Men's World Cup Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Germany",
+          "runnerUp": "Belgium",
+          "score": "3-3 (5-4 shoot-out)",
+          "margin": "Bhubaneswar/Rourkela, India; Niklas Wellen Player of the Tournament; Germany rallied from 2-0 down"
+        },
+        {
+          "year": 2018,
+          "winner": "Belgium",
+          "runnerUp": "Netherlands",
+          "score": "0-0 (3-2 shoot-out)",
+          "margin": "Kalinga Stadium, Bhubaneswar, India; Vincent Vanasch shootout heroics to claim maiden world crown"
+        },
+        {
+          "year": 2014,
+          "winner": "Australia",
+          "runnerUp": "Netherlands",
+          "score": "6-1",
+          "margin": "Kyocera Stadion, The Hague, Netherlands; Chris Ciriello hat-trick; back-to-back world titles"
+        },
+        {
+          "year": 2010,
+          "winner": "Australia",
+          "runnerUp": "Germany",
+          "score": "2-1",
+          "margin": "Dhyan Chand National Stadium, New Delhi, India; Luke Doerner and Glenn Turner goals"
+        },
+        {
+          "year": 2006,
+          "winner": "Germany",
+          "runnerUp": "Australia",
+          "score": "4-3",
+          "margin": "Warsteiner HockeyPark, Mönchengladbach, Germany; Christopher Zeller scored two late goals to defend title"
+        },
+        {
+          "year": 2002,
+          "winner": "Germany",
+          "runnerUp": "Australia",
+          "score": "2-1",
+          "margin": "National Hockey Stadium, Kuala Lumpur, Malaysia; Oliver Domke scored 58th-minute winning goal"
+        },
+        {
+          "year": 1998,
+          "winner": "Netherlands",
+          "runnerUp": "Spain",
+          "score": "3-2 (a.e.t.)",
+          "margin": "Galgenwaard Stadium, Utrecht, Netherlands; Teun de Nooijer scored 89th-minute golden goal"
+        },
+        {
+          "year": 1994,
+          "winner": "Pakistan",
+          "runnerUp": "Netherlands",
+          "score": "1-1 (4-3 penalties)",
+          "margin": "Homebush State Sports Centre, Sydney, Australia; Shahbaz Ahmed led Pakistan to record 4th title"
+        },
+        {
+          "year": 1990,
+          "winner": "Netherlands",
+          "runnerUp": "Pakistan",
+          "score": "3-1",
+          "margin": "National Hockey Stadium, Lahore, Pakistan; Floris Jan Bovelander scored 2 penalty corners before 70,000 fans"
+        },
+        {
+          "year": 1986,
+          "winner": "Australia",
+          "runnerUp": "England",
+          "score": "2-1",
+          "margin": "Willesden Sports Centre, London, England; Terry Walsh and John Bestall scored for the Kookaburras"
+        },
+        {
+          "year": 1982,
+          "winner": "Pakistan",
+          "runnerUp": "West Germany",
+          "score": "3-1",
+          "margin": "Wankhede Stadium, Bombay, India; Akhtar Rasool and Hassan Sardar starred"
+        },
+        {
+          "year": 1978,
+          "winner": "Pakistan",
+          "runnerUp": "Netherlands",
+          "score": "3-2",
+          "margin": "Campo de Polo, Buenos Aires, Argentina; Islahuddin Siddiqui captained undefeated campaign"
+        },
+        {
+          "year": 1975,
+          "winner": "India",
+          "runnerUp": "Pakistan",
+          "score": "2-1",
+          "margin": "Stadium Merdeka, Kuala Lumpur, Malaysia; Ashok Kumar (son of Dhyan Chand) scored historic winning goal"
+        },
+        {
+          "year": 1973,
+          "winner": "Netherlands",
+          "runnerUp": "India",
+          "score": "2-2 (4-2 penalties)",
+          "margin": "Wagener Stadium, Amstelveen, Netherlands; Ties Kruize scored 2 goals; Maarten Sikking penalty heroics"
+        },
+        {
+          "year": 1971,
+          "winner": "Pakistan",
+          "runnerUp": "Spain",
+          "score": "1-0",
+          "margin": "Real Club de Polo, Barcelona, Spain; Akhtarul Islam scored lone goal of inaugural final"
+        }
+      ]
+    },
+    {
+      "title": "Women's World Cup",
+      "archiveUrl": "https://www.fih.hockey/events/world-cup",
+      "sourceUrl": "https://www.fih.hockey/",
+      "sourceLabel": "FIH Women's World Cup Official Archive",
+      "archiveLabel": "Full Women's World Cup Archive",
+      "records": [
+        {
+          "year": 2022,
+          "winner": "Netherlands",
+          "runnerUp": "Argentina",
+          "score": "3-1",
+          "margin": "Estadi Olímpic de Terrassa, Spain; record 9th World Cup crown; Frederique Matla and Yibbi Jansen starred"
+        },
+        {
+          "year": 2018,
+          "winner": "Netherlands",
+          "runnerUp": "Ireland",
+          "score": "6-0",
+          "margin": "Lee Valley Hockey Centre, London; Kitty van Male and Kelly Jonker led 6-goal blitz"
+        },
+        {
+          "year": 2014,
+          "winner": "Netherlands",
+          "runnerUp": "Australia",
+          "score": "2-0",
+          "margin": "Kyocera Stadion, The Hague; Maartje Paumen penalty stroke and Kim Lammers goal"
+        },
+        {
+          "year": 2010,
+          "winner": "Argentina",
+          "runnerUp": "Netherlands",
+          "score": "3-1",
+          "margin": "Estadio Mundialista, Rosario, Argentina; Luciana Aymar (Player of the Tournament) and Carla Rebecchi 2 goals"
+        },
+        {
+          "year": 2006,
+          "winner": "Netherlands",
+          "runnerUp": "Australia",
+          "score": "3-1",
+          "margin": "Club de Campo Villa de Madrid, Spain; Sylvia Karres top scorer with 6 goals"
+        },
+        {
+          "year": 2002,
+          "winner": "Argentina",
+          "runnerUp": "Netherlands",
+          "score": "1-1 (4-3 penalties)",
+          "margin": "Perth Hockey Stadium, Australia; maiden world title for Las Leonas; Luciana Aymar's breakthrough"
+        },
+        {
+          "year": 1998,
+          "winner": "Netherlands",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": "Galgenwaard Stadium, Utrecht, Netherlands; ended Australia's reign"
+        },
+        {
+          "year": 1994,
+          "winner": "Australia",
+          "runnerUp": "Argentina",
+          "score": "2-0",
+          "margin": "University College Dublin, Ireland; Alyson Annan and Michelle Andrews scored"
+        },
+        {
+          "year": 1990,
+          "winner": "Netherlands",
+          "runnerUp": "Australia",
+          "score": "3-1",
+          "margin": "State Hockey Centre, Sydney, Australia; 3rd consecutive title for the Dutch"
+        },
+        {
+          "year": 1986,
+          "winner": "Netherlands",
+          "runnerUp": "West Germany",
+          "score": "3-0",
+          "margin": "Wagener Stadium, Amstelveen, Netherlands; Lisanne Lejeune scored 2 goals"
+        },
+        {
+          "year": 1983,
+          "winner": "Netherlands",
+          "runnerUp": "Canada",
+          "score": "4-2",
+          "margin": "Kuala Lumpur, Malaysia; undefeated championship run"
+        },
+        {
+          "year": 1981,
+          "winner": "West Germany",
+          "runnerUp": "Netherlands",
+          "score": "1-1 (3-1 penalties)",
+          "margin": "Buenos Aires, Argentina; West Germany's 2nd world championship"
+        },
+        {
+          "year": 1978,
+          "winner": "Netherlands",
+          "runnerUp": "West Germany",
+          "score": "1-0",
+          "margin": "Madrid, Spain"
+        },
+        {
+          "year": 1976,
+          "winner": "West Germany",
+          "runnerUp": "Argentina",
+          "score": "2-0",
+          "margin": "West Berlin"
+        },
+        {
+          "year": 1974,
+          "winner": "Netherlands",
+          "runnerUp": "Argentina",
+          "score": "1-0",
+          "margin": "Mandelieu, France; inaugural women's tournament"
+        }
+      ]
+    }
+  ]
+}

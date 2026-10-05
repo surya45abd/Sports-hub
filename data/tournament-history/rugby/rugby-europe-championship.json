@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "sport": "Rugby",
+  "tournament": "Rugby Europe Championship",
+  "source": {
+    "url": "https://www.rugbyeurope.eu/competitions/rugby-europe-championship",
+    "label": "Rugby Europe Official Championship Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Rugby Europe Championship annual titles archive (2010–2024), tracking European Tier 2 champions and finals.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Georgia",
+      "runnerUp": "Portugal",
+      "score": "36-10",
+      "margin": "Stade Jean-Bouin (Paris); Georgia won 7th consecutive Rugby Europe Championship title"
+    },
+    {
+      "year": 2023,
+      "winner": "Georgia",
+      "runnerUp": "Portugal",
+      "score": "38-11",
+      "margin": "Estadio Nuevo Vivero (Badajoz); 6-try performance in first Grand Final format"
+    },
+    {
+      "year": 2022,
+      "winner": "Georgia",
+      "runnerUp": "Romania",
+      "score": "Table winners (44 pts)",
+      "margin": "Georgia completed undefeated campaign (9 wins, 1 draw) to seal 2023 Rugby World Cup spot"
+    },
+    {
+      "year": 2021,
+      "winner": "Georgia",
+      "runnerUp": "Romania",
+      "score": "Table winners (24 pts)",
+      "margin": "Georgia won all 5 matches with bonus points"
+    },
+    {
+      "year": 2020,
+      "winner": "Georgia",
+      "runnerUp": "Spain",
+      "score": "Table winners (24 pts)",
+      "margin": "Undefeated championship season for 'The Lelos'"
+    },
+    {
+      "year": 2019,
+      "winner": "Georgia",
+      "runnerUp": "Spain",
+      "score": "Table winners (24 pts)",
+      "margin": "Georgia conceded only 41 points across 5 tournament fixtures"
+    },
+    {
+      "year": 2018,
+      "winner": "Georgia",
+      "runnerUp": "Russia",
+      "score": "Table winners (24 pts)",
+      "margin": "Milton Haig led Georgia to clean sweep of 5 victories"
+    },
+    {
+      "year": 2017,
+      "winner": "Romania",
+      "runnerUp": "Georgia",
+      "score": "Table winners (19 pts)",
+      "margin": "Romania defeated Georgia 28-25 in final-round Bucharest decider to take crown"
+    },
+    {
+      "year": 2016,
+      "winner": "Georgia",
+      "runnerUp": "Romania",
+      "score": "Table winners (45 pts)",
+      "margin": "Georgia claimed 6th consecutive European Nations Cup division title"
+    },
+    {
+      "year": 2015,
+      "winner": "Georgia",
+      "runnerUp": "Romania",
+      "score": "Table winners (41 pts)",
+      "margin": "Georgia went undefeated across home and away cycle"
+    },
+    {
+      "year": 2014,
+      "winner": "Georgia",
+      "runnerUp": "Romania",
+      "score": "Table winners (41 pts)",
+      "margin": "Georgia clinched 2015 World Cup qualification"
+    },
+    {
+      "year": 2013,
+      "winner": "Georgia",
+      "runnerUp": "Romania",
+      "score": "Table winners (41 pts)",
+      "margin": "Georgia finished undefeated at top of standings"
+    },
+    {
+      "year": 2012,
+      "winner": "Georgia",
+      "runnerUp": "Spain",
+      "score": "Table winners (42 pts)",
+      "margin": "Georgia edged Spain and Romania in table"
+    },
+    {
+      "year": 2011,
+      "winner": "Georgia",
+      "runnerUp": "Romania",
+      "score": "Table winners (41 pts)",
+      "margin": "Georgia captured European Nations Cup title"
+    },
+    {
+      "year": 2010,
+      "winner": "Romania",
+      "runnerUp": "Georgia",
+      "score": "Table winners (41 pts)",
+      "margin": "Romania pipped Georgia on head-to-head points difference"
+    }
+  ]
+}

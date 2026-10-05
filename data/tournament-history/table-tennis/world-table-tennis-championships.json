@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 2,
+  "sport": "Table Tennis",
+  "tournament": "World Table Tennis Championships",
+  "source": {
+    "url": "https://www.ittf.com/history/",
+    "label": "International Table Tennis Federation (ITTF) Official World Championships Roll"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern World Table Tennis Championships singles finals archive (1989–2023) for Men's and Women's singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://www.ittf.com/history/",
+      "sourceUrl": "https://www.ittf.com/",
+      "sourceLabel": "ITTF Men's World Championship Archive",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Wang Chuqin (CHN)",
+          "score": "4-2 (8-11, 11-9, 11-7, 12-10, 11-13, 11-3)",
+          "margin": "Durban, South Africa; defended men's singles world crown"
+        },
+        {
+          "year": 2021,
+          "winner": "Fan Zhendong (CHN)",
+          "runnerUp": "Truls Möregårdh (SWE)",
+          "score": "4-0 (11-6, 11-9, 11-7, 11-8)",
+          "margin": "Houston, USA; maiden World Championship singles title; 19-year-old Möregårdh's breakout run"
+        },
+        {
+          "year": 2019,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Mattias Falck (SWE)",
+          "score": "4-1 (11-5, 11-7, 7-11, 11-9, 11-5)",
+          "margin": "Budapest, Hungary; historic 3-peat (first man since Zhuang Zedong 1965 to win 3 consecutive world titles)"
+        },
+        {
+          "year": 2017,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Fan Zhendong (CHN)",
+          "score": "4-3 (7-11, 11-6, 11-3, 11-8, 5-11, 7-11, 12-10)",
+          "margin": "Messe Düsseldorf, Germany; one of the greatest matches in table tennis history; 12-10 in 7th game"
+        },
+        {
+          "year": 2015,
+          "winner": "Ma Long (CHN)",
+          "runnerUp": "Fang Bo (CHN)",
+          "score": "4-2 (11-7, 7-11, 11-4, 11-8, 11-13, 11-4)",
+          "margin": "Suzhou, China; Ma Long jumped onto table in celebration of maiden World Championship singles crown"
+        },
+        {
+          "year": 2013,
+          "winner": "Zhang Jike (CHN)",
+          "runnerUp": "Wang Hao (CHN)",
+          "score": "4-2 (11-7, 11-8, 6-11, 14-12, 5-11, 11-7)",
+          "margin": "Palais Omnisports de Paris-Bercy; ran into crowd to embrace parents; defended world title"
+        },
+        {
+          "year": 2011,
+          "winner": "Zhang Jike (CHN)",
+          "runnerUp": "Wang Hao (CHN)",
+          "score": "4-2 (12-10, 11-7, 6-11, 9-11, 11-5, 14-12)",
+          "margin": "Ahoy Rotterdam; famous shirt-ripping celebration after winning maiden world title"
+        },
+        {
+          "year": 2009,
+          "winner": "Wang Hao (CHN)",
+          "runnerUp": "Wang Liqin (CHN)",
+          "score": "4-0 (11-9, 13-11, 11-5, 11-9)",
+          "margin": "Yokohama Arena, Japan; perfected reverse penhold backhand display"
+        },
+        {
+          "year": 2007,
+          "winner": "Wang Liqin (CHN)",
+          "runnerUp": "Ma Lin (CHN)",
+          "score": "4-3 (4-11, 8-11, 11-5, 4-11, 11-9, 11-8, 11-6)",
+          "margin": "Zagreb, Croatia; legendary comeback from 1-3 sets down and 1-7 in 5th game to win 3rd world crown"
+        },
+        {
+          "year": 2005,
+          "winner": "Wang Liqin (CHN)",
+          "runnerUp": "Ma Lin (CHN)",
+          "score": "4-2 (11-9, 3-11, 8-11, 11-9, 11-9, 11-7)",
+          "margin": "Shanghai, China; 2nd World Championship singles title"
+        },
+        {
+          "year": 2003,
+          "winner": "Werner Schlager (AUT)",
+          "runnerUp": "Joo Sae-hyuk (KOR)",
+          "score": "4-2 (11-9, 11-6, 6-11, 12-10, 8-11, 12-10)",
+          "margin": "Paris-Bercy; saved 4 match points against Kong Linghui & Wang Liqin; last non-Chinese world champion"
+        },
+        {
+          "year": 2001,
+          "winner": "Wang Liqin (CHN)",
+          "runnerUp": "Kong Linghui (CHN)",
+          "score": "3-2 (11-21, 13-21, 21-13, 21-15, 21-18)",
+          "margin": "Osaka Municipal Central Gymnasium; rallied from 0-2 sets down"
+        },
+        {
+          "year": 1999,
+          "winner": "Liu Guoliang (CHN)",
+          "runnerUp": "Ma Lin (CHN)",
+          "score": "3-2 (21-16, 19-21, 19-21, 21-16, 24-22)",
+          "margin": "Eindhoven, Netherlands; saved 2 match points in 5th game to complete career Grand Slam"
+        },
+        {
+          "year": 1997,
+          "winner": "Jan-Ove Waldner (SWE)",
+          "runnerUp": "Vladimir Samsonov (BLR)",
+          "score": "3-0 (21-12, 21-17, 21-13)",
+          "margin": "Manchester, England; 'The Mozart of Table Tennis' won world title without dropping a single game (21-0)"
+        },
+        {
+          "year": 1995,
+          "winner": "Kong Linghui (CHN)",
+          "runnerUp": "Liu Guoliang (CHN)",
+          "score": "3-2 (21-17, 16-21, 21-15, 14-21, 21-10)",
+          "margin": "Tianjin, China; 19-year-old Kong triumphed in all-Chinese final"
+        },
+        {
+          "year": 1993,
+          "winner": "Jean-Philippe Gatien (FRA)",
+          "runnerUp": "Jean-Michel Saive (BEL)",
+          "score": "3-2 (21-19, 17-21, 21-14, 17-21, 21-18)",
+          "margin": "Scandinavium, Gothenburg, Sweden; only French men's world singles champion"
+        },
+        {
+          "year": 1991,
+          "winner": "Jörgen Persson (SWE)",
+          "runnerUp": "Jan-Ove Waldner (SWE)",
+          "score": "3-0 (21-19, 21-18, 21-18)",
+          "margin": "Makuhari Messe, Chiba, Japan; all-Swedish final"
+        },
+        {
+          "year": 1989,
+          "winner": "Jan-Ove Waldner (SWE)",
+          "runnerUp": "Jörgen Persson (SWE)",
+          "score": "3-2 (21-17, 21-18, 20-22, 18-21, 21-10)",
+          "margin": "Westfalenhallen, Dortmund, West Germany; Waldner's maiden world singles title"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://www.ittf.com/history/",
+      "sourceUrl": "https://www.ittf.com/",
+      "sourceLabel": "ITTF Women's World Championship Archive",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Sun Yingsha (CHN)",
+          "runnerUp": "Chen Meng (CHN)",
+          "score": "4-2 (5-11, 11-8, 11-7, 11-7, 7-11, 11-6)",
+          "margin": "Durban, South Africa; World No. 1 Sun claimed maiden World Championship singles title"
+        },
+        {
+          "year": 2021,
+          "winner": "Wang Manyu (CHN)",
+          "runnerUp": "Sun Yingsha (CHN)",
+          "score": "4-2 (11-13, 11-7, 6-11, 11-6, 11-8, 17-15)",
+          "margin": "Houston, USA; won epic 17-15 6th game for maiden world singles crown"
+        },
+        {
+          "year": 2019,
+          "winner": "Liu Shiwen (CHN)",
+          "runnerUp": "Chen Meng (CHN)",
+          "score": "4-2 (9-11, 11-7, 11-7, 7-11, 11-0, 11-9)",
+          "margin": "Budapest, Hungary; maiden world singles title after 2 lost finals; delivered 11-0 bagel in 5th game"
+        },
+        {
+          "year": 2017,
+          "winner": "Ding Ning (CHN)",
+          "runnerUp": "Zhu Yuling (CHN)",
+          "score": "4-2 (11-4, 9-11, 4-11, 12-10, 11-6, 11-7)",
+          "margin": "Düsseldorf, Germany; 3rd World Championship singles title"
+        },
+        {
+          "year": 2015,
+          "winner": "Ding Ning (CHN)",
+          "runnerUp": "Liu Shiwen (CHN)",
+          "score": "4-3 (7-11, 15-13, 11-7, 11-9, 9-11, 4-11, 11-8)",
+          "margin": "Suzhou, China; played through severe ankle sprain suffered at start of deciding 7th game"
+        },
+        {
+          "year": 2013,
+          "winner": "Li Xiaoxia (CHN)",
+          "runnerUp": "Liu Shiwen (CHN)",
+          "score": "4-2 (11-8, 4-11, 11-7, 12-10, 6-11, 13-11)",
+          "margin": "Paris-Bercy; completed table tennis Grand Slam (Olympic, World Championship, World Cup)"
+        },
+        {
+          "year": 2011,
+          "winner": "Ding Ning (CHN)",
+          "runnerUp": "Li Xiaoxia (CHN)",
+          "score": "4-2 (12-10, 13-11, 11-9, 8-11, 8-11, 11-7)",
+          "margin": "Rotterdam, Netherlands; 20-year-old Ding won maiden world crown with tomahawk serves"
+        },
+        {
+          "year": 2009,
+          "winner": "Zhang Yining (CHN)",
+          "runnerUp": "Guo Yue (CHN)",
+          "score": "4-2 (10-12, 3-11, 11-2, 11-7, 11-7, 11-9)",
+          "margin": "Yokohama, Japan; rallied from 0-2 down to defend title; 2nd world singles crown"
+        },
+        {
+          "year": 2007,
+          "winner": "Guo Yue (CHN)",
+          "runnerUp": "Li Xiaoxia (CHN)",
+          "score": "4-3 (8-11, 11-7, 7-11, 2-11, 11-5, 11-2, 11-8)",
+          "margin": "Zagreb, Croatia; at age 18, rallied from 1-3 down in all-teenage final"
+        },
+        {
+          "year": 2005,
+          "winner": "Zhang Yining (CHN)",
+          "runnerUp": "Guo Yan (CHN)",
+          "score": "4-2 (5-11, 11-7, 11-7, 4-11, 11-8, 13-11)",
+          "margin": "Shanghai, China; completed career Grand Slam"
+        },
+        {
+          "year": 2003,
+          "winner": "Wang Nan (CHN)",
+          "runnerUp": "Zhang Yining (CHN)",
+          "score": "4-3 (11-7, 11-8, 11-4, 5-11, 6-11, 8-11, 11-5)",
+          "margin": "Paris-Bercy; 3-peat at World Championships; won singles, women's doubles, and mixed doubles"
+        },
+        {
+          "year": 2001,
+          "winner": "Wang Nan (CHN)",
+          "runnerUp": "Lin Ling (CHN)",
+          "score": "3-1 (14-21, 21-12, 21-12, 21-19)",
+          "margin": "Osaka, Japan; defended championship"
+        },
+        {
+          "year": 1999,
+          "winner": "Wang Nan (CHN)",
+          "runnerUp": "Zhang Yining (CHN)",
+          "score": "3-2 (15-21, 14-21, 21-5, 21-12, 21-11)",
+          "margin": "Eindhoven, Netherlands; historic comeback from 0-2 sets down"
+        },
+        {
+          "year": 1997,
+          "winner": "Deng Yaping (CHN)",
+          "runnerUp": "Wang Nan (CHN)",
+          "score": "3-1 (12-21, 21-8, 21-11, 21-10)",
+          "margin": "Manchester, England; 3rd World Championship singles title before retiring at age 24"
+        },
+        {
+          "year": 1995,
+          "winner": "Deng Yaping (CHN)",
+          "runnerUp": "Qiao Hong (CHN)",
+          "score": "3-2 (14-21, 21-17, 20-22, 21-14, 21-15)",
+          "margin": "Tianjin, China; 2nd world singles title"
+        },
+        {
+          "year": 1991,
+          "winner": "Deng Yaping (CHN)",
+          "runnerUp": "Li Bun-hui (PRK)",
+          "score": "3-0 (21-13, 21-18, 21-14)",
+          "margin": "Chiba, Japan; maiden World Championship singles title at age 18"
+        }
+      ]
+    }
+  ]
+}

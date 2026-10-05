@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sport": "Wrestling",
+  "tournament": "U20 World Championships",
+  "source": {
+    "url": "https://uww.org/athletes-results",
+    "label": "United World Wrestling"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "U20 Junior World Championship champions.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "United States (Freestyle) / Iran (Greco-Roman)",
+      "runnerUp": "Iran / Kazakhstan",
+      "score": "Team Champions",
+      "margin": "Pontevedra, Spain"
+    },
+    {
+      "year": 2023,
+      "winner": "Iran (Freestyle) / India (Women's Team Champions)",
+      "runnerUp": "USA / Japan",
+      "score": "Women's Team Gold",
+      "margin": "Amman, Jordan; Antim Panghal won second consecutive U20 World Gold (53kg)"
+    },
+    {
+      "year": 2022,
+      "winner": "United States (Freestyle) / Japan (Women)",
+      "runnerUp": "Iran / India",
+      "score": "Team Champions",
+      "margin": "Sofia, Bulgaria; Antim Panghal became first Indian woman to win U20 World Gold"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "schemaVersion": 1,
+  "sport": "Volleyball",
+  "tournament": "CEV Champions League",
+  "source": {
+    "url": "https://championsleague.cev.eu/en/history/",
+    "label": "Official CEV Champions League history"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "Every completed men's and women's European Cup/CEV Champions League final from 1960 through 2026 is listed. The 2020 editions were cancelled. The older competition was called the European Champions Cup before the CEV Champions League name was adopted.",
+  "verificationSources": [
+    {
+      "url": "https://www.sport-record.de/volleyball/volleyball-ec1-m.pdf",
+      "label": "Men's finals archive, winners and runners-up, 1960-2026"
+    },
+    {
+      "url": "https://www.sport-record.de/volleyball/volleyball-ec1-w.pdf",
+      "label": "Women's finals archive, winners and runners-up, 1961-2026"
+    },
+    {
+      "url": "https://championsleague.cev.eu/en/articles/cev-champions-league-volley-2026/perugia-crowned-back-to-back-clvolleym-champions/",
+      "label": "Official 2026 men's final"
+    },
+    {
+      "url": "https://championsleague.cev.eu/en/articles/cev-champions-league-volley-2026/vakifbank-rise-again-claim-historic-seventh-european-crown/",
+      "label": "Official 2026 women's final"
+    }
+  ],
+  "records": [
+    {
+      "year": 1960,
+      "winner": "Men: CSKA Moskva; Women: Not held",
+      "runnerUp": "Men: Rapid Bucuresti; Women: Not held",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1961,
+      "winner": "Men: Rapid Bucuresti; Women: Dinamo Moscow",
+      "runnerUp": "Men: CSKA Moskva; Women: AZS-AWF Warszawa",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1962,
+      "winner": "Men: CSKA Moskva; Women: Burevestnik Odesa",
+      "runnerUp": "Men: Rapid Bucuresti; Women: Slavia Sofia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1963,
+      "winner": "Men: Rapid Bucuresti; Women: Dinamo Moscow",
+      "runnerUp": "Men: CSKA Moskva; Women: AZS-AWF Warszawa",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1964,
+      "winner": "Men: SC Leipzig; Women: Levski Sofia",
+      "runnerUp": "Men: HASK Mladost Zagreb; Women: SC Dynamo Berlin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1965,
+      "winner": "Men: Rapid Bucuresti; Women: Dinamo Moscow",
+      "runnerUp": "Men: Minyor Pernik; Women: SC Dynamo Berlin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1966,
+      "winner": "Men: Dinamo Bucuresti; Women: CSKA Moscow",
+      "runnerUp": "Men: Rapid Bucuresti; Women: Dinamo Moscow",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Men: Dinamo Bucuresti; Women: CSKA Moscow",
+      "runnerUp": "Men: Rapid Bucuresti; Women: Dinamo Moscow",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Men: Spartak Brno ZJS; Women: Dinamo Moscow",
+      "runnerUp": "Men: Dinamo Bucuresti; Women: CSKA Moscow",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Men: CSKA Sofia; Women: Dinamo Moscow",
+      "runnerUp": "Men: Steaua Bucuresti; Women: CSKA Moscow",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Men: Burevestnik Alma Ata; Women: Dinamo Moscow",
+      "runnerUp": "Men: Zbrojovka Brno; Women: NIM-SE Budapest",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Men: Burevestnik Alma Ata; Women: Dinamo Moscow",
+      "runnerUp": "Men: Zbrojovka Brno; Women: Tatran Stresovice Praha",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Men: Zbrojovka Brno; Women: Dinamo Moscow",
+      "runnerUp": "Men: AMVJ Amstelveen; Women: Tatran Stresovice Praha",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Men: CSKA Moskva; Women: NIM-SE Budapest",
+      "runnerUp": "Men: Resovia Rzeszow; Women: Dinamo Moscow",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Men: CSKA Moskva; Women: Dinamo Moscow",
+      "runnerUp": "Men: Dinamo Bucuresti; Women: NIM-SE Budapest",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Men: CSKA Moskva; Women: Dinamo Moscow",
+      "runnerUp": "Men: Zbrojovka Brno; Women: Levski/Spartak Sofia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Men: Dukla Liberec; Women: Ruda Hvezda Praha",
+      "runnerUp": "Men: Slavia Sofia; Women: Levski/Spartak Sofia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Men: CSKA Moskva; Women: Dinamo Moscow",
+      "runnerUp": "Men: Dinamo Bucuresti; Women: NIM-SE Budapest",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Men: Plomien Milowice; Women: SC Traktor Schwerin",
+      "runnerUp": "Men: Starlift Voorburg; Women: NIM-SE Budapest",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Men: Cervena Hviezda Bratislava; Women: CSKA Septemvriysko Zname Sofia",
+      "runnerUp": "Men: Steaua Bucuresti; Women: NIM-SE Budapest",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Men: Klippan Torino; Women: Ruda Hvezda Praha",
+      "runnerUp": "Men: Cervena Hviezda Bratislava; Women: Eczacibasi Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Men: Dinamo Bucuresti; Women: Uralochka Sverdlovsk",
+      "runnerUp": "Men: CSKA Moskva; Women: Levski/Spartak Sofia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Men: CSKA Moskva; Women: Uralochka Sverdlovsk",
+      "runnerUp": "Men: Robe di Kappa Torino; Women: FBTO/DVC Dokkum",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Men: CSKA Moskva; Women: Uralochka Sverdlovsk",
+      "runnerUp": "Men: AS Cannes; Women: Vasas Izzo Budapest",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Men: Santal Parma; Women: CSKA Septemvriysko Zname Sofia",
+      "runnerUp": "Men: HASK Mladost Zagreb; Women: Olimpia Teodora Ravenna",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Men: Santal Parma; Women: ADK Alma Ata",
+      "runnerUp": "Men: HASK Mladost Zagreb; Women: Olimpia Teodora Ravenna",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Men: CSKA Moskva; Women: CSKA Moscow",
+      "runnerUp": "Men: Santal Parma; Women: Olimpia Teodora Ravenna",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Men: CSKA Moskva; Women: Uralochka Sverdlovsk",
+      "runnerUp": "Men: Panini Modena; Women: Olimpia Teodora Ravenna",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Men: CSKA Moskva; Women: Olimpia Teodora Ravenna",
+      "runnerUp": "Men: Panini Modena; Women: Uralochka Sverdlovsk",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Men: CSKA Moskva; Women: Uralochka Sverdlovsk",
+      "runnerUp": "Men: Panini Modena; Women: Olimpia Teodora Ravenna",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Men: Philips Modena; Women: Uralochka Sverdlovsk",
+      "runnerUp": "Men: AS Frejus; Women: Olimpia Teodora Ravenna",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Men: CSKA Moskva; Women: HASK Mladost Zagreb",
+      "runnerUp": "Men: Maxicono Parma; Women: Uralochka Sverdlovsk",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Men: Il Messaggero Ravenna; Women: Olimpia Teodora Ravenna",
+      "runnerUp": "Men: Olympiakos Piraeus; Women: HASK Mladost Zagreb",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Men: Il Messaggero Ravenna; Women: Parmalat Matera",
+      "runnerUp": "Men: Maxicono Parma; Women: Olimpia Teodora Ravenna",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Men: Il Messaggero Ravenna; Women: Uralochka Yekaterinburg",
+      "runnerUp": "Men: Maxicono Parma; Women: HAOK Mladost Zagreb",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Men: Sisley Treviso; Women: Uralochka Yekaterinburg",
+      "runnerUp": "Men: Edilcuoghi Ravenna; Women: CV Murcia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Men: Las-Daytona Modena; Women: Parmalat Matera",
+      "runnerUp": "Men: ASV Dachau; Women: Uralochka Yekaterinburg",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Men: Las Valtur Modena; Women: Foppapedretti Volley Bergamo",
+      "runnerUp": "Men: VC Noliko Maaseik; Women: Uralochka Yekaterinburg",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Men: Casa Modena Unibon; Women: OK Dubrovnik",
+      "runnerUp": "Men: CV Unicaja Almeria; Women: VakifBank Ankara",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Men: Sisley Treviso; Women: Foppapedretti Volley Bergamo",
+      "runnerUp": "Men: VC Noliko Maaseik; Women: VakifBank Ankara",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Men: Sisley Treviso; Women: Foppapedretti Volley Bergamo",
+      "runnerUp": "Men: VfB Friedrichshafen; Women: Uralochka Yekaterinburg",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Men: Paris Volley; Women: AS Volley Modena",
+      "runnerUp": "Men: Sisley Treviso; Women: Capo Sud Reggio Calabria",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Men: Lube Banca Marche Macerata; Women: Racing Club de Cannes",
+      "runnerUp": "Men: Olympiakos Piraeus; Women: Foppapedretti Bergamo",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Men: Lokomotiv-Belogorye Belgorod; Women: Racing Club de Cannes",
+      "runnerUp": "Men: Kerakoll Modena; Women: Uralochka Yekaterinburg",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Men: Lokomotiv-Belogorye Belgorod; Women: CV Tenerife Marichal",
+      "runnerUp": "Men: Iskra Odintsovo; Women: Pallavolo Sirio Perugia",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Men: Tours VB; Women: Foppapedretti Bergamo",
+      "runnerUp": "Men: Iraklis Thessaloniki; Women: SantOrsola Asystel Novara",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Men: Sisley Treviso; Women: Pallavolo Sirio Perugia",
+      "runnerUp": "Men: Iraklis Thessaloniki; Women: Racing Club de Cannes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Men: VfB Friedrichshafen; Women: Foppapedretti Bergamo",
+      "runnerUp": "Men: Tours VB; Women: Dinamo Moscow",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Men: Dinamo Tattransgaz Kazan; Women: Pallavolo Colussi Perugia",
+      "runnerUp": "Men: Copra Volley Piacenza; Women: Zarechye Odintsovo",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Men: Trentino Volley; Women: Foppapedretti Bergamo",
+      "runnerUp": "Men: Iraklis Thessaloniki; Women: Dinamo Moscow",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Men: Trentino BetClic Volley; Women: Foppapedretti Bergamo",
+      "runnerUp": "Men: Dinamo Moscow; Women: Fenerbahce Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Men: Trentino BetClic Volley; Women: VakifBank Istanbul",
+      "runnerUp": "Men: Zenit Kazan; Women: Rabita Baku",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Men: Zenit Kazan; Women: Fenerbahce Universal Istanbul",
+      "runnerUp": "Men: PGE Skra Belchatow; Women: Racing Club de Cannes",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Men: Lokomotiv Novosibirsk; Women: VakifBank Istanbul",
+      "runnerUp": "Men: Bre Banca Lannutti Cuneo; Women: Rabita Baku",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Men: Belogorie Belgorod; Women: Dinamo Kazan",
+      "runnerUp": "Men: Halkbank Ankara; Women: VakifBank Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Men: Zenit Kazan; Women: Eczacibasi Vitra Istanbul",
+      "runnerUp": "Men: Asseco Resovia Rzeszow; Women: Busto Arsizio",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Men: Zenit Kazan; Women: Pomi Casalmaggiore",
+      "runnerUp": "Men: Trentino Diatec; Women: VakifBank Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Men: Zenit Kazan; Women: VakifBank Istanbul",
+      "runnerUp": "Men: Sir Sicoma Colussi Perugia; Women: Imoco Volley Conegliano",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Men: Zenit Kazan; Women: VakifBank Istanbul",
+      "runnerUp": "Men: Cucine Lube Civitanova; Women: CSM Volei Alba Blaj",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Men: Cucine Lube Civitanova; Women: Igor Gorgonzola Novara",
+      "runnerUp": "Men: Zenit Kazan; Women: Imoco Volley Conegliano",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Men: Not held; Women: Not held",
+      "runnerUp": "Men: Not held; Women: Not held",
+      "score": "",
+      "margin": "Both editions cancelled due to COVID-19."
+    },
+    {
+      "year": 2021,
+      "winner": "Men: ZAKSA Kedzierzyn-Kozle; Women: Imoco Volley Conegliano",
+      "runnerUp": "Men: Itas Trentino; Women: VakifBank Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Men: ZAKSA Kedzierzyn-Kozle; Women: VakifBank Istanbul",
+      "runnerUp": "Men: Itas Trentino; Women: Imoco Volley Conegliano",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Men: ZAKSA Kedzierzyn-Kozle; Women: VakifBank Istanbul",
+      "runnerUp": "Men: Jastrzebski Wegiel; Women: Eczacibasi Dynavit Istanbul",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Men: Itas Trentino; Women: A. Carraro Imoco Volley Conegliano",
+      "runnerUp": "Men: Jastrzebski Wegiel; Women: Allianz Vero Volley Milano",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Men: Sir Sicoma Monini Perugia; Women: A. Carraro Imoco Volley Conegliano",
+      "runnerUp": "Men: Aluron CMC Warta Zawiercie; Women: Savino Del Bene Scandicci",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "Men: Sir Sicoma Monini Perugia; Women: VakifBank Istanbul",
+      "runnerUp": "Men: Aluron CMC Warta Zawiercie; Women: Eczacibasi Dynavit Istanbul",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": []
+}

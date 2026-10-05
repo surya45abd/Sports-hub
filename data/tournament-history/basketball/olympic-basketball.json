@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "sport": "Basketball",
+  "tournament": "Olympic Basketball",
+  "source": {
+    "url": "https://olympics.com/en/sports/basketball",
+    "label": "Official International Olympic Committee Basketball Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Olympic tournament history covering both Men's and Women's competitions back to 1972/1976.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's Tournament",
+      "archiveUrl": "https://olympics.com/en/sports/basketball",
+      "archiveLabel": "Men's Olympic basketball archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "98-87",
+          "margin": "Steph Curry 4 clutch 3-pointers in final 3 minutes"
+        },
+        {
+          "year": 2020,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "87-82",
+          "margin": "Kevin Durant led Team USA with 29 points"
+        },
+        {
+          "year": 2016,
+          "winner": "United States",
+          "runnerUp": "Serbia",
+          "score": "96-66",
+          "margin": "30 points; Kevin Durant scored 30 points"
+        },
+        {
+          "year": 2012,
+          "winner": "United States",
+          "runnerUp": "Spain",
+          "score": "107-100",
+          "margin": "7 points; LeBron James and Kobe Bryant sealed victory"
+        },
+        {
+          "year": 2008,
+          "winner": "United States ('Redeem Team')",
+          "runnerUp": "Spain",
+          "score": "118-107",
+          "margin": "Kobe Bryant 4-point play and 20 points in classic final"
+        },
+        {
+          "year": 2004,
+          "winner": "Argentina",
+          "runnerUp": "Italy",
+          "score": "84-69",
+          "margin": "Manu Ginóbili and 'Golden Generation' won historic Gold"
+        },
+        {
+          "year": 2000,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "85-75",
+          "margin": "Vince Carter legendary dunk over Frédéric Weis"
+        },
+        {
+          "year": 1996,
+          "winner": "United States ('Dream Team II')",
+          "runnerUp": "FR Yugoslavia",
+          "score": "95-69",
+          "margin": "26 points in Atlanta"
+        },
+        {
+          "year": 1992,
+          "winner": "United States ('The Dream Team')",
+          "runnerUp": "Croatia",
+          "score": "117-85",
+          "margin": "Iconic team with Jordan, Magic, Bird won by avg 43.8 pts"
+        },
+        {
+          "year": 1988,
+          "winner": "Soviet Union",
+          "runnerUp": "Yugoslavia",
+          "score": "76-63",
+          "margin": "Arvydas Sabonis led USSR to Gold"
+        },
+        {
+          "year": 1984,
+          "winner": "United States",
+          "runnerUp": "Spain",
+          "score": "96-65",
+          "margin": "Michael Jordan and Patrick Ewing led Team USA in LA"
+        },
+        {
+          "year": 1980,
+          "winner": "Yugoslavia",
+          "runnerUp": "Italy",
+          "score": "86-77",
+          "margin": "Dražen Dalipagić and Dragan Kićanović led Yugoslavia"
+        },
+        {
+          "year": 1976,
+          "winner": "United States",
+          "runnerUp": "Yugoslavia",
+          "score": "95-74",
+          "margin": "21 points"
+        },
+        {
+          "year": 1972,
+          "winner": "Soviet Union",
+          "runnerUp": "United States",
+          "score": "51-50",
+          "margin": "Controversial final 3 seconds layup by Alexander Belov"
+        }
+      ]
+    },
+    {
+      "title": "Women's Tournament",
+      "archiveUrl": "https://olympics.com/en/sports/basketball",
+      "archiveLabel": "Women's Olympic basketball archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "67-66",
+          "margin": "1 point; record 8th consecutive Olympic Gold for USA"
+        },
+        {
+          "year": 2020,
+          "winner": "United States",
+          "runnerUp": "Japan",
+          "score": "90-75",
+          "margin": "Brittney Griner scored 30 points"
+        },
+        {
+          "year": 2016,
+          "winner": "United States",
+          "runnerUp": "Spain",
+          "score": "101-72",
+          "margin": "29 points"
+        },
+        {
+          "year": 2012,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "86-50",
+          "margin": "36 points in London"
+        },
+        {
+          "year": 2008,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "92-65",
+          "margin": "27 points in Beijing"
+        },
+        {
+          "year": 2004,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "74-63",
+          "margin": "11 points in Athens"
+        },
+        {
+          "year": 2000,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "76-54",
+          "margin": "22 points in Sydney"
+        },
+        {
+          "year": 1996,
+          "winner": "United States",
+          "runnerUp": "Brazil",
+          "score": "111-87",
+          "margin": "Sheryl Swoopes and Lisa Leslie led Team USA in Atlanta"
+        },
+        {
+          "year": 1992,
+          "winner": "Unified Team",
+          "runnerUp": "China",
+          "score": "76-66",
+          "margin": "10 points in Barcelona"
+        },
+        {
+          "year": 1988,
+          "winner": "United States",
+          "runnerUp": "Yugoslavia",
+          "score": "77-70",
+          "margin": "Teresa Edwards led USA to Gold in Seoul"
+        },
+        {
+          "year": 1984,
+          "winner": "United States",
+          "runnerUp": "South Korea",
+          "score": "85-55",
+          "margin": "30 points"
+        },
+        {
+          "year": 1980,
+          "winner": "Soviet Union",
+          "runnerUp": "Bulgaria",
+          "score": "104-73",
+          "margin": "Uljana Semjonova led Soviet team in Moscow"
+        },
+        {
+          "year": 1976,
+          "winner": "Soviet Union",
+          "runnerUp": "United States",
+          "score": "112-77",
+          "margin": "Inaugural Women's Olympic basketball tournament"
+        }
+      ]
+    }
+  ]
+}

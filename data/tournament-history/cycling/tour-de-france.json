@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 2,
+  "sport": "Cycling",
+  "tournament": "Tour de France",
+  "source": {
+    "url": "https://www.letour.fr/en/history",
+    "label": "Amaury Sport Organisation (A.S.O.) Official Tour de France History"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete modern Tour de France general classification archive (1995–2025) with winning times and margins.",
+  "records": [
+    {
+      "year": 2025,
+      "winner": "Tadej Pogačar (SLO)",
+      "runnerUp": "Jonas Vingegaard (DEN)",
+      "score": "82h 45' 12\"",
+      "margin": "4th Tour de France title; sealed on Hautacam and Mont Ventoux"
+    },
+    {
+      "year": 2024,
+      "winner": "Tadej Pogačar (SLO)",
+      "runnerUp": "Jonas Vingegaard (DEN)",
+      "score": "83h 38' 56\"",
+      "margin": "+6' 17\"; 6 stage wins; completed historic Giro-Tour double (first since Pantani 1998; final stage in Nice)"
+    },
+    {
+      "year": 2023,
+      "winner": "Jonas Vingegaard (DEN)",
+      "runnerUp": "Tadej Pogačar (SLO)",
+      "score": "82h 05' 42\"",
+      "margin": "+7' 29\"; crushed Combloux time trial and Col de la Loze to defend yellow jersey"
+    },
+    {
+      "year": 2022,
+      "winner": "Jonas Vingegaard (DEN)",
+      "runnerUp": "Tadej Pogačar (SLO)",
+      "score": "79h 33' 20\"",
+      "margin": "+2' 43\"; Jumbo-Visma tactical masterclass on Col du Granon to crack Pogačar"
+    },
+    {
+      "year": 2021,
+      "winner": "Tadej Pogačar (SLO)",
+      "runnerUp": "Jonas Vingegaard (DEN)",
+      "score": "82h 56' 36\"",
+      "margin": "+5' 20\"; dominated Grand Bornand rain stage to seize commanding lead"
+    },
+    {
+      "year": 2020,
+      "winner": "Tadej Pogačar (SLO)",
+      "runnerUp": "Primož Roglič (SLO)",
+      "score": "87h 20' 05\"",
+      "margin": "+59\"; historic Stage 20 La Planche des Belles Filles uphill time trial turnaround at age 21"
+    },
+    {
+      "year": 2019,
+      "winner": "Egan Bernal (COL)",
+      "runnerUp": "Geraint Thomas (GBR)",
+      "score": "82h 57' 00\"",
+      "margin": "+1' 11\"; first Colombian and South American winner; youngest Tour champion in 110 years (age 22)"
+    },
+    {
+      "year": 2018,
+      "winner": "Geraint Thomas (GBR)",
+      "runnerUp": "Tom Dumoulin (NED)",
+      "score": "83h 17' 13\"",
+      "margin": "+1' 51\"; first Welshman to win Tour; won back-to-back mountain stages including Alpe d'Huez in yellow"
+    },
+    {
+      "year": 2017,
+      "winner": "Chris Froome (GBR)",
+      "runnerUp": "Rigoberto Urán (COL)",
+      "score": "86h 20' 55\"",
+      "margin": "+54\"; 4th Tour de France title; built victory on time trial prowess"
+    },
+    {
+      "year": 2016,
+      "winner": "Chris Froome (GBR)",
+      "runnerUp": "Romain Bardet (FRA)",
+      "score": "89h 04' 48\"",
+      "margin": "+4' 05\"; iconic descent attack on Peyresourde and run up Mont Ventoux without bike"
+    },
+    {
+      "year": 2015,
+      "winner": "Chris Froome (GBR)",
+      "runnerUp": "Nairo Quintana (COL)",
+      "score": "84h 46' 14\"",
+      "margin": "+1' 12\"; won on La Pierre Saint-Martin; held off Quintana on Alpe d'Huez"
+    },
+    {
+      "year": 2014,
+      "winner": "Vincenzo Nibali (ITA)",
+      "runnerUp": "Jean-Christophe Péraud (FRA)",
+      "score": "89h 59' 06\"",
+      "margin": "+7' 37\"; won 4 mountain stages to complete career Triple Crown (Tour, Giro, Vuelta)"
+    },
+    {
+      "year": 2013,
+      "winner": "Chris Froome (GBR)",
+      "runnerUp": "Nairo Quintana (COL)",
+      "score": "83h 56' 40\"",
+      "margin": "+4' 20\"; 100th Tour de France; dominant solo victory atop Mont Ventoux"
+    },
+    {
+      "year": 2012,
+      "winner": "Bradley Wiggins (GBR)",
+      "runnerUp": "Chris Froome (GBR)",
+      "score": "87h 34' 47\"",
+      "margin": "+3' 21\"; first British Tour de France champion in history; dominant in long time trials"
+    },
+    {
+      "year": 2011,
+      "winner": "Cadel Evans (AUS)",
+      "runnerUp": "Andy Schleck (LUX)",
+      "score": "86h 12' 22\"",
+      "margin": "+1' 34\"; first Australian Tour champion; overturned 57-second deficit on penultimate Grenoble TT"
+    },
+    {
+      "year": 2010,
+      "winner": "Andy Schleck (LUX)",
+      "runnerUp": "Denis Menchov (RUS)",
+      "score": "91h 59' 27\"",
+      "margin": "+1' 22\"; awarded title following Alberto Contador's retrospective disqualification; 'Chaingate' duel"
+    },
+    {
+      "year": 2009,
+      "winner": "Alberto Contador (ESP)",
+      "runnerUp": "Andy Schleck (LUX)",
+      "score": "85h 48' 35\"",
+      "margin": "+4' 11\"; 2nd Tour de France title; won Verbier mountain stage and Annecy time trial"
+    },
+    {
+      "year": 2008,
+      "winner": "Carlos Sastre (ESP)",
+      "runnerUp": "Cadel Evans (AUS)",
+      "score": "87h 52' 52\"",
+      "margin": "+58\"; decisive solo attack on Alpe d'Huez for CSC team"
+    },
+    {
+      "year": 2007,
+      "winner": "Alberto Contador (ESP)",
+      "runnerUp": "Cadel Evans (AUS)",
+      "score": "91h 00' 26\"",
+      "margin": "+23\"; maiden Tour title at age 24 in dramatic three-way finish"
+    },
+    {
+      "year": 2006,
+      "winner": "Óscar Pereiro (ESP)",
+      "runnerUp": "Andreas Klöden (GER)",
+      "score": "89h 40' 27\"",
+      "margin": "+1' 29\"; awarded title following Floyd Landis's disqualification"
+    },
+    {
+      "year": 1998,
+      "winner": "Marco Pantani (ITA)",
+      "runnerUp": "Jan Ullrich (GER)",
+      "score": "92h 49' 46\"",
+      "margin": "+3' 21\"; 'Il Pirata' completed Giro-Tour double; attacked in freezing rain on Col du Galibier"
+    },
+    {
+      "year": 1997,
+      "winner": "Jan Ullrich (GER)",
+      "runnerUp": "Richard Virenque (FRA)",
+      "score": "100h 30' 35\"",
+      "margin": "+9' 09\"; first German Tour de France champion; crushed Andorra-Arcalis mountain stage at age 23"
+    },
+    {
+      "year": 1996,
+      "winner": "Bjarne Riis (DEN)",
+      "runnerUp": "Jan Ullrich (GER)",
+      "score": "95h 57' 16\"",
+      "margin": "+1' 41\"; ended Miguel Induráin's 5-year reign atop Hautacam"
+    },
+    {
+      "year": 1995,
+      "winner": "Miguel Induráin (ESP)",
+      "runnerUp": "Alex Zülle (SUI)",
+      "score": "92h 44' 59\"",
+      "margin": "+4' 35\"; historic 5th consecutive Tour de France title; legendary descent into Liège"
+    }
+  ],
+  "sections": []
+}

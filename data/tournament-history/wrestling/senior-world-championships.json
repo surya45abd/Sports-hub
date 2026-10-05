@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 2,
+  "sport": "Wrestling",
+  "tournament": "Senior World Championships",
+  "source": {
+    "url": "https://uww.org/events",
+    "label": "United World Wrestling (UWW) World Championships Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "World Wrestling Championships verified champions archive across Men's Freestyle (74 kg & 86 kg) and Women's Freestyle legends (2011–2023).",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's freestyle 74 kg World Champions",
+      "archiveUrl": "https://uww.org/events",
+      "sourceUrl": "https://uww.org/",
+      "sourceLabel": "UWW Men's 74kg Freestyle World Championships",
+      "archiveLabel": "74kg World Championship Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Zaurbek Sidakov (AIN)",
+          "runnerUp": "Kyle Dake (USA)",
+          "score": "10-7",
+          "margin": "Štark Arena (Belgrade, Serbia); Sidakov defeated 4-time world champion Dake in dramatic high-scoring final"
+        },
+        {
+          "year": 2022,
+          "winner": "Kyle Dake (USA)",
+          "runnerUp": "Tajmuraz Salkazanov (SVK)",
+          "score": "3-1",
+          "margin": "Štark Arena (Belgrade); Dake won 4th consecutive world championship gold medal"
+        },
+        {
+          "year": 2021,
+          "winner": "Kyle Dake (USA)",
+          "runnerUp": "Tajmuraz Salkazanov (SVK)",
+          "score": "7-3",
+          "margin": "Oslo (Norway); Dake moved down from 79kg to win 74kg world crown"
+        },
+        {
+          "year": 2019,
+          "winner": "Zaurbek Sidakov (RUS)",
+          "runnerUp": "Frank Chamizo (ITA)",
+          "score": "5-2",
+          "margin": "Barys Arena (Nur-Sultan, Kazakhstan); Sidakov defended world title having beaten Burroughs in semifinals"
+        },
+        {
+          "year": 2018,
+          "winner": "Zaurbek Sidakov (RUS)",
+          "runnerUp": "Avtandil Kentchadze (GEO)",
+          "score": "2-2 (Criteria)",
+          "margin": "Papp László Sportaréna (Budapest); breakout gold for 22-year-old Sidakov"
+        },
+        {
+          "year": 2017,
+          "winner": "Jordan Burroughs (USA)",
+          "runnerUp": "Khetag Tsabolov (RUS)",
+          "score": "9-6",
+          "margin": "AccorHotels Arena (Paris); Burroughs roared back to win record 4th 74kg world championship"
+        },
+        {
+          "year": 2015,
+          "winner": "Jordan Burroughs (USA)",
+          "runnerUp": "Pürevjavyn Önörbat (MGL)",
+          "score": "10-0 (Technical Fall)",
+          "margin": "Orleans Arena (Las Vegas); Burroughs dominated championship match in under 3 minutes"
+        },
+        {
+          "year": 2014,
+          "winner": "Denis Tsargush (RUS)",
+          "runnerUp": "Sosuke Takatani (JPN)",
+          "score": "8-2",
+          "margin": "Gymnastics Palace (Tashkent, Uzbekistan); Tsargush won 3rd career world championship"
+        },
+        {
+          "year": 2013,
+          "winner": "Jordan Burroughs (USA)",
+          "runnerUp": "Ezzatollah Akbari (IRI)",
+          "score": "4-0",
+          "margin": "Papp László Sportaréna (Budapest); Burroughs wrestled with a broken ankle and still won gold"
+        },
+        {
+          "year": 2011,
+          "winner": "Jordan Burroughs (USA)",
+          "runnerUp": "Sadegh Goudarzi (IRI)",
+          "score": "3-2, 4-1",
+          "margin": "Sinan Erdem Dome (Istanbul); Burroughs won first world title just months out of college"
+        }
+      ]
+    },
+    {
+      "title": "Men's freestyle 86 kg World Champions",
+      "archiveUrl": "https://uww.org/events",
+      "sourceUrl": "https://uww.org/",
+      "sourceLabel": "UWW Men's 86kg Freestyle World Championships",
+      "archiveLabel": "86kg World Championship Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "David Taylor (USA)",
+          "runnerUp": "Hassan Yazdani (IRI)",
+          "score": "Fall (9-3)",
+          "margin": "Belgrade; 'Magic Man' Taylor pinned arch-rival Yazdani in 6th chapter of epic rivalry"
+        },
+        {
+          "year": 2022,
+          "winner": "David Taylor (USA)",
+          "runnerUp": "Hassan Yazdani (IRI)",
+          "score": "7-1",
+          "margin": "Belgrade; Taylor dominated the final to reclaim world championship gold"
+        },
+        {
+          "year": 2021,
+          "winner": "Hassan Yazdani (IRI)",
+          "runnerUp": "David Taylor (USA)",
+          "score": "6-2",
+          "margin": "Oslo; Yazdani avenged Tokyo Olympic final defeat with masterclass tactical display"
+        },
+        {
+          "year": 2019,
+          "winner": "Hassan Yazdani (IRI)",
+          "runnerUp": "Deepak Punia (IND)",
+          "score": "Walkover",
+          "margin": "Nur-Sultan; Yazdani awarded gold after Punia withdrew due to leg injury"
+        },
+        {
+          "year": 2018,
+          "winner": "David Taylor (USA)",
+          "runnerUp": "Fatih Erdin (TUR)",
+          "score": "12-2 (Technical Fall)",
+          "margin": "Budapest; Taylor won first world title after defeating Yazdani in opening round"
+        },
+        {
+          "year": 2017,
+          "winner": "Hassan Yazdani (IRI)",
+          "runnerUp": "Boris Makojev (SVK)",
+          "score": "10-0 (Technical Fall)",
+          "margin": "Paris; Yazdani moved up to 86kg and won gold in under 3 minutes"
+        }
+      ]
+    },
+    {
+      "title": "Women's freestyle legends",
+      "archiveUrl": "https://uww.org/events",
+      "sourceUrl": "https://uww.org/",
+      "sourceLabel": "UWW Women's Freestyle World Championships",
+      "archiveLabel": "Women's World Championships Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Yui Susaki (JPN - 50kg) & Amit Elor (USA - 72kg)",
+          "runnerUp": "Dolgorjavyn Otgonjargal & Enkh-Amaryn Davaanasan",
+          "score": "Dominant world golds",
+          "margin": "Belgrade; Susaki won 4th world title; 19-year-old Elor won back-to-back world golds"
+        },
+        {
+          "year": 2022,
+          "winner": "Yui Susaki (JPN - 50kg) & Amit Elor (USA - 72kg)",
+          "runnerUp": "Dolgorjavyn Otgonjargal & Zhamila Bakbergenova",
+          "score": "Technical falls",
+          "margin": "Belgrade; Susaki won world gold without conceding a point; Elor became youngest US world champion"
+        },
+        {
+          "year": 2021,
+          "winner": "Adeline Gray (USA - 76kg)",
+          "runnerUp": "Epp Mäe (EST)",
+          "score": "6-4",
+          "margin": "Oslo; Gray made history as FIRST American wrestler (men or women) to win 6 World Championship golds (2012, 2014, 2015, 2018, 2019, 2021)"
+        },
+        {
+          "year": 2019,
+          "winner": "Tamyra Mensah-Stock (USA - 68kg)",
+          "runnerUp": "Jenny Fransson (SWE)",
+          "score": "8-2",
+          "margin": "Nur-Sultan; Mensah-Stock won maiden world crown ahead of Tokyo Olympic gold"
+        },
+        {
+          "year": 2018,
+          "winner": "Yui Susaki (JPN - 50kg) & Adeline Gray (USA - 76kg)",
+          "runnerUp": "Mariya Stadnik & Yasemin Adar",
+          "score": "Clean technical sweeps",
+          "margin": "Budapest; Susaki second world crown at age 19; Gray 4th world title"
+        },
+        {
+          "year": 2017,
+          "winner": "Helen Maroulis (USA - 58kg)",
+          "runnerUp": "Marwa Amri (TUN)",
+          "score": "11-0 (Technical Fall)",
+          "margin": "Paris; Olympic champion Maroulis outclassed field, conceding zero points in entire tournament"
+        }
+      ]
+    }
+  ]
+}

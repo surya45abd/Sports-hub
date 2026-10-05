@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "sport": "Badminton",
+  "tournament": "BWF World Championships",
+  "source": {
+    "url": "https://bwfworldchampionships.bwfbadminton.com/",
+    "label": "Official BWF World Championships"
+  },
+  "verificationStatus": "verified",
+  "historyNote": "All 30 completed editions from 1977 through 2026. Each row lists champions and silver-medal finalists for men's singles (MS), women's singles (WS), men's doubles (MD), women's doubles (WD), and mixed doubles (XD).",
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_BWF_World_Championships_medalists",
+      "label": "Complete edition-by-edition gold and silver medalists by discipline"
+    },
+    {
+      "url": "https://bwfworldchampionships.bwfbadminton.com/",
+      "label": "Official BWF competition archive"
+    }
+  ],
+  "reviewNotes": "Corrected three finalist names corrupted in the previous data file.",
+  "records": [
+    {
+      "year": 1977,
+      "winner": "MS: Flemming Delfs; WS: Lene Køppen; MD: Tjun Tjun / Johan Wahjudi; WD: Etsuko Toganoo / Emiko Ueno; XD: Steen Skovgaard / Lene Køppen",
+      "runnerUp": "MS: Svend Pri; WS: Gillian Gilks; MD: Ade Chandra / Christian Hadinata; WD: Marjan Ridder / Joke van Beusekom; XD: Derek Talbot / Gillian Gilks",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "MS: Rudy Hartono; WS: Verawaty Fadjrin; MD: Ade Chandra / Christian Hadinata; WD: Nora Perry / Jane Webster; XD: Christian Hadinata / Imelda Wiguna",
+      "runnerUp": "MS: Liem Swie King; WS: Ivana Lie; MD: Rudy Heryanto / Hariamanto Kartono; WD: Verawaty Fadjrin / Imelda Wiguna; XD: Mike Tredgett / Nora Perry",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "MS: Icuk Sugiarto; WS: Li Lingwei; MD: Steen Fladberg / Jesper Helledie; WD: Lin Ying / Wu Dixi; XD: Thomas Kihlström / Nora Perry",
+      "runnerUp": "MS: Liem Swie King; WS: Han Aiping; MD: Martin Dew / Mike Tredgett; WD: Nora Perry / Jane Webster; XD: Steen Fladberg / Pia Nielsen",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "MS: Han Jian; WS: Han Aiping; MD: Kim Moon-soo / Park Joo-bong; WD: Han Aiping / Li Lingwei; XD: Park Joo-bong / Yoo Sang-hee",
+      "runnerUp": "MS: Morten Frost; WS: Wu Jianqui; MD: Li Yongbo / Tian Bingyi; WD: Lin Ying / Wu Dixi; XD: Stefan Karlsson / Maria Bengtsson",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "MS: Yang Yang; WS: Han Aiping; MD: Li Yongbo / Tian Bingyi; WD: Guan Weizhen / Lin Ying; XD: Wang Pengren / Shi Fangjing",
+      "runnerUp": "MS: Morten Frost; WS: Li Lingwei; MD: Jalani Sidek / Razif Sidek; WD: Han Aiping / Li Lingwei; XD: Lee Deuk-choon / Chung Myung-hee",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "MS: Yang Yang; WS: Li Lingwei; MD: Li Yongbo / Tian Bingyi; WD: Guan Weizhen / Lin Ying; XD: Park Joo-bong / Chung Myung-hee",
+      "runnerUp": "MS: Ardy Wiranata; WS: Huang Hua; MD: Chen Hongyong / Chen Kang; WD: Chung Myung-hee / Hwang Hye-young; XD: Eddy Hartono / Verawaty Fadjrin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "MS: Zhao Jianhua; WS: Tang Jiuhong; MD: Kim Moon-soo / Park Joo-bong; WD: Guan Weizhen / Nong Qunhua; XD: Park Joo-bong / Chung Myung-hee",
+      "runnerUp": "MS: Alan Budikusuma; WS: Sarwendah Kusumawardhani; MD: Jon Holst-Christensen / Thomas Lund; WD: Maria Bengtsson / Christine Magnusson; XD: Thomas Lund / Pernille Dupont",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "MS: Joko Suprianto; WS: Susi Susanti; MD: Rudy Gunawan / Ricky Subagja; WD: Nong Qunhua / Zhou Lei; XD: Thomas Lund / Catrine Bengtsson",
+      "runnerUp": "MS: Hermawan Susanto; WS: Bang Soo-hyun; MD: Cheah Soon Kit / Soo Beng Kiang; WD: Chen Ying / Wu Yuhong; XD: Jon Holst-Christensen / Grete Mogensen",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "MS: Hariyanto Arbi; WS: Ye Zhaoying; MD: Rexy Mainaky / Ricky Subagja; WD: Gil Young-ah / Jang Hye-ock; XD: Thomas Lund / Marlene Thomsen",
+      "runnerUp": "MS: Park Sung-woo; WS: Han Jingna; MD: Jon Holst-Christensen / Thomas Lund; WD: Finarsih / Lili Tampi; XD: Jens Eriksen / Helene Kirkegaard",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "MS: Peter Rasmussen; WS: Ye Zhaoying; MD: Sigit Budiarto / Candra Wijaya; WD: Ge Fei / Gu Jun; XD: Liu Yong / Ge Fei",
+      "runnerUp": "MS: Sun Jun; WS: Gong Zhichao; MD: Cheah Soon Kit / Yap Kim Hock; WD: Qin Yiyuan / Tang Yongshu; XD: Jens Eriksen / Marlene Thomsen",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "MS: Sun Jun; WS: Camilla Martin; MD: Ha Tae-kwon / Kim Dong-moon; WD: Ge Fei / Gu Jun; XD: Kim Dong-moon / Ra Kyung-min",
+      "runnerUp": "MS: Fung Permadi; WS: Dai Yun; MD: Lee Dong-soo / Yoo Yong-sung; WD: Chung Jae-hee / Ra Kyung-min; XD: Simon Archer / Joanne Goode",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "MS: Hendrawan; WS: Gong Ruina; MD: Tony Gunawan / Halim Haryanto; WD: Gao Ling / Huang Sui; XD: Zhang Jun / Gao Ling",
+      "runnerUp": "MS: Peter Gade; WS: Zhou Mi; MD: Ha Tae-kwon / Kim Dong-moon; WD: Wei Yili / Zhang Jiewen; XD: Kim Dong-moon / Ra Kyung-min",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "MS: Xia Xuanze; WS: Zhang Ning; MD: Lars Paaske / Jonas Rasmussen; WD: Gao Ling / Huang Sui; XD: Kim Dong-moon / Ra Kyung-min",
+      "runnerUp": "MS: Wong Choong Hann; WS: Gong Ruina; MD: Sigit Budiarto / Candra Wijaya; WD: Wei Yili / Zhao Tingting; XD: Zhang Jun / Gao Ling",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "MS: Taufik Hidayat; WS: Xie Xingfang; MD: Howard Bach / Tony Gunawan; WD: Yang Wei / Zhang Jiewen; XD: Nova Widianto / Liliyana Natsir",
+      "runnerUp": "MS: Lin Dan; WS: Zhang Ning; MD: Sigit Budiarto / Candra Wijaya; WD: Gao Ling / Huang Sui; XD: Xie Zhongbo / Zhang Yawen",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "MS: Lin Dan; WS: Xie Xingfang; MD: Cai Yun / Fu Haifeng; WD: Gao Ling / Huang Sui; XD: Nathan Robertson / Gail Emms",
+      "runnerUp": "MS: Bao Chunlai; WS: Zhang Ning; MD: Robert Blair / Anthony Clark; WD: Wei Yili / Zhang Yawen; XD: Anthony Clark / Donna Kellogg",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "MS: Lin Dan; WS: Zhu Lin; MD: Markis Kido / Hendra Setiawan; WD: Yang Wei / Zhang Jiewen; XD: Nova Widianto / Liliyana Natsir",
+      "runnerUp": "MS: Sony Dwi Kuncoro; WS: Wang Chen; MD: Jung Jae-sung / Lee Yong-dae; WD: Gao Ling / Huang Sui; XD: Zheng Bo / Gao Ling",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "MS: Lin Dan; WS: Lu Lan; MD: Cai Yun / Fu Haifeng; WD: Zhang Yawen / Zhao Tingting; XD: Thomas Laybourn / Kamilla Rytter Juhl",
+      "runnerUp": "MS: Chen Jin; WS: Xie Xingfang; MD: Jung Jae-sung / Lee Yong-dae; WD: Cheng Shu / Zhao Yunlei; XD: Nova Widianto / Liliyana Natsir",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "MS: Chen Jin; WS: Wang Lin; MD: Cai Yun / Fu Haifeng; WD: Du Jing / Yu Yang; XD: Zheng Bo / Ma Jin",
+      "runnerUp": "MS: Taufik Hidayat; WS: Wang Xin; MD: Koo Kien Keat / Tan Boon Heong; WD: Ma Jin / Wang Xiaoli; XD: He Hanbin / Yu Yang",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "MS: Lin Dan; WS: Wang Yihan; MD: Cai Yun / Fu Haifeng; WD: Wang Xiaoli / Yu Yang; XD: Zhang Nan / Zhao Yunlei",
+      "runnerUp": "MS: Lee Chong Wei; WS: Cheng Shao-chieh; MD: Ko Sung-hyun / Yoo Yeon-seong; WD: Tian Qing / Zhao Yunlei; XD: Chris Adcock / Imogen Bankier",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "MS: Lin Dan; WS: Ratchanok Intanon; MD: Mohammad Ahsan / Hendra Setiawan; WD: Wang Xiaoli / Yu Yang; XD: Tontowi Ahmad / Liliyana Natsir",
+      "runnerUp": "MS: Lee Chong Wei; WS: Li Xuerui; MD: Mathias Boe / Carsten Mogensen; WD: Eom Hye-won / Chang Ye-na; XD: Xu Chen / Ma Jin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "MS: Chen Long; WS: Carolina Marín; MD: Ko Sung-hyun / Shin Baek-cheol; WD: Tian Qing / Zhao Yunlei; XD: Zhang Nan / Zhao Yunlei",
+      "runnerUp": "MS: Lee Chong Wei; WS: Li Xuerui; MD: Lee Yong-dae / Yoo Yeon-seong; WD: Wang Xiaoli / Yu Yang; XD: Xu Chen / Ma Jin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "MS: Chen Long; WS: Carolina Marín; MD: Mohammad Ahsan / Hendra Setiawan; WD: Tian Qing / Zhao Yunlei; XD: Zhang Nan / Zhao Yunlei",
+      "runnerUp": "MS: Lee Chong Wei; WS: Saina Nehwal; MD: Liu Xiaolong / Qiu Zihan; WD: Kamilla Rytter Juhl / Christinna Pedersen; XD: Liu Cheng / Bao Yixin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "MS: Viktor Axelsen; WS: Nozomi Okuhara; MD: Liu Cheng / Zhang Nan; WD: Chen Qingchen / Jia Yifan; XD: Tontowi Ahmad / Liliyana Natsir",
+      "runnerUp": "MS: Lin Dan; WS: P. V. Sindhu; MD: Mohammad Ahsan / Rian Agung Saputro; WD: Yuki Fukushima / Sayaka Hirota; XD: Zheng Siwei / Chen Qingchen",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "MS: Kento Momota; WS: Carolina Marín; MD: Li Junhui / Liu Yuchen; WD: Mayu Matsumoto / Wakana Nagahara; XD: Zheng Siwei / Huang Yaqiong",
+      "runnerUp": "MS: Shi Yuqi; WS: P. V. Sindhu; MD: Takeshi Kamura / Keigo Sonoda; WD: Yuki Fukushima / Sayaka Hirota; XD: Wang Yilyu / Huang Dongping",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "MS: Kento Momota; WS: P. V. Sindhu; MD: Mohammad Ahsan / Hendra Setiawan; WD: Mayu Matsumoto / Wakana Nagahara; XD: Zheng Siwei / Huang Yaqiong",
+      "runnerUp": "MS: Anders Antonsen; WS: Nozomi Okuhara; MD: Takuro Hoki / Yugo Kobayashi; WD: Yuki Fukushima / Sayaka Hirota; XD: Dechapol Puavaranukroh / Sapsiree Taerattanachai",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "MS: Loh Kean Yew; WS: Akane Yamaguchi; MD: Takuro Hoki / Yugo Kobayashi; WD: Chen Qingchen / Jia Yifan; XD: Dechapol Puavaranukroh / Sapsiree Taerattanachai",
+      "runnerUp": "MS: Srikanth Kidambi; WS: Tai Tzu-ying; MD: He Jiting / Tan Qiang; WD: Lee So-hee / Shin Seung-chan; XD: Yuta Watanabe / Arisa Higashino",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "MS: Viktor Axelsen; WS: Akane Yamaguchi; MD: Aaron Chia / Soh Wooi Yik; WD: Chen Qingchen / Jia Yifan; XD: Zheng Siwei / Huang Yaqiong",
+      "runnerUp": "MS: Kunlavut Vitidsarn; WS: Chen Yufei; MD: Mohammad Ahsan / Hendra Setiawan; WD: Kim So-yeong / Kong Hee-yong; XD: Yuta Watanabe / Arisa Higashino",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "MS: Kunlavut Vitidsarn; WS: An Se-young; MD: Kang Min-hyuk / Seo Seung-jae; WD: Chen Qingchen / Jia Yifan; XD: Seo Seung-jae / Chae Yu-jung",
+      "runnerUp": "MS: Kodai Naraoka; WS: Carolina Marín; MD: Kim Astrup / Anders Skaarup Rasmussen; WD: Apriyani Rahayu / Siti Fadia Silva Ramadhanti; XD: Zheng Siwei / Huang Yaqiong",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "MS: Shi Yuqi; WS: Akane Yamaguchi; MD: Kim Won-ho / Seo Seung-jae; WD: Liu Shengshu / Tan Ning; XD: Chen Tang Jie / Toh Ee Wei",
+      "runnerUp": "MS: Kunlavut Vitidsarn; WS: Chen Yufei; MD: Chen Boyang / Liu Yi; WD: Pearly Tan / Thinaah Muralitharan; XD: Jiang Zhenbang / Wei Yaxin",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2026,
+      "winner": "MS: Alex Lanier; WS: An Se-young; MD: Liang Weikeng / Wang Chang; WD: Baek Ha-na / Lee So-hee; XD: Thom Gicquel / Delphine Delrue",
+      "runnerUp": "MS: Kodai Naraoka; WS: Akane Yamaguchi; MD: Aaron Chia / Soh Wooi Yik; WD: Liu Shengshu / Tan Ning; XD: Feng Yanzhe / Huang Dongping",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://bwfworldchampionships.bwfbadminton.com/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "Official BWF Men's Singles Archive",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Kunlavut Vitidsarn (THA)",
+          "runnerUp": "Kodai Naraoka (JPN)",
+          "score": "19-21, 21-18, 21-7",
+          "margin": "First Thai men's singles world champion in history"
+        },
+        {
+          "year": 2022,
+          "winner": "Viktor Axelsen (DEN)",
+          "runnerUp": "Kunlavut Vitidsarn (THA)",
+          "score": "21-5, 21-16",
+          "margin": "Axelsen's second world title; dominant 37-match unbeaten streak"
+        },
+        {
+          "year": 2021,
+          "winner": "Loh Kean Yew (SGP)",
+          "runnerUp": "Srikanth Kidambi (IND)",
+          "score": "21-15, 22-20",
+          "margin": "Historic first world championship gold for Singapore"
+        },
+        {
+          "year": 2019,
+          "winner": "Kento Momota (JPN)",
+          "runnerUp": "Anders Antonsen (DEN)",
+          "score": "21-9, 21-3",
+          "margin": "Most lopsided world championship final in modern history"
+        },
+        {
+          "year": 2018,
+          "winner": "Kento Momota (JPN)",
+          "runnerUp": "Shi Yuqi (CHN)",
+          "score": "21-11, 21-13",
+          "margin": "First Japanese men's singles player to win the World Championship"
+        },
+        {
+          "year": 2017,
+          "winner": "Viktor Axelsen (DEN)",
+          "runnerUp": "Lin Dan (CHN)",
+          "score": "22-20, 21-16",
+          "margin": "Defeated 5-time world champion Lin Dan in straight games"
+        },
+        {
+          "year": 2015,
+          "winner": "Chen Long (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "21-14, 21-17",
+          "margin": "Successfully defended world championship title in Jakarta"
+        },
+        {
+          "year": 2014,
+          "winner": "Chen Long (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "21-19, 21-19",
+          "margin": "Chen Long's maiden world title"
+        },
+        {
+          "year": 2013,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "16-21, 21-13, 20-17 (ret)",
+          "margin": "Wild-card entrant Lin Dan claimed record 5th world title"
+        },
+        {
+          "year": 2011,
+          "winner": "Lin Dan (CHN)",
+          "runnerUp": "Lee Chong Wei (MAS)",
+          "score": "20-22, 21-14, 23-21",
+          "margin": "Saved two match points in epic 81-minute London classic"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://bwfworldchampionships.bwfbadminton.com/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "Official BWF Women's Singles Archive",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "An Se-young (KOR)",
+          "runnerUp": "Carolina Marín (ESP)",
+          "score": "21-12, 21-10",
+          "margin": "South Korea's first ever women's singles world champion"
+        },
+        {
+          "year": 2022,
+          "winner": "Akane Yamaguchi (JPN)",
+          "runnerUp": "Chen Yufei (CHN)",
+          "score": "21-12, 10-21, 21-14",
+          "margin": "Back-to-back world titles for home favourite Yamaguchi in Tokyo"
+        },
+        {
+          "year": 2021,
+          "winner": "Akane Yamaguchi (JPN)",
+          "runnerUp": "Tai Tzu-ying (TPE)",
+          "score": "21-14, 21-11",
+          "margin": "Straight games victory in Huelva, Spain"
+        },
+        {
+          "year": 2019,
+          "winner": "P. V. Sindhu (IND)",
+          "runnerUp": "Nozomi Okuhara (JPN)",
+          "score": "21-7, 21-7",
+          "margin": "First Indian world champion in badminton history; 38-minute masterclass"
+        },
+        {
+          "year": 2018,
+          "winner": "Carolina Marín (ESP)",
+          "runnerUp": "P. V. Sindhu (IND)",
+          "score": "21-19, 21-10",
+          "margin": "Record 3rd women's singles world championship crown"
+        },
+        {
+          "year": 2017,
+          "winner": "Nozomi Okuhara (JPN)",
+          "runnerUp": "P. V. Sindhu (IND)",
+          "score": "21-19, 20-22, 22-20",
+          "margin": "110-minute epic; longest women's singles match in world championship history"
+        },
+        {
+          "year": 2015,
+          "winner": "Carolina Marín (ESP)",
+          "runnerUp": "Saina Nehwal (IND)",
+          "score": "21-16, 21-19",
+          "margin": "Defended world championship crown in Jakarta"
+        },
+        {
+          "year": 2014,
+          "winner": "Carolina Marín (ESP)",
+          "runnerUp": "Li Xuerui (CHN)",
+          "score": "17-21, 21-17, 21-18",
+          "margin": "First Spanish badminton world champion"
+        },
+        {
+          "year": 2013,
+          "winner": "Ratchanok Intanon (THA)",
+          "runnerUp": "Li Xuerui (CHN)",
+          "score": "22-20, 18-21, 21-14",
+          "margin": "Youngest singles world champion in history at age 18"
+        }
+      ]
+    },
+    {
+      "title": "Men's doubles",
+      "archiveUrl": "https://bwfbadminton.com/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "BWF World Championships Archive",
+      "archiveLabel": "Full BWF Men's Doubles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Kang Min-hyuk / Seo Seung-jae (KOR)",
+          "runnerUp": "Kim Astrup / Anders Skaarup Rasmussen (DEN)",
+          "score": "14-21, 21-15, 21-17",
+          "margin": "Seo won two gold medals in the same World Championships (Men's & Mixed)"
+        },
+        {
+          "year": 2022,
+          "winner": "Aaron Chia / Soh Wooi Yik (MAS)",
+          "runnerUp": "Mohammad Ahsan / Hendra Setiawan (INA)",
+          "score": "21-19, 21-14",
+          "margin": "Historic first ever World Championship gold for Malaysia in badminton history"
+        },
+        {
+          "year": 2021,
+          "winner": "Takuro Hoki / Yugo Kobayashi (JPN)",
+          "runnerUp": "He Jiting / Tan Qiang (CHN)",
+          "score": "21-12, 21-18",
+          "margin": "First Japanese men's doubles world champions"
+        },
+        {
+          "year": 2019,
+          "winner": "Mohammad Ahsan / Hendra Setiawan (INA)",
+          "runnerUp": "Takuro Hoki / Yugo Kobayashi (JPN)",
+          "score": "25-23, 9-21, 21-15",
+          "margin": "'The Daddies' 3rd World Championship crown as a pair; Hendra's 4th career title"
+        },
+        {
+          "year": 2018,
+          "winner": "Li Junhui / Liu Yuchen (CHN)",
+          "runnerUp": "Takeshi Kamura / Keigo Sonoda (JPN)",
+          "score": "21-12, 21-19",
+          "margin": "China's 'Twin Towers' triumphed on home soil in Nanjing"
+        }
+      ]
+    },
+    {
+      "title": "Women's doubles",
+      "archiveUrl": "https://bwfbadminton.com/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "BWF World Championships Archive",
+      "archiveLabel": "Full BWF Women's Doubles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Chen Qingchen / Jia Yifan (CHN)",
+          "runnerUp": "Apriyani Rahayu / Siti Fadia Silva Ramadhanti (INA)",
+          "score": "21-16, 21-12",
+          "margin": "Record 4th World Championships title in women's doubles"
+        },
+        {
+          "year": 2022,
+          "winner": "Chen Qingchen / Jia Yifan (CHN)",
+          "runnerUp": "Kim So-yeong / Kong Hee-yong (KOR)",
+          "score": "22-20, 21-14",
+          "margin": "Dominant straight sets win in Tokyo"
+        },
+        {
+          "year": 2021,
+          "winner": "Chen Qingchen / Jia Yifan (CHN)",
+          "runnerUp": "Lee So-hee / Shin Seung-chan (KOR)",
+          "score": "21-16, 21-17",
+          "margin": "Reclaimed world crown in Huelva, Spain"
+        },
+        {
+          "year": 2019,
+          "winner": "Mayu Matsumoto / Wakana Nagahara (JPN)",
+          "runnerUp": "Yuki Fukushima / Sayaka Hirota (JPN)",
+          "score": "21-11, 20-22, 23-21",
+          "margin": "Saved championship point in thrilling 85-minute all-Japanese duel"
+        },
+        {
+          "year": 2018,
+          "winner": "Mayu Matsumoto / Wakana Nagahara (JPN)",
+          "runnerUp": "Yuki Fukushima / Sayaka Hirota (JPN)",
+          "score": "19-21, 21-19, 22-20",
+          "margin": "First world title for Japanese women's pair"
+        }
+      ]
+    },
+    {
+      "title": "Mixed doubles",
+      "archiveUrl": "https://bwfbadminton.com/",
+      "sourceUrl": "https://bwfbadminton.com/",
+      "sourceLabel": "BWF World Championships Archive",
+      "archiveLabel": "Full BWF Mixed Doubles Archive",
+      "records": [
+        {
+          "year": 2023,
+          "winner": "Seo Seung-jae / Chae Yoo-jung (KOR)",
+          "runnerUp": "Zheng Siwei / Huang Yaqiong (CHN)",
+          "score": "21-17, 10-21, 21-18",
+          "margin": "South Korea's first mixed doubles world championship in 20 years"
+        },
+        {
+          "year": 2022,
+          "winner": "Zheng Siwei / Huang Yaqiong (CHN)",
+          "runnerUp": "Yuta Watanabe / Arisa Higashino (JPN)",
+          "score": "21-13, 21-16",
+          "margin": "Record 3rd World Championship gold as a pair"
+        },
+        {
+          "year": 2021,
+          "winner": "Dechapol Puavaranukroh / Sapsiree Taerattanachai (THA)",
+          "runnerUp": "Yuta Watanabe / Arisa Higashino (JPN)",
+          "score": "21-13, 21-14",
+          "margin": "Thailand's first ever World Championship mixed doubles champions"
+        },
+        {
+          "year": 2019,
+          "winner": "Zheng Siwei / Huang Yaqiong (CHN)",
+          "runnerUp": "Dechapol Puavaranukroh / Sapsiree Taerattanachai (THA)",
+          "score": "21-8, 21-12",
+          "margin": "Ruthless 35-minute masterclass in Basel"
+        },
+        {
+          "year": 2018,
+          "winner": "Zheng Siwei / Huang Yaqiong (CHN)",
+          "runnerUp": "Wang Yilyu / Huang Dongping (CHN)",
+          "score": "21-17, 21-19",
+          "margin": "All-Chinese final in Nanjing"
+        }
+      ]
+    }
+  ]
+}

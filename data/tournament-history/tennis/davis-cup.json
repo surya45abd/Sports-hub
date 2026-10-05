@@ -1,0 +1,814 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "Davis Cup",
+  "source": {
+    "url": "https://www.daviscup.com/en/previous-champions",
+    "label": "Official Davis Cup champions archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete list of completed Davis Cup finals published in the official champions archive (1900–2025). No final was held in 2020.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's national teams",
+      "archiveUrl": "https://www.daviscup.com/en/previous-champions",
+      "archiveLabel": "Official Davis Cup champions archive",
+      "sourceUrl": "https://www.daviscup.com/en/previous-champions",
+      "sourceLabel": "Official finals and results archive",
+      "records": [
+        {
+          "year": 2025,
+          "winner": "Italy",
+          "runnerUp": "Spain",
+          "score": "2-0",
+          "margin": ""
+        },
+        {
+          "year": 2024,
+          "winner": "Italy",
+          "runnerUp": "Netherlands",
+          "score": "2-0",
+          "margin": ""
+        },
+        {
+          "year": 2023,
+          "winner": "Italy",
+          "runnerUp": "Australia",
+          "score": "2-0",
+          "margin": ""
+        },
+        {
+          "year": 2022,
+          "winner": "Canada",
+          "runnerUp": "Australia",
+          "score": "2-0",
+          "margin": ""
+        },
+        {
+          "year": 2021,
+          "winner": "Russian Tennis Federation",
+          "runnerUp": "Croatia",
+          "score": "2-0",
+          "margin": ""
+        },
+        {
+          "year": 2019,
+          "winner": "Spain",
+          "runnerUp": "Canada",
+          "score": "2-0",
+          "margin": ""
+        },
+        {
+          "year": 2018,
+          "winner": "Croatia",
+          "runnerUp": "France",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 2017,
+          "winner": "France",
+          "runnerUp": "Belgium",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2016,
+          "winner": "Argentina",
+          "runnerUp": "Croatia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2015,
+          "winner": "Great Britain",
+          "runnerUp": "Belgium",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 2014,
+          "winner": "Switzerland",
+          "runnerUp": "France",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 2013,
+          "winner": "Czechia",
+          "runnerUp": "Serbia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2012,
+          "winner": "Czechia",
+          "runnerUp": "Spain",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2011,
+          "winner": "Spain",
+          "runnerUp": "Argentina",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 2010,
+          "winner": "Serbia",
+          "runnerUp": "France",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2009,
+          "winner": "Spain",
+          "runnerUp": "Czechia",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 2008,
+          "winner": "Spain",
+          "runnerUp": "Argentina",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 2007,
+          "winner": "United States",
+          "runnerUp": "Russia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 2006,
+          "winner": "Russia",
+          "runnerUp": "Argentina",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2005,
+          "winner": "Croatia",
+          "runnerUp": "Slovakia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2004,
+          "winner": "Spain",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2003,
+          "winner": "Australia",
+          "runnerUp": "Spain",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 2002,
+          "winner": "Russia",
+          "runnerUp": "France",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2001,
+          "winner": "France",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 2000,
+          "winner": "Spain",
+          "runnerUp": "Australia",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 1999,
+          "winner": "Australia",
+          "runnerUp": "France",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1998,
+          "winner": "Sweden",
+          "runnerUp": "Italy",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1997,
+          "winner": "Sweden",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1996,
+          "winner": "France",
+          "runnerUp": "Sweden",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1995,
+          "winner": "United States",
+          "runnerUp": "Russia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1994,
+          "winner": "Sweden",
+          "runnerUp": "Russia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1993,
+          "winner": "Germany",
+          "runnerUp": "Australia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "United States",
+          "runnerUp": "Switzerland",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 1991,
+          "winner": "France",
+          "runnerUp": "United States",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 1990,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1989,
+          "winner": "West Germany",
+          "runnerUp": "Sweden",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1988,
+          "winner": "West Germany",
+          "runnerUp": "Sweden",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1987,
+          "winner": "Sweden",
+          "runnerUp": "India",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1986,
+          "winner": "Australia",
+          "runnerUp": "Sweden",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1985,
+          "winner": "Sweden",
+          "runnerUp": "West Germany",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1984,
+          "winner": "Sweden",
+          "runnerUp": "United States",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1983,
+          "winner": "Australia",
+          "runnerUp": "Sweden",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1982,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1981,
+          "winner": "United States",
+          "runnerUp": "Argentina",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 1980,
+          "winner": "Czechoslovakia",
+          "runnerUp": "Italy",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1979,
+          "winner": "United States",
+          "runnerUp": "Italy",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1978,
+          "winner": "United States",
+          "runnerUp": "Great Britain",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1977,
+          "winner": "Australia",
+          "runnerUp": "Italy",
+          "score": "3-1",
+          "margin": ""
+        },
+        {
+          "year": 1976,
+          "winner": "Italy",
+          "runnerUp": "Chile",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1975,
+          "winner": "Sweden",
+          "runnerUp": "Czechoslovakia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1974,
+          "winner": "South Africa",
+          "runnerUp": "India",
+          "score": "Walkover",
+          "margin": ""
+        },
+        {
+          "year": 1973,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1972,
+          "winner": "United States",
+          "runnerUp": "Romania",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1971,
+          "winner": "United States",
+          "runnerUp": "Romania",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1970,
+          "winner": "United States",
+          "runnerUp": "West Germany",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1969,
+          "winner": "United States",
+          "runnerUp": "Romania",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1968,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1967,
+          "winner": "Australia",
+          "runnerUp": "Spain",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1966,
+          "winner": "Australia",
+          "runnerUp": "India",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1965,
+          "winner": "Australia",
+          "runnerUp": "Spain",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1964,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1963,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1962,
+          "winner": "Australia",
+          "runnerUp": "Mexico",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1961,
+          "winner": "Australia",
+          "runnerUp": "Italy",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1960,
+          "winner": "Australia",
+          "runnerUp": "Italy",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1959,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1958,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1957,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1956,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1955,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1954,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1953,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1952,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1951,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1950,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1949,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1948,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1947,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1946,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1939,
+          "winner": "Australia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1938,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1937,
+          "winner": "United States",
+          "runnerUp": "Great Britain",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1936,
+          "winner": "Great Britain",
+          "runnerUp": "Australia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1935,
+          "winner": "Great Britain",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1934,
+          "winner": "Great Britain",
+          "runnerUp": "United States",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1933,
+          "winner": "Great Britain",
+          "runnerUp": "France",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1932,
+          "winner": "France",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1931,
+          "winner": "France",
+          "runnerUp": "Great Britain",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1930,
+          "winner": "France",
+          "runnerUp": "United States",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1929,
+          "winner": "France",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1928,
+          "winner": "France",
+          "runnerUp": "United States",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1927,
+          "winner": "France",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1926,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1925,
+          "winner": "United States",
+          "runnerUp": "France",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1924,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1923,
+          "winner": "United States",
+          "runnerUp": "Australia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1922,
+          "winner": "United States",
+          "runnerUp": "Australasia",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1921,
+          "winner": "United States",
+          "runnerUp": "Japan",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1920,
+          "winner": "United States",
+          "runnerUp": "Australasia",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1919,
+          "winner": "Australasia",
+          "runnerUp": "Great Britain",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1914,
+          "winner": "Australasia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1913,
+          "winner": "United States",
+          "runnerUp": "Great Britain",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1912,
+          "winner": "British Isles",
+          "runnerUp": "Australasia",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1911,
+          "winner": "Australasia",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1909,
+          "winner": "Australasia",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1908,
+          "winner": "Australasia",
+          "runnerUp": "United States",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1907,
+          "winner": "Australasia",
+          "runnerUp": "British Isles",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1906,
+          "winner": "British Isles",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1905,
+          "winner": "British Isles",
+          "runnerUp": "United States",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1904,
+          "winner": "British Isles",
+          "runnerUp": "Belgium",
+          "score": "5-0",
+          "margin": ""
+        },
+        {
+          "year": 1903,
+          "winner": "British Isles",
+          "runnerUp": "United States",
+          "score": "4-1",
+          "margin": ""
+        },
+        {
+          "year": 1902,
+          "winner": "United States",
+          "runnerUp": "British Isles",
+          "score": "3-2",
+          "margin": ""
+        },
+        {
+          "year": 1900,
+          "winner": "United States",
+          "runnerUp": "British Isles",
+          "score": "3-0",
+          "margin": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 2,
+  "sport": "Tennis",
+  "tournament": "Roland-Garros",
+  "source": {
+    "url": "https://www.rolandgarros.com/en-us/palmares/",
+    "label": "Official Roland-Garros Champions Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Open Era clay-court finals archive (1988–2026) for both Men's Singles and Women's Singles.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://www.rolandgarros.com/en-us/palmares/",
+      "sourceUrl": "https://www.atptour.com/",
+      "sourceLabel": "Official Men's Singles History",
+      "archiveLabel": "Full Men's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Jannik Sinner",
+          "score": "6-4, 3-6, 6-4, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Jannik Sinner",
+          "score": "6-3, 6-2, 5-7, 6-1",
+          "margin": ""
+        },
+        {
+          "year": 2024,
+          "winner": "Carlos Alcaraz",
+          "runnerUp": "Alexander Zverev",
+          "score": "6-3, 2-6, 5-7, 6-1, 6-2",
+          "margin": "5-set comeback on Court Philippe-Chatrier"
+        },
+        {
+          "year": 2023,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Casper Ruud",
+          "score": "7-6(1), 6-3, 7-5",
+          "margin": "Record 23rd Grand Slam singles title"
+        },
+        {
+          "year": 2022,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Casper Ruud",
+          "score": "6-3, 6-3, 6-0",
+          "margin": "Unbelievable 14th Roland-Garros crown; 112-3 tournament record"
+        },
+        {
+          "year": 2021,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Stefanos Tsitsipas",
+          "score": "6-7(6), 2-6, 6-3, 6-2, 6-4",
+          "margin": "First man in Open Era to win every Grand Slam twice"
+        },
+        {
+          "year": 2020,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-0, 6-2, 7-5",
+          "margin": "13th title won without dropping a single set"
+        },
+        {
+          "year": 2019,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Dominic Thiem",
+          "score": "6-3, 5-7, 6-1, 6-1",
+          "margin": "12th Roland-Garros title"
+        },
+        {
+          "year": 2018,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Dominic Thiem",
+          "score": "6-4, 6-3, 6-2",
+          "margin": "11th Roland-Garros title"
+        },
+        {
+          "year": 2017,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Stan Wawrinka",
+          "score": "6-2, 6-3, 6-1",
+          "margin": "'La Décima' (10th French Open title), lost only 35 games in tournament"
+        },
+        {
+          "year": 2016,
+          "winner": "Novak Djokovic",
+          "runnerUp": "Andy Murray",
+          "score": "3-6, 6-1, 6-2, 6-4",
+          "margin": "Completed career Grand Slam and 'Nole Slam'"
+        },
+        {
+          "year": 2015,
+          "winner": "Stan Wawrinka",
+          "runnerUp": "Novak Djokovic",
+          "score": "4-6, 6-4, 6-3, 6-4",
+          "margin": "Famous backhand masterclass with 60 winners"
+        },
+        {
+          "year": 2014,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Novak Djokovic",
+          "score": "3-6, 7-5, 6-2, 6-4",
+          "margin": "5th consecutive French Open title (9th overall)"
+        },
+        {
+          "year": 2013,
+          "winner": "Rafael Nadal",
+          "runnerUp": "David Ferrer",
+          "score": "6-3, 6-2, 6-3",
+          "margin": "8th Roland-Garros title"
+        },
+        {
+          "year": 2012,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Novak Djokovic",
+          "score": "6-4, 6-3, 2-6, 7-5",
+          "margin": "Surpassed Björn Borg's record of 6 French Open titles"
+        },
+        {
+          "year": 2011,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Roger Federer",
+          "score": "7-5, 7-6(3), 5-7, 6-1",
+          "margin": "Tied Borg with 6th Roland-Garros title"
+        },
+        {
+          "year": 2010,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Robin Söderling",
+          "score": "6-4, 6-2, 6-4",
+          "margin": "Won title without dropping a set; avenged 2009 defeat"
+        },
+        {
+          "year": 2009,
+          "winner": "Roger Federer",
+          "runnerUp": "Robin Söderling",
+          "score": "6-1, 7-6(1), 6-4",
+          "margin": "Completed Career Grand Slam and tied Sampras with 14 majors"
+        },
+        {
+          "year": 2008,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Roger Federer",
+          "score": "6-1, 6-3, 6-0",
+          "margin": "Most lopsided French Open final since 1977 (conceded only 4 games)"
+        },
+        {
+          "year": 2007,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Roger Federer",
+          "score": "6-3, 4-6, 6-3, 6-4",
+          "margin": "3-peat on Parisian clay"
+        },
+        {
+          "year": 2006,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Roger Federer",
+          "score": "1-6, 6-1, 6-4, 7-6(4)",
+          "margin": "First Grand Slam final between Federer and Nadal"
+        },
+        {
+          "year": 2005,
+          "winner": "Rafael Nadal",
+          "runnerUp": "Mariano Puerta",
+          "score": "6-7(6), 6-3, 6-1, 7-5",
+          "margin": "Won French Open on tournament debut at age 19"
+        },
+        {
+          "year": 2004,
+          "winner": "Gastón Gaudio",
+          "runnerUp": "Guillermo Coria",
+          "score": "0-6, 3-6, 6-4, 6-1, 8-6",
+          "margin": "Saved two championship points in all-Argentine classic"
+        },
+        {
+          "year": 2003,
+          "winner": "Juan Carlos Ferrero",
+          "runnerUp": "Martin Verkerk",
+          "score": "6-1, 6-3, 6-2",
+          "margin": ""
+        },
+        {
+          "year": 2002,
+          "winner": "Albert Costa",
+          "runnerUp": "Juan Carlos Ferrero",
+          "score": "6-1, 6-0, 4-6, 6-3",
+          "margin": "All-Spanish final"
+        },
+        {
+          "year": 2001,
+          "winner": "Gustavo Kuerten",
+          "runnerUp": "Àlex Corretja",
+          "score": "6-7(3), 7-5, 6-2, 6-0",
+          "margin": "'Guga' drew a giant heart in the clay court"
+        },
+        {
+          "year": 2000,
+          "winner": "Gustavo Kuerten",
+          "runnerUp": "Magnus Norman",
+          "score": "6-2, 6-3, 2-6, 7-6(6)",
+          "margin": "Saved 10 match points in tournament"
+        },
+        {
+          "year": 1999,
+          "winner": "Andre Agassi",
+          "runnerUp": "Andriy Medvedev",
+          "score": "1-6, 2-6, 6-4, 6-3, 6-4",
+          "margin": "Overcame 0-2 sets deficit to complete career Grand Slam"
+        },
+        {
+          "year": 1998,
+          "winner": "Carlos Moyá",
+          "runnerUp": "Àlex Corretja",
+          "score": "6-3, 7-5, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1997,
+          "winner": "Gustavo Kuerten",
+          "runnerUp": "Sergi Bruguera",
+          "score": "6-3, 6-4, 6-2",
+          "margin": "Ranked World No. 66 entering tournament"
+        },
+        {
+          "year": 1996,
+          "winner": "Yevgeny Kafelnikov",
+          "runnerUp": "Michael Stich",
+          "score": "7-6(4), 7-5, 7-6(4)",
+          "margin": "Won both singles and doubles titles in same tournament"
+        },
+        {
+          "year": 1995,
+          "winner": "Thomas Muster",
+          "runnerUp": "Michael Chang",
+          "score": "7-5, 6-2, 6-4",
+          "margin": "First Austrian Grand Slam singles champion"
+        },
+        {
+          "year": 1994,
+          "winner": "Sergi Bruguera",
+          "runnerUp": "Alberto Berasategui",
+          "score": "6-3, 7-5, 2-6, 6-1",
+          "margin": "Back-to-back titles"
+        },
+        {
+          "year": 1993,
+          "winner": "Sergi Bruguera",
+          "runnerUp": "Jim Courier",
+          "score": "6-4, 2-6, 6-2, 3-6, 6-3",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Jim Courier",
+          "runnerUp": "Petr Korda",
+          "score": "7-5, 6-2, 6-1",
+          "margin": "Back-to-back French Open titles"
+        },
+        {
+          "year": 1991,
+          "winner": "Jim Courier",
+          "runnerUp": "Andre Agassi",
+          "score": "3-6, 6-4, 2-6, 6-1, 6-4",
+          "margin": "First major final between Nick Bollettieri students"
+        },
+        {
+          "year": 1990,
+          "winner": "Andrés Gómez",
+          "runnerUp": "Andre Agassi",
+          "score": "6-3, 2-6, 6-4, 6-4",
+          "margin": "First Ecuadorian Grand Slam champion"
+        },
+        {
+          "year": 1989,
+          "winner": "Michael Chang",
+          "runnerUp": "Stefan Edberg",
+          "score": "6-1, 3-6, 4-6, 6-4, 6-2",
+          "margin": "Youngest male Grand Slam champion in history at age 17y, 110d; famous underhand serve vs Lendl"
+        },
+        {
+          "year": 1988,
+          "winner": "Mats Wilander",
+          "runnerUp": "Henri Leconte",
+          "score": "7-5, 6-2, 6-1",
+          "margin": "3rd Roland-Garros title"
+        },
+        {
+          "year": 1987,
+          "winner": "Ivan Lendl",
+          "runnerUp": "Mats Wilander",
+          "score": "7-5, 6-2, 3-6, 7-6(3)",
+          "margin": "3rd French Open crown"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://www.rolandgarros.com/en-us/palmares/",
+      "sourceUrl": "https://www.wtatennis.com/",
+      "sourceLabel": "Official Women's Singles History",
+      "archiveLabel": "Full Women's Singles Archive",
+      "records": [
+        {
+          "year": 2026,
+          "winner": "Iga Świątek",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "6-3, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2025,
+          "winner": "Coco Gauff",
+          "runnerUp": "Aryna Sabalenka",
+          "score": "6-7(5), 6-2, 6-4",
+          "margin": "Maiden French Open singles title"
+        },
+        {
+          "year": 2024,
+          "winner": "Iga Świątek",
+          "runnerUp": "Jasmine Paolini",
+          "score": "6-2, 6-1",
+          "margin": "3rd consecutive French Open title (4th overall); 68 minutes"
+        },
+        {
+          "year": 2023,
+          "winner": "Iga Świątek",
+          "runnerUp": "Karolína Muchová",
+          "score": "6-2, 5-7, 6-4",
+          "margin": "Back-to-back French Open titles"
+        },
+        {
+          "year": 2022,
+          "winner": "Iga Świątek",
+          "runnerUp": "Coco Gauff",
+          "score": "6-1, 6-3",
+          "margin": "Extended match winning streak to 35"
+        },
+        {
+          "year": 2021,
+          "winner": "Barbora Krejčíková",
+          "runnerUp": "Anastasia Pavlyuchenkova",
+          "score": "6-1, 2-6, 6-4",
+          "margin": "Swept both singles and doubles titles"
+        },
+        {
+          "year": 2020,
+          "winner": "Iga Świątek",
+          "runnerUp": "Sofia Kenin",
+          "score": "6-4, 6-1",
+          "margin": "First Polish Grand Slam singles champion; won without dropping a set at age 19"
+        },
+        {
+          "year": 2019,
+          "winner": "Ashleigh Barty",
+          "runnerUp": "Markéta Vondroušová",
+          "score": "6-1, 6-3",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2018,
+          "winner": "Simona Halep",
+          "runnerUp": "Sloane Stephens",
+          "score": "3-6, 6-4, 6-1",
+          "margin": "Maiden Grand Slam title after three previous major finals"
+        },
+        {
+          "year": 2017,
+          "winner": "Jeļena Ostapenko",
+          "runnerUp": "Simona Halep",
+          "score": "4-6, 6-4, 6-3",
+          "margin": "First unseeded player to win Roland-Garros since 1933; 54 winners"
+        },
+        {
+          "year": 2016,
+          "winner": "Garbiñe Muguruza",
+          "runnerUp": "Serena Williams",
+          "score": "7-5, 6-4",
+          "margin": "Maiden Grand Slam singles title"
+        },
+        {
+          "year": 2015,
+          "winner": "Serena Williams",
+          "runnerUp": "Lucie Šafářová",
+          "score": "6-3, 6-7(2), 6-2",
+          "margin": "3rd French Open title (20th major)"
+        },
+        {
+          "year": 2014,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Simona Halep",
+          "score": "6-4, 6-7(5), 6-4",
+          "margin": "Gripping 3h 2m battle"
+        },
+        {
+          "year": 2013,
+          "winner": "Serena Williams",
+          "runnerUp": "Maria Sharapova",
+          "score": "6-4, 6-4",
+          "margin": "Won French Open 11 years after her first in 2002"
+        },
+        {
+          "year": 2012,
+          "winner": "Maria Sharapova",
+          "runnerUp": "Sara Errani",
+          "score": "6-3, 6-2",
+          "margin": "Completed career Grand Slam"
+        },
+        {
+          "year": 2011,
+          "winner": "Li Na",
+          "runnerUp": "Francesca Schiavone",
+          "score": "6-4, 7-6(0)",
+          "margin": "First Asian tennis player to win a Grand Slam singles title"
+        },
+        {
+          "year": 2010,
+          "winner": "Francesca Schiavone",
+          "runnerUp": "Samantha Stosur",
+          "score": "6-4, 7-6(2)",
+          "margin": "First Italian woman to win a Grand Slam singles title"
+        },
+        {
+          "year": 2009,
+          "winner": "Svetlana Kuznetsova",
+          "runnerUp": "Dinara Safina",
+          "score": "6-4, 6-2",
+          "margin": "All-Russian final"
+        },
+        {
+          "year": 2008,
+          "winner": "Ana Ivanovic",
+          "runnerUp": "Dinara Safina",
+          "score": "6-4, 6-3",
+          "margin": "Maiden Grand Slam title and became World No. 1"
+        },
+        {
+          "year": 2007,
+          "winner": "Justine Henin",
+          "runnerUp": "Ana Ivanovic",
+          "score": "6-1, 6-2",
+          "margin": "3rd consecutive French Open title without dropping a set"
+        },
+        {
+          "year": 2006,
+          "winner": "Justine Henin",
+          "runnerUp": "Svetlana Kuznetsova",
+          "score": "6-4, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 2005,
+          "winner": "Justine Henin",
+          "runnerUp": "Mary Pierce",
+          "score": "6-1, 6-1",
+          "margin": "Concluded in only 62 minutes"
+        },
+        {
+          "year": 2004,
+          "winner": "Anastasia Myskina",
+          "runnerUp": "Elena Dementieva",
+          "score": "6-1, 6-2",
+          "margin": "First Russian woman to win a Grand Slam singles title"
+        },
+        {
+          "year": 2003,
+          "winner": "Justine Henin",
+          "runnerUp": "Kim Clijsters",
+          "score": "6-0, 6-4",
+          "margin": "First all-Belgian Grand Slam final"
+        },
+        {
+          "year": 2002,
+          "winner": "Serena Williams",
+          "runnerUp": "Venus Williams",
+          "score": "7-5, 6-3",
+          "margin": "First of four consecutive major finals between sisters"
+        },
+        {
+          "year": 2001,
+          "winner": "Jennifer Capriati",
+          "runnerUp": "Kim Clijsters",
+          "score": "1-6, 6-4, 12-10",
+          "margin": "Longest third set in French Open women's final history"
+        },
+        {
+          "year": 2000,
+          "winner": "Mary Pierce",
+          "runnerUp": "Conchita Martínez",
+          "score": "6-2, 7-5",
+          "margin": "First French woman to win Roland-Garros since Francoise Durr in 1967"
+        },
+        {
+          "year": 1999,
+          "winner": "Steffi Graf",
+          "runnerUp": "Martina Hingis",
+          "score": "4-6, 7-5, 6-2",
+          "margin": "Graf's 22nd and final Grand Slam singles title"
+        },
+        {
+          "year": 1998,
+          "winner": "Arantxa Sánchez Vicario",
+          "runnerUp": "Monica Seles",
+          "score": "7-6(5), 0-6, 6-2",
+          "margin": "3rd French Open title"
+        },
+        {
+          "year": 1997,
+          "winner": "Iva Majoli",
+          "runnerUp": "Martina Hingis",
+          "score": "6-4, 6-2",
+          "margin": "Snapped Hingis's 37-match winning streak"
+        },
+        {
+          "year": 1996,
+          "winner": "Steffi Graf",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "6-3, 6-7(4), 10-8",
+          "margin": "3h 4m marathon final"
+        },
+        {
+          "year": 1995,
+          "winner": "Steffi Graf",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "7-5, 4-6, 6-0",
+          "margin": ""
+        },
+        {
+          "year": 1994,
+          "winner": "Arantxa Sánchez Vicario",
+          "runnerUp": "Mary Pierce",
+          "score": "6-4, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1993,
+          "winner": "Steffi Graf",
+          "runnerUp": "Mary Joe Fernández",
+          "score": "4-6, 6-2, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Monica Seles",
+          "runnerUp": "Steffi Graf",
+          "score": "6-2, 3-6, 10-8",
+          "margin": "Classic 3-set clay court battle"
+        },
+        {
+          "year": 1991,
+          "winner": "Monica Seles",
+          "runnerUp": "Arantxa Sánchez Vicario",
+          "score": "6-3, 6-4",
+          "margin": ""
+        },
+        {
+          "year": 1990,
+          "winner": "Monica Seles",
+          "runnerUp": "Steffi Graf",
+          "score": "7-6(6), 6-4",
+          "margin": "Youngest French Open champion in history at age 16y, 6m"
+        },
+        {
+          "year": 1989,
+          "winner": "Arantxa Sánchez Vicario",
+          "runnerUp": "Steffi Graf",
+          "score": "7-6(6), 3-6, 7-5",
+          "margin": "17-year-old Sánchez Vicario ended Graf's Grand Slam run"
+        },
+        {
+          "year": 1988,
+          "winner": "Steffi Graf",
+          "runnerUp": "Natasha Zvereva",
+          "score": "6-0, 6-0",
+          "margin": "'Double bagel' in just 32 minutes (part of 1988 Golden Slam)"
+        }
+      ]
+    }
+  ]
+}

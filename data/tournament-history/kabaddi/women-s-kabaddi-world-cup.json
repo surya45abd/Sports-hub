@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kabaddi",
+  "tournament": "Women's Kabaddi World Cup",
+  "source": {
+    "url": "https://www.kabaddi.org/",
+    "label": "International Kabaddi Federation"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Women's Kabaddi World Cup history.",
+  "records": [
+    {
+      "year": 2016,
+      "winner": "India",
+      "runnerUp": "Iran",
+      "score": "25-19",
+      "margin": "Patna, India; Abhilasha Mhatre & Mamatha Poojary led India"
+    },
+    {
+      "year": 2014,
+      "winner": "India",
+      "runnerUp": "New Zealand",
+      "score": "36-27",
+      "margin": "Punjab, India"
+    },
+    {
+      "year": 2013,
+      "winner": "India",
+      "runnerUp": "New Zealand",
+      "score": "49-21",
+      "margin": "Punjab, India"
+    },
+    {
+      "year": 2012,
+      "winner": "India",
+      "runnerUp": "Iran",
+      "score": "25-19",
+      "margin": "Inaugural Women's World Cup (Patna)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kho-kho",
+  "tournament": "Ultimate Kho Kho Season 2",
+  "source": {
+    "url": "https://ultimatekhokho.com/news-details?id=2024",
+    "label": "Ultimate Kho Kho Official Season 2 Report"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Official verified match result of the Ultimate Kho Kho Season 2 Grand Final.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Gujarat Giants",
+      "runnerUp": "Chennai Quick Guns",
+      "score": "31-26",
+      "margin": "Jawaharlal Nehru Indoor Stadium (Cuttack); Sanket Kadam scored crucial defensive dream runs as Gujarat were crowned Season 2 champions"
+    }
+  ]
+}

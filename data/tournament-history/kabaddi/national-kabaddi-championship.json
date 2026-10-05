@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sport": "Kabaddi",
+  "tournament": "National Kabaddi Championship",
+  "source": {
+    "url": "https://www.akfi.in/",
+    "label": "Amateur Kabaddi Federation of India"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Senior National Kabaddi Championship finals.",
+  "records": [
+    {
+      "year": 2024,
+      "winner": "Indian Railways",
+      "runnerUp": "Haryana",
+      "score": "38-21",
+      "margin": "70th Senior Nationals (Ahmednagar); Naveen Kumar and Sunil Kumar starred"
+    },
+    {
+      "year": 2023,
+      "winner": "Indian Railways",
+      "runnerUp": "Maharashtra",
+      "score": "38-23",
+      "margin": "69th Senior Nationals (Charkhi Dadri)"
+    },
+    {
+      "year": 2022,
+      "winner": "Indian Railways",
+      "runnerUp": "Services",
+      "score": "44-23",
+      "margin": "68th Senior Nationals (Ayodhya)"
+    },
+    {
+      "year": 2020,
+      "winner": "Indian Railways",
+      "runnerUp": "Services",
+      "score": "29-27",
+      "margin": "67th Senior Nationals (Jaipur); Pawan Sehrawat final raid winner"
+    }
+  ]
+}

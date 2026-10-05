@@ -1,0 +1,1365 @@
+{
+  "schemaVersion": 1,
+  "sport": "Baseball",
+  "tournament": "MLB All-Star Game",
+  "source": {
+    "url": "https://www.mlb.com/all-star/history",
+    "label": "Official MLB All-Star Game history"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": "1933",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "1934",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-7",
+      "margin": ""
+    },
+    {
+      "year": "1935",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "1936",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "1937",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "8-3",
+      "margin": ""
+    },
+    {
+      "year": "1938",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "1939",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1940",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": "1941",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": "1942",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1943",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1944",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": "1946",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "12-0",
+      "margin": ""
+    },
+    {
+      "year": "1947",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": "1948",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": "1949",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "11-7",
+      "margin": ""
+    },
+    {
+      "year": "1950",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-3 (14)",
+      "margin": ""
+    },
+    {
+      "year": "1951",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "8-3",
+      "margin": ""
+    },
+    {
+      "year": "1952",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-2 (5)",
+      "margin": ""
+    },
+    {
+      "year": "1953",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": "1954",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "11-9",
+      "margin": ""
+    },
+    {
+      "year": "1955",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-5 (12)",
+      "margin": ""
+    },
+    {
+      "year": "1956",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-3",
+      "margin": ""
+    },
+    {
+      "year": "1957",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": "1958",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "1959",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": "1959 Game 2",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1960",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1960 Game 2",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-0",
+      "margin": ""
+    },
+    {
+      "year": "1961",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1961 Game 2",
+      "winner": "Tie",
+      "runnerUp": "Tie",
+      "score": "1-1",
+      "margin": ""
+    },
+    {
+      "year": "1962",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1962 Game 2",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": "1963",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1964",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-4",
+      "margin": ""
+    },
+    {
+      "year": "1965",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": "1966",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "2-1 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1967",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "2-1 (15)",
+      "margin": ""
+    },
+    {
+      "year": "1968",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": "1969",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": "1970",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4 (12)",
+      "margin": ""
+    },
+    {
+      "year": "1971",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-4",
+      "margin": ""
+    },
+    {
+      "year": "1972",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-3 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1973",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": "1974",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": "1975",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": "1976",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": "1977",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": "1978",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-3",
+      "margin": ""
+    },
+    {
+      "year": "1979",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": "1980",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "1981",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": "1982",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "1983",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "13-3",
+      "margin": ""
+    },
+    {
+      "year": "1984",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1985",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": "1986",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "1987",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "2-0 (13)",
+      "margin": ""
+    },
+    {
+      "year": "1988",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": "1989",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1990",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-0",
+      "margin": ""
+    },
+    {
+      "year": "1991",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "1992",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "13-6",
+      "margin": ""
+    },
+    {
+      "year": "1993",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": "1994",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "8-7 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1995",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "1996",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-0",
+      "margin": ""
+    },
+    {
+      "year": "1997",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1998",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "13-8",
+      "margin": ""
+    },
+    {
+      "year": "1999",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "2000",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": "2001",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "2002",
+      "winner": "Tie",
+      "runnerUp": "Tie",
+      "score": "7-7 (11)",
+      "margin": ""
+    },
+    {
+      "year": "2003",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": "2004",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": "2005",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": "2006",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "2007",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": "2008",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3 (15)",
+      "margin": ""
+    },
+    {
+      "year": "2009",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "2010",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "2011",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": "2012",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": "2013",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": "2014",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "2015",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": "2016",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "2017",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-1 (10)",
+      "margin": ""
+    },
+    {
+      "year": "2018",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "8-6 (10)",
+      "margin": ""
+    },
+    {
+      "year": "2019",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "2021",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": "2022",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "2023",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "2024",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "2025",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": "2026",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-0",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": "1933",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "1934",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-7",
+      "margin": ""
+    },
+    {
+      "year": "1935",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "1936",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "1937",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "8-3",
+      "margin": ""
+    },
+    {
+      "year": "1938",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "1939",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1940",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-0",
+      "margin": ""
+    },
+    {
+      "year": "1941",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": "1942",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1943",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1944",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": "1946",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "12-0",
+      "margin": ""
+    },
+    {
+      "year": "1947",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": "1948",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": "1949",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "11-7",
+      "margin": ""
+    },
+    {
+      "year": "1950",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-3 (14)",
+      "margin": ""
+    },
+    {
+      "year": "1951",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "8-3",
+      "margin": ""
+    },
+    {
+      "year": "1952",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-2 (5)",
+      "margin": ""
+    },
+    {
+      "year": "1953",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": "1954",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "11-9",
+      "margin": ""
+    },
+    {
+      "year": "1955",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-5 (12)",
+      "margin": ""
+    },
+    {
+      "year": "1956",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-3",
+      "margin": ""
+    },
+    {
+      "year": "1957",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": "1958",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "1959",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": "1959 Game 2",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1960",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1960 Game 2",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-0",
+      "margin": ""
+    },
+    {
+      "year": "1961",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1961 Game 2",
+      "winner": "Tie",
+      "runnerUp": "Tie",
+      "score": "1-1",
+      "margin": ""
+    },
+    {
+      "year": "1962",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1962 Game 2",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": "1963",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1964",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-4",
+      "margin": ""
+    },
+    {
+      "year": "1965",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": "1966",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "2-1 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1967",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "2-1 (15)",
+      "margin": ""
+    },
+    {
+      "year": "1968",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": "1969",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": "1970",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4 (12)",
+      "margin": ""
+    },
+    {
+      "year": "1971",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-4",
+      "margin": ""
+    },
+    {
+      "year": "1972",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-3 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1973",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": "1974",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-2",
+      "margin": ""
+    },
+    {
+      "year": "1975",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": "1976",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": "1977",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": "1978",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-3",
+      "margin": ""
+    },
+    {
+      "year": "1979",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": "1980",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "1981",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": "1982",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "1983",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "13-3",
+      "margin": ""
+    },
+    {
+      "year": "1984",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1985",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": "1986",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "1987",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "2-0 (13)",
+      "margin": ""
+    },
+    {
+      "year": "1988",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": "1989",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "1990",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-0",
+      "margin": ""
+    },
+    {
+      "year": "1991",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "1992",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "13-6",
+      "margin": ""
+    },
+    {
+      "year": "1993",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": "1994",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "8-7 (10)",
+      "margin": ""
+    },
+    {
+      "year": "1995",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "1996",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "6-0",
+      "margin": ""
+    },
+    {
+      "year": "1997",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "1998",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "13-8",
+      "margin": ""
+    },
+    {
+      "year": "1999",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "2000",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": "2001",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": "2002",
+      "winner": "Tie",
+      "runnerUp": "Tie",
+      "score": "7-7 (11)",
+      "margin": ""
+    },
+    {
+      "year": "2003",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": "2004",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": "2005",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": "2006",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "2007",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-4",
+      "margin": ""
+    },
+    {
+      "year": "2008",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3 (15)",
+      "margin": ""
+    },
+    {
+      "year": "2009",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "2010",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": "2011",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": "2012",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": "2013",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": "2014",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "2015",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": "2016",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": "2017",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "2-1 (10)",
+      "margin": ""
+    },
+    {
+      "year": "2018",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "8-6 (10)",
+      "margin": ""
+    },
+    {
+      "year": "2019",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": "2021",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": "2022",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "2023",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": "2024",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": "2025",
+      "winner": "National League",
+      "runnerUp": "American League",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": "2026",
+      "winner": "American League",
+      "runnerUp": "National League",
+      "score": "4-0",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_All-Star_Games",
+      "label": "Historical game list cross-check"
+    }
+  ],
+  "reviewNotes": "Complete list of 96 games played from 1933 through 2026. Years with two games (1959?1962) are recorded separately. Games were not played in 1945 or 2020; the 1961 Game 2 and 2002 games ended in ties."
+}

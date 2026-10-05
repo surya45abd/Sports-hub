@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "sport": "Basketball",
+  "tournament": "WNBA",
+  "source": {
+    "url": "https://www.wnba.com/all-time-wnba-champions",
+    "label": "Official All-Time WNBA Champions table"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 1997,
+      "winner": "Houston Comets",
+      "runnerUp": "New York Liberty",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Houston Comets",
+      "runnerUp": "Phoenix Mercury",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Houston Comets",
+      "runnerUp": "New York Liberty",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Houston Comets",
+      "runnerUp": "New York Liberty",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Los Angeles Sparks",
+      "runnerUp": "Charlotte Sting",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Los Angeles Sparks",
+      "runnerUp": "New York Liberty",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Detroit Shock",
+      "runnerUp": "Los Angeles Sparks",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Seattle Storm",
+      "runnerUp": "Connecticut Sun",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Sacramento Monarchs",
+      "runnerUp": "Connecticut Sun",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Detroit Shock",
+      "runnerUp": "Sacramento Monarchs",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Phoenix Mercury",
+      "runnerUp": "Detroit Shock",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Detroit Shock",
+      "runnerUp": "San Antonio Silver Stars",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "Phoenix Mercury",
+      "runnerUp": "Indiana Fever",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "Seattle Storm",
+      "runnerUp": "Atlanta Dream",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "Minnesota Lynx",
+      "runnerUp": "Atlanta Dream",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Indiana Fever",
+      "runnerUp": "Minnesota Lynx",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "Minnesota Lynx",
+      "runnerUp": "Atlanta Dream",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Phoenix Mercury",
+      "runnerUp": "Chicago Sky",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Minnesota Lynx",
+      "runnerUp": "Indiana Fever",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Los Angeles Sparks",
+      "runnerUp": "Minnesota Lynx",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Minnesota Lynx",
+      "runnerUp": "Los Angeles Sparks",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Seattle Storm",
+      "runnerUp": "Washington Mystics",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Washington Mystics",
+      "runnerUp": "Connecticut Sun",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Seattle Storm",
+      "runnerUp": "Las Vegas Aces",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Chicago Sky",
+      "runnerUp": "Phoenix Mercury",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Las Vegas Aces",
+      "runnerUp": "Connecticut Sun",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "Las Vegas Aces",
+      "runnerUp": "New York Liberty",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "New York Liberty",
+      "runnerUp": "Minnesota Lynx",
+      "score": "",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "Las Vegas Aces",
+      "runnerUp": "Phoenix Mercury",
+      "score": "",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 2025,
+      "winner": "Las Vegas Aces",
+      "runnerUp": "Phoenix Mercury",
+      "score": "3-0 series",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://www.wnba.com/history",
+      "label": "Official WNBA history hub"
+    }
+  ],
+  "reviewNotes": "Full WNBA Finals champion and runner-up table reviewed for all completed seasons from 1997 through 2025. The official history page does not list series scores, so score fields are left blank."
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "sport": "Badminton",
+  "tournament": "Olympic Badminton",
+  "source": {
+    "url": "https://olympics.com/en/sports/badminton",
+    "label": "Official Olympic Badminton Archive"
+  },
+  "verificationStatus": "verified",
+  "historyCoverage": "Complete Olympic Singles archives for both Men's and Women's competitions from Barcelona 1992 to Paris 2024.",
+  "records": [],
+  "sections": [
+    {
+      "title": "Men's singles",
+      "archiveUrl": "https://olympics.com/en/sports/badminton",
+      "archiveLabel": "Men's singles archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "Viktor Axelsen (Denmark)",
+          "runnerUp": "Kunlavut Vitidsarn (Thailand)",
+          "score": "21-11, 21-11",
+          "margin": "Defended Olympic singles title"
+        },
+        {
+          "year": 2020,
+          "winner": "Viktor Axelsen (Denmark)",
+          "runnerUp": "Chen Long (China)",
+          "score": "21-15, 21-12",
+          "margin": ""
+        },
+        {
+          "year": 2016,
+          "winner": "Chen Long (China)",
+          "runnerUp": "Lee Chong Wei (Malaysia)",
+          "score": "21-18, 21-18",
+          "margin": ""
+        },
+        {
+          "year": 2012,
+          "winner": "Lin Dan (China)",
+          "runnerUp": "Lee Chong Wei (Malaysia)",
+          "score": "15-21, 21-10, 21-19",
+          "margin": "Epic 3-game decider in London"
+        },
+        {
+          "year": 2008,
+          "winner": "Lin Dan (China)",
+          "runnerUp": "Lee Chong Wei (Malaysia)",
+          "score": "21-12, 21-8",
+          "margin": "Masterclass on home court in Beijing"
+        },
+        {
+          "year": 2004,
+          "winner": "Taufik Hidayat (Indonesia)",
+          "runnerUp": "Shon Seung-mo (South Korea)",
+          "score": "15-8, 15-7",
+          "margin": ""
+        },
+        {
+          "year": 2000,
+          "winner": "Ji Xinpeng (China)",
+          "runnerUp": "Hendrawan (Indonesia)",
+          "score": "15-4, 15-13",
+          "margin": ""
+        },
+        {
+          "year": 1996,
+          "winner": "Poul-Erik Høyer Larsen (Denmark)",
+          "runnerUp": "Dong Jiong (China)",
+          "score": "15-12, 15-10",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Alan Budikusuma (Indonesia)",
+          "runnerUp": "Ardy Wiranata (Indonesia)",
+          "score": "15-12, 18-13",
+          "margin": "Inaugural Olympic badminton tournament in Barcelona"
+        }
+      ]
+    },
+    {
+      "title": "Women's singles",
+      "archiveUrl": "https://olympics.com/en/sports/badminton",
+      "archiveLabel": "Women's singles archive",
+      "records": [
+        {
+          "year": 2024,
+          "winner": "An Se-young (South Korea)",
+          "runnerUp": "He Bingjiao (China)",
+          "score": "21-13, 21-16",
+          "margin": "First Korean women's singles gold since 1996"
+        },
+        {
+          "year": 2020,
+          "winner": "Chen Yufei (China)",
+          "runnerUp": "Tai Tzu-ying (Taiwan)",
+          "score": "21-18, 19-21, 21-18",
+          "margin": "Thriller 3-game final in Tokyo"
+        },
+        {
+          "year": 2016,
+          "winner": "Carolina Marín (Spain)",
+          "runnerUp": "P. V. Sindhu (India)",
+          "score": "19-21, 21-12, 21-15",
+          "margin": "First European woman to win Olympic singles Gold"
+        },
+        {
+          "year": 2012,
+          "winner": "Li Xuerui (China)",
+          "runnerUp": "Wang Yihan (China)",
+          "score": "21-15, 21-23, 21-17",
+          "margin": "All-China final at Wembley Arena"
+        },
+        {
+          "year": 2008,
+          "winner": "Zhang Ning (China)",
+          "runnerUp": "Xie Xingfang (China)",
+          "score": "21-12, 10-21, 21-18",
+          "margin": "Defended Olympic title at age 33"
+        },
+        {
+          "year": 2004,
+          "winner": "Zhang Ning (China)",
+          "runnerUp": "Mia Audina (Netherlands)",
+          "score": "8-11, 11-6, 11-7",
+          "margin": ""
+        },
+        {
+          "year": 2000,
+          "winner": "Gong Zhichao (China)",
+          "runnerUp": "Camilla Martin (Denmark)",
+          "score": "13-10, 11-3",
+          "margin": ""
+        },
+        {
+          "year": 1996,
+          "winner": "Bang Soo-hyun (South Korea)",
+          "runnerUp": "Mia Audina (Indonesia)",
+          "score": "11-6, 11-7",
+          "margin": ""
+        },
+        {
+          "year": 1992,
+          "winner": "Susi Susanti (Indonesia)",
+          "runnerUp": "Bang Soo-hyun (South Korea)",
+          "score": "5-11, 11-5, 11-4",
+          "margin": "Indonesia's first-ever Olympic Gold medal"
+        }
+      ]
+    }
+  ]
+}

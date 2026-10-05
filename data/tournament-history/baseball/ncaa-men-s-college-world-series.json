@@ -1,0 +1,1141 @@
+{
+  "schemaVersion": 1,
+  "sport": "Baseball",
+  "tournament": "NCAA Men's College World Series",
+  "source": {
+    "url": "https://www.ncaa.com/history/baseball/d1",
+    "label": "Official NCAA Division I baseball championship history"
+  },
+  "verificationStatus": "verified",
+  "records": [
+    {
+      "year": 2026,
+      "winner": "Oklahoma",
+      "runnerUp": "North Carolina",
+      "score": "13-2",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "LSU",
+      "runnerUp": "Coastal Carolina",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Tennessee",
+      "runnerUp": "Texas A&M",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "LSU",
+      "runnerUp": "Florida",
+      "score": "18-4",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Ole Miss",
+      "runnerUp": "Oklahoma",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Mississippi State",
+      "runnerUp": "Vanderbilt",
+      "score": "9-0",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Canceled due to Covid-19",
+      "runnerUp": "Not held",
+      "score": "Canceled",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Vanderbilt",
+      "runnerUp": "Michigan",
+      "score": "8-2",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Oregon State",
+      "runnerUp": "Arkansas",
+      "score": "5-0",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Florida",
+      "runnerUp": "LSU",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Coastal Carolina",
+      "runnerUp": "Arizona",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Virginia",
+      "runnerUp": "Vanderbilt",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Vanderbilt",
+      "runnerUp": "Virginia",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "UCLA",
+      "runnerUp": "Mississippi State",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Arizona",
+      "runnerUp": "South Carolina",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "South Carolina",
+      "runnerUp": "Florida",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "South Carolina",
+      "runnerUp": "UCLA",
+      "score": "2-1 (11 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "LSU",
+      "runnerUp": "Texas",
+      "score": "11-4",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Fresno State",
+      "runnerUp": "Georgia",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Oregon State",
+      "runnerUp": "North Carolina",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Oregon State",
+      "runnerUp": "North Carolina",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Texas",
+      "runnerUp": "Florida",
+      "score": "6-2",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Texas",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Rice",
+      "runnerUp": "Stanford",
+      "score": "14-2",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Texas",
+      "runnerUp": "South Carolina",
+      "score": "12-6",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Stanford",
+      "score": "12-1",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "LSU",
+      "runnerUp": "Stanford",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Florida State",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "21-14",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "LSU",
+      "runnerUp": "Alabama",
+      "score": "13-6",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "LSU",
+      "runnerUp": "Miami (Fla.)",
+      "score": "9-8",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Southern California",
+      "score": "11-5",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Oklahoma",
+      "runnerUp": "Georgia Tech",
+      "score": "13-5",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "LSU",
+      "runnerUp": "Wichita State",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Pepperdine",
+      "runnerUp": "Cal St. Fullerton",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "LSU",
+      "runnerUp": "Wichita State",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Georgia",
+      "runnerUp": "Oklahoma State",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Wichita State",
+      "runnerUp": "Texas",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Stanford",
+      "runnerUp": "Arizona State",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Stanford",
+      "runnerUp": "Oklahoma State",
+      "score": "9-5",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Arizona",
+      "runnerUp": "Florida State",
+      "score": "10-2",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Texas",
+      "score": "10-6",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Texas",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Texas",
+      "runnerUp": "Alabama",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Wichita State",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Arizona State",
+      "runnerUp": "Oklahoma State",
+      "score": "7-4",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Arizona",
+      "runnerUp": "Hawaii",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Arkansas",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "10-3",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Arizona State",
+      "runnerUp": "South Carolina",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Arizona",
+      "runnerUp": "Eastern Michigan",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Texas",
+      "runnerUp": "South Carolina",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Southern California",
+      "runnerUp": "Miami (Fla.)",
+      "score": "7-3",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Southern California",
+      "runnerUp": "Southern Illinois",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Southern California",
+      "runnerUp": "Florida State",
+      "score": "2-1 (15 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Arizona State",
+      "runnerUp": "Tulsa",
+      "score": "10-1",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Southern California",
+      "runnerUp": "Southern Illinois",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Arizona State",
+      "runnerUp": "Houston",
+      "score": "11-0",
+      "margin": ""
+    },
+    {
+      "year": 1966,
+      "winner": "Ohio State",
+      "runnerUp": "Oklahoma State",
+      "score": "8-2",
+      "margin": ""
+    },
+    {
+      "year": 1965,
+      "winner": "Arizona State",
+      "runnerUp": "Ohio State",
+      "score": "2-0",
+      "margin": ""
+    },
+    {
+      "year": 1964,
+      "winner": "Minnesota",
+      "runnerUp": "Missouri",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": 1963,
+      "winner": "Southern California",
+      "runnerUp": "Arizona",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 1962,
+      "winner": "Michigan",
+      "runnerUp": "Santa Clara",
+      "score": "5-4 (15 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1961,
+      "winner": "Southern California",
+      "runnerUp": "Oklahoma State",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 1960,
+      "winner": "Minnesota",
+      "runnerUp": "Southern California",
+      "score": "2-1 (10 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1959,
+      "winner": "Oklahoma State",
+      "runnerUp": "Arizona",
+      "score": "5-0",
+      "margin": ""
+    },
+    {
+      "year": 1958,
+      "winner": "Southern California",
+      "runnerUp": "Missouri",
+      "score": "8-7 (12 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1957,
+      "winner": "California",
+      "runnerUp": "Penn State",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 1956,
+      "winner": "Minnesota",
+      "runnerUp": "Arizona",
+      "score": "12-1",
+      "margin": ""
+    },
+    {
+      "year": 1955,
+      "winner": "Wake Forest",
+      "runnerUp": "Western Michigan",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": 1954,
+      "winner": "Missouri",
+      "runnerUp": "Rollins",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1953,
+      "winner": "Michigan",
+      "runnerUp": "Texas",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": 1952,
+      "winner": "Holy Cross",
+      "runnerUp": "Missouri",
+      "score": "8-4",
+      "margin": ""
+    },
+    {
+      "year": 1951,
+      "winner": "Oklahoma",
+      "runnerUp": "Tennessee",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 1950,
+      "winner": "Texas",
+      "runnerUp": "Washington State",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 1949,
+      "winner": "Texas",
+      "runnerUp": "Wake Forest",
+      "score": "10-3",
+      "margin": ""
+    },
+    {
+      "year": 1948,
+      "winner": "Southern California",
+      "runnerUp": "Yale",
+      "score": "9-2",
+      "margin": ""
+    },
+    {
+      "year": 1947,
+      "winner": "California",
+      "runnerUp": "Yale",
+      "score": "8-7",
+      "margin": ""
+    }
+  ],
+  "candidateRecords": [
+    {
+      "year": 2026,
+      "winner": "Oklahoma",
+      "runnerUp": "North Carolina",
+      "score": "13-2",
+      "margin": ""
+    },
+    {
+      "year": 2025,
+      "winner": "LSU",
+      "runnerUp": "Coastal Carolina",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 2024,
+      "winner": "Tennessee",
+      "runnerUp": "Texas A&M",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 2023,
+      "winner": "LSU",
+      "runnerUp": "Florida",
+      "score": "18-4",
+      "margin": ""
+    },
+    {
+      "year": 2022,
+      "winner": "Ole Miss",
+      "runnerUp": "Oklahoma",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2021,
+      "winner": "Mississippi State",
+      "runnerUp": "Vanderbilt",
+      "score": "9-0",
+      "margin": ""
+    },
+    {
+      "year": 2020,
+      "winner": "Canceled due to Covid-19",
+      "runnerUp": "Not held",
+      "score": "Canceled",
+      "margin": ""
+    },
+    {
+      "year": 2019,
+      "winner": "Vanderbilt",
+      "runnerUp": "Michigan",
+      "score": "8-2",
+      "margin": ""
+    },
+    {
+      "year": 2018,
+      "winner": "Oregon State",
+      "runnerUp": "Arkansas",
+      "score": "5-0",
+      "margin": ""
+    },
+    {
+      "year": 2017,
+      "winner": "Florida",
+      "runnerUp": "LSU",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": 2016,
+      "winner": "Coastal Carolina",
+      "runnerUp": "Arizona",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 2015,
+      "winner": "Virginia",
+      "runnerUp": "Vanderbilt",
+      "score": "4-2",
+      "margin": ""
+    },
+    {
+      "year": 2014,
+      "winner": "Vanderbilt",
+      "runnerUp": "Virginia",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2013,
+      "winner": "UCLA",
+      "runnerUp": "Mississippi State",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 2012,
+      "winner": "Arizona",
+      "runnerUp": "South Carolina",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 2011,
+      "winner": "South Carolina",
+      "runnerUp": "Florida",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 2010,
+      "winner": "South Carolina",
+      "runnerUp": "UCLA",
+      "score": "2-1 (11 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 2009,
+      "winner": "LSU",
+      "runnerUp": "Texas",
+      "score": "11-4",
+      "margin": ""
+    },
+    {
+      "year": 2008,
+      "winner": "Fresno State",
+      "runnerUp": "Georgia",
+      "score": "6-1",
+      "margin": ""
+    },
+    {
+      "year": 2007,
+      "winner": "Oregon State",
+      "runnerUp": "North Carolina",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": 2006,
+      "winner": "Oregon State",
+      "runnerUp": "North Carolina",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2005,
+      "winner": "Texas",
+      "runnerUp": "Florida",
+      "score": "6-2",
+      "margin": ""
+    },
+    {
+      "year": 2004,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Texas",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 2003,
+      "winner": "Rice",
+      "runnerUp": "Stanford",
+      "score": "14-2",
+      "margin": ""
+    },
+    {
+      "year": 2002,
+      "winner": "Texas",
+      "runnerUp": "South Carolina",
+      "score": "12-6",
+      "margin": ""
+    },
+    {
+      "year": 2001,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Stanford",
+      "score": "12-1",
+      "margin": ""
+    },
+    {
+      "year": 2000,
+      "winner": "LSU",
+      "runnerUp": "Stanford",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 1999,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Florida State",
+      "score": "6-5",
+      "margin": ""
+    },
+    {
+      "year": 1998,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "21-14",
+      "margin": ""
+    },
+    {
+      "year": 1997,
+      "winner": "LSU",
+      "runnerUp": "Alabama",
+      "score": "13-6",
+      "margin": ""
+    },
+    {
+      "year": 1996,
+      "winner": "LSU",
+      "runnerUp": "Miami (Fla.)",
+      "score": "9-8",
+      "margin": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Southern California",
+      "score": "11-5",
+      "margin": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Oklahoma",
+      "runnerUp": "Georgia Tech",
+      "score": "13-5",
+      "margin": ""
+    },
+    {
+      "year": 1993,
+      "winner": "LSU",
+      "runnerUp": "Wichita State",
+      "score": "8-0",
+      "margin": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Pepperdine",
+      "runnerUp": "Cal St. Fullerton",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 1991,
+      "winner": "LSU",
+      "runnerUp": "Wichita State",
+      "score": "6-3",
+      "margin": ""
+    },
+    {
+      "year": 1990,
+      "winner": "Georgia",
+      "runnerUp": "Oklahoma State",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Wichita State",
+      "runnerUp": "Texas",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Stanford",
+      "runnerUp": "Arizona State",
+      "score": "9-4",
+      "margin": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Stanford",
+      "runnerUp": "Oklahoma State",
+      "score": "9-5",
+      "margin": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Arizona",
+      "runnerUp": "Florida State",
+      "score": "10-2",
+      "margin": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Texas",
+      "score": "10-6",
+      "margin": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Texas",
+      "score": "3-1",
+      "margin": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Texas",
+      "runnerUp": "Alabama",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Miami (Fla.)",
+      "runnerUp": "Wichita State",
+      "score": "9-3",
+      "margin": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Arizona State",
+      "runnerUp": "Oklahoma State",
+      "score": "7-4",
+      "margin": ""
+    },
+    {
+      "year": 1980,
+      "winner": "Arizona",
+      "runnerUp": "Hawaii",
+      "score": "5-3",
+      "margin": ""
+    },
+    {
+      "year": 1979,
+      "winner": "Cal St. Fullerton",
+      "runnerUp": "Arkansas",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "10-3",
+      "margin": ""
+    },
+    {
+      "year": 1977,
+      "winner": "Arizona State",
+      "runnerUp": "South Carolina",
+      "score": "2-1",
+      "margin": ""
+    },
+    {
+      "year": 1976,
+      "winner": "Arizona",
+      "runnerUp": "Eastern Michigan",
+      "score": "7-1",
+      "margin": ""
+    },
+    {
+      "year": 1975,
+      "winner": "Texas",
+      "runnerUp": "South Carolina",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": 1974,
+      "winner": "Southern California",
+      "runnerUp": "Miami (Fla.)",
+      "score": "7-3",
+      "margin": ""
+    },
+    {
+      "year": 1973,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1972,
+      "winner": "Southern California",
+      "runnerUp": "Arizona State",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 1971,
+      "winner": "Southern California",
+      "runnerUp": "Southern Illinois",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 1970,
+      "winner": "Southern California",
+      "runnerUp": "Florida State",
+      "score": "2-1 (15 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1969,
+      "winner": "Arizona State",
+      "runnerUp": "Tulsa",
+      "score": "10-1",
+      "margin": ""
+    },
+    {
+      "year": 1968,
+      "winner": "Southern California",
+      "runnerUp": "Southern Illinois",
+      "score": "4-3",
+      "margin": ""
+    },
+    {
+      "year": 1967,
+      "winner": "Arizona State",
+      "runnerUp": "Houston",
+      "score": "11-0",
+      "margin": ""
+    },
+    {
+      "year": 1966,
+      "winner": "Ohio State",
+      "runnerUp": "Oklahoma State",
+      "score": "8-2",
+      "margin": ""
+    },
+    {
+      "year": 1965,
+      "winner": "Arizona State",
+      "runnerUp": "Ohio State",
+      "score": "2-0",
+      "margin": ""
+    },
+    {
+      "year": 1964,
+      "winner": "Minnesota",
+      "runnerUp": "Missouri",
+      "score": "5-1",
+      "margin": ""
+    },
+    {
+      "year": 1963,
+      "winner": "Southern California",
+      "runnerUp": "Arizona",
+      "score": "5-2",
+      "margin": ""
+    },
+    {
+      "year": 1962,
+      "winner": "Michigan",
+      "runnerUp": "Santa Clara",
+      "score": "5-4 (15 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1961,
+      "winner": "Southern California",
+      "runnerUp": "Oklahoma State",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 1960,
+      "winner": "Minnesota",
+      "runnerUp": "Southern California",
+      "score": "2-1 (10 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1959,
+      "winner": "Oklahoma State",
+      "runnerUp": "Arizona",
+      "score": "5-0",
+      "margin": ""
+    },
+    {
+      "year": 1958,
+      "winner": "Southern California",
+      "runnerUp": "Missouri",
+      "score": "8-7 (12 inn.)",
+      "margin": ""
+    },
+    {
+      "year": 1957,
+      "winner": "California",
+      "runnerUp": "Penn State",
+      "score": "1-0",
+      "margin": ""
+    },
+    {
+      "year": 1956,
+      "winner": "Minnesota",
+      "runnerUp": "Arizona",
+      "score": "12-1",
+      "margin": ""
+    },
+    {
+      "year": 1955,
+      "winner": "Wake Forest",
+      "runnerUp": "Western Michigan",
+      "score": "7-6",
+      "margin": ""
+    },
+    {
+      "year": 1954,
+      "winner": "Missouri",
+      "runnerUp": "Rollins",
+      "score": "4-1",
+      "margin": ""
+    },
+    {
+      "year": 1953,
+      "winner": "Michigan",
+      "runnerUp": "Texas",
+      "score": "7-5",
+      "margin": ""
+    },
+    {
+      "year": 1952,
+      "winner": "Holy Cross",
+      "runnerUp": "Missouri",
+      "score": "8-4",
+      "margin": ""
+    },
+    {
+      "year": 1951,
+      "winner": "Oklahoma",
+      "runnerUp": "Tennessee",
+      "score": "3-2",
+      "margin": ""
+    },
+    {
+      "year": 1950,
+      "winner": "Texas",
+      "runnerUp": "Washington State",
+      "score": "3-0",
+      "margin": ""
+    },
+    {
+      "year": 1949,
+      "winner": "Texas",
+      "runnerUp": "Wake Forest",
+      "score": "10-3",
+      "margin": ""
+    },
+    {
+      "year": 1948,
+      "winner": "Southern California",
+      "runnerUp": "Yale",
+      "score": "9-2",
+      "margin": ""
+    },
+    {
+      "year": 1947,
+      "winner": "California",
+      "runnerUp": "Yale",
+      "score": "8-7",
+      "margin": ""
+    }
+  ],
+  "verificationSources": [
+    {
+      "url": "https://www.ncaa.com/news/baseball/article/2026-06-22/oklahoma-wins-2026-ncaa-di-baseball-championship",
+      "label": "Official 2026 championship report"
+    }
+  ],
+  "reviewNotes": "Complete championship history from the first NCAA Division I College World Series in 1947 through 2026. The 2020 tournament was canceled and is recorded as such."
+}
