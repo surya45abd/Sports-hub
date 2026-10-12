@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+server/.env
+
+# Local Database & Cache
+server/data/mongodb/
+*.wt
+*.lock
+storage.bson
+diagnostic.data/
+
+# Production build outputs
+dist/
+dist-ssr/
+build/
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

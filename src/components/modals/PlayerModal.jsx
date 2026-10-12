@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import BookmarkButton from "../common/BookmarkButton";
 
 export default function PlayerModal({ isOpen, onClose, player }) {
   useEffect(() => {
@@ -38,14 +39,25 @@ export default function PlayerModal({ isOpen, onClose, player }) {
             </h2>
             <p className="text-sm font-semibold text-brand-red mt-0.5">{player.role}</p>
           </div>
-          <button
-            type="button"
-            onClick={onClose}
-            className="w-9 h-9 rounded-full border border-line flex items-center justify-center text-muted hover:text-ink hover:border-ink hover:bg-surface transition-colors text-xl font-medium"
-            aria-label="Close modal"
-          >
-            ×
-          </button>
+          <div className="flex items-center gap-2">
+            <BookmarkButton
+              itemType="player"
+              itemId={player.name}
+              title={player.name}
+              sport={player.role || "Athlete"}
+              description={`${player.country} · ${player.era} · ${player.role}`}
+              showLabel={false}
+              size="md"
+            />
+            <button
+              type="button"
+              onClick={onClose}
+              className="w-9 h-9 rounded-full border border-line flex items-center justify-center text-muted hover:text-ink hover:border-ink hover:bg-surface transition-colors text-xl font-medium"
+              aria-label="Close modal"
+            >
+              ×
+            </button>
+          </div>
         </div>
 
         {/* Content */}

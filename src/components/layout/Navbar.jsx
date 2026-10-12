@@ -1,13 +1,17 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { sports, sportSlug, SPORT_ICONS } from "../../data/sports";
+import { useAuth } from "../../context/AuthContext";
 
 export default function Navbar() {
   const location = useLocation();
   const navigate = useNavigate();
+  const { user, bookmarks, openAuthModal, openBookmarksModal, logout } = useAuth();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [sportsDropdownOpen, setSportsDropdownOpen] = useState(false);
+  const [userMenuOpen, setUserMenuOpen] = useState(false);
   const dropdownRef = useRef(null);
+  const userMenuRef = useRef(null);
 
   const isActive = (path) => {
     if (path === "/" && (location.pathname === "/" || location.pathname === "")) return true;
@@ -21,6 +25,9 @@ export default function Navbar() {
       if (dropdownRef.current && !dropdownRef.current.contains(e.target)) {
         setSportsDropdownOpen(false);
       }
+      if (userMenuRef.current && !userMenuRef.current.contains(e.target)) {
+        setUserMenuOpen(false);
+      }
     };
     document.addEventListener("mousedown", handleClickOutside);
     return () => document.removeEventListener("mousedown", handleClickOutside);
@@ -30,6 +37,7 @@ export default function Navbar() {
   useEffect(() => {
     setMobileMenuOpen(false);
     setSportsDropdownOpen(false);
+    setUserMenuOpen(false);
   }, [location.pathname]);
 
   return (
@@ -137,7 +145,7 @@ export default function Navbar() {
         </nav>
 
         {/* Header Right Action & Search Trigger */}
-        <div className="hidden sm:flex items-center gap-3">
+        <div className="hidden sm:flex items-center gap-2.5">
           <button
             type="button"
             onClick={() => {
@@ -155,6 +163,94 @@ export default function Navbar() {
               /
             </kbd>
           </button>
+
+          {/* Bookmarks Quick Trigger */}
+          <button
+            type="button"
+            onClick={openBookmarksModal}
+            className="text-xs uppercase tracking-wider font-semibold font-display text-ink hover:text-brand-red px-3 py-1.5 border border-line bg-surface-tint rounded-lg transition-colors flex items-center gap-1.5 hover:border-ink"
+            title="Open saved bookmarks"
+          >
+            <span>⭐</span>
+            <span>Saved</span>
+            {bookmarks.length > 0 && (
+              <span className="px-1.5 py-0.2 rounded-full bg-ink text-paper text-[10px] font-mono font-bold">
+                {bookmarks.length}
+              </span>
+            )}
+          </button>
+
+          {/* User Account / Sign In Trigger */}
+          {user ? (
+            <div className="relative" ref={userMenuRef}>
+              <button
+                type="button"
+                onClick={() => setUserMenuOpen(!userMenuOpen)}
+                className="flex items-center gap-2 pl-2 pr-3 py-1 rounded-full border border-line bg-paper hover:bg-surface-tint transition-all shadow-xs"
+              >
+                <img
+                  src={user.avatar || `https://api.dicebear.com/7.x/bottts/svg?seed=${encodeURIComponent(user.username)}`}
+                  alt={user.username}
+                  className="w-7 h-7 rounded-full bg-ink/10 border border-line object-cover"
+                />
+                <span className="text-xs font-display font-bold text-ink max-w-[90px] truncate">
+                  {user.username}
+                </span>
+                <span className="text-[10px] text-muted">▾</span>
+              </button>
+
+              {userMenuOpen && (
+                <div className="absolute top-full right-0 mt-2 w-56 bg-paper border border-line rounded-2xl shadow-modal p-2 animate-in fade-in zoom-in-95 duration-150 z-50">
+                  <div className="px-3 py-2 border-b border-line mb-1">
+                    <span className="block text-xs font-display font-bold text-ink truncate">
+                      {user.username}
+                    </span>
+                    <span className="block text-[10px] font-mono text-muted truncate">
+                      {user.email}
+                    </span>
+                    <span className="inline-block mt-1 text-[9px] uppercase font-mono font-bold px-1.5 py-0.5 rounded bg-acid text-ink">
+                      🏅 {user.favoriteSport || "Sports Fan"}
+                    </span>
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setUserMenuOpen(false);
+                      openBookmarksModal();
+                    }}
+                    className="w-full text-left px-3 py-2 rounded-lg text-xs font-display font-bold text-ink hover:bg-surface-tint transition-colors flex items-center justify-between"
+                  >
+                    <span>⭐ My Saved Items</span>
+                    <span className="text-[10px] font-mono px-1.5 py-0.5 rounded bg-ink/5">
+                      {bookmarks.length}
+                    </span>
+                  </button>
+
+                  <div className="border-t border-line my-1" />
+
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setUserMenuOpen(false);
+                      logout();
+                    }}
+                    className="w-full text-left px-3 py-2 rounded-lg text-xs font-display font-bold text-red-600 hover:bg-red-500/10 transition-colors flex items-center gap-2"
+                  >
+                    <span>🚪 Sign Out</span>
+                  </button>
+                </div>
+              )}
+            </div>
+          ) : (
+            <button
+              type="button"
+              onClick={() => openAuthModal("login")}
+              className="text-xs font-display uppercase tracking-wider font-bold bg-ink text-paper px-3.5 py-1.5 rounded-lg hover:bg-brand-red transition-all shadow-xs flex items-center gap-1.5"
+            >
+              <span>Sign In</span>
+            </button>
+          )}
         </div>
 
         {/* Mobile menu toggle button */}
@@ -177,7 +273,58 @@ export default function Navbar() {
       {/* Mobile Drawer */}
       {mobileMenuOpen && (
         <div className="md:hidden border-b border-line bg-paper px-4 pt-2 pb-5 space-y-3">
+          {/* User Status Bar */}
+          <div className="p-3 rounded-xl bg-surface-tint border border-line flex items-center justify-between">
+            {user ? (
+              <div className="flex items-center gap-2">
+                <img
+                  src={user.avatar || `https://api.dicebear.com/7.x/bottts/svg?seed=${encodeURIComponent(user.username)}`}
+                  alt={user.username}
+                  className="w-7 h-7 rounded-full bg-ink/10"
+                />
+                <span className="text-xs font-display font-bold text-ink">{user.username}</span>
+              </div>
+            ) : (
+              <span className="text-xs text-muted">Guest Explorer</span>
+            )}
+
+            {user ? (
+              <button
+                type="button"
+                onClick={logout}
+                className="text-xs font-display font-bold text-red-600 hover:underline"
+              >
+                Sign Out
+              </button>
+            ) : (
+              <button
+                type="button"
+                onClick={() => {
+                  setMobileMenuOpen(false);
+                  openAuthModal("login");
+                }}
+                className="text-xs font-display font-bold text-brand-red hover:underline"
+              >
+                Sign In / Join →
+              </button>
+            )}
+          </div>
+
           <div className="space-y-1">
+            <button
+              type="button"
+              onClick={() => {
+                setMobileMenuOpen(false);
+                openBookmarksModal();
+              }}
+              className="w-full text-left px-3 py-2 rounded-lg text-sm font-display uppercase tracking-wider font-bold text-ink hover:bg-surface-tint flex items-center justify-between"
+            >
+              <span>⭐ Saved Bookmarks</span>
+              <span className="text-xs font-mono font-bold bg-ink text-paper px-2 py-0.5 rounded-full">
+                {bookmarks.length}
+              </span>
+            </button>
+
             <Link
               to="/"
               onClick={() => setMobileMenuOpen(false)}

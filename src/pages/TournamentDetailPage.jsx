@@ -7,6 +7,7 @@ import { getTournamentHistory } from "../data/tournamentHistory";
 import { SIDELINE_TOURNAMENT_IMAGES } from "../data/tournamentImages";
 import SafeImage from "../components/common/SafeImage";
 import PlayerModal from "../components/modals/PlayerModal";
+import BookmarkButton from "../components/common/BookmarkButton";
 
 export default function TournamentDetailPage() {
   const { sportSlug: paramSSlug, tournamentSlug: paramTSlug } = useParams();
@@ -172,9 +173,23 @@ export default function TournamentDetailPage() {
           )}
         </div>
 
-        <h1 className="text-4xl sm:text-6xl font-display font-extrabold text-ink uppercase tracking-tight leading-[0.92]">
-          {tournamentName}
-        </h1>
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <h1 className="text-4xl sm:text-6xl font-display font-extrabold text-ink uppercase tracking-tight leading-[0.92]">
+            {tournamentName}
+          </h1>
+          <div className="shrink-0">
+            <BookmarkButton
+              itemType="tournament"
+              itemId={tournamentName}
+              title={tournamentName}
+              sport={sport.name}
+              description={metadata.format || metadata.frequency || ""}
+              url={`/tournaments/${sportSlug(sport)}/${tSlug}`}
+              showLabel={true}
+              size="lg"
+            />
+          </div>
+        </div>
 
         {metadata.format && (
           <p className="text-muted text-base max-w-3xl leading-relaxed">

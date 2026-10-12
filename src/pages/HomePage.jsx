@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef, useMemo } from "react";
 import { Link } from "react-router-dom";
 import { sports, sportSlug, SPORT_ICONS, SPORT_CATEGORIES } from "../data/sports";
 import SafeImage from "../components/common/SafeImage";
+import BookmarkButton from "../components/common/BookmarkButton";
 
 // Ticker news items
 const TICKER_ITEMS = [
@@ -279,9 +280,20 @@ export default function HomePage() {
                     </span>
                   </div>
 
-                  <span className="px-2 py-0.5 rounded bg-paper/20 backdrop-blur-md text-paper text-[10px] uppercase font-display tracking-wider font-semibold border border-paper/10">
-                    {category}
-                  </span>
+                  <div className="flex items-center gap-1.5">
+                    <span className="px-2 py-0.5 rounded bg-paper/20 backdrop-blur-md text-paper text-[10px] uppercase font-display tracking-wider font-semibold border border-paper/10">
+                      {category}
+                    </span>
+                    <BookmarkButton
+                      itemType="sport"
+                      itemId={sport.name}
+                      title={sport.name}
+                      sport={sport.name}
+                      description={sport.summary}
+                      url={`/tournaments/${slug}`}
+                      size="sm"
+                    />
+                  </div>
                 </div>
 
                 {/* Card Bottom: Sport Name, Tournaments Count & Summary */}

@@ -7,6 +7,7 @@ import { getTournamentImage } from "../data/tournamentImages";
 import SafeImage from "../components/common/SafeImage";
 import ResultsModal from "../components/modals/ResultsModal";
 import PlayerModal from "../components/modals/PlayerModal";
+import BookmarkButton from "../components/common/BookmarkButton";
 
 export default function SportHubPage() {
   const { sportSlug: paramSlug } = useParams();
@@ -157,9 +158,23 @@ export default function SportHubPage() {
               </span>
             </div>
 
-            <h1 className="text-4xl sm:text-6xl font-display font-extrabold text-ink uppercase tracking-tight leading-[0.9]">
-              {currentSport.name}
-            </h1>
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+              <h1 className="text-4xl sm:text-6xl font-display font-extrabold text-ink uppercase tracking-tight leading-[0.9]">
+                {currentSport.name}
+              </h1>
+              <div className="shrink-0">
+                <BookmarkButton
+                  itemType="sport"
+                  itemId={currentSport.name}
+                  title={currentSport.name}
+                  sport={currentSport.name}
+                  description={currentSport.summary}
+                  url={`/tournaments/${activeSlug}`}
+                  showLabel={true}
+                  size="md"
+                />
+              </div>
+            </div>
 
             <p className="text-muted text-base max-w-xl leading-relaxed">
               {currentSport.summary}
@@ -356,15 +371,26 @@ export default function SportHubPage() {
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/40 to-transparent" />
                       
-                      <div className="absolute top-3 left-3 right-3 flex items-center justify-between gap-2">
+                      <div className="absolute top-3 left-3 right-3 flex items-center justify-between gap-2 z-10">
                         <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-ink/75 backdrop-blur-md border border-paper/10 text-paper">
                           {t.founded ? `Est. ${t.founded}` : "Sanctioned"}
                         </span>
-                        {Array.isArray(t.categories) && t.categories[0] && (
-                          <span className="text-[10px] font-display uppercase tracking-wider font-bold text-paper bg-brand-red/90 px-2 py-0.5 rounded">
-                            {t.categories[0]}
-                          </span>
-                        )}
+                        <div className="flex items-center gap-1.5">
+                          {Array.isArray(t.categories) && t.categories[0] && (
+                            <span className="text-[10px] font-display uppercase tracking-wider font-bold text-paper bg-brand-red/90 px-2 py-0.5 rounded">
+                              {t.categories[0]}
+                            </span>
+                          )}
+                          <BookmarkButton
+                            itemType="tournament"
+                            itemId={t.name}
+                            title={t.name}
+                            sport={currentSport.name}
+                            description={t.format || ""}
+                            url={`/tournaments/${activeSlug}/${t.slug}`}
+                            size="sm"
+                          />
+                        </div>
                       </div>
 
                       <div className="absolute bottom-2.5 left-3 right-3">
@@ -492,6 +518,15 @@ export default function SportHubPage() {
                           >
                             Profile
                           </Link>
+                          <BookmarkButton
+                            itemType="tournament"
+                            itemId={t.name}
+                            title={t.name}
+                            sport={currentSport.name}
+                            description={t.format || ""}
+                            url={`/tournaments/${activeSlug}/${t.slug}`}
+                            size="sm"
+                          />
                         </div>
                       </td>
                     </tr>

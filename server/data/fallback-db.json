@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "_id": "fb_user_1791648560666_83uy9",
+      "username": "alex_tester",
+      "email": "alex@sideline.dev",
+      "password": "$2b$10$OobaA9MJ7cmAfq3BcK6K4.K7AQ6o5qhpy6G9E2CZEtmFsVhtTz6Qq",
+      "avatar": "",
+      "bio": "Sports enthusiast & statistics explorer.",
+      "favoriteSport": "Football",
+      "createdAt": "2026-10-10T16:09:20.666Z",
+      "updatedAt": "2026-10-10T16:09:20.667Z"
+    },
+    {
+      "_id": "fb_user_1791649229564_jvpl2",
+      "username": "sportsguru",
+      "email": "guru@sideline.dev",
+      "password": "$2b$10$6vyNFinzB/ycpf8QcsLt8O5JTlEuylBCjFXOxUlKMvUTI8KGPpf16",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sportsguru",
+      "bio": "Sports enthusiast & statistics explorer.",
+      "favoriteSport": "Cricket",
+      "createdAt": "2026-10-10T16:20:29.564Z",
+      "updatedAt": "2026-10-10T16:20:29.564Z"
+    },
+    {
+      "_id": "fb_user_1791649324118_7yhb7",
+      "username": "alex_tester_1791649324015",
+      "email": "alex_1791649324015@sideline.dev",
+      "password": "$2b$10$lWY9VRbkE9w8mD6SuYfJCetFfVScCNbG9nc0IDx8wCqtc27tVVCfK",
+      "avatar": "",
+      "bio": "Sports enthusiast & statistics explorer.",
+      "favoriteSport": "Football",
+      "createdAt": "2026-10-10T16:22:04.118Z",
+      "updatedAt": "2026-10-10T16:22:04.119Z"
+    },
+    {
+      "_id": "fb_user_1791649490803_zwbkm",
+      "username": "mr.360",
+      "email": "sureshmylapalli45360@gmail.com",
+      "password": "$2b$10$PVqtdqDwjTQ3mt4EjPqzSeQur/410JbbwYCisjZOqmIVVUO31WnRq",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mr.360",
+      "bio": "Sports enthusiast & statistics explorer.",
+      "favoriteSport": "Cricket",
+      "createdAt": "2026-10-10T16:24:50.803Z",
+      "updatedAt": "2026-10-10T16:24:50.803Z"
+    }
+  ],
+  "bookmarks": [
+    {
+      "_id": "fb_bm_1791649538798_he2nj",
+      "user": "fb_user_1791649490803_zwbkm",
+      "itemType": "sport",
+      "itemId": "Cricket",
+      "title": "Cricket",
+      "sport": "Cricket",
+      "description": "Follow the formats, rivalries and match-day moments shaping the cricket calendar.",
+      "image": "",
+      "url": "/tournaments/cricket",
+      "metadata": {},
+      "createdAt": "2026-10-10T16:25:38.798Z"
+    }
+  ]
+}
